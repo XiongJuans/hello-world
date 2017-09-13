@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="action">Send</string>
+    <string name="notification_esim_title">download wecaht</string>
+    <string name="notification_esim_msg">http://www.caihcom.com/m/htcdownload</string>
+    <string name="download_link">"http://www.caihcom.com/m/htcdownload"</string>
 </resources>
