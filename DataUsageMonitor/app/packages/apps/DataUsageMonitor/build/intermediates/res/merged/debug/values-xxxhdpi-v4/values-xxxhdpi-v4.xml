@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="blankline_width">4px</dimen>
+    <dimen name="circleviewblankline">60px</dimen>
+</resources>

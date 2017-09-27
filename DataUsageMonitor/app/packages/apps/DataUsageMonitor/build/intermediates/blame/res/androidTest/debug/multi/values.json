@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/home/xiongjuan/.android/build-cache/04f68d52cb8e191a4f52adab3cc85d4dae95d7ef/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

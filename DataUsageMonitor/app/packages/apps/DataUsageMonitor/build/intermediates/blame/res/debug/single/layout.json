@@ -1,0 +1,286 @@
+[
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/activity_data_setting.xml",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/layout/activity_data_setting.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/xiongjuan/.android/build-cache/80d819add2b71da564bd7e2469d6f232bc3aa30d/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/xiongjuan/.android/build-cache/80d819add2b71da564bd7e2469d6f232bc3aa30d/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/xiongjuan/.android/build-cache/80d819add2b71da564bd7e2469d6f232bc3aa30d/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/data_reminder_fragment.xml",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/layout/data_reminder_fragment.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/disable_preference_layout.xml",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/layout/disable_preference_layout.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/custom_toolbar.xml",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/layout/custom_toolbar.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/fragment_used_data_change.xml",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/layout/fragment_used_data_change.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/warning_dialog_fragment.xml",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/layout/warning_dialog_fragment.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/xiongjuan/.android/build-cache/80d819add2b71da564bd7e2469d6f232bc3aa30d/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/xiongjuan/.android/build-cache/80d819add2b71da564bd7e2469d6f232bc3aa30d/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/permisson_dialog.xml",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/layout/permisson_dialog.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/home_activity.xml",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/layout/home_activity.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/main_bottom_half.xml",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/layout/main_bottom_half.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/xiongjuan/.android/build-cache/80d819add2b71da564bd7e2469d6f232bc3aa30d/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/xiongjuan/.android/build-cache/80d819add2b71da564bd7e2469d6f232bc3aa30d/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/alertdialog_title.xml",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/layout/alertdialog_title.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/progress_view_layout.xml",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/layout/progress_view_layout.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/my_preference_layout.xml",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/layout/my_preference_layout.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/dialog_operator.xml",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/layout/dialog_operator.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/xiongjuan/.android/build-cache/80d819add2b71da564bd7e2469d6f232bc3aa30d/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/xiongjuan/.android/build-cache/80d819add2b71da564bd7e2469d6f232bc3aa30d/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/fragment_sim_pager.xml",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/layout/fragment_sim_pager.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/separator_layout.xml",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/layout/separator_layout.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/number_picker_layout.xml",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/layout/number_picker_layout.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/single_sim_home_fragment.xml",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/layout/single_sim_home_fragment.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/modify_monthly_used_traffic.xml",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/layout/modify_monthly_used_traffic.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/xiongjuan/.android/build-cache/80d819add2b71da564bd7e2469d6f232bc3aa30d/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/float_window.xml",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/layout/float_window.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/fragment_view_pager_with_tab.xml",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/layout/fragment_view_pager_with_tab.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/xiongjuan/.android/build-cache/80d819add2b71da564bd7e2469d6f232bc3aa30d/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/xiongjuan/.android/build-cache/80d819add2b71da564bd7e2469d6f232bc3aa30d/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/set_operator_fragment.xml",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/layout/set_operator_fragment.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/sub_activity.xml",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/layout/sub_activity.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/layout/abc_list_menu_item_icon.xml"
+    }
+]

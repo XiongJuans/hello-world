@@ -1,0 +1,229 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:2:1-108:12
+	package
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:4:5-39
+		INJECTED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml
+		INJECTED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml
+	android:sharedUserId
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:5:5-46
+	android:versionName
+		INJECTED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml
+		INJECTED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:3:1-47
+	xmlns:android
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml
+		INJECTED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:9:22-72
+uses-permission#android.permission.INTERNET
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.UPDATE_APP_OPS_STATS
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.PACKAGE_USAGE_STATS
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:13:5-15:47
+	tools:ignore
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:15:9-44
+	android:name
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:14:9-62
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:18:5-78
+	android:name
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:18:22-75
+uses-permission#com.htc.securitycenter.permission.START_REDIRECTOR
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:21:5-90
+	android:name
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:21:22-87
+uses-permission#android.permission.SEND_SMS
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:25:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:26:5-70
+	android:name
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:26:22-67
+uses-permission#android.permission.READ_SMS
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:27:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:30:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:31:5-76
+	android:name
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:31:22-73
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:33:22-78
+application
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:35:5-106:19
+MERGED from [DataUsageMonitor.............hdk.htc.lib0:Customization:unspecified] /home/xiongjuan/code/DataUsageMonitor/hdk/htc/lib0/Customization/build/intermediates/bundles/default/AndroidManifest.xml:9:5-10:19
+MERGED from [com.android.support:design:23.4.0] /home/xiongjuan/.android/build-cache/80d819add2b71da564bd7e2469d6f232bc3aa30d/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/xiongjuan/.android/build-cache/042d005416919dfb576cb065779e2bd7db5f4d6e/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/xiongjuan/.android/build-cache/279febe216fa77e1fd24e7d245a96a77fd8cc4d3/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /home/xiongjuan/.android/build-cache/34c71282e8c8ae6979d12d509142d08259709943/output/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:39:9-41
+	android:supportsRtl
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:40:9-35
+	android:allowBackup
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:37:9-35
+	android:icon
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:38:9-45
+	android:theme
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:41:9-40
+	android:name
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:36:9-39
+activity#com.htc.datausagemonitor.HomeActivity
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:42:9-52:20
+	android:screenOrientation
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:45:13-49
+	android:label
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:44:13-45
+	android:launchMode
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:46:13-44
+	android:theme
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:47:13-56
+	android:name
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:43:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:48:13-51:29
+action#android.intent.action.MAIN
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:49:17-69
+	android:name
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:49:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:50:17-77
+	android:name
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:50:27-74
+activity#com.htc.datausagemonitor.SubActivity
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:53:9-56:52
+	android:screenOrientation
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:56:13-49
+	android:label
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:55:13-40
+	android:name
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:54:13-40
+activity#com.htc.datausagemonitor.DataSettingActivity
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:57:9-59:52
+	android:screenOrientation
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:59:13-49
+	android:name
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:58:13-48
+service#com.htc.datausagemonitor.HTCSecureService
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:62:9-53
+	android:name
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:62:18-50
+receiver#com.htc.datausagemonitor.HTCTMSBootReceiver
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:66:9-70:20
+	android:name
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:66:19-53
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:67:13-69:29
+	android:priority
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:67:28-57
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:68:17-79
+	android:name
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:68:25-76
+receiver#com.htc.datausagemonitor.LanguageReceiver
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:72:9-78:20
+	android:enabled
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:74:13-35
+	android:name
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:73:13-45
+intent-filter#android.intent.action.LOCALE_CHANGED
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:75:13-77:29
+action#android.intent.action.LOCALE_CHANGED
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:76:17-79
+	android:name
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:76:25-76
+service#com.htc.datausagemonitor.DataMonitorService
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:80:9-83:40
+	android:enabled
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:82:13-35
+	android:exported
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:83:13-37
+	android:name
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:81:13-47
+service#com.htc.datausagemonitor.floatwindow.FloatWindowService
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:84:9-86:39
+	android:enabled
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:85:13-35
+	android:exported
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:86:13-37
+	android:name
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:84:18-64
+receiver#com.htc.datausagemonitor.BootCompleteReceiver
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:88:9-105:20
+	android:enabled
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:90:13-35
+	android:exported
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:91:13-36
+	android:name
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:89:13-49
+intent-filter#android.intent.action.ACTION_DEFAULT_DATA_SUBSCRIPTION_CHANGED+android.intent.action.BOOT_COMPLETED+android.intent.action.SIM_STATE_CHANGED+android.intent.category.LAUNCHER+com.htc.intent.action.ESIM_STATE_CHANGED
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:93:13-99:29
+	android:priority
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:93:28-57
+action#android.intent.action.ACTION_DEFAULT_DATA_SUBSCRIPTION_CHANGED
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:95:17-105
+	android:name
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:95:25-102
+action#android.intent.action.SIM_STATE_CHANGED
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:96:17-81
+	android:name
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:96:25-79
+action#com.htc.intent.action.ESIM_STATE_CHANGED
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:97:25-80
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:100:13-104:29
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:101:17-79
+	android:name
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:101:25-77
+action#android.intent.action.PACKAGE_ADDED
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:102:17-77
+	android:name
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:102:25-75
+data
+ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:103:17-50
+	android:scheme
+		ADDED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml:103:23-47
+uses-sdk
+INJECTED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [DataUsageMonitor.............hdk.htc.lib0:Customization:unspecified] /home/xiongjuan/code/DataUsageMonitor/hdk/htc/lib0/Customization/build/intermediates/bundles/default/AndroidManifest.xml:7:5-47
+MERGED from [com.android.support:design:23.4.0] /home/xiongjuan/.android/build-cache/80d819add2b71da564bd7e2469d6f232bc3aa30d/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /home/xiongjuan/.android/build-cache/01c1125cf75ffa6f5be8c57f22ccc970c336371e/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/xiongjuan/.android/build-cache/042d005416919dfb576cb065779e2bd7db5f4d6e/output/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/xiongjuan/.android/build-cache/279febe216fa77e1fd24e7d245a96a77fd8cc4d3/output/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /home/xiongjuan/.android/build-cache/34c71282e8c8ae6979d12d509142d08259709943/output/AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml
+		INJECTED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml
+		MERGED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml
+		INJECTED from /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/AndroidManifest.xml

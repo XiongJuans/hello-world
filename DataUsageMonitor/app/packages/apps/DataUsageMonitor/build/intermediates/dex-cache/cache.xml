@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/xiongjuan/code/DataUsageMonitor/hdk/htc/lib0/Customization/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="672e4bd2741ad7d60476ccbdb9eeda963961511f">
+        <dex dex="/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/pre-dexed/debug/classes_ffd8aca12b6de168afa4b3cb1bc84898b2add66b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/extjar/tms.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7c1578ebe886bfe1ac4cc2c89cc23a7bd9b51c77">
+        <dex dex="/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/pre-dexed/debug/tms_63dbf0089bcf896c0bc1e18d36de9a87a61ad54e.jar" />
+    </item>
+
+</items>

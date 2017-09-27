@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xhdpi-v4/values-xhdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/values-xhdpi/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 140,
+                        "endColumn": 45,
+                        "endOffset": 181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 50,
+                    "endOffset": 147
+                },
+                "from": {
+                    "file": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/values-xhdpi/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 50,
+                        "endOffset": 135
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/incremental/mergeDebugResources/merged.dir/values-400dpi-v4/values-400dpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/values-400dpi/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 140,
+                        "endColumn": 47,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 103,
+                    "endColumn": 50,
+                    "endOffset": 149
+                },
+                "from": {
+                    "file": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/values-400dpi/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 50,
+                        "endOffset": 135
+                    }
+                }
+            }
+        ]
+    }
+]

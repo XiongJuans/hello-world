@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="switch_data_monitor"
+        android:title="@string/switch_data_monitor_setting"
+        android:layout="@layout/my_preference_layout"
+        />
+    <SwitchPreference
+        android:key="switch_data_float"
+        android:title="@string/switch_data_float_setting"
+        android:layout="@layout/my_preference_layout"
+        />
+
+    <PreferenceCategory
+        android:key="main_name"
+        android:title="@string/sim_main_name"
+        android:layout="@layout/separator_layout"
+        >
+
+        <SwitchPreference
+            android:key="data_auto_check_main"
+            android:title="@string/switch_data_correct_title"
+            android:summary="@string/switch_data_correct_msg"
+            android:layout="@layout/my_preference_layout"/>
+        <Preference
+            android:key="change_monthly_usedData_main"
+            android:title="@string/used_data_change_title"
+            android:layout="@layout/my_preference_layout"
+            />
+        <Preference
+            android:key="data_reminder_main"
+            android:title="@string/used_reminder_title"
+            android:layout="@layout/my_preference_layout"/>
+        <Preference
+            android:key="data_package_main"
+            android:title="@string/data_package"
+            android:summary="@string/data_package_setting_msg"
+            android:layout="@layout/my_preference_layout"/>
+        <Preference
+            android:key="data_operator_main"
+            android:title="@string/set_city_operator"
+            android:summary="@string/no_settings"
+            android:layout="@layout/my_preference_layout"/>
+
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:key="sub_name"
+        android:title="@string/sim_sub_name"
+        android:layout="@layout/separator_layout">
+        <SwitchPreference
+            android:key="data_auto_check_sub"
+            android:title="@string/switch_data_correct_title"
+            android:summary="@string/switch_data_correct_msg"
+            android:layout="@layout/my_preference_layout"/>
+        <Preference
+            android:key="change_monthly_usedData_sub"
+            android:title="@string/used_data_change_title"
+            android:layout="@layout/my_preference_layout"/>
+        <Preference
+            android:key="data_reminder_sub"
+            android:title="@string/used_reminder_title"
+            android:layout="@layout/my_preference_layout"/>
+        <Preference
+            android:key="data_package_sub"
+            android:title="@string/data_package"
+            android:summary="@string/data_package_setting_msg"
+            android:layout="@layout/my_preference_layout"/>
+        <Preference
+            android:key="data_operator_sub"
+            android:title="@string/set_city_operator"
+            android:summary="@string/no_settings"
+            android:layout="@layout/my_preference_layout"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

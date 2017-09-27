@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/drawable-400dpi/icon_indicator_mobile_data_dark_s.png",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/drawable-400dpi/icon_indicator_mobile_data_dark_s.png"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/drawable-400dpi/common_div_footer.9.png",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/drawable-400dpi/common_div_footer.9.png"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/drawable-400dpi/icon_indicator_wifi_dark_s.png",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/drawable-400dpi/icon_indicator_wifi_dark_s.png"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/drawable-400dpi/safehome_icon_second_slot2.png",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/drawable-400dpi/safehome_icon_second_slot2.png"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/drawable-400dpi/common_inputfield_pressed.9.png",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/drawable-400dpi/common_inputfield_pressed.9.png"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/drawable-400dpi/common_inputfield_rest.9.png",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/drawable-400dpi/common_inputfield_rest.9.png"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/drawable-400dpi/icon_btn_optimize_dark.png",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/drawable-400dpi/icon_btn_optimize_dark.png"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/drawable-400dpi/icon_btn_previous_dark.png",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/drawable-400dpi/icon_btn_previous_dark.png"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/drawable-400dpi/safehome_icon_second_slot1.png",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/drawable-400dpi/safehome_icon_second_slot1.png"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/drawable-400dpi/esim_icon_notification.png",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/drawable-400dpi/esim_icon_notification.png"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/drawable-400dpi/icon_btn_settings_dark.png",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/drawable-400dpi/icon_btn_settings_dark.png"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/drawable-400dpi/common_app_bkg_down_light_src.9.png",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/drawable-400dpi/common_app_bkg_down_light_src.9.png"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/drawable-400dpi/common_panel_dark.9.png",
+        "source": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/res/drawable-400dpi/common_panel_dark.9.png"
+    }
+]

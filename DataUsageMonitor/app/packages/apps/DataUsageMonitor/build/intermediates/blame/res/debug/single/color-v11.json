@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/xiongjuan/.android/build-cache/f791a5854ae2a7b7c35b55170bedd97370ec029c/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

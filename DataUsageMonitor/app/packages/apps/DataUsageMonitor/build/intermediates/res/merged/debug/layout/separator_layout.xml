@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id = "@android:id/title"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/network_control_button_height"
+        android:background="@color/separator_color"
+        android:paddingLeft="@dimen/activity_vertical_margin"
+        android:gravity="bottom"
+        android:paddingBottom="@dimen/margin_m2"
+        android:textSize="@dimen/separator_textsize"
+        android:textColor="@color/light_main_text_color"
+        android:textStyle="bold"/>
+
+</LinearLayout>
