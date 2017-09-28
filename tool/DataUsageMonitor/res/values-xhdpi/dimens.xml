@@ -1,0 +1,6 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="circleviewblankline">30px</dimen>
+    <dimen name="blankline_width">2px</dimen>
+</resources>

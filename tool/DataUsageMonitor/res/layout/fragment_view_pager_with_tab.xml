@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/background_height"
+        android:background="@color/colorPrimary">
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </android.support.v4.view.ViewPager>
+
+<!--        <android.support.design.widget.TabLayout
+            android:id="@+id/tabs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|bottom"
+            android:layout_marginRight="@dimen/activity_vertical_margin"
+            android:layout_marginBottom="@dimen/sim_change_layout_bottom"
+            app:tabGravity="center"
+            app:tabMode="fixed"
+            app:tabIndicatorHeight="0dp"
+            app:tabPaddingStart="0dp"
+            app:tabPaddingEnd="0dp" />-->
+        <ImageView
+            android:id="@+id/sim_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|bottom"
+            android:layout_marginRight="@dimen/activity_vertical_margin"
+            android:layout_marginBottom="8dp"
+            />
+        <TextView
+            android:id="@+id/text_monitor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/Text_size_Monitor"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginBottom="@dimen/margin_xs"
+            android:layout_gravity="bottom"
+            android:gravity="bottom"
+            android:text="@string/data_monitor_on_summary"
+            android:textAlignment="gravity"
+            android:textColor="@android:color/white"/>
+    </FrameLayout>
+
+    <!--style="@style/TabLayout" /> -->
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ScrollView
+            android:id="@+id/scrollView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+        <fragment
+            android:name="com.htc.datausagemonitor.fragment.SettingBaseFragment"
+            android:id="@+id/setting_content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </fragment>
+        </ScrollView>
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="10dp"
+                android:layout_alignParentBottom="true"
+                android:textAlignment="center"
+                android:textColor="@color/darkgray"
+                android:text="@string/footer_tip_msg" />
+
+        </RelativeLayout>
+
+    </FrameLayout>
+
+</LinearLayout>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:layout_marginStart="@dimen/activity_vertical_margin"
+        android:layout_marginEnd="@dimen/activity_vertical_margin">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/Text_size"
+            android:text="@string/data_package_monthly"
+            android:textColor="@color/light_main_text_color"/>
+
+        <EditText
+            android:id="@+id/edit_package"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/edittext_selector"
+            android:backgroundTint="@color/selector_color_edittext"
+            android:ems="10"
+            android:maxLength="6"
+            android:textSize="@dimen/Text_size"
+            android:inputType="number"
+            android:textCursorDrawable="@null"/>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:layout_marginStart="@dimen/activity_vertical_margin"
+        android:layout_marginEnd="@dimen/activity_vertical_margin">
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="@dimen/Text_size"
+            android:text="@string/data_start_date"
+            android:textColor="@color/light_main_text_color"
+            android:layout_gravity="center_vertical" />
+
+        <Button
+            android:id="@+id/start_date"
+            android:layout_width="@dimen/time_button_width"
+            android:layout_height="@dimen/time_button_height"
+            android:background="@drawable/button_selector"
+            android:layout_gravity="center_vertical"
+            android:text="Button"
+            android:textSize="30dp"
+            android:textColor="@color/light_main_text_color"
+            android:stateListAnimator="@null"
+            android:textAlignment="center"
+            android:fontFamily="sans-serif-light"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/idle_package"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/network_control_button_height"
+        android:background="@color/separator_color"
+        android:text="@string/data_package_night"
+        android:gravity="bottom"
+        android:paddingBottom="@dimen/margin_m2"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_vertical_margin"
+        android:paddingEnd="@dimen/activity_vertical_margin"
+        android:textSize="@dimen/separator_textsize"
+        android:textColor="@color/light_main_text_color"
+        android:textStyle="bold"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:layout_marginStart="@dimen/activity_vertical_margin"
+        android:layout_marginEnd="@dimen/activity_vertical_margin"
+        >
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/Text_size"
+            android:text="@string/data_for_night"
+            android:textColor="@color/light_main_text_color"/>
+
+        <EditText
+            android:id="@+id/edit_idle_package"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:maxLength="6"
+            android:textSize="@dimen/Text_size"
+            android:background="@drawable/edittext_selector"
+            android:inputType="number"
+            android:backgroundTint="@color/selector_color_edittext"
+            android:textCursorDrawable="@null"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:layout_marginStart="@dimen/activity_vertical_margin"
+        android:layout_marginEnd="@dimen/activity_vertical_margin">
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="@dimen/Text_size"
+            android:text="@string/start_time"
+            android:textColor="@color/light_main_text_color"
+            android:layout_gravity="center_vertical"/>
+
+        <Button
+            android:id="@+id/start_time"
+            android:layout_width="@dimen/time_button_width"
+            android:layout_height="@dimen/time_button_height"
+            android:background="@drawable/button_selector"
+            android:text="Button"
+            android:textSize="30dp"
+            android:textColor="@color/light_main_text_color"
+            android:textAlignment="center"
+            android:stateListAnimator="@null"
+            android:fontFamily="sans-serif-light"
+            android:layout_gravity="center_vertical"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="@dimen/activity_horizontal_margin"
+        android:layout_marginStart="@dimen/activity_horizontal_margin"
+        android:layout_marginEnd="@dimen/activity_horizontal_margin">
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="@dimen/Text_size"
+            android:text="@string/end_time"
+            android:textColor="@color/light_main_text_color"
+            android:layout_gravity="center_vertical"/>
+
+        <Button
+            android:id="@+id/end_time"
+            android:layout_width="@dimen/time_button_width"
+            android:layout_height="@dimen/time_button_height"
+            android:background="@drawable/button_selector"
+            android:text="Button"
+            android:textSize="30dp"
+            android:textColor="@color/light_main_text_color"
+            android:textAlignment="center"
+            android:stateListAnimator="@null"
+            android:fontFamily="sans-serif-light"
+            android:layout_gravity="center_vertical"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/content"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+    </LinearLayout>
+    <TextView
+        android:id="@+id/next_step"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/Portraint_Fixed_Height_of_Footers"
+        android:background="@drawable/common_app_bkg_down_light_src"
+        android:gravity="center"
+        style="@style/footerPrmiary_m"
+        android:text="@string/next_step"
+        android:stateListAnimator="@null"/>
+
+
+</LinearLayout>

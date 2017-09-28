@@ -1,0 +1,2 @@
+include ':app'
+include ":..:..:..:..:hdk:htc:lib0:Customization"

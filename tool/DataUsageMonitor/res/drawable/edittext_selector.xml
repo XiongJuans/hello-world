@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_focused="true" android:drawable="@drawable/common_inputfield_pressed" />
+    <!--<item android:state_focused="false" android:drawable="@drawable/common_inputfield_rest" />-->
+    <item android:state_focused="false" android:drawable="@drawable/common_inputfield_rest"  />
+</selector>

@@ -1,0 +1,216 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- the module name-->
+    <string name="app_name">Data usage monitor</string>
+    
+    <!-- Network tips dialog box -->
+    <!-- Show network tips dialog box when Data usage monitor module is launched. If user tap Agree to enter the module, tap Cancel to exit. -->
+    <!-- dialog box content-->
+    <string name="prompt_dialog_msg">Data usage monitor needs to Send SMS, Receive SMS and Read SMS permissions to provide basic services.\nThe app needs the network to obtain the necessary data. Check with your local carrier to find out exact rates for data usage.\nThe app doesn\'t support eSIM or SIM cards of virtual carriers.\nDuring use, the app gathers and uses the below information for basic functions of Data usage monitor:\nTo gather IMEI and IMSI codes, the app needs "Read phone status and identity" permission. \nData usage correction service of the app is provided by Shenzhen Tencent Computer System Co., Ltd. In order to implement basic functions of the service, the provider needs to gather and use the below information:\nGather and use IMEI and IMSI via Data usage monitor for daily activated users Statistics and data usage correction. For more information, please read the Tencent privacy policy.</string>
+    <!-- button on dialog, tap to exit -->
+    <string name="prompt_dialog_cancel">Cancel</string>
+    <!-- button on dialog, tap to agree the terms and enter Data usage monitor -->
+    <string name="prompt_dialog_ok">Agree</string>
+    <!-- title for dialog -->
+    <string name="prompt_dialog_title">Terms of service</string>
+    <!-- show the text with checkbox. The “privacy policy" is hyperlink. Tap "privacy policy" to view privacy policy text via browser. -->
+    <string name="network_tips_privacy">Tap Agree if you agree to the above terms of service, the HTC End User License Agreement and Disclaimer for products with Navigation Function and the HTC privacy policy</string>
+
+    <!-- HTC impletments the features using Tencent SDK. Need to do brand exposure -->
+    <string name="footer_tip_msg">Powered by Tencent</string> 
+    
+    <!-- the list items on main page -->
+    <!-- Network control. Tap to launch Network control module of HTC mobile assistant -->
+    <string name="network_control">Network control</string>
+    <!-- the group name, recent data usage-->
+    <string name="used_data_near_day">Recent data usage</string>
+    <!-- Toady data usage -->
+    <string name="used_data_today">Today</string>
+    <!-- Yesterday data usage -->
+    <string name="used_data_yesterday">Yesterday</string>
+    <!-- The day before yesterday data usage -->
+    <string name="used_data_before_yesterday">The day before yesterday</string>
+
+    <!-- Label on main page -->
+    <!-- Label for this month used data traffic -->
+    <string name="data_used_1">Used</string>
+    <!-- Label for this month surplus data traffic -->
+    <string name="data_residue_1">Remaining</string>
+    <!-- normal. There are 2 scenes: normal and idle -->
+    <string name="data_common_used">General</string>
+    <!-- idle. There are 2 scenes: normal and idle -->
+    <string name="night_data_title">Night idle</string>
+    <!-- Exhausted -->
+    <string name="data_usage_null">Limit reached</string>
+    <!-- use up -->
+    <string name="data_over_1">Over limit</string>
+    <!-- Not set -->
+    <string name="no_settings">Not set</string>
+
+    <!-- Correction wizard. There are 2 page in the wizard. -->
+    <!-- title for Correction wizard -->
+    <string name="correction_wizard">Correction wizard</string>
+    <!--page 1 -->
+    <!-- lable for monthly data package, user input value, unit is MB -->
+    <string name="data_package_monthly">Monthly data usage limit (MB)</string>
+    <!-- billing start date for data package -->
+    <string name="data_start_date">Usage reset date</string>
+    <!-- group label for night idle package -->
+    <string name="data_package_night">Night idle</string>
+    <!-- lable for night idle package, user input value unit is MB -->
+    <string name="data_for_night">Night idle limit (MB)</string>
+    <!-- The period for using night idle package, start time -->
+    <string name="start_time">Start time</string>
+    <!-- The period for using night idle package, end time -->
+    <string name="end_time">End time</string>
+    <!-- button on page 1, tap to next page -->
+    <string name="next_step">Next</string>
+    <!-- page 2 -->
+    <!-- SIM card registration -->
+    <string name="set_Provinces_City">Province and city</string>
+    <!-- Carrier of SIM card -->
+    <string name="set_carry">Carrier</string>
+    <!-- explain why to set registration and carrier.  -->
+    <string name="city_carry_summary">Enable accurate data usage correction after right configuration. (Need send free text message to carrier)</string>
+    <!-- button on page 2, tap to previous page -->
+    <string name="back_step">Prev</string>
+    <!-- button on page 2, tap to finish and save -->
+    <string name="save">Finish</string>
+
+    <!-- Settings -->
+    <!-- Data usage monitor settings -->
+    <string name="data_monitor_settings">Data usage settings</string>
+    <!-- list item primary text with switch button, realtime monitoring -->
+    <string name="switch_data_monitor_setting">Real-time data usage monitoring</string>
+    <!-- list item second line text when switch button status is ON -->
+    <string name="switch_data_monitor_turnon">ON</string>
+    <!-- list item second line text when switch button status is OFF -->
+    <string name="switch_data_monitor_turnoff">OFF</string>
+    <!-- status text on main page when switch button status is ON -->
+    <string name="data_monitor_on_summary">Real-time monitoring is running</string>
+    <!-- status text on main page when switch button status is OFF -->
+    <string name="data_monitor_off_summary">Real-time monitoring has stopped</string>
+
+    <!-- list item primary text with switch button. Turn on to show float widnow, turn off to show float window -->
+    <string name="switch_data_float_setting">Floating network speed</string>
+
+    <!-- group name for SIM card 1 settings if device has 2 slots -->
+    <string name="sim_frist_name">SIM card 1</string>
+    <!-- group name for SIM card 2 settings if device has 2 slots -->
+    <string name="sim_sec_name">SIM card 2</string>
+    <!-- group name with operator name for SIM card 1 settings if device has 2 slots -->
+    <string name="sim_main_name">SIM card 1（%1$s）</string>
+    <!-- group name with operator name for SIM card 2 settings if device has 2 slots -->
+    <string name="sim_sub_name">SIM card 2（%1$s）</string>
+    <!-- group name for SIM card settings if device has only 1 slot -->
+    <string name="sim_name">SIM card</string> 
+
+    <!-- list item primary text with switch button, daily automatic correction -->
+    <string name="switch_data_correct_title">Daily automatic correction</string>
+    <!-- list item second line text with switch button. Correction via text message or network-->
+    <string name="switch_data_correct_msg">Correction via text message or network</string>
+
+    <!-- list item primary text. Modify monthly data usage. Tap to "Modify monthly data usage" page. -->
+    <string name="used_data_change_title">Modify monthly data usage</string>
+    <!-- list item primary text. Data usage reminder. Tap to "Data usage reminder" page. Title of "Data usage reminder" page -->
+    <string name="used_reminder_title">Data usage reminder</string>
+    <!-- list item primary text. Data package. Tap to set data package in "Data package" page -->
+    <string name="data_package">Data usage limit</string>
+    <!-- list item second line text. Set data package and beginning data.  -->
+    <string name="data_package_setting_msg">Set data usage limit and reset date</string>
+    <!-- list item primary text. SIM card registration and carrier. Tap to choose province and operator. -->
+    <string name="set_city_operator">Province, city and carrier</string>
+    
+    <!-- Page: Modify monthly data usage --> 
+    <!-- description for the page. If you knew used traffic, please input -->
+    <string name="used_data_summary">If you know current monthly data usage, please input:</string>
+    <!-- Lable for used data package, user can input the value, unit is MB -->
+    <string name="used_package_data">Used for general data (MB)</string>
+    <!-- Lable for used idle package, user can input the value, unit is MB -->
+    <string name="used_idle_data">Used for night idle data (MB)</string>
+    <!-- OK -->
+    <string name="ok">OK</string>
+    <!-- Cancel -->
+    <string name="cancel">Cancel</string>
+
+    <!-- Page: data usage reminder  -->
+    <!-- list item primary text with swtich button. Remind above monthly data package  -->
+    <string name="used_reminder">Remind when above monthly data usage</string>
+    <!-- list item primary text with switch button. Disable mobile data when excessed monthly data package. -->
+    <string name="used_reminder_turnoff">Disable mobile data when exceed monthly data usage limit</string>
+    <!-- if "isable mobile data when excessed monthly data package" is ON, Remind above monthly data package" is ON and traffic is used up, show a dialog box with the content -->
+    <string name="used_reminder_message">Once %1$s monthly data is reached, mobile data is disabled automatically. If you want to continue to use mobile data, you can enable it manually.</string>
+    <!-- if "isable mobile data when excessed monthly data package" is OFF, Remind above monthly data package" is ON and traffic is used up, show a dialog box with the content -->
+    <string name="monthly_used_reminder_message">%1$s monthly data has been reached. If you don\'t want to continue to use mobile data, you can disable it.</string>
+    <!-- close mobile data connection -->
+    <string name="turn_off_mobile_data">Disable mobile data</string>
+
+    <!-- list item primary text with switch button. Remind below monthly remaining preset -->
+    <string name="monthly_remaining_reminder">Remind when below monthly remaining preset</string>
+    <!--  lable for monthly remaining preset, user can input the value, unit is MB -->
+    <string name="set_monthly_remaining_reminder">Please input monthly remaining preset (MB)</string>
+    <!-- if "Remind below monthly remaining preset" is ON and used traffic is more than the value, show a dialog with the content -->
+    <string name="monthly_remaining_reminder_message">%1$s monthly data remains %2$s. If you don\'t want to continue to use mobile data, you can disable it.</string>
+    
+    <!-- list item primary text with switch button. Remind above daily used preset -->
+    <string name="daily_used_reminder">Remind when above daily use preset</string>
+    <!-- lable for daily used preset, user can input the value, unit is MB -->
+    <string name="set_daily_used_reminder">Please input daily use preset (MB)</string>
+    <!-- If "Remind above daily used preset" is ON and  today used traffic is more than the value, show a dialog box with the content -->
+    <string name="daily_used_reminder_message">Today %1$s %2$s data  used. If you don\'t want to continue to use mobile data, you can disable it.</string>
+   
+ 
+    <!-- list item text, found SIM card change, please correct it. Tap to Correction wizard -->
+    <string name="sim_change_summary">Found SIM card change, please correct it.</string>
+
+    
+    <!-- notification when data package exhausted -->
+    <!-- More favorable data package  -->
+    <string name="notification_esim_title">More favorable data usage</string>
+    <!-- tap to learn more -->
+    <string name="notification_esim_msg">Tap to learn more</string>
+    
+    <!-- The SIM card doesn't support correction -->
+    <string name="esim_toast_msg">The SIM card doesn\'t support data usage correction</string>
+    
+
+    <!-- toast text, avoid to send more text messages,  -->
+    <string name="data_correct_frequent_operation">Frequent operation, please wait for a moment.</string>
+    <!-- Correct successfully  -->
+    <string name="data_correct_success">Corrected successfully</string>
+    <!-- Failed to correct -->
+    <string name="data_correct_error">Failed to correct</string>
+
+    <!--load tms sdk failed-->
+    <string name="dialog_load_sdk_failed_title">Tencent SDK</string>
+    <!-- Failed to initial SDK， perhaps load so library failed  -->
+    <string name="dialog_load_sdk_failed_msg">Failed to initialize Tencent SDK, perhaps failed to load so library!</string>
+
+    
+    <!--need sms permission when send sms PERMISSION_DENIED -->
+    <string name="permission_toast_msg">Correction needs %1$s permissions, please change it in Permission Manager</string>
+
+    <string name="toast_msg">Send SMS、Receive SMS and Read SMS</string>
+    <!-- send sms-->
+<!--    <string name"send_sms">send SMS<string>
+    &lt;!&ndash; receive sms&ndash;&gt;
+    <string name"send_sms">Receive SMS<string>
+    &lt;!&ndash; read sms&ndash;&gt;
+    <string name"send_sms">Read SMS<string>-->
+    <string name="no_sim_operator">No sim card detected</string>
+
+    <string name="download_link">http://www.caihcom.com/m/htcdownload</string>
+
+    <string name="tencent_privacy">Tencent privacy policy</string>
+
+    <string name="privacy_url">https://www.htc.com/us/terms/privacy/?text</string>
+
+    <string name="tenprivacy_url">http://www.qq.com/privacy.htm</string>
+
+    <string name="click_disclaimer">HTC End User License Agreement and Disclaimer for products with Navigation Function</string>
+    <string name="click_htc_privacy">HTC privacy policy</string>
+
+    <string name="start_data_correct">Correcting...</string>
+
+</resources>
+

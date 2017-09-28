@@ -1,0 +1,57 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">15dp</dimen>
+    <dimen name="activity_vertical_margin">15dp</dimen>
+    <dimen name="fab_margin">15dp</dimen>
+    <dimen name="Text_size">16sp</dimen>
+    <dimen name="Text_size_Main">16sp</dimen>
+    <dimen name="Switch_Text_size">15sp</dimen>
+
+    <dimen name="margin_l">15dp</dimen>  //m1
+    <dimen name="margin_s">7dp</dimen>    //m3
+    <dimen name="margin_m2">10dp</dimen>
+    <dimen name="margin_xs">6dp</dimen>  //m4
+    <dimen name="spacing">5dp</dimen>  //M5  18
+    <dimen name="margin_bg">12dp</dimen>  //
+    <dimen name="margin_padding">11dp</dimen>
+
+    <dimen name="margin_CircleProgressView_text">20dp</dimen>
+
+    <dimen name="Text_size_Traffic">40.5dp</dimen>
+    <dimen name="Text_size_GMKB">12dp</dimen>
+    <dimen name="Text_size_Info">12dp</dimen>
+    <dimen name="Text_size_Text">10dp</dimen>
+    <dimen name="Text_size_Monitor">12sp</dimen>
+
+    <dimen name="background_height">260dp</dimen>
+
+    <dimen name="RoundProgressBar_Width">206dp</dimen>
+    <dimen name="RoundProgressBar_Height">206dp</dimen>
+    <dimen name="RoundProgressBar_marginTop">10dp</dimen>
+    <dimen name="RoundProgressBar_roundWidth">7dp</dimen>
+
+    <dimen name="CircleProgressView_Width">180dp</dimen>
+    <dimen name="CircleProgressView_Height">180dp</dimen>
+    <dimen name="CircleProgressView_marginTop">23dp</dimen>
+    <dimen name="CircleProgressView_marginLeft">12dp</dimen>
+
+    <dimen name="CircleProgressView_text_marginTOP">26dp</dimen>
+    <dimen name="CircleProgressView_text2_marginTOP">-6dp</dimen>
+    <dimen name="CircleProgressView_text4_marginTOP">-10dp</dimen>
+    <dimen name="CircleProgressView_text3_marginTOP">-2dp</dimen>
+    <dimen name="CircleProgressView_text_marginleft">8dp</dimen>
+    <dimen name="sim_change_layout_bottom">10dp</dimen>
+
+    <dimen name="listview_text_1">17sp</dimen>
+    <dimen name="listview_text_2">15sp</dimen>  <!--Button text size-->
+    <dimen name="separator_textsize">10sp</dimen>
+    <dimen name="circleviewblankline">60px</dimen>
+
+    <dimen name="Portraint_Fixed_Height_of_Footers">60dp</dimen>
+    <dimen name="user_button_width">30dp</dimen>
+    <dimen name="network_control_button_height">40dp</dimen>
+
+    <dimen name="time_button_width">109dp</dimen>
+    <dimen name="time_button_height">45dp</dimen>
+
+</resources>

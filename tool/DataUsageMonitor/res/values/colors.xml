@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0086cb</color>
+    <color name="colorPrimaryDark">#0086cb</color>
+    <color name="colorAccent">#0086cb</color>
+
+    <color name="widget_awesome_storage_color">#00ffff</color>
+    <color name="widget_awesome_memory_color">#ffea01</color>
+
+    <color name="back_ground_color">#22e7e7e7</color>
+
+
+
+    <color name="yellow">#ffff00</color> <!-- 黄色 -->
+
+    <color name="gainsboro">#dcdcdc</color> <!-- 淡灰色 -->
+
+    <color name="darkgray">#a9a9a9</color> <!-- 暗灰色 -->
+
+    <color name="white">#ffffff</color>
+
+    <color name="light_main_text_color">#464c53</color> <!--button text color-->
+    <color name="light_sec_text_color">#959cab</color>
+    <color name="button_color">#e4e5e6</color>  <!--button back color-->
+    <color name="button_pressed_color">#c8c9ca</color>
+    <color name="edit_text_disable_color">#68464c53</color>
+    <color name="separator_color">#F3F5F8</color>
+
+    <color name = "edittext_color">#dfdfdf</color>
+
+
+
+</resources>

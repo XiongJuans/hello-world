@@ -1,0 +1,214 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- the module name-->
+    <string name="app_name">流量監控</string>
+    
+    <!-- Network tips dialog box -->
+    <!-- Show network tips dialog box when Data usage monitor module is launched. If user tap Agree to enter the module, tap Cancel to exit. -->
+    <!-- dialog box content-->
+    <string name="prompt_dialog_msg">流量監控需要使用發送短信、接收短信、讀取短信權限以提供基本服務。\n此應用程式需要使用移動數據或WLAN，具體流量費用請諮詢當地運營商。\n此應用程式不支持嵌入式SIM卡和虛擬運營商的SIM卡。\n本應用程式使用過程中，為實現該服務流量監控的基本功能需要收集和處理您的以下信息：\n通過獲得讀取手機狀態和身份權限獲得IMEI和IMSI。\n本應用程式中的流量校正服務部份由第三方服務提供商深圳市騰訊計算機系統有限公司提供，為實現該服務流量校正的基本功能，該第三方服務提供商需要收集和處理您的以下信息：\n通過流量監控，使用並收集IMEI和IMSI，用於統計日活躍用戶數和流量校正功能。更多信息，請閱讀騰訊隱私權政策。</string>
+    <!-- button on dialog, tap to exit -->
+    <string name="prompt_dialog_cancel">取消</string>
+    <!-- button on dialog, tap to agree the terms and enter Data usage monitor -->
+    <string name="prompt_dialog_ok">同意</string>
+    <!-- title for dialog -->
+    <string name="prompt_dialog_title">服務條款</string>
+    <!-- show the text with checkbox. The “privacy policy" is hyperlink. Tap "privacy policy" to view privacy policy text via browser. -->
+    <string name="network_tips_privacy">點擊“同意”，即表示您同意上述服務條款、HTC 關於具有導航功能產品的最終用戶許可協議及免責聲明 及HTC隱私權政策</string>
+
+    <!-- HTC impletments the features using Tencent SDK. Need to do brand exposure -->
+    <string name="footer_tip_msg">騰訊提供技術支持</string> 
+    
+    <!-- the list items on main page -->
+    <!-- Network control. Tap to launch Network control module of HTC mobile assistant -->
+    <string name="network_control">聯網控制</string>
+    <!-- the group name, recent data usage-->
+    <string name="used_data_near_day">近期使用流量</string>
+    <!-- Toady data usage -->
+    <string name="used_data_today">今日已使用</string>
+    <!-- Yesterday data usage -->
+    <string name="used_data_yesterday">昨日使用</string>
+    <!-- The day before yesterday data usage -->
+    <string name="used_data_before_yesterday">前日使用</string>
+
+    <!-- Label on main page -->
+    <!-- Label for this month used data traffic -->
+    <string name="data_used_1">本月已用</string>
+    <!-- Label for this month surplus data traffic -->
+    <string name="data_residue_1">本月剩餘</string>
+    <!-- normal. There are 2 scenes: normal and idle -->
+    <string name="data_common_used">通用流量</string>
+    <!-- idle. There are 2 scenes: normal and idle -->
+    <string name="night_data_title">夜間專用</string>
+    <!-- Exhausted -->
+    <string name="data_usage_null">已用盡</string>
+    <!-- use up -->
+    <string name="data_over_1">超額</string>
+    <!-- Not set -->
+    <string name="no_settings">未設置</string>
+
+    <!-- Correction wizard. There are 2 page in the wizard. -->
+    <!-- title for Correction wizard -->
+    <string name="correction_wizard">校正嚮導</string>
+    <!--page 1 -->
+    <!-- lable for monthly data package, user input value, unit is MB -->
+    <string name="data_package_monthly">月流量套餐(MB)</string>
+    <!-- billing start date for data package -->
+    <string name="data_start_date">套餐開始日</string>
+    <!-- group label for night idle package -->
+    <string name="data_package_night">夜間閒時套餐</string>
+    <!-- lable for night idle package, user input value unit is MB -->
+    <string name="data_for_night">夜間閒時包(MB)</string>
+    <!-- The period for using night idle package, start time -->
+    <string name="start_time">開始時間</string>
+    <!-- The period for using night idle package, end time -->
+    <string name="end_time">結束時間</string>
+    <!-- button on page 1, tap to next page -->
+    <string name="next_step">下一步</string>
+    <!-- page 2 -->
+    <!-- SIM card registration -->
+    <string name="set_Provinces_City">省份城市</string>
+    <!-- Carrier of SIM card -->
+    <string name="set_carry">運營商</string>
+    <!-- explain why to set registration and carrier.  -->
+    <string name="city_carry_summary">正確配置後，可開啟更精確的自動校正流量（需向運營商發送免費短信）</string>   
+    <!-- button on page 2, tap to previous page -->
+    <string name="back_step">上一步</string>
+    <!-- button on page 2, tap to finish and save -->
+    <string name="save">完成</string>
+
+    <!-- Settings -->
+    <!-- Data usage monitor settings -->
+    <string name="data_monitor_settings">流量監控設定</string>
+    <!-- list item primary text with switch button, realtime monitoring -->
+    <string name="switch_data_monitor_setting">實時流量監控</string>
+    <!-- list item second line text when switch button status is ON -->
+    <string name="switch_data_monitor_turnon">開啟</string>
+    <!-- list item second line text when switch button status is OFF -->
+    <string name="switch_data_monitor_turnoff">關閉</string>
+    <!-- status text on main page when switch button status is ON -->
+    <string name="data_monitor_on_summary">實時流量監控已開啟</string>
+    <!-- status text on main page when switch button status is OFF -->
+    <string name="data_monitor_off_summary">實時流量監控已關閉</string>
+
+    <!-- list item primary text with switch button. Turn on to show float widnow, turn off to show float window -->
+    <string name="switch_data_float_setting">網速懸浮窗</string>
+
+    <!-- group name for SIM card 1 settings if device has 2 slots -->
+    <string name="sim_frist_name">SIM卡1</string>
+    <!-- group name for SIM card 2 settings if device has 2 slots -->
+    <string name="sim_sec_name">SIM卡2</string>
+    <!-- group name with operator name for SIM card 1 settings if device has 2 slots -->
+    <string name="sim_main_name">SIM卡1（%1$s）</string>
+    <!-- group name with operator name for SIM card 2 settings if device has 2 slots -->
+    <string name="sim_sub_name">SIM卡2（%1$s）</string>
+    <!-- group name for SIM card settings if device has only 1 slot -->
+    <string name="sim_name">SIM卡</string> 
+
+    <!-- list item primary text with switch button, daily automatic correction -->
+    <string name="switch_data_correct_title">每日自動校正流量</string>
+    <!-- list item second line text with switch button. Correction via text message or network-->
+    <string name="switch_data_correct_msg">發送免費短信或聯網進行校正</string>
+
+    <!-- list item primary text. Modify monthly data usage. Tap to "Modify monthly data usage" page. -->
+    <string name="used_data_change_title">修改月使用流量</string>
+    <!-- list item primary text. Data usage reminder. Tap to "Data usage reminder" page. Title of "Data usage reminder" page -->
+    <string name="used_reminder_title">流量提醒</string>
+    <!-- list item primary text. Data package. Tap to set data package in "Data package" page -->
+    <string name="data_package">流量套餐</string>
+    <!-- list item second line text. Set data package and beginning data.  -->
+    <string name="data_package_setting_msg">設置套餐和開始日</string>
+    <!-- list item primary text. SIM card registration and carrier. Tap to choose province and operator. -->
+    <string name="set_city_operator">省市與運營商</string>
+    
+    <!-- Page: Modify monthly data usage --> 
+    <!-- description for the page. If you knew used traffic, please input -->
+    <string name="used_data_summary">如果您知道當前已用流量，請輸入：</string>
+    <!-- Lable for used data package, user can input the value, unit is MB -->
+    <string name="used_package_data">流量套餐已用(MB)</string>
+    <!-- Lable for used idle package, user can input the value, unit is MB -->
+    <string name="used_idle_data">夜間閒時已用(MB)</string>
+    <!-- OK -->
+    <string name="ok">確定</string>
+    <!-- Cancel -->
+    <string name="cancel">取消</string>
+
+    <!-- Page: data usage reminder  -->
+    <!-- list item primary text with swtich button. Remind above monthly data package  -->
+    <string name="used_reminder">月流量超額提醒</string>
+    <!-- list item primary text with switch button. Disable mobile data when excessed monthly data package. -->
+    <string name="used_reminder_turnoff">月流量超額自動關閉移動網路</string>
+    <!-- if "isable mobile data when excessed monthly data package" is ON, Remind above monthly data package" is ON and traffic is used up, show a dialog box with the content -->
+    <string name="used_reminder_message">您%1$s本月的流量已用盡，已自動關閉網路。若要繼續使用，請手動打開移動網路。</string>
+    <!-- if "isable mobile data when excessed monthly data package" is OFF, Remind above monthly data package" is ON and traffic is used up, show a dialog box with the content -->
+    <string name="monthly_used_reminder_message">您%1$s本月的流量已用盡，若不想繼續使用流量，請關閉移動網路。</string>
+    <!-- close mobile data connection -->
+    <string name="turn_off_mobile_data">關閉移動網路</string>
+
+    <!-- list item primary text with switch button. Remind below monthly remaining preset -->
+    <string name="monthly_remaining_reminder">月剩餘流量提醒</string>
+    <!--  lable for monthly remaining preset, user can input the value, unit is MB -->
+    <string name="set_monthly_remaining_reminder">請輸入月剩餘流量提醒值(MB)</string>
+    <!-- if "Remind below monthly remaining preset" is ON and used traffic is more than the value, show a dialog with the content -->
+    <string name="monthly_remaining_reminder_message">您%1$s本月的流量還剩%2$s，若不想繼續使用流量，請關閉移動網路。</string>
+    
+    <!-- list item primary text with switch button. Remind above daily used preset -->
+    <string name="daily_used_reminder">日已用流量提醒</string>
+    <!-- lable for daily used preset, user can input the value, unit is MB -->
+    <string name="set_daily_used_reminder">請輸入日已用流量提醒值(MB)</string>
+    <!-- If "Remind above daily used preset" is ON and  today used traffic is more than the value, show a dialog box with the content -->
+    <string name="daily_used_reminder_message">您%1$s今日的流量已用%2$s，若不想繼續使用流量，請關閉移動網路。。</string>
+   
+ 
+    <!-- list item text, found SIM card change, please correct it. Tap to Correction wizard -->
+    <string name="sim_change_summary">發現SIM卡更換，請進行校正。</string>
+
+    
+    <!-- notification when data package exhausted -->
+    <!-- More favorable data package  -->
+    <string name="notification_esim_title">獲取更優惠的數據資費套餐</string>
+    <!-- tap to learn more -->
+    <string name="notification_esim_msg">點擊獲取</string>
+    
+    <!-- The SIM card doesn't support correction -->
+    <string name="esim_toast_msg">該SIM卡不支持流量校正</string>
+    
+
+    <!-- toast text, avoid to send more text messages,  -->
+    <string name="data_correct_frequent_operation">操作頻繁，請稍候再試</string>
+    <!-- Correct successfully  -->
+    <string name="data_correct_success">校正成功</string>
+    <!-- Failed to correct -->
+    <string name="data_correct_error">校正失敗</string>
+
+    <!--load tms sdk failed-->
+    <string name="dialog_load_sdk_failed_title">騰訊SDK提示</string>
+    <!-- Failed to initial SDK， perhaps load so library failed  -->
+    <string name="dialog_load_sdk_failed_msg">騰訊SDK初始化失敗，可能通用so加載失敗！</string>
+
+    
+    <!--need sms permission when send sms PERMISSION_DENIED -->
+    <string name="permission_toast_msg">校正需要%1$s權限，請至權限管理開啟相應權限</string>
+
+    <string name="toast_msg">發送短信、接收短信和讀取短信</string>
+
+    <string name="no_sim_operator">無卡</string>
+    <!-- send sms-->
+<!--    <string name"send_sms">發送短信<string>
+    &lt;!&ndash; receive sms&ndash;&gt;
+    <string name"send_sms">接收短信<string>
+    &lt;!&ndash; read sms&ndash;&gt;
+    <string name"send_sms">讀取短信<string>-->
+    <string name="tencent_privacy">騰訊隱私權政策</string>
+
+    <string name="privacy_url">https://www.htc.com/tw/terms/privacy/?text</string>
+
+    <string name="tenprivacy_url">http://www.qq.com/privacy.htm</string>
+
+    <string name="click_disclaimer">HTC 關於具有導航功能產品的最終用戶許可協議及免責聲明</string>
+    <string name="click_htc_privacy">HTC隱私權政策</string>
+
+    <string name="start_data_correct">正在校正...</string>
+
+</resources>
+

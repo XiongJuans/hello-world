@@ -1,0 +1,22 @@
+##### no proguard-project.txt in /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor #####
+
+##### no proguard-project.txt in /home/xiongjuan/code/DataUsageMonitor/app/packages/apps #####
+
+##### no proguard-project.txt in /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/app #####
+
+##### no proguard-project.txt in /home/xiongjuan/code/DataUsageMonitor/app/packages #####
+
+##### no proguard-project.txt in /home/xiongjuan/code/DataUsageMonitor/app #####
+
+##### no proguard-project.txt in /home/xiongjuan/code/DataUsageMonitor #####
+
+##### no proguard-project.txt in /home/xiongjuan/code/DataUsageMonitor/hdk #####
+
+##### no proguard-project.txt in /home/xiongjuan/code/DataUsageMonitor/hdk/htc #####
+
+##### no proguard-project.txt in /home/xiongjuan/code/DataUsageMonitor/hdk/htc/lib0 #####
+
+##### no proguard-project.txt in /home/xiongjuan/code/DataUsageMonitor/hdk/htc/lib0/Customization #####
+
+##### no proguard-android.txt in /home/xiongjuan/code/DataUsageMonitor/app/packages/apps/DataUsageMonitor/build/intermediates/proguard-files/proguard-android.txt-2.3.3 #####
+
