@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Layout of a header item in PreferenceScreen. -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/header_switch_item"
+    style="?attr/htcListItemStyle"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical">
+
+    <!-- Add a LinearLayout to separate the preference body and Switch widget.
+    Avoid clicking the preference is not work-->
+    <LinearLayout
+        android:id="@+id/switch_pref"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:clickable="false"
+        android:focusable="false"
+        android:gravity="center_vertical"
+        android:baselineAligned="false">
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margin_m"
+            android:layout_marginLeft="@dimen/margin_l"
+            android:layout_marginRight="@dimen/margin_l"
+            android:layout_marginTop="@dimen/margin_m"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/title"
+                style="@style/list_primary_m"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:fadingEdge="horizontal"
+                android:singleLine="true"
+                android:text="@string/alarm_in_voice_mode_title" />
+
+            <TextView
+                android:id="@+id/summary"
+                style="@style/list_secondary_m"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignStart="@id/title"
+                android:layout_below="@id/title"
+                android:ellipsize="end"
+                android:text="@string/alarm_in_voice_mode_summary" />
+
+
+        </RelativeLayout>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/margin_l"
+        android:layout_marginTop="@dimen/margin_l"
+        android:background="@drawable/common_div" />
+
+    <com.htc.android.worldclock.voiceutils.VoiceSwitchButton
+        android:id="@+id/switch_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_marginLeft="@dimen/margin_l"
+        android:layout_marginRight="@dimen/margin_l"
+        android:clickable="true"
+        android:focusable="false" />
+
+</LinearLayout>
+<!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/layout/htc_preference_voice_alarm_switch_item.xml -->

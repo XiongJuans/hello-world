@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-es/arrays.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>el primer viernes de cada mes</item><!--on every first Friday-->
+        <item>el segundo viernes de cada mes</item><!--on every second Friday-->
+        <item>el tercer viernes de cada mes</item><!--on every third Friday-->
+        <item>el cuarto viernes de cada mes</item><!--on every fourth Friday-->
+        <item>el último viernes de cada mes</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>el primer lunes de cada mes</item><!--on every first Monday-->
+        <item>el segundo lunes de cada mes</item><!--on every second Monday-->
+        <item>el tercer lunes de cada mes</item><!--on every third Monday-->
+        <item>el cuarto lunes de cada mes</item><!--on every fourth Monday-->
+        <item>el último lunes de cada mes</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>el primer sábado de cada mes</item><!--on every first Saturday-->
+        <item>el segundo sábado de cada mes</item><!--on every second Saturday-->
+        <item>el tercer sábado de cada mes</item><!--on every third Saturday-->
+        <item>el cuarto sábado de cada mes</item><!--on every fourth Saturday-->
+        <item>el último sábado de cada mes</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>el primer domingo de cada mes</item><!--on every first Sunday-->
+        <item>el segundo domingo de cada mes</item><!--on every second Sunday-->
+        <item>el tercer domingo de cada mes</item><!--on every third Sunday-->
+        <item>el cuarto domingo de cada mes</item><!--on every fourth Sunday-->
+        <item>el último domingo de cada mes</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>el primer jueves de cada mes</item><!--on every first Thursday-->
+        <item>el segundo jueves de cada mes</item><!--on every second Thursday-->
+        <item>el tercer jueves de cada mes</item><!--on every third Thursday-->
+        <item>el cuarto jueves de cada mes</item><!--on every fourth Thursday-->
+        <item>el último jueves de cada mes</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>el primer martes de cada mes</item><!--on every first Tuesday-->
+        <item>el segundo martes de cada mes</item><!--on every second Tuesday-->
+        <item>el tercer martes de cada mes</item><!--on every third Tuesday-->
+        <item>el cuarto martes de cada mes</item><!--on every fourth Tuesday-->
+        <item>el último martes de cada mes</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>el primer miér. de cada mes</item><!--on every first Wednesday-->
+        <item>segundo miércoles de cada mes</item><!--on every second Wednesday-->
+        <item>tercer miércoles de cada mes</item><!--on every third Wednesday-->
+        <item>cuarto miércoles de cada mes</item><!--on every fourth Wednesday-->
+        <item>último miércoles de cada mes</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-es/strings.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">una vez</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> veces</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Cada <ns1:g id="count">%d</ns1:g> día</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Cada <ns1:g id="count">%d</ns1:g> días</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Cada <ns1:g id="count">%d</ns1:g> mes</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Cada <ns1:g id="count">%d</ns1:g> meses</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Cada <ns1:g id="count">%d</ns1:g> semana</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Cada <ns1:g id="count">%d</ns1:g> semanas</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Cada <ns1:g id="count">%d</ns1:g> año</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Cada <ns1:g id="count">%d</ns1:g> años</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">Semanalmente en <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other">Cada <ns1:g id="number">%1$d</ns1:g> semanas en <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <string name="every_weekday">"Cada día laboral (lunes-viernes)"</string>
+    <string name="monthly">"Mensualmente"</string>
+    <string name="monthly_on_day_count">"Cada mes (<ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g>)"</string>
+    <string name="tm_daily">"Diariamente"</string>
+    <string name="yearly_plain">Anualmente</string>
+</resources>

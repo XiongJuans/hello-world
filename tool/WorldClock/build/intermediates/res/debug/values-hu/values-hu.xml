@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string-array name="days_of_week">
+        <item>Hétfő</item><!--MONDAY-->
+        <item>Kedd</item><!--TUESDAY-->
+        <item>Szerda</item><!--WEDNESDAY-->
+        <item>Csütörtök</item><!--THURSDAY-->
+        <item>Péntek</item><!--FRIDAY-->
+        <item>Szombat</item><!--SATURDAY-->
+        <item>Vasárnap</item><!--SUNDAY-->
+    </string-array>
+    <string-array name="days_of_week_abbr">
+        <item>H</item><!--M-->
+        <item>Ke</item><!--TU-->
+        <item>Sze</item><!--W-->
+        <item>Cs</item><!--TH-->
+        <item>P</item><!--F-->
+        <item>Szo</item><!--SA-->
+        <item>Vas</item><!--SU-->
+    </string-array>
+    <string-array name="days_of_week_capital">
+        <item/>
+        <item>Vas</item><!--SUN-->
+        <item>Hét</item><!--MON-->
+        <item>Ked</item><!--TUE-->
+        <item>Sze</item><!--WED-->
+        <item>Csü</item><!--THU-->
+        <item>Pén</item><!--FRI-->
+        <item>Szo</item><!--SAT-->
+    </string-array>
+    <string-array name="days_of_week_short">
+        <item>@string/tm_mon</item>
+        <item>@string/tm_tue</item>
+        <item>@string/tm_wed</item>
+        <item>@string/tm_thu</item>
+        <item>@string/tm_fri</item>
+        <item>@string/tm_sat</item>
+        <item>@string/tm_sun</item>
+    </string-array>
+    <string-array name="days_of_week_whole_capital">
+        <item/>
+        <item>Vasárnap</item><!--SUNDAY-->
+        <item>Hétfő</item><!--MONDAY-->
+        <item>Kedd</item><!--TUESDAY-->
+        <item>Szerda</item><!--WEDNESDAY-->
+        <item>Csütörtök</item><!--THURSDAY-->
+        <item>Péntek</item><!--FRIDAY-->
+        <item>Szombat</item><!--SATURDAY-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/WeatherLib1/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string-array name="htc_weather_conditions">
+<!-- weather condition 1 : Sunny -->
+        <item>Napos</item><!--Sunny-->
+<!-- weather condition 2 : Mostly Sunny -->
+        <item>Főként napos</item><!--Mostly Sunny-->
+<!-- weather condition 3 : Partly Sunny -->
+        <item>Részben napos</item><!--Partly Sunny-->
+<!-- weather condition 4 : Intermittent Clouds -->
+        <item>Időnként felhős</item><!--Intermittent Clouds--><!--Intermittent Clouds-->
+<!-- weather condition 5 : Hazy Sunshine -->
+        <item>Elszórt napsütés</item><!--Hazy Sunshine-->
+<!-- weather condition 6 : Mostly Cloudy -->
+        <item>Főként felhős</item><!--Mostly Cloudy--><!--Mostly Cloudy-->
+<!-- weather condition 7 : Cloudy -->
+        <item>Felhős</item><!--Cloudy-->
+<!-- weather condition 8 : Dreary -->
+        <item>Sivár</item><!--Dreary-->
+<!-- weather condition 11 : Fog -->
+        <item>Köd</item><!--Fog-->
+<!-- weather condition 12 : Showers -->
+        <item>Zápor várható</item><!--Showers-->
+<!-- weather condition 13 : Mostly Cloudy with Showers -->
+        <item>Főként felhős, záporokkal</item><!--Mostly Cloudy with Showers--><!--Mostly Cloudy with Showers-->
+<!-- weather condition 14 : Partly Sunny with Showers -->
+        <item>Részben napos, záporokkal</item><!--Partly Sunny with Showers-->
+<!-- weather condition 15 : Thunderstorms -->
+        <item>Zivatar</item><!--Thunderstorms-->
+<!-- weather condition 16 : Mostly Cloudy with Thunder Showers -->
+        <item>Főként felhős, zivatarral</item><!--Mostly Cloudy with Thunder Showers--><!--Mostly Cloudy with Thunder Showers-->
+<!-- weather condition 17 : Partly Sunny with Thunder Showers -->
+        <item>Részben napos, zivatarral</item><!--Partly Sunny with Thunder Showers-->
+<!-- weather condition 18 : Rain -->
+        <item>Eső</item><!--Rain-->
+<!-- weather condition 19 : Flurries -->
+        <item>Széllökések</item><!--Flurries-->
+<!-- weather condition 20 : Mostly Cloudy with Flurries -->
+        <item>Főként felhős, széllökésekkel</item><!--Mostly Cloudy with Flurries--><!--Mostly Cloudy with Flurries-->
+<!-- weather condition 21 : Partly Sunny with Flurries -->
+        <item>Részben napos, széllökésekkel</item><!--Partly Sunny with Flurries-->
+<!-- weather condition 22 : Snow -->
+        <item>Hó</item><!--Snow-->
+<!-- weather condition 23 : Mostly Cloudy with Snow -->
+        <item>Főként felhős, hóeséssel</item><!--Mostly Cloudy with Snow-->
+<!-- weather condition 24 : Ice -->
+        <item>Jég</item><!--Ice-->
+<!-- weather condition 25 : Sleet -->
+        <item>Havas eső</item><!--Sleet-->
+<!-- weather condition 26 : Freezing Rain -->
+        <item>Ónos eső</item><!--Freezing Rain-->
+<!-- weather condition 29 : Rain and Snow Mixed -->
+        <item>Eső és havazás vegyesen</item><!--Rain and Snow Mixed-->
+<!-- weather condition 30 : Hot -->
+        <item>Hőség</item><!--Hot-->
+<!-- weather condition 31 : Cold -->
+        <item>Hűvös</item><!--Cold-->
+<!-- weather condition 32 : Windy -->
+        <item>Szeles</item><!--Windy-->
+<!-- weather condition 33 : Clear -->
+        <item>Tiszta</item><!--Clear-->
+<!-- weather condition 34 : Mostly Clear -->
+        <item>Főként tiszta</item><!--Mostly Clear-->
+<!-- weather condition 35 : Partly Cloudy -->
+        <item>Részben felhős</item><!--Partly Cloudy-->
+<!-- weather condition 36 : Intermittent Clouds -->
+        <item>Időnként felhős</item><!--Intermittent Clouds--><!--Intermittent Clouds-->
+<!-- weather condition 37 : Hazy -->
+        <item>Ködös</item><!--Hazy-->
+<!-- weather condition 38 : Mostly Cloudy -->
+        <item>Főként felhős</item><!--Mostly Cloudy--><!--Mostly Cloudy-->
+<!-- weather condition 39 : Partly Cloudy with Showers -->
+        <item>Részben felhős, záporokkal</item><!--Partly Cloudy with Showers-->
+<!-- weather condition 40 : Mostly Cloudy with Showers -->
+        <item>Főként felhős, záporokkal</item><!--Mostly Cloudy with Showers--><!--Mostly Cloudy with Showers-->
+<!-- weather condition 41 : Partly Cloudy with Thunder Showers -->
+        <item>Részben felhős, zivatarral</item><!--Partly Cloudy with Thunder Showers-->
+<!-- weather condition 42 : Mostly Cloudy with Thunder Showers -->
+        <item>Főként felhős, zivatarral</item><!--Mostly Cloudy with Thunder Showers--><!--Mostly Cloudy with Thunder Showers-->
+<!-- weather condition 43 : Partly Cloudy with Flurries -->
+        <item>Részben felhős, széllökésekkel</item><!--Partly Cloudy with Flurries-->
+<!-- weather condition 44 : Mostly Cloudy with Flurries -->
+        <item>Főként felhős, széllökésekkel</item><!--Mostly Cloudy with Flurries--><!--Mostly Cloudy with Flurries-->
+<!-- _For Huafeng -->
+<!-- weather condition 51 : -->
+        <item>Zivatar</item><!--Thunderstorms with sleet-->
+<!-- weather condition 52 : -->
+        <item>Homok</item><!--Sand-->
+<!-- weather condition 53 : -->
+        <item>Por</item><!--Dust-->
+<!-- weather condition 54 : -->
+        <item>Tornádó</item><!--Tornado-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string-array name="month_of_year">
+    	<item>Jan</item><!--JAN-->
+    	<item>FEB</item><!--FEB-->
+    	<item>Márc</item><!--MAR-->
+    	<item>Ápr</item><!--APR-->
+    	<item>Máj</item><!--MAY-->
+    	<item>Jún</item><!--JUN-->
+    	<item>Júl</item><!--JUL-->
+    	<item>Aug</item><!--AUG-->
+    	<item>Szept</item><!--SEP-->
+    	<item>Okt</item><!--OCT-->
+    	<item>Nov</item><!--NOV-->
+    	<item>Dec</item><!--DEC-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>minden első pénteken</item><!--on every first Friday-->
+        <item>minden második pénteken</item><!--on every second Friday-->
+        <item>minden harmadik pénteken</item><!--on every third Friday-->
+        <item>minden negyedik pénteken</item><!--on every fourth Friday-->
+        <item>minden utolsó pénteken</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>minden első hétfőn</item><!--on every first Monday-->
+        <item>minden második hétfőn</item><!--on every second Monday-->
+        <item>minden harmadik hétfőn</item><!--on every third Monday-->
+        <item>minden negyedik hétfőn</item><!--on every fourth Monday-->
+        <item>minden utolsó hétfőn</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>minden első szombaton</item><!--on every first Saturday-->
+        <item>minden második szombaton</item><!--on every second Saturday-->
+        <item>minden harmadik szombaton</item><!--on every third Saturday-->
+        <item>minden negyedik szombaton</item><!--on every fourth Saturday-->
+        <item>minden utolsó szombaton</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>minden első vasárnapon</item><!--on every first Sunday-->
+        <item>minden második vasárnapon</item><!--on every second Sunday-->
+        <item>minden harmadik vasárnapon</item><!--on every third Sunday-->
+        <item>minden negyedik vasárnapon</item><!--on every fourth Sunday-->
+        <item>minden utolsó vasárnapon</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>minden első csütörtökön</item><!--on every first Thursday-->
+        <item>minden második csütörtökön</item><!--on every second Thursday-->
+        <item>minden harmadik csütörtökön</item><!--on every third Thursday-->
+        <item>minden negyedik csütörtökön</item><!--on every fourth Thursday-->
+        <item>minden utolsó csütörtökön</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>minden első kedden</item><!--on every first Tuesday-->
+        <item>minden második kedden</item><!--on every second Tuesday-->
+        <item>minden harmadik kedden</item><!--on every third Tuesday-->
+        <item>minden negyedik kedden</item><!--on every fourth Tuesday-->
+        <item>minden utolsó kedden</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>minden első szerdán</item><!--on every first Wednesday-->
+        <item>minden második szerdán</item><!--on every second Wednesday-->
+        <item>minden harmadik szerdán</item><!--on every third Wednesday-->
+        <item>minden negyedik szerdán</item><!--on every fourth Wednesday-->
+        <item>minden utolsó szerdán</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string-array name="repeat_option">
+        <item>Hétfő-Péntek</item><!--Mon -/ Fri-->
+        <item>Nincs ismétlés</item><!--Do not repeat-->
+        <item>Minden nap</item><!--Every day-->
+        <item>Szünnapok átugrása</item><!--Skip holidays-->
+        <item>Egyéni</item><!--Custom-->
+    </string-array>
+    <string-array name="snooze_duration_entries">
+      <item>5 perc</item><!--5 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_10_minutes</item>
+      <item>15 perc</item><!--15 minutes-->
+      <item>20 perc</item><!--20 minutes-->
+      <item>25 perc</item><!--25 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_30_minutes</item>
+    </string-array>
+    <string-array name="sound_selection_setting_entries">
+<!-- Alarm sound -->
+      <item>Ébresztő hang</item><!--Alarm sound-->
+<!-- Do not translate. Ringtone -->
+      <item>@string/nn_ringtone</item>
+<!-- Do not translate. Music -->
+      <item>@string/nn_music</item>
+    </string-array>
+    <string-array name="sprint_volume_button_setting_entries">
+      <item>Ne tegyen semmit</item><!--Do nothing-->
+
+      <item>Szundi</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+
+      <item>Néma</item><!--Silence-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>Kicsi</item><!--Small-->
+        <item>Közepes</item><!--Medium-->
+        <item>Nagy</item><!--Large-->
+        <item>Különösen nagy</item><!--Extra large-->
+        <item>Óriási</item><!--Huge-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string-array name="volume_button_setting_entries">
+      <item>Ne tegyen semmit</item><!--Do nothing-->
+
+      <item>Szundi</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string-array name="weeklayout_secondary_text">
+        <item>Vas</item><!--SU-->
+        <item>H</item><!--M-->
+        <item>Ke</item><!--TU-->
+        <item>Sze</item><!--W-->
+        <item>Cs</item><!--TH-->
+        <item>P</item><!--F-->
+        <item>Szo</item><!--SA-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <bool name="config_flip_animation">true</bool>
+    <bool name="config_full_name_month">false</bool>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">egyszer</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> alkalommal</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Minden <ns1:g id="count">%d</ns1:g> nap</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Minden <ns1:g id="count">%d</ns1:g> nap</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Minden <ns1:g id="count">%d</ns1:g> hónap</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Minden <ns1:g id="count">%d</ns1:g> hónap</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Minden <ns1:g id="count">%d</ns1:g> hét</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Minden <ns1:g id="count">%d</ns1:g> hét</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Minden <ns1:g id="count">%d</ns1:g> év</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Minden <ns1:g id="count">%d</ns1:g> év</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">Hetente a következő napon: <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other">Minden <ns1:g id="number">%1$d</ns1:g>. héten a következő napon: <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ugrás a főoldalra"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Felfelé mozgatás"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"További lehetőségek"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Kész"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Összes megtekintése"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Válasszon ki egy alkalmazást"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"KI"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"BE"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Keresés…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Lekérdezés törlése"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Keresési lekérdezés"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Keresés"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Lekérdezés küldése"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hangalapú keresés"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Megosztás a következővel:"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Megosztás a következővel: %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Összecsukás"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string name="accessibility_tap_action">Érintse meg duplán a művelet végrehajtásához</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="add_alarm">Ébresztő hozzáadása</string>
+    <string name="add_alarm_error">Elérte az ébresztők maximális számát.</string>
+    <string name="add_city">Város hozzáadása</string>
+    <string name="add_city_error_msg">Legfeljebb 15 város állítható be. Új város hozzáadásához töröljön egy meglévőt.</string>
+    <string name="add_city_error_title">A város hozzáadása sikertelen</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string name="add_comments">Hozzászólok</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="add_lap_error">A stopper legfeljebb 300 kört tud menteni. A körök előzményeinek törléséhez érintse meg a Visszaállítás elemet.</string>
+    <string name="addcity_search">Városok keresése</string>
+    <string name="alarm_alert_alert_silenced">Az ébresztő <ns1:g id="minutes">%d</ns1:g> perc múlva hallgat el.</string>
+    <string name="alarm_alert_dismissed">Ébresztő elvetve.</string>
+    <string name="alarm_alert_snooze_not_set">A Szundi nincs beállítva. A következő ébresztő: <ns1:g id="time">%s</ns1:g></string>
+    <string name="alarm_alert_snooze_set">Szundi <ns1:g id="minutes">%d</ns1:g> percig.</string>
+    <string name="alarm_caption">Ébresztő</string>
+    <string name="alarm_in_volume_increase_mode_summary">Ébresztés hangerejének fokozatos növelése</string>
+    <string name="alarm_in_volume_increase_mode_title">Finom ébresztés</string>
+    <string name="alarm_notify_snooze_label"><ns1:g id="label">%s</ns1:g> (Szundi)</string>
+    <string name="alarm_notify_snooze_text">Az ébresztő <ns1:g id="time">%s</ns1:g> órára beállítva. Érintse meg a visszavonáshoz.</string>
+    <string name="alarm_off">Ébresztő ki</string>
+    <string name="alarm_offalarm">Hang, ha a telefon ki van kapcsolva</string>
+    <string name="alarm_on">Ébresztő be</string>
+    <string name="alarm_repeat">Ismétlés</string>
+    <string name="alarm_ringtone">Ébresztő hang</string>
+    <string name="alarm_set">Ez az ébresztő mostantól <ns1:g id="time_delta">%s</ns1:g> ideig van beállítva.</string>
+    <string name="alarm_vibrate">Rezgés</string>
+    <string name="alarm_volume_summary">Beállítja az ébresztő hangerejét</string>
+    <string name="alarm_volume_title">Ébresztő hangereje</string>
+    <string name="alert_sound">Ébresztő hang</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string name="am">AM</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="analog_gadget">Analóg óra</string>
+    <string name="and">" és "</string>
+    <string name="bt_cancel_str">Mégse</string>
+    <string name="bt_done_str">Kész</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string name="button_hide_caption">Képaláírás elrejtése</string>
+    <string name="button_hide_description">Leírás elrejtése</string>
+    <string name="button_show_caption">Képaláírás megjelenítése</string>
+    <string name="button_show_description">Leírás megjelenítése</string>
+    <string name="carousel_title">Fülek szerkesztése</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="city_duplicate">Ez a város már szerepel a listán</string>
+    <string name="city_not_found">A város nem található</string>
+    <string name="clock_permission_dialog_btn_close">Bezárás</string>
+    <string name="clock_permission_dialog_btn_settings">Beállítások</string>
+    <string name="clock_permission_dialog_content">A megfelelő működéshez az alkalmazásnak hozzá kell férnie a tárolóhelyhez. A beállításokban kezelheti az Óra engedélyeit.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">Emberek keresése</string>
+    <string name="common_string_open_contact">A névjegy megnyitása</string>
+    <string name="common_string_save_to_existing_contact">Mentés már meglévő névjegyhez</string>
+    <string name="common_string_save_to_people">Mentés az Emberek közé</string>
+    <string name="common_string_share_title">Megosztás a következőn keresztül</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="current_settings">Dátum és idő beállítása</string>
+    <string name="day_concat">", "</string>
+    <string name="days">"<ns1:g id="days">%s</ns1:g> nap"</string>
+    <string name="dberror">Sajnáljuk, az ébresztő nem állítható be.</string>
+    <string name="delete_alarm_caption">Ébresztő törlése</string>
+    <string name="delete_city_caption">Városok törlése</string>
+    <string name="desk_clock_caption">Asztali óra</string>
+    <string name="dialog_button_ok">OK</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string name="done">Kész</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="error">Nem lehet ébresztést hozzáadni</string>
+    <string name="error_title">Adatbázis hiba</string>
+    <string name="every_day">Minden nap</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string name="every_weekday">"Minden hétköznap (Hét\u2013Pén)"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="fit_screen_menu_item">Képernyőhöz illesztés</string>
+    <string name="full_screen_menu_item">Teljes képernyő</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/googleplay_strings.xml -->
+    <eat-comment/>
+    <string name="googleplay_description_app">Tartózkodjon akár Taipeiben, Tajvanban vagy a marokkói Marrakechben, a HTC Óra lehetővé teszi, hogy ellenőrizze az időt az adott helyen, otthon és a világ más városaiban. A testre szabható riasztók, a stopper és az időzítő, az időgazdálkodás hatalmát helyezi az Ön zsebébe. Állítson annyi riasztást amennyit szeretne, módosítsa a szundi időtartamát, válasszon riasztási hangokat, sőt, hangoztatjon riasztási hangjelzést amikor a telefon néma. A HTC Óra stopperórája nagyszerű a körök lejegyzéséhez edzéskor, és az időzítő jól jöhet főzéskor vagy a tévé előtt töltött idő felügyeléséhez.</string>
+    <string name="googleplay_description_legal">[googleplay_description_legal_common_1]</string>
+    <string name="googleplay_description_short">Követheti az időt a HTC divatos stopper-, időzítő-, ébresztő- és világórájával.</string>
+    <string name="googleplay_description_supportingScope"/>
+    <string name="googleplay_title">HTC Óra</string>
+    <string name="googleplay_whatsnew">- A riasztás fokozatosan felhangosodik\n- Hiba- és teljesítményjavítások</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="home_settings">Hazai időzóna beállítása</string>
+    <string name="hours"><ns1:g id="hours">%s</ns1:g> óra</string>
+    <string name="htc_private_app_clock">Óra</string>
+    <string name="internal_memory_low">Készülékének alacsony a tárolókapacitása. Az alkalmazás használata előtt szabadítson fel valamennyi helyet.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string name="label_day">Nap</string>
+    <string name="label_hour">Óra</string>
+    <string name="label_minute">Perc</string>
+    <string name="label_month">Hónap</string>
+    <string name="label_second">Másodperc</string>
+    <string name="label_year">Év</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="lap">Kör</string>
+    <string name="lap_error">A készülék nem mentette a kört</string>
+    <string name="lap_id"># kör</string>
+    <string name="lap_time">Ez a kör</string>
+    <string name="lap_title">Kör</string>
+    <string name="lap_total_time">Összesen</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string name="license_dialog_content">A telefonon használt ikonok egy részét eredetileg a Google tervezte; később a HTC módosította ezeket, a <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons-licencek „Nevezd meg!” 4.0</a> módozatában és verziójában foglalt rendelkezéseknek megfelelően.</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="loading_city">Város lista betöltése...</string>
+    <string name="location_dialog_msg">A helyi időjárás lekérdezéséhez módosítsa a helybeállításokat az akkumulátort kímélő vagy nagy pontosságú módra.</string>
+    <string name="location_dialog_title">Helymeghatározási szolgáltatások kikapcsolva</string>
+    <string name="location_enable">A helyi időjárás megtekintéséhez érintse meg itt, így bekapcsol a hely szolgáltatás.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string name="location_unavailable">A hely nem érhető el</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="lockscreen_hint_dismiss">Húzza le az elvetéshez</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string name="ls_doubletap_drag">érintse meg duplán, majd húzza a beállításhoz</string>
+    <string name="ls_edit_number_before_calling">Szám szerkesztése hívás előtt</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="ls_no_weather_data_available">Nincs elérhető időjárási adat</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string name="ls_open_in_map">Megnyitás térképen</string>
+    <string name="ls_tablet_storage_error">Hibát észleltünk a táblagép tárolóhelyén. Indítsa újra az eszközt, vagy formázza újra a tárolót.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string name="masthead_st_am">AM</string>
+    <string name="masthead_st_auto_sync_off">Automatikus szinkronizálás kikapcsolva. Érintse meg az időjárás megtekintéséhez.</string>
+    <string name="masthead_st_current_location">Jelenlegi hely</string>
+    <string name="masthead_st_device_only_off">A helyszolgáltatás működési módjának megváltoztatása az időjárás lekérdezéséhez</string>
+    <string name="masthead_st_location_service_off">Helyszolgáltatások bekapcsolása az időjárási adatok lekérdezéséhez</string>
+    <string name="masthead_st_pm">PM</string>
+    <string name="masthead_st_weather_unavailable">Az időjárási adatok nem érhetők el</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string name="menu_crop">Körülvágás</string>
+    <string name="menu_delete">Törlés</string>
+    <string name="menu_properties">Részletek</string>
+    <string name="menu_protect_info">Védelmi Információ</string>
+    <string name="menu_save_to_my_favorite">Beállítás kedvencként</string>
+    <string name="menu_send_photo_link_by_email">Fénykép hivatkozás megosztása</string>
+    <string name="menu_set_as">Beállítás másként</string>
+    <string name="menu_settings">Beállítások</string>
+    <string name="menu_share">Megosztás</string>
+    <string name="menu_show_on_map">Megjelenítés térképen</string>
+    <string name="menu_slideshow">Diavetítés</string>
+    <string name="menu_view_full">Nézet</string>
+    <string name="menu_view_video">Lejátszás</string>
+    <string name="meun_rotate">Elforgatás</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="minutes">"<ns1:g id="minutes">%s</ns1:g> perc"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string name="monthly">Havonta</string>
+    <string name="monthly_on_day_count">"Havonta (Mindig <ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g>)"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="nextAlarm">Következő ébresztő: <ns1:g id="next_alarm_time">%s</ns1:g></string>
+    <string name="night_clock">@string/desk_clock_caption</string>
+    <string name="nn_alarm">Riasztás</string>
+    <string name="nn_description">Leírás</string>
+    <string name="nn_music">Zene</string>
+    <string name="nn_ringtone">Csengőhang</string>
+    <string name="nn_settings">Beállítások</string>
+    <string name="nn_tips_help">Tanácsok és súgó</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">Ismeretlen hiba</string>
+    <string name="no">Nem</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="pause">Szünet</string>
+    <string name="phone_type_home">Kezdőlap</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string name="pm">PM</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="query_fail">Hiba történt az adatbázis megnyitása során</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string name="quickselection_share">Megosztás a következőn keresztül</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="rearrange_city_caption">Lista szerkesztése</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string name="refresh">Frissítés</string>
+    <string name="reminderview_common_unlock_hint_icon">Húzza az ikont felfelé</string>
+    <string name="reminderview_common_unlock_hint_up">Húzza fel a feloldásához</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="reset">V.állít</string>
+    <string name="resume">Folytatás</string>
+    <string name="ringtone_title">Csengőhangok</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string msgid="146198913615257606" name="search_menu_title">"Keresés"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="select_alert">Válassza ki a figyelmeztető hangot</string>
+    <string name="select_ringtone">Válassza ki az ébresztő hangot</string>
+    <string name="set_alarm_caption">Ébresztő beállítása</string>
+    <string name="snooze">Szundi</string>
+    <string name="snooze_duration_title">Szundi időtartama</string>
+    <string name="sound_selection_title">Ébresztő hang választása innen:</string>
+    <string name="space">" "</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">Elengedés a frissítéshez</string>
+    <string name="st_action_bar_updating">Frissítés...</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="st_default">Alapértelmezett</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string name="st_draggable_item">Húzható elem</string>
+    <string name="st_loading">Betöltés...</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="st_more">Továbbiak</string>
+    <string name="st_never">Soha</string>
+    <string name="st_off">Kikapcsolva</string>
+    <string name="st_on">Bekapcsolva</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string name="st_pull_down_refresh">Húzza lefelé a frissítéshez</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="st_silent">Néma</string>
+    <string name="st_storage_full">A tár megtelt</string>
+    <string name="start">Kezdés</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="stop">Leállítás</string>
+    <string name="stopwatch_caption">Stopper</string>
+    <string name="storage_full_description">Nincs elég szabad hely telefonja tárolóhelyén. Helyet adatok vagy alkalmazások törlésével szabadíthat fel. Alkalmazásai kezeléséhez érintse meg a \"Beállítások\" gombot.</string>
+    <string name="subminute">"kevesebb mint 1 perc"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string name="tab_remove_dialog_message">Egy lap maradt. Ha további lapokat kíván hozzáadni az alkalmazáshoz, a menüben válassza a Fülek szerkesztése/Szűrők menüpontot.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="time_up">Itt az idő!</string>
+    <string name="timer_caption">Időzítő</string>
+    <string name="timer_reminder_tile_setting">Beállítások</string>
+    <string name="timer_reminder_tile_timer_up">Lejárt az idő</string>
+    <string name="tm_10_minutes">10 perc</string>
+    <string name="tm_1_day">1 nap</string>
+    <string name="tm_1_hour">1 óra</string>
+    <string name="tm_1_minute">1 perc</string>
+    <string name="tm_30_minutes">30 perc</string>
+    <string name="tm_am">DE</string>
+    <string name="tm_current">Aktuális</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string name="tm_daily">"Naponta"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="tm_fri">Pén</string>
+    <string name="tm_mon">Hét</string>
+    <string name="tm_pm">DU</string>
+    <string name="tm_sat">Szo</string>
+    <string name="tm_sun">Vas</string>
+    <string name="tm_thu">Csü</string>
+    <string name="tm_today">Ma</string>
+    <string name="tm_tomorrow">Holnap</string>
+    <string name="tm_tue">Ked</string>
+    <string name="tm_wed">Sze</string>
+    <string name="tm_yesterday">Tegnap</string>
+    <string name="total_title">Összesen</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">Ez a fül nem távolítható el</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="va_add">Hozzáadás</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string name="va_back">Vissza</string>
+    <string name="va_call">Tárcsázás</string>
+    <string name="va_cancel">Mégse</string>
+    <string name="va_clear">Törlés</string>
+    <string name="va_close">Bezár</string>
+    <string name="va_copy">Másolás</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="va_deselect_all">Kijelölések megszüntetése</string>
+    <string name="va_dismiss">Elvetés</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string name="va_download">Letöltés</string>
+    <string name="va_downloading">Letöltés</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="va_edit">Szerkesztés</string>
+    <string name="va_edit_tabs">Fülek szerkesztése</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string name="va_finish">Befejezés</string>
+    <string name="va_hide">Elrejtés</string>
+    <string name="va_move_above">Áthelyezés fel</string>
+    <string name="va_move_below">Áthelyezés le</string>
+    <string name="va_next">Tovább</string>
+    <string name="va_ok">OK</string>
+    <string name="va_open">Megnyitás</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="va_rearrange">Újrarendez</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string name="va_reset">Visszaállítás</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="va_select_all">Összes kijelölése</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string name="va_send_mail">Levél küldése</string>
+    <string name="va_send_message">Üzenet küldése</string>
+    <string name="va_show_all">Összes megjelenítése</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="volume_button_setting_summary">Válassza ki a hangerőszabályzó gombok akkor működő funkcióját, ha ébresztéskor nyomja meg őket</string>
+    <string name="volume_button_setting_title">Hangerőgomb beállításai</string>
+    <string name="weather_high_indicator">M:</string>
+    <string name="weather_low_indicator">A:</string>
+    <string name="world_clock_caption">Világ óra</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string name="yearly_plain">Évente</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string name="yes">Igen</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="#ff0000" >
+
+    <item>
+        <selector>
+            <item android:state_enabled="false">
+                <nine-patch
+                    android:alpha="0.5"
+                    android:src="@drawable/common_inputfield_rest" />
+            </item>
+            <item>
+                <nine-patch android:src="@drawable/common_inputfield_rest" />
+            </item>
+        </selector>
+    </item>
+    <item
+        android:id="@+id/mask"
+        android:drawable="@drawable/common_inputfield_rest"/>
+
+</ripple><!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/drawable-v21/htcedittext_inputfield_light.xml --><!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/drawable-v21/htcedittext_inputfield_light.xml -->

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:drawable="@android:color/transparent"/>
+    <item android:drawable="@android:color/transparent"/>
+    <!-- keypad selection highlight -->
+    <!--
+        <item>
+        <selector>
+        <item
+        android:drawable="@drawable/list_selector_background_pressed"
+        android:state_selected="true"
+        android:state_enabled = "true"/>
+        </selector>
+        </item>
+    -->
+</layer-list><!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/drawable/common_list_item_background.xml --><!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/drawable/common_list_item_background.xml -->

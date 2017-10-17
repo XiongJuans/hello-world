@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/pre-dexed/debug/internal_impl-25.0.1-f38d4707d69b453425288957f11e772a8aa7adf6.jar/classes.dex" />
+    </item>
+    <item
+        jar="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/LockScreenLib1/unspecified/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="087c27168e72503083da58691364830a88e128a7">
+        <dex dex="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/pre-dexed/debug/classes-6bbe1ad4a18e9f723e0ed5552abe54a26b4aa2ea.jar/classes.dex" />
+    </item>
+    <item
+        jar="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/pre-dexed/debug/classes-59a949ef7729a52e1f4a5ef26cb3ebeda57fec3c.jar/classes.dex" />
+    </item>
+    <item
+        jar="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/pre-dexed/debug/internal_impl-25.0.1-4c654baf3b648662728525cfb381d98c90607ba3.jar/classes.dex" />
+    </item>
+    <item
+        jar="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/pre-dexed/debug/internal_impl-25.0.1-4111d770a18d72c182a3f98affc3bc4cc3c4ff7c.jar/classes.dex" />
+    </item>
+    <item
+        jar="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib2/LockScreenLib2/unspecified/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="162cfebe08d6aaa60a730e241bab738cb8cf2d8a">
+        <dex dex="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/pre-dexed/debug/classes-79eadd6407c446cf0c7fb7a8a05b61f5fa00d589.jar/classes.dex" />
+    </item>
+    <item
+        jar="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/pre-dexed/debug/classes-5282ac30098af0892009a55bde2432e794d78c5a.jar/classes.dex" />
+    </item>
+    <item
+        jar="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/pre-dexed/debug/classes-63ada7a3db68bb0b03e6627970198cd8be887c80.jar/classes.dex" />
+    </item>
+    <item
+        jar="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib3/HtcIntentLib3/unspecified/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="f676fa8588ea71ac58bceacdde6ab35add6f2b5c">
+        <dex dex="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/pre-dexed/debug/classes-22e3ed4843808bc28794c5fc3dcd78cd9b8785b9.jar/classes.dex" />
+    </item>
+    <item
+        jar="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib0/HtcDebugFlag/unspecified/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="4211aa6c08740c5bc7f954a0010353692786ff49">
+        <dex dex="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/pre-dexed/debug/classes-930d6acb65ca09689d1a2b16fb175cbad23ca811.jar/classes.dex" />
+    </item>
+    <item
+        jar="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib2/HtcConfiguration/unspecified/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="fbb5893f98ae77618af9bb21e58179b0399192bf">
+        <dex dex="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/pre-dexed/debug/classes-c41f64c821b133939d04e8d69ee846c40bdda51e.jar/classes.dex" />
+    </item>
+    <item
+        jar="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib0/Customization/unspecified/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="699c5d0a817bb91cedf63e1fe88881aa71a1f085">
+        <dex dex="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/pre-dexed/debug/classes-23211bca706692d3f82a4d8cd20b884f2c69ebb3.jar/classes.dex" />
+    </item>
+    <item
+        jar="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="8602ab07133e6ee182726fa27588420dba9d6d55">
+        <dex dex="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/pre-dexed/debug/classes-0aafec77be616baadaf53a2d23c1bb20b865025b.jar/classes.dex" />
+    </item>
+    <item
+        jar="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/jacoco/jacocoagent.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="ea73283d55c98ab1fccb8c23d76c68b7d7ecbd83">
+        <dex dex="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/pre-dexed/debug/jacocoagent-09f7a817c6d51f6d85b5fb29ecb2ef09637fcd2c.jar/classes.dex" />
+    </item>
+    <item
+        jar="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="7faa75c10af0b4a93bf35627d187a1e07846c6a0">
+        <dex dex="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/pre-dexed/debug/classes-4bc5ac28e24de408cc7119e587e8b3ffae082b0e.jar/classes.dex" />
+    </item>
+    <item
+        jar="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib0/HDKUtil/unspecified/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="9e8c93602ae3bfab142308c0466930a771fb7f0d">
+        <dex dex="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/pre-dexed/debug/classes-83f28314a5cf2874d3bed6159325e0f5b127bf3c.jar/classes.dex" />
+    </item>
+    <item
+        jar="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/pre-dexed/debug/classes-194d3fc898c745f8f66c3b7b1c442bd158864918.jar/classes.dex" />
+    </item>
+    <item
+        jar="/home/xiongjuan/.gradle/caches/modules-2/files-2.1/com.htc/commons-codec/1.7/9cd61d269c88f9fb0eb36cea1efcd596ab74772f/commons-codec-1.7.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="9cd61d269c88f9fb0eb36cea1efcd596ab74772f">
+        <dex dex="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/pre-dexed/debug/commons-codec-1.7-e5caaa8c9a4392b2fa494397ee582011a66520a0.jar/classes.dex" />
+    </item>
+    <item
+        jar="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/pre-dexed/debug/classes-3b704d047bc879685409966ccd7e748fb0f20c32.jar/classes.dex" />
+    </item>
+    <item
+        jar="/home/xiongjuan/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.0/db09a97f4f0db8892c1a0111a4b966f97920d082/support-annotations-26.0.0.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="db09a97f4f0db8892c1a0111a4b966f97920d082">
+        <dex dex="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-238444a0af5830b652e324de7cda3a08bf89340a.jar/classes.dex" />
+    </item>
+    <item
+        jar="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/pre-dexed/debug/internal_impl-25.0.1-ae133362fc6524de304e052a0b97521273afae88.jar/classes.dex" />
+    </item>
+    <item
+        jar="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/pre-dexed/debug/classes-5552db25397063c525bf26e200a15a4a25909ff3.jar/classes.dex" />
+    </item>
+    <item
+        jar="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="a25cc3798106f9730611fce0d9f9435ba9b10519">
+        <dex dex="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/pre-dexed/debug/classes-2b52770c3284ae39a05f9897bd561c54695fc63a.jar/classes.dex" />
+    </item>
+    <item
+        jar="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib3/PhoneContacts/unspecified/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="d0e71eaee4997d4c2f11d1da8779ac81f4e1fbbe">
+        <dex dex="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/pre-dexed/debug/classes-0c3138b9d9934df4220cdbe61e88c2c650b01ff4.jar/classes.dex" />
+    </item>
+    <item
+        jar="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcTheme/unspecified/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="dd32ece845e36484341e86c06f4b857c58395fe4">
+        <dex dex="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/pre-dexed/debug/classes-5e6ed241e08dc74e0733296ec6c62e02846d3046.jar/classes.dex" />
+    </item>
+    <item
+        jar="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="691ea52d28e26b5791913450e48ef60a0eea2a95">
+        <dex dex="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/pre-dexed/debug/classes-e1e5bc6e887befe764c4acc34f1ced0a2547d913.jar/classes.dex" />
+    </item>
+    <item
+        jar="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib2/WeatherLib2/unspecified/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="57b40e393c2a4590ac499e27e403d025085e8a64">
+        <dex dex="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/pre-dexed/debug/classes-7c319cc288fc20e486401fd245e81b5b1794db8e.jar/classes.dex" />
+    </item>
+    <item
+        jar="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HfmClient/unspecified/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="1e296f23d8b0c5c6f40c75d4dbecd5a1790aa33f">
+        <dex dex="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/pre-dexed/debug/classes-5c8e284eb4fbb0e7449b1a3ab4b0e67b9fead7a7.jar/classes.dex" />
+    </item>
+    <item
+        jar="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/pre-dexed/debug/classes-bbac1573cd6524aeaffbd9af57cacef0a654fff1.jar/classes.dex" />
+    </item>
+    <item
+        jar="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/WeatherLib1/unspecified/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="c5ad5447ee70f95135164792018daaa46a33374e">
+        <dex dex="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/pre-dexed/debug/classes-34e5e55c759e0d58875f0b6bdb446c25c41e8e63.jar/classes.dex" />
+    </item>
+    <item
+        jar="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/pre-dexed/debug/classes-30cf548e9ae16fbd3b30005c88fec85ed2ee68f6.jar/classes.dex" />
+    </item>
+    <item
+        jar="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/ProviderSettings/unspecified/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="4b13307b19ca0e12f99db4b89c6a0903a75db0af">
+        <dex dex="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/pre-dexed/debug/classes-c6d2922b2aa8d60ff039e77e4ed9fa0a9791c020.jar/classes.dex" />
+    </item>
+    <item
+        jar="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib3/HtcWrapWindowManager/unspecified/jars/classes.jar"
+        jumboMode="true"
+        revision="26.0.0"
+        sha1="724d1268da572a023d03da718861004a35f6c9cd">
+        <dex dex="/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/pre-dexed/debug/classes-b83bc7850910b074a3b0966a4f3a24c1172674c0.jar/classes.dex" />
+    </item>
+
+</items>

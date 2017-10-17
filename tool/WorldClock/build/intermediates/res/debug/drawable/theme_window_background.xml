@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/overlay_color"
+        android:drawable="@drawable/common_app_bkg"  />
+    <item android:id="@+id/app_bg_color"
+        android:drawable="@drawable/common_app_bkg"  />
+</layer-list>
+<!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/drawable/theme_window_background.xml -->

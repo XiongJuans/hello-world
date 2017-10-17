@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values-el/config.xml -->
+    <eat-comment/>
+    <bool name="config_flip_animation">true</bool>
+    <bool name="config_full_name_month">false</bool>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="location_unavailable">Τοποθεσία μη διαθέσιμη</string>
+    <string name="masthead_st_am">AM</string>
+    <string name="masthead_st_auto_sync_off">Ο αυτόματος συγχρονισμός είναι απενεργοποιημένος. Πιέστε για να δείτε τον καιρό.</string>
+    <string name="masthead_st_current_location">Τρέχουσα τοποθεσία</string>
+    <string name="masthead_st_device_only_off">Αλλαγή λειτουργίας υπηρεσίας εντοπισμού για τη λήψη καιρού</string>
+    <string name="masthead_st_location_service_off">Ενεργοποίηση υπηρεσιών εντοπισμού για τη λήψη καιρού</string>
+    <string name="masthead_st_pm">PM</string>
+    <string name="masthead_st_weather_unavailable">Ο Καιρός δεν είναι διαθέσιμος</string>
+</resources>

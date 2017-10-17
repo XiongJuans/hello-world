@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../hdk/htc/lib0/Customization" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../hdk/htc/lib0/HDKUtil" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../hdk/htc/lib0/HtcDebugFlag" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../hdk/htc/lib1/HfmClient" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../hdk/htc/lib1/HtcCalendarFramwork" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../hdk/htc/lib1/HtcCommonControl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../hdk/htc/lib1/HtcTheme" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../hdk/htc/lib1/LockScreenLib1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../hdk/htc/lib1/MastHead" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../hdk/htc/lib1/ProviderSettings" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../hdk/htc/lib1/WeatherLib1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../hdk/htc/lib2/HtcConfiguration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../hdk/htc/lib2/LockScreenLib2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../hdk/htc/lib2/WeatherLib2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../hdk/htc/lib3/HtcIntentLib3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../hdk/htc/lib3/HtcWrapWindowManager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../hdk/htc/lib3/PhoneContacts" vcs="Git" />
+  </component>
+</project>

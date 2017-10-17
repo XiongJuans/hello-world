@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>صغير</item><!--Small-->
+        <item>متوسط</item><!--Medium-->
+        <item>كبير</item><!--Large-->
+        <item>كبير جدًا</item><!--Extra large-->
+        <item>ضخم</item><!--Huge-->
+    </string-array>
+    <string-array name="weeklayout_secondary_text">
+        <item>أح</item><!--SU-->
+        <item>اث</item><!--M-->
+        <item>ث</item><!--TU-->
+        <item>أر</item><!--W-->
+        <item>خ</item><!--TH-->
+        <item>ج</item><!--F-->
+        <item>س</item><!--SA-->
+    </string-array>
+    <string name="accessibility_tap_action">انقر نقرًا مزدوجًا لاتخاذ إجراء</string>
+    <string name="add_comments">إضافة تعليق</string>
+    <string name="am">ص</string>
+    <string name="button_hide_caption">إخفاء الشرح</string>
+    <string name="button_hide_description">إخفاء الوصف</string>
+    <string name="button_show_caption">إظهار الشرح</string>
+    <string name="button_show_description">إظهار الوصف</string>
+    <string name="carousel_title">علامات</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ar/htc_strings.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">البحث في الأشخاص</string>
+    <string name="common_string_open_contact">فتح جهة اتصال</string>
+    <string name="common_string_save_to_existing_contact">حفظ إلى جهة اتصال موجودة</string>
+    <string name="common_string_save_to_people">حفظ إلى أشخاص</string>
+    <string name="common_string_share_title">المشاركة عبر</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string name="done">تم</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ar/htc_strings.xml -->
+    <eat-comment/>
+    <string name="label_day">يوم</string>
+    <string name="label_hour">ساعة</string>
+    <string name="label_minute">دقيقة</string>
+    <string name="label_month">شهر</string>
+    <string name="label_second">ثانية</string>
+    <string name="label_year">السنة</string>
+    <string name="license_dialog_content">بعض الرموز المستخدمة في هذا الهاتف تم تصميمها في الأصل بواسطة Google وتم تعديلها بواسطة HTC بموجب <a href="https://creativecommons.org/licenses/by/4.0/legalcode">ترخيص المشاع الإبداعي نَسب المُصنَّف 4.0</a>.</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <string name="ls_doubletap_drag">انقر نقرًا مزدوجًا واسحب للضبط</string>
+    <string name="ls_edit_number_before_calling">تحرير الرقم قبل الطلب</string>
+    <string name="ls_open_in_map">فتح في خريطة</string>
+    <string name="ls_tablet_storage_error">حدث خطأ في وحدة تخزين الكمبيوتر اللوحي. الرجاء إعادة تشغيل جهازك أو تهيئة وحدة التخزين.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string name="menu_crop">اقتصاص</string>
+    <string name="menu_delete">حذف</string>
+    <string name="menu_properties">التفاصيل</string>
+    <string name="menu_protect_info">معلومات الحماية</string>
+    <string name="menu_save_to_my_favorite">تعيين كمفضلة</string>
+    <string name="menu_send_photo_link_by_email">مشاركة ارتباط الصورة</string>
+    <string name="menu_set_as">تعيين كـ</string>
+    <string name="menu_settings">إعدادات</string>
+    <string name="menu_share">مشاركة</string>
+    <string name="menu_show_on_map">إظهار على الخريطة</string>
+    <string name="menu_slideshow">عرض الشرائح</string>
+    <string name="menu_view_full">عرض</string>
+    <string name="menu_view_video">تشغيل</string>
+    <string name="meun_rotate">تدوير</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ar/htc_strings.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">خطأ غير معروف</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string name="no">لا</string>
+    <string name="pm">م</string>
+    <string name="quickselection_share">المشاركة عبر</string>
+    <string name="refresh">تحديث</string>
+    <string name="reminderview_common_unlock_hint_icon">اسحب أيقونة لأعلى</string>
+    <string name="reminderview_common_unlock_hint_up">اسحب لأعلى لإلغاء التأمين</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ar/htc_strings.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">تحرير للتحديث</string>
+    <string name="st_action_bar_updating">جارٍ التحديث...</string>
+    <string name="st_draggable_item">عنصر قابل للسحب</string>
+    <string name="st_loading">جاري التحميل...</string>
+    <string name="st_more">المزيد</string>
+    <string name="st_pull_down_refresh">اسحب لأسفل للتحديث</string>
+    <string name="tab_remove_dialog_message">لديك علامة تبويب واحدة متبقية. لإضافة المزيد من علامات التبويب لهذا التطبيق، اختر "تحرير علامات التبويب/عوامل التصفية" في القائمة.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">تعذر إزالة علامة التبويب هذه</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ar/htc_strings.xml -->
+    <eat-comment/>
+    <string name="va_back">السابق</string>
+    <string name="va_call">مكالمة</string>
+    <string name="va_cancel">إلغاء</string>
+    <string name="va_clear">مسح</string>
+    <string name="va_close">إغلاق</string>
+    <string name="va_copy">نسخ</string>
+    <string name="va_download">تنزيل</string>
+    <string name="va_downloading">جاري التنزيل</string>
+    <string name="va_finish">إنهاء</string>
+    <string name="va_hide">إخفاء</string>
+    <string name="va_move_above">تحريك لأعلى</string>
+    <string name="va_move_below">تحريك لأسفل</string>
+    <string name="va_next">التالي</string>
+    <string name="va_ok">موافق</string>
+    <string name="va_open">فتح</string>
+    <string name="va_reset">إعادة تعيين</string>
+    <string name="va_send_mail">إرسال بريد</string>
+    <string name="va_send_message">إرسال رسالة</string>
+    <string name="va_show_all">عرض الكل</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string name="yes">نعم</string>
+</resources>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-kk/arrays.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>әрбір бірінші жұмада</item><!--on every first Friday-->
+        <item>әрбір екінші жұмада</item><!--on every second Friday-->
+        <item>әрбір үшінші жұмада</item><!--on every third Friday-->
+        <item>әрбір төртінші жұмада</item><!--on every fourth Friday-->
+        <item>әрбір соңғы жұмада</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>әрбір бірінші дүйсенбіде</item><!--on every first Monday-->
+        <item>әрбір екінші дүйсенбіде</item><!--on every second Monday-->
+        <item>әрбір үшінші дүйсенбіде</item><!--on every third Monday-->
+        <item>әрбір төртінші дүйсенбіде</item><!--on every fourth Monday-->
+        <item>әрбір соңғы дүйсенбіде</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>әрбір бірінші сенбіде</item><!--on every first Saturday-->
+        <item>әрбір екінші сенбіде</item><!--on every second Saturday-->
+        <item>әрбір үшінші сенбіде</item><!--on every third Saturday-->
+        <item>әрбір төртінші сенбіде</item><!--on every fourth Saturday-->
+        <item>әрбір соңғы сенбіде</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>әрбір бірінші жексенбіде</item><!--on every first Sunday-->
+        <item>әрбір екінші жексенбіде</item><!--on every second Sunday-->
+        <item>әрбір үшінші жексенбіде</item><!--on every third Sunday-->
+        <item>әрбір төртінші жексенбіде</item><!--on every fourth Sunday-->
+        <item>әрбір соңғы жексенбіде</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>әрбір бірінші бейсенбіде</item><!--on every first Thursday-->
+        <item>әрбір екінші бейсенбіде</item><!--on every second Thursday-->
+        <item>әрбір үшінші бейсенбіде</item><!--on every third Thursday-->
+        <item>әрбір төртінші бейсенбіде</item><!--on every fourth Thursday-->
+        <item>әрбір соңғы бейсенбіде</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>әрбір бірінші сейсенбіде</item><!--on every first Tuesday-->
+        <item>әрбір екінші сейсенбіде</item><!--on every second Tuesday-->
+        <item>әрбір үшінші сейсенбіде</item><!--on every third Tuesday-->
+        <item>әрбір төртінші сейсенбіде</item><!--on every fourth Tuesday-->
+        <item>әрбір соңғы сейсенбіде</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>әрбір бірінші сәрсенбіде</item><!--on every first Wednesday-->
+        <item>әрбір екінші сәрсенбіде</item><!--on every second Wednesday-->
+        <item>әрбір үшінші сәрсенбіде</item><!--on every third Wednesday-->
+        <item>әрбір төртінші сәрсенбіде</item><!--on every fourth Wednesday-->
+        <item>әрбір соңғы сәрсенбіде</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">бір рет</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> рет</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Әр <ns1:g id="count">%d</ns1:g> күн</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Әр <ns1:g id="count">%d</ns1:g> күн</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Әр <ns1:g id="count">%d</ns1:g> ай</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Әр <ns1:g id="count">%d</ns1:g> ай</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Әр <ns1:g id="count">%d</ns1:g> апта</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Әр <ns1:g id="count">%d</ns1:g> апта</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Әр <ns1:g id="count">%d</ns1:g> жыл</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Әр <ns1:g id="count">%d</ns1:g> жыл</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">Апта сайын <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other">Әрбір <ns1:g id="number">%1$d</ns1:g> апта сайын <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <string name="every_weekday">"Әр жұмыс күні (Дс\u2013Жм)"</string>
+    <string name="monthly">Ай сайын</string>
+    <string name="monthly_on_day_count">"Ай сайын (<ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g> сайын)"</string>
+    <string name="tm_daily">"Күнделікті"</string>
+    <string name="yearly_plain">Жыл сайын</string>
+</resources>

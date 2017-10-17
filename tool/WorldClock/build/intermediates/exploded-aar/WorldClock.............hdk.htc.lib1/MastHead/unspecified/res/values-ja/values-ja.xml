@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values-ja/config.xml -->
+    <eat-comment/>
+    <bool name="config_flip_animation">true</bool>
+    <bool name="config_full_name_month">false</bool>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="location_unavailable">位置情報を取得できません</string>
+    <string name="masthead_st_am">午前</string>
+    <string name="masthead_st_auto_sync_off">自動同期はオフです。タップすると天気を表示します。</string>
+    <string name="masthead_st_current_location">現在地</string>
+    <string name="masthead_st_device_only_off">天気情報を見るにはロケーションサービスモードを変更してください</string>
+    <string name="masthead_st_location_service_off">天気予報を見るには、位置サービスをオンにしてください</string>
+    <string name="masthead_st_pm">午後</string>
+    <string name="masthead_st_weather_unavailable">天気予報は利用できません</string>
+</resources>

@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string-array name="days_of_week">
+        <item>ISNIN</item><!--MONDAY-->
+        <item>SELASA</item><!--TUESDAY-->
+        <item>RABU</item><!--WEDNESDAY-->
+        <item>KHAMIS</item><!--THURSDAY-->
+        <item>JUMAAT</item><!--FRIDAY-->
+        <item>SABTU</item><!--SATURDAY-->
+        <item>AHAD</item><!--SUNDAY-->
+    </string-array>
+    <string-array name="days_of_week_abbr">
+        <item>I</item><!--M-->
+        <item>SE</item><!--TU-->
+        <item>R</item><!--W-->
+        <item>KH</item><!--TH-->
+        <item>F</item><!--F-->
+        <item>SA</item><!--SA-->
+        <item>AH</item><!--SU-->
+    </string-array>
+    <string-array name="days_of_week_capital">
+        <item/>
+        <item>AHA</item><!--SUN-->
+        <item>ISN</item><!--MON-->
+        <item>SEL</item><!--TUE-->
+        <item>RAB</item><!--WED-->
+        <item>KHA</item><!--THU-->
+        <item>JUM</item><!--FRI-->
+        <item>SAB</item><!--SAT-->
+    </string-array>
+    <string-array name="days_of_week_short">
+        <item>@string/tm_mon</item>
+        <item>@string/tm_tue</item>
+        <item>@string/tm_wed</item>
+        <item>@string/tm_thu</item>
+        <item>@string/tm_fri</item>
+        <item>@string/tm_sat</item>
+        <item>@string/tm_sun</item>
+    </string-array>
+    <string-array name="days_of_week_whole_capital">
+        <item/>
+        <item>AHAD</item><!--SUNDAY-->
+        <item>ISNIN</item><!--MONDAY-->
+        <item>SELASA</item><!--TUESDAY-->
+        <item>RABU</item><!--WEDNESDAY-->
+        <item>KHAMIS</item><!--THURSDAY-->
+        <item>JUMAAT</item><!--FRIDAY-->
+        <item>SABTU</item><!--SATURDAY-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/WeatherLib1/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string-array name="htc_weather_conditions">
+<!-- weather condition 1 : Sunny -->
+        <item>Panas</item><!--Sunny-->
+<!-- weather condition 2 : Mostly Sunny -->
+        <item>Kebanyakannya Panas</item><!--Mostly Sunny-->
+<!-- weather condition 3 : Partly Sunny -->
+        <item>Sebahagiannya Panas</item><!--Partly Sunny-->
+<!-- weather condition 4 : Intermittent Clouds -->
+        <item>Awan Tompok-tompok</item><!--Intermittent Clouds--><!--Intermittent Clouds-->
+<!-- weather condition 5 : Hazy Sunshine -->
+        <item>Sinar Matahari Berjerebu</item><!--Hazy Sunshine-->
+<!-- weather condition 6 : Mostly Cloudy -->
+        <item>Kebanyakannya Mendung</item><!--Mostly Cloudy--><!--Mostly Cloudy-->
+<!-- weather condition 7 : Cloudy -->
+        <item>Mendung</item><!--Cloudy-->
+<!-- weather condition 8 : Dreary -->
+        <item>Redup</item><!--Dreary-->
+<!-- weather condition 11 : Fog -->
+        <item>Kabus</item><!--Fog-->
+<!-- weather condition 12 : Showers -->
+        <item>Hujan Lebat</item><!--Showers-->
+<!-- weather condition 13 : Mostly Cloudy with Showers -->
+        <item>Kebanyakannya Mendung dengan Hujan Lebat</item><!--Mostly Cloudy with Showers--><!--Mostly Cloudy with Showers-->
+<!-- weather condition 14 : Partly Sunny with Showers -->
+        <item>Sebahagiannya Panas dengan Hujan Lebat</item><!--Partly Sunny with Showers-->
+<!-- weather condition 15 : Thunderstorms -->
+        <item>Ribut Petir</item><!--Thunderstorms-->
+<!-- weather condition 16 : Mostly Cloudy with Thunder Showers -->
+        <item>Kebanyakannya Mendung dengan Hujan dan Petir</item><!--Mostly Cloudy with Thunder Showers--><!--Mostly Cloudy with Thunder Showers-->
+<!-- weather condition 17 : Partly Sunny with Thunder Showers -->
+        <item>Sebahagiannya Panas dengan Hujan dan Petir</item><!--Partly Sunny with Thunder Showers-->
+<!-- weather condition 18 : Rain -->
+        <item>Hujan</item><!--Rain-->
+<!-- weather condition 19 : Flurries -->
+        <item>Hujan Lari</item><!--Flurries-->
+<!-- weather condition 20 : Mostly Cloudy with Flurries -->
+        <item>Kebanyakannya Mendung dengan Hujan Lari</item><!--Mostly Cloudy with Flurries--><!--Mostly Cloudy with Flurries-->
+<!-- weather condition 21 : Partly Sunny with Flurries -->
+        <item>Sebahagiannya Panas dengan Hujan Lari</item><!--Partly Sunny with Flurries-->
+<!-- weather condition 22 : Snow -->
+        <item>Salji</item><!--Snow-->
+<!-- weather condition 23 : Mostly Cloudy with Snow -->
+        <item>Kebanyakannya Mendung dengan Salji</item><!--Mostly Cloudy with Snow-->
+<!-- weather condition 24 : Ice -->
+        <item>Ais</item><!--Ice-->
+<!-- weather condition 25 : Sleet -->
+        <item>Hujan Beku</item><!--Sleet-->
+<!-- weather condition 26 : Freezing Rain -->
+        <item>Hujan Sejuk Beku</item><!--Freezing Rain-->
+<!-- weather condition 29 : Rain and Snow Mixed -->
+        <item>Hujan dan Salji Bercampur</item><!--Rain and Snow Mixed-->
+<!-- weather condition 30 : Hot -->
+        <item>Panas</item><!--Hot-->
+<!-- weather condition 31 : Cold -->
+        <item>Sejuk</item><!--Cold-->
+<!-- weather condition 32 : Windy -->
+        <item>Berangin</item><!--Windy-->
+<!-- weather condition 33 : Clear -->
+        <item>Cerah</item><!--Clear-->
+<!-- weather condition 34 : Mostly Clear -->
+        <item>Kebanyakannya Cerah</item><!--Mostly Clear-->
+<!-- weather condition 35 : Partly Cloudy -->
+        <item>Sebahagiannya Mendung</item><!--Partly Cloudy-->
+<!-- weather condition 36 : Intermittent Clouds -->
+        <item>Awan Tompok-tompok</item><!--Intermittent Clouds--><!--Intermittent Clouds-->
+<!-- weather condition 37 : Hazy -->
+        <item>Jerebu</item><!--Hazy-->
+<!-- weather condition 38 : Mostly Cloudy -->
+        <item>Kebanyakannya Mendung</item><!--Mostly Cloudy--><!--Mostly Cloudy-->
+<!-- weather condition 39 : Partly Cloudy with Showers -->
+        <item>Sebahagiannya Mendung dengan Hujan Lebat</item><!--Partly Cloudy with Showers-->
+<!-- weather condition 40 : Mostly Cloudy with Showers -->
+        <item>Kebanyakannya Mendung dengan Hujan Lebat</item><!--Mostly Cloudy with Showers--><!--Mostly Cloudy with Showers-->
+<!-- weather condition 41 : Partly Cloudy with Thunder Showers -->
+        <item>Sebahagiannya Mendung dengan Hujan dan Petir</item><!--Partly Cloudy with Thunder Showers-->
+<!-- weather condition 42 : Mostly Cloudy with Thunder Showers -->
+        <item>Kebanyakannya Mendung dengan Hujan dan Petir</item><!--Mostly Cloudy with Thunder Showers--><!--Mostly Cloudy with Thunder Showers-->
+<!-- weather condition 43 : Partly Cloudy with Flurries -->
+        <item>Sebahagiannya Mendung dengan Hujan Lari</item><!--Partly Cloudy with Flurries-->
+<!-- weather condition 44 : Mostly Cloudy with Flurries -->
+        <item>Kebanyakannya Mendung dengan Hujan Lari</item><!--Mostly Cloudy with Flurries--><!--Mostly Cloudy with Flurries-->
+<!-- _For Huafeng -->
+<!-- weather condition 51 : -->
+        <item>Ribut petir dengan hujan beku</item><!--Thunderstorms with sleet-->
+<!-- weather condition 52 : -->
+        <item>Pasir</item><!--Sand-->
+<!-- weather condition 53 : -->
+        <item>Debu</item><!--Dust-->
+<!-- weather condition 54 : -->
+        <item>Puting beliung</item><!--Tornado-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string-array name="month_of_year">
+    	<item>JAN</item><!--JAN-->
+    	<item>FEB</item><!--FEB-->
+    	<item>MAC</item><!--MAR-->
+    	<item>APR</item><!--APR-->
+    	<item>MEI</item><!--MAY-->
+    	<item>JUN</item><!--JUN-->
+    	<item>JUL</item><!--JUL-->
+    	<item>OGO</item><!--AUG-->
+    	<item>SEP</item><!--SEP-->
+    	<item>OKT</item><!--OCT-->
+    	<item>NOV</item><!--NOV-->
+    	<item>DIS</item><!--DEC-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>pada setiap Jumaat pertama</item><!--on every first Friday-->
+        <item>pada setiap Jumaat kedua</item><!--on every second Friday-->
+        <item>pada setiap Jumaat ketiga</item><!--on every third Friday-->
+        <item>pada setiap Jumaat keempat</item><!--on every fourth Friday-->
+        <item>pada setiap Jumaat terakhir</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>pada setiap Isnin pertama</item><!--on every first Monday-->
+        <item>pada setiap Isnin kedua</item><!--on every second Monday-->
+        <item>pada setiap Isnin ketiga</item><!--on every third Monday-->
+        <item>pada setiap Isnin keempat</item><!--on every fourth Monday-->
+        <item>pada setiap Isnin terakhir</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>pada setiap Sabtu pertama</item><!--on every first Saturday-->
+        <item>pada setiap Sabtu kedua</item><!--on every second Saturday-->
+        <item>pada setiap Sabtu ketiga</item><!--on every third Saturday-->
+        <item>pada setiap Sabtu keempat</item><!--on every fourth Saturday-->
+        <item>pada setiap Sabtu terakhir</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>pada setiap Ahad pertama</item><!--on every first Sunday-->
+        <item>pada setiap Ahad kedua</item><!--on every second Sunday-->
+        <item>pada setiap Ahad ketiga</item><!--on every third Sunday-->
+        <item>pada setiap Ahad keempat</item><!--on every fourth Sunday-->
+        <item>pada setiap Ahad terakhir</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>pada setiap Khamis pertama</item><!--on every first Thursday-->
+        <item>pada setiap Khamis kedua</item><!--on every second Thursday-->
+        <item>pada setiap Khamis ketiga</item><!--on every third Thursday-->
+        <item>pada setiap Khamis keempat</item><!--on every fourth Thursday-->
+        <item>pada setiap Khamis terakhir</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>pada setiap Selasa pertama</item><!--on every first Tuesday-->
+        <item>pada setiap Selasa kedua</item><!--on every second Tuesday-->
+        <item>pada setiap Selasa ketiga</item><!--on every third Tuesday-->
+        <item>pada setiap Selasa keempat</item><!--on every fourth Tuesday-->
+        <item>pada setiap Selasa terakhir</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>pada setiap Rabu pertama</item><!--on every first Wednesday-->
+        <item>pada setiap Rabu kedua</item><!--on every second Wednesday-->
+        <item>pada setiap Rabu ketiga</item><!--on every third Wednesday-->
+        <item>pada setiap Rabu keempat</item><!--on every fourth Wednesday-->
+        <item>pada setiap Rabu terakhir</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string-array name="repeat_option">
+        <item>Isn - Jum</item><!--Mon -/ Fri-->
+        <item>Jangan ulang</item><!--Do not repeat-->
+        <item>Setiap hari</item><!--Every day-->
+        <item>Langkau cuti</item><!--Skip holidays-->
+        <item>Tersuai</item><!--Custom-->
+    </string-array>
+    <string-array name="snooze_duration_entries">
+      <item>5 minit</item><!--5 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_10_minutes</item>
+      <item>15 minit</item><!--15 minutes-->
+      <item>20 minit</item><!--20 minutes-->
+      <item>25 minit</item><!--25 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_30_minutes</item>
+    </string-array>
+    <string-array name="sound_selection_setting_entries">
+<!-- Alarm sound -->
+      <item>Bunyi penggera</item><!--Alarm sound-->
+<!-- Do not translate. Ringtone -->
+      <item>@string/nn_ringtone</item>
+<!-- Do not translate. Music -->
+      <item>@string/nn_music</item>
+    </string-array>
+    <string-array name="sprint_volume_button_setting_entries">
+      <item>Jangan buat apa-apa</item><!--Do nothing-->
+
+      <item>Tidur sekejap</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+
+      <item>Senyap</item><!--Silence-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>Kecil</item><!--Small-->
+        <item>Sederhana</item><!--Medium-->
+        <item>Besar</item><!--Large-->
+        <item>Lebih besar</item><!--Extra large-->
+        <item>Sangat besar</item><!--Huge-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string-array name="volume_button_setting_entries">
+      <item>Jangan buat apa-apa</item><!--Do nothing-->
+
+      <item>Tidur sekejap</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string-array name="weeklayout_secondary_text">
+        <item>AH</item><!--SU-->
+        <item>I</item><!--M-->
+        <item>SE</item><!--TU-->
+        <item>R</item><!--W-->
+        <item>KH</item><!--TH-->
+        <item>F</item><!--F-->
+        <item>SA</item><!--SA-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">satu kali</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> kali</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Setiap <ns1:g id="count">%d</ns1:g> hari</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Setiap <ns1:g id="count">%d</ns1:g> hari</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Setiap <ns1:g id="count">%d</ns1:g> bulan</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Setiap <ns1:g id="count">%d</ns1:g> bulan</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Setiap <ns1:g id="count">%d</ns1:g> minggu</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Setiap <ns1:g id="count">%d</ns1:g> minggu</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Setiap <ns1:g id="count">%d</ns1:g> tahun</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Setiap <ns1:g id="count">%d</ns1:g> tahun</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">Mingguan pada <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other">Setiap <ns1:g id="number">%1$d</ns1:g> minggu pada <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string name="accessibility_tap_action">Ketik dua kali untuk bertindak</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="add_alarm">Tambah penggera</string>
+    <string name="add_alarm_error">Bilangan maksimum penggera telah dicapai.</string>
+    <string name="add_city">Tambah bandar</string>
+    <string name="add_city_error_msg">Anda boleh mempunyai 15 bandar maksimum. Untuk menambah yang baharu, sila padamkan bandar sedia ada.</string>
+    <string name="add_city_error_title">Tidak dapat menambah bandar</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string name="add_comments">Tambah komen</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="add_lap_error">Jam randik boleh menyimpan 300 pusingan maksimum. Ketik Tetapkan Semula untuk mengosongkan sejarah pusingan.</string>
+    <string name="addcity_search">Cari bandar</string>
+    <string name="alarm_alert_alert_silenced">Penggera disenyapkan selepas <ns1:g id="minutes">%d</ns1:g> minit.</string>
+    <string name="alarm_alert_dismissed">Penggera disuraikan.</string>
+    <string name="alarm_alert_snooze_not_set">Tidur sekejap tidak ditetapkan. Penggeran seterusnya ditetapkan untuk <ns1:g id="time">%s</ns1:g></string>
+    <string name="alarm_alert_snooze_set">Tidur sekejap untuk <ns1:g id="minutes">%d</ns1:g> minit.</string>
+    <string name="alarm_caption">Penggera</string>
+    <string name="alarm_in_volume_increase_mode_summary">Tingkatkan kelantangan penggera secara beransur-ansur</string>
+    <string name="alarm_in_volume_increase_mode_title">Penggera lembut</string>
+    <string name="alarm_notify_snooze_label"><ns1:g id="label">%s</ns1:g> (ditidurkan sekejap)</string>
+    <string name="alarm_notify_snooze_text">Penggeran ditetapkan untuk <ns1:g id="time">%s</ns1:g>. Ketik untuk membatalkan.</string>
+    <string name="alarm_off">Penggera Dimatikan</string>
+    <string name="alarm_offalarm">Bunyi apabila telefon mati</string>
+    <string name="alarm_on">Penggera Dihidupkan</string>
+    <string name="alarm_repeat">Ulang</string>
+    <string name="alarm_ringtone">Bunyi penggera</string>
+    <string name="alarm_set">Penggera ini ditetapkan untuk <ns1:g id="time_delta">%s</ns1:g> dari sekarang.</string>
+    <string name="alarm_vibrate">Bergetar</string>
+    <string name="alarm_volume_summary">Tetapkan kelantangan penggera</string>
+    <string name="alarm_volume_title">Kelantangan penggera</string>
+    <string name="alert_sound">Bunyi penggera</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string name="am">AM</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="analog_gadget">Jam Analog</string>
+    <string name="and">"dan"</string>
+    <string name="bt_cancel_str">Batalkan</string>
+    <string name="bt_done_str">Selesai</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string name="button_hide_caption">Sembunyikan kapsyen</string>
+    <string name="button_hide_description">Sembunyikan keterangan</string>
+    <string name="button_show_caption">Tunjukkan kapsyen</string>
+    <string name="button_show_description">Tunjukkan keterangan</string>
+    <string name="carousel_title">Edit tab</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="city_duplicate">Bandar ini sudah ada dalam senarai</string>
+    <string name="city_not_found">BANDAR TIDAK DITEMUI</string>
+    <string name="clock_permission_dialog_btn_close">Tutup</string>
+    <string name="clock_permission_dialog_btn_settings">Tetapan</string>
+    <string name="clock_permission_dialog_content">Untuk berfungsi dengan betul, aplikasi ini perlu mengakses storan anda. Anda boleh mengurus kebenaran Jam dalam Tetapan.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">Cari Orang</string>
+    <string name="common_string_open_contact">Buka kenalan</string>
+    <string name="common_string_save_to_existing_contact">Simpan pada kenalan sedia ada</string>
+    <string name="common_string_save_to_people">Simpan pada Orang</string>
+    <string name="common_string_share_title">Kongsi melalui</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="current_settings">Tetapkan tarikh dan masa</string>
+    <string name="day_concat">", "</string>
+    <string name="days">"<ns1:g id="days">%s</ns1:g> hari"</string>
+    <string name="dberror">Maaf, penggera tidak boleh ditetapkan.</string>
+    <string name="delete_alarm_caption">Padam penggera</string>
+    <string name="delete_city_caption">Padam bandar</string>
+    <string name="desk_clock_caption">Jam Meja</string>
+    <string name="dialog_button_ok">OK</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string name="done">Selesai</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="error">Tidak dapat menambah penggera</string>
+    <string name="error_title">Ralat pangkalan data</string>
+    <string name="every_day">Setiap hari</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string name="every_weekday">Setiap hari biasa (Isn-Jum)</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="fit_screen_menu_item">Muat pada skrin</string>
+    <string name="full_screen_menu_item">Skrin penuh</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/googleplay_strings.xml -->
+    <eat-comment/>
+    <string name="googleplay_description_app">Sama ada anda berada di Taipei, Taiwan atau Marrakech, Maghribi, HTC Jam membolehkan anda menyemak masa di lokasi semasa anda, di rumah dan di bandar seluruh dunia. Ia penggera, jam randik dan pemasa yang boleh disuaikan meletakkan kuasa pengurusan masa dalam genggaman anda juga. Tetapkan sebanyak mungkin penggera yang anda suka, ubah tempoh tidur sekejap, pilih bunyi yang dimainkan apabila penggera mati dan juga menjadikan penggera berbunyi apabila telefon anda senyap. Jam randik HTC Jam hebat untuk merekodkan pusingan semasa bersenam dan pemasa yang berguna untuk memasak atau memantau masa di hadapan TV.</string>
+    <string name="googleplay_description_legal">[googleplay_description_legal_common_1]</string>
+    <string name="googleplay_description_short">Awasi waktu dengan jam randik anggun, pemasa, penggera dan jam dunia HTC.</string>
+    <string name="googleplay_description_supportingScope"/>
+    <string name="googleplay_title">Jam HTC</string>
+    <string name="googleplay_whatsnew">- Penggera semakin kuat secara beransur-ansur\n- Pembetulan pepijat dan peningkatan prestasi</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="home_settings">Tetapkan zon waktu rumah</string>
+    <string name="hours"><ns1:g id="hours">%s</ns1:g> jam</string>
+    <string name="htc_private_app_clock">Jam</string>
+    <string name="internal_memory_low">Ruang storan telefon anda rendah. Sila bebaskan sedikit ruang sebelum menggunakan aplikasi ini.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string name="label_day">Hari</string>
+    <string name="label_hour">Jam</string>
+    <string name="label_minute">Minit</string>
+    <string name="label_month">Bulan</string>
+    <string name="label_second">Saat</string>
+    <string name="label_year">Tahun</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="lap">Pusingan</string>
+    <string name="lap_error">Pusingan tidak disimpan</string>
+    <string name="lap_id"># Pusingan</string>
+    <string name="lap_time">Pusingan ini</string>
+    <string name="lap_title">Pusingan</string>
+    <string name="lap_total_time">Jumlah</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string name="license_dialog_content">Sesetengah ikon yang digunakan pada telefon ini secara asalnya telah direka oleh Google dan diubah suai oleh HTC di bawah <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons License Atribusi 4.0</a>.</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="loading_city">Memuatkan senarai bandar...</string>
+    <string name="location_dialog_msg">Untuk mendapatkan cuaca tempatan, ubah tetapan lokasi anda kepada mod penjimatan bateri atau ketepatan tinggi.</string>
+    <string name="location_dialog_title">Perkhidmatan lokasi dimatikan</string>
+    <string name="location_enable">Untuk melihat cuaca setempat,\nketik di sini untuk menghidupkan Perkhidmatan Lokasi.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string name="location_unavailable">Lokasi tidak tersedia</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="lockscreen_hint_dismiss">Seret ke bawah untuk menolak</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string name="ls_doubletap_drag">ketik dua kali dan seret untuk melaras</string>
+    <string name="ls_edit_number_before_calling">Edit nombor sebelum memanggil</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="ls_no_weather_data_available">Tiada data cuaca tersedia</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string name="ls_open_in_map">Buka dalam peta</string>
+    <string name="ls_tablet_storage_error">Berlaku ralat pada storan tablet anda. Sila but semula peranti anda atau format storan.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string name="masthead_st_am">AM</string>
+    <string name="masthead_st_auto_sync_off">Penyegerakan auto dimatikan. Ketik untuk melihat cuaca.</string>
+    <string name="masthead_st_current_location">Lokasi semasa</string>
+    <string name="masthead_st_device_only_off">Ubah mod perkhidmatan lokasi untuk mendapatkan cuaca</string>
+    <string name="masthead_st_location_service_off">Hidupkan perkhidmatan lokasi untuk mendapatkan cuaca</string>
+    <string name="masthead_st_pm">PM</string>
+    <string name="masthead_st_weather_unavailable">Cuaca tidak tersedia</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string name="menu_crop">Pangkas</string>
+    <string name="menu_delete">Padamkan</string>
+    <string name="menu_properties">Butiran</string>
+    <string name="menu_protect_info">Maklumat perlindungan</string>
+    <string name="menu_save_to_my_favorite">Tetapkan sebagai kegemaran</string>
+    <string name="menu_send_photo_link_by_email">Kongsi pautan foto</string>
+    <string name="menu_set_as">Tetapkan sebagai</string>
+    <string name="menu_settings">Tetapan</string>
+    <string name="menu_share">Kongsi</string>
+    <string name="menu_show_on_map">Tunjukkan pada peta</string>
+    <string name="menu_slideshow">Tayangan slaid</string>
+    <string name="menu_view_full">Lihat</string>
+    <string name="menu_view_video">Main</string>
+    <string name="meun_rotate">Putar</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="minutes">"<ns1:g id="minutes">%s</ns1:g> minit"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string name="monthly">Bulanan</string>
+    <string name="monthly_on_day_count">\"Bulanan (Setiap <ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g>)\"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="nextAlarm">Penggera seterusnya: <ns1:g id="next_alarm_time">%s</ns1:g></string>
+    <string name="night_clock">@string/desk_clock_caption</string>
+    <string name="nn_alarm">Penggera</string>
+    <string name="nn_description">Keterangan</string>
+    <string name="nn_music">Muzik</string>
+    <string name="nn_ringtone">Nada dering</string>
+    <string name="nn_settings">Tetapan</string>
+    <string name="nn_tips_help">Petua dan Bantuan</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">Ralat tidak diketahui</string>
+    <string name="no">Tidak</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="pause">Jeda</string>
+    <string name="phone_type_home">Rumah</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string name="pm">PM</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="query_fail">Ralat berlaku semasa mengakses pangkalan data</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string name="quickselection_share">Kongsi melalui</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="rearrange_city_caption">Edit senarai</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string name="refresh">Muat semula</string>
+    <string name="reminderview_common_unlock_hint_icon">Tarik ikon ke atas</string>
+    <string name="reminderview_common_unlock_hint_up">Tarik ke atas untuk membuka kunci</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="reset">Tetapkan semula</string>
+    <string name="resume">Sambung semula</string>
+    <string name="ringtone_title">Nada Dering</string>
+    <string name="select_alert">Pilih bunyi isyarat</string>
+    <string name="select_ringtone">Pilih bunyi penggera</string>
+    <string name="set_alarm_caption">Tetapkan penggera</string>
+    <string name="snooze">Tidur sekejap</string>
+    <string name="snooze_duration_title">Tempoh tidur sekejap</string>
+    <string name="sound_selection_title">Pilih bunyi penggera daripada</string>
+    <string name="space">" "</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">Lepaskan untuk memuat semula</string>
+    <string name="st_action_bar_updating">Mengemas kini...</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="st_default">Lalai</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string name="st_draggable_item">Item boleh leret</string>
+    <string name="st_loading">Memuatkan…</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="st_more">Lagi</string>
+    <string name="st_never">Jangan sekali-kali</string>
+    <string name="st_off">Mati</string>
+    <string name="st_on">Hidup</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string name="st_pull_down_refresh">Tarik ke bawah untuk memuat semula</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="st_silent">Senyap</string>
+    <string name="st_storage_full">Storan penuh</string>
+    <string name="start">Mula</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="stop">Berhenti</string>
+    <string name="stopwatch_caption">Jam randik</string>
+    <string name="storage_full_description">Baki ruang kosong dalam storan telefon anda tidak mencukupi. Sila padamkan beberapa kandungan atau aplikasi. Ketik \"Tetapan\" di bawah untuk menguruskan apl anda.</string>
+    <string name="subminute">"tinggal kurang daripada 1 minit"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string name="tab_remove_dialog_message">Anda mempunyai baki satu tab. Untuk menambahkan lagi tab untuk apl ini, pilih Edit tab/Penapis pada menu.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="time_up">Masa tamat!</string>
+    <string name="timer_caption">Pemasa</string>
+    <string name="timer_reminder_tile_setting">Tetapan</string>
+    <string name="timer_reminder_tile_timer_up">Masa tamat</string>
+    <string name="tm_10_minutes">10 minit</string>
+    <string name="tm_1_day">1 hari</string>
+    <string name="tm_1_hour">1 jam</string>
+    <string name="tm_1_minute">1 minit</string>
+    <string name="tm_30_minutes">30 minit</string>
+    <string name="tm_am">AM</string>
+    <string name="tm_current">Semasa</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string name="tm_daily">\"Harian\"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="tm_fri">Jum</string>
+    <string name="tm_mon">Isn</string>
+    <string name="tm_pm">PM</string>
+    <string name="tm_sat">Sab</string>
+    <string name="tm_sun">Aha</string>
+    <string name="tm_thu">Kha</string>
+    <string name="tm_today">Hari ini</string>
+    <string name="tm_tomorrow">Esok</string>
+    <string name="tm_tue">Sel</string>
+    <string name="tm_wed">Rab</string>
+    <string name="tm_yesterday">Semalam</string>
+    <string name="total_title">Jumlah</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">Tidak dapat mengalih keluar tab ini</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="va_add">Tambah</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string name="va_back">Undur</string>
+    <string name="va_call">Panggil</string>
+    <string name="va_cancel">Batalkan</string>
+    <string name="va_clear">Kosongkan</string>
+    <string name="va_close">Tutup</string>
+    <string name="va_copy">Salin</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="va_deselect_all">Nyahpilih semua</string>
+    <string name="va_dismiss">Ketepikan</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string name="va_download">Muat turun</string>
+    <string name="va_downloading">Memuat turun</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="va_edit">Edit</string>
+    <string name="va_edit_tabs">Edit tab</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string name="va_finish">Selesai</string>
+    <string name="va_hide">Sembunyi</string>
+    <string name="va_move_above">Alih ke atas</string>
+    <string name="va_move_below">Alih ke bawah</string>
+    <string name="va_next">Seterusnya</string>
+    <string name="va_ok">OK</string>
+    <string name="va_open">Buka</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="va_rearrange">Susun semula</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string name="va_reset">Tetapkan semula</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="va_select_all">Pilih semua</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string name="va_send_mail">Hantar mel</string>
+    <string name="va_send_message">Hantar mesej</string>
+    <string name="va_show_all">Tunjukkan semua</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="volume_button_setting_summary">Pilih perkara yang akan dilakukan oleh butang kelantangan apabila ditekan semasa penggera</string>
+    <string name="volume_button_setting_title">Pilihan butang kelantangan</string>
+    <string name="weather_high_indicator">T:</string>
+    <string name="weather_low_indicator">R:</string>
+    <string name="world_clock_caption">Jam Dunia</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string name="yearly_plain">Tahunan</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ms/values-ms.xml -->
+    <eat-comment/>
+    <string name="yes">Ya</string>
+</resources>

@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string-array name="days_of_week">
+        <item>月曜日</item><!--MONDAY-->
+        <item>火曜日</item><!--TUESDAY-->
+        <item>水曜日</item><!--WEDNESDAY-->
+        <item>木曜日</item><!--THURSDAY-->
+        <item>金曜日</item><!--FRIDAY-->
+        <item>土曜日</item><!--SATURDAY-->
+        <item>日曜日</item><!--SUNDAY-->
+    </string-array>
+    <string-array name="days_of_week_abbr">
+        <item>月</item><!--M-->
+        <item>火</item><!--TU-->
+        <item>水</item><!--W-->
+        <item>木</item><!--TH-->
+        <item>金</item><!--F-->
+        <item>土</item><!--SA-->
+        <item>日</item><!--SU-->
+    </string-array>
+    <string-array name="days_of_week_capital">
+        <item/>
+        <item>日</item><!--SUN-->
+        <item>月</item><!--MON-->
+        <item>火</item><!--TUE-->
+        <item>水</item><!--WED-->
+        <item>木</item><!--THU-->
+        <item>金</item><!--FRI-->
+        <item>土</item><!--SAT-->
+    </string-array>
+    <string-array name="days_of_week_short">
+        <item>@string/tm_mon</item>
+        <item>@string/tm_tue</item>
+        <item>@string/tm_wed</item>
+        <item>@string/tm_thu</item>
+        <item>@string/tm_fri</item>
+        <item>@string/tm_sat</item>
+        <item>@string/tm_sun</item>
+    </string-array>
+    <string-array name="days_of_week_whole_capital">
+        <item/>
+        <item>日曜日</item><!--SUNDAY-->
+        <item>月曜日</item><!--MONDAY-->
+        <item>火曜日</item><!--TUESDAY-->
+        <item>水曜日</item><!--WEDNESDAY-->
+        <item>木曜日</item><!--THURSDAY-->
+        <item>金曜日</item><!--FRIDAY-->
+        <item>土曜日</item><!--SATURDAY-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/WeatherLib1/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string-array name="htc_weather_conditions">
+<!-- weather condition 1 : Sunny -->
+        <item>晴れ</item><!--Sunny-->
+<!-- weather condition 2 : Mostly Sunny -->
+        <item>晴れ</item><!--Mostly Sunny-->
+<!-- weather condition 3 : Partly Sunny -->
+        <item>晴れ</item><!--Partly Sunny-->
+<!-- weather condition 4 : Intermittent Clouds -->
+        <item>時々曇り</item><!--Intermittent Clouds--><!--Intermittent Clouds-->
+<!-- weather condition 5 : Hazy Sunshine -->
+        <item>もやのかかった晴れ</item><!--Hazy Sunshine-->
+<!-- weather condition 6 : Mostly Cloudy -->
+        <item>曇り</item><!--Mostly Cloudy--><!--Mostly Cloudy-->
+<!-- weather condition 7 : Cloudy -->
+        <item>曇り</item><!--Cloudy-->
+<!-- weather condition 8 : Dreary -->
+        <item>曇り</item><!--Dreary-->
+<!-- weather condition 11 : Fog -->
+        <item>霧</item><!--Fog-->
+<!-- weather condition 12 : Showers -->
+        <item>にわか雨</item><!--Showers-->
+<!-- weather condition 13 : Mostly Cloudy with Showers -->
+        <item>曇り、ときどき雨</item><!--Mostly Cloudy with Showers--><!--Mostly Cloudy with Showers-->
+<!-- weather condition 14 : Partly Sunny with Showers -->
+        <item>晴れ、ときどき雨</item><!--Partly Sunny with Showers-->
+<!-- weather condition 15 : Thunderstorms -->
+        <item>雷雨</item><!--Thunderstorms-->
+<!-- weather condition 16 : Mostly Cloudy with Thunder Showers -->
+        <item>曇り、ときどき雷雨</item><!--Mostly Cloudy with Thunder Showers--><!--Mostly Cloudy with Thunder Showers-->
+<!-- weather condition 17 : Partly Sunny with Thunder Showers -->
+        <item>晴れ、ときどき雷雨</item><!--Partly Sunny with Thunder Showers-->
+<!-- weather condition 18 : Rain -->
+        <item>雨</item><!--Rain-->
+<!-- weather condition 19 : Flurries -->
+        <item>突風</item><!--Flurries-->
+<!-- weather condition 20 : Mostly Cloudy with Flurries -->
+        <item>曇り、ときどき突風</item><!--Mostly Cloudy with Flurries--><!--Mostly Cloudy with Flurries-->
+<!-- weather condition 21 : Partly Sunny with Flurries -->
+        <item>晴れ、ときどき突風</item><!--Partly Sunny with Flurries-->
+<!-- weather condition 22 : Snow -->
+        <item>雪</item><!--Snow-->
+<!-- weather condition 23 : Mostly Cloudy with Snow -->
+        <item>曇り、ときどき雪</item><!--Mostly Cloudy with Snow-->
+<!-- weather condition 24 : Ice -->
+        <item>氷</item><!--Ice-->
+<!-- weather condition 25 : Sleet -->
+        <item>みぞれ</item><!--Sleet-->
+<!-- weather condition 26 : Freezing Rain -->
+        <item>雨氷</item><!--Freezing Rain-->
+<!-- weather condition 29 : Rain and Snow Mixed -->
+        <item>みぞれ</item><!--Rain and Snow Mixed-->
+<!-- weather condition 30 : Hot -->
+        <item>暑い</item><!--Hot-->
+<!-- weather condition 31 : Cold -->
+        <item>寒い</item><!--Cold-->
+<!-- weather condition 32 : Windy -->
+        <item>強風</item><!--Windy-->
+<!-- weather condition 33 : Clear -->
+        <item>晴れ</item><!--Clear-->
+<!-- weather condition 34 : Mostly Clear -->
+        <item>晴れ、所により曇り</item><!--Mostly Clear-->
+<!-- weather condition 35 : Partly Cloudy -->
+        <item>晴れ、所により曇り</item><!--Partly Cloudy-->
+<!-- weather condition 36 : Intermittent Clouds -->
+        <item>時々曇り</item><!--Intermittent Clouds--><!--Intermittent Clouds-->
+<!-- weather condition 37 : Hazy -->
+        <item>もや</item><!--Hazy-->
+<!-- weather condition 38 : Mostly Cloudy -->
+        <item>曇り</item><!--Mostly Cloudy--><!--Mostly Cloudy-->
+<!-- weather condition 39 : Partly Cloudy with Showers -->
+        <item>晴れ、ときどき雨</item><!--Partly Cloudy with Showers-->
+<!-- weather condition 40 : Mostly Cloudy with Showers -->
+        <item>曇り、ときどき雨</item><!--Mostly Cloudy with Showers--><!--Mostly Cloudy with Showers-->
+<!-- weather condition 41 : Partly Cloudy with Thunder Showers -->
+        <item>晴れ、ときどき雷雨</item><!--Partly Cloudy with Thunder Showers-->
+<!-- weather condition 42 : Mostly Cloudy with Thunder Showers -->
+        <item>曇り、ときどき雷雨</item><!--Mostly Cloudy with Thunder Showers--><!--Mostly Cloudy with Thunder Showers-->
+<!-- weather condition 43 : Partly Cloudy with Flurries -->
+        <item>晴れ、ときどき突風</item><!--Partly Cloudy with Flurries-->
+<!-- weather condition 44 : Mostly Cloudy with Flurries -->
+        <item>曇り、ときどき突風</item><!--Mostly Cloudy with Flurries--><!--Mostly Cloudy with Flurries-->
+<!-- _For Huafeng -->
+<!-- weather condition 51 : -->
+        <item>みぞれを伴う雷</item><!--Thunderstorms with sleet-->
+<!-- weather condition 52 : -->
+        <item>砂</item><!--Sand-->
+<!-- weather condition 53 : -->
+        <item>埃</item><!--Dust-->
+<!-- weather condition 54 : -->
+        <item>トルネード</item><!--Tornado-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string-array name="month_of_year">
+    	<item>1 月</item><!--JAN-->
+    	<item>2 月</item><!--FEB-->
+    	<item>3 月</item><!--MAR-->
+    	<item>4 月</item><!--APR-->
+    	<item>5 月</item><!--MAY-->
+    	<item>6 月</item><!--JUN-->
+    	<item>7 月</item><!--JUL-->
+    	<item>8 月</item><!--AUG-->
+    	<item>9 月</item><!--SEP-->
+    	<item>10 月</item><!--OCT-->
+    	<item>11 月</item><!--NOV-->
+    	<item>12 月</item><!--DEC-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>毎月第一金曜日</item><!--on every first Friday-->
+        <item>毎月第二金曜日</item><!--on every second Friday-->
+        <item>毎月第三金曜日</item><!--on every third Friday-->
+        <item>毎月第四金曜日</item><!--on every fourth Friday-->
+        <item>毎月最終金曜日</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>毎月第一月曜日</item><!--on every first Monday-->
+        <item>毎月第二月曜日</item><!--on every second Monday-->
+        <item>毎月第三月曜日</item><!--on every third Monday-->
+        <item>毎月第四月曜日</item><!--on every fourth Monday-->
+        <item>毎月最終月曜日</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>毎月第一土曜日</item><!--on every first Saturday-->
+        <item>毎月第二土曜日</item><!--on every second Saturday-->
+        <item>毎月第三土曜日</item><!--on every third Saturday-->
+        <item>毎月第四土曜日</item><!--on every fourth Saturday-->
+        <item>毎月最終土曜日</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>毎月第一日曜日</item><!--on every first Sunday-->
+        <item>毎月第二日曜日</item><!--on every second Sunday-->
+        <item>毎月第三日曜日</item><!--on every third Sunday-->
+        <item>毎月第四日曜日</item><!--on every fourth Sunday-->
+        <item>毎月最終日曜日</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>毎月第一木曜日</item><!--on every first Thursday-->
+        <item>毎月第二木曜日</item><!--on every second Thursday-->
+        <item>毎月第三木曜日</item><!--on every third Thursday-->
+        <item>毎月第四木曜日</item><!--on every fourth Thursday-->
+        <item>毎月最終木曜日</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>毎月第一火曜日</item><!--on every first Tuesday-->
+        <item>毎月第二火曜日</item><!--on every second Tuesday-->
+        <item>毎月第三火曜日</item><!--on every third Tuesday-->
+        <item>毎月第四火曜日</item><!--on every fourth Tuesday-->
+        <item>毎月最終火曜日</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>毎月第一水曜日</item><!--on every first Wednesday-->
+        <item>毎月第二水曜日</item><!--on every second Wednesday-->
+        <item>毎月第三水曜日</item><!--on every third Wednesday-->
+        <item>毎月第四水曜日</item><!--on every fourth Wednesday-->
+        <item>毎月最終水曜日</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string-array name="repeat_option">
+        <item>月-金</item><!--Mon -/ Fri-->
+        <item>繰り返さない</item><!--Do not repeat-->
+        <item>毎日</item><!--Every day-->
+        <item>休日をスキップ</item><!--Skip holidays-->
+        <item>ユーザー定義</item><!--Custom-->
+    </string-array>
+    <string-array name="snooze_duration_entries">
+      <item>5 分</item><!--5 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_10_minutes</item>
+      <item>15 分</item><!--15 minutes-->
+      <item>20 分</item><!--20 minutes-->
+      <item>25 分</item><!--25 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_30_minutes</item>
+    </string-array>
+    <string-array name="sound_selection_setting_entries">
+<!-- Alarm sound -->
+      <item>アラーム音</item><!--Alarm sound-->
+<!-- Do not translate. Ringtone -->
+      <item>@string/nn_ringtone</item>
+<!-- Do not translate. Music -->
+      <item>@string/nn_music</item>
+    </string-array>
+    <string-array name="sprint_volume_button_setting_entries">
+      <item>なにもしない</item><!--Do nothing-->
+
+      <item>スヌーズ</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+
+      <item>消音</item><!--Silence-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>小</item><!--Small-->
+        <item>中</item><!--Medium-->
+        <item>大</item><!--Large-->
+        <item>特大</item><!--Extra large-->
+        <item>極大</item><!--Huge-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string-array name="volume_button_setting_entries">
+      <item>なにもしない</item><!--Do nothing-->
+
+      <item>スヌーズ</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string-array name="weeklayout_secondary_text">
+        <item>日</item><!--SU-->
+        <item>月</item><!--M-->
+        <item>火</item><!--TU-->
+        <item>水</item><!--W-->
+        <item>木</item><!--TH-->
+        <item>金</item><!--F-->
+        <item>土</item><!--SA-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <bool name="config_flip_animation">true</bool>
+    <bool name="config_full_name_month">false</bool>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <dimen name="b_separator_secondary_xs">15sp</dimen>
+    <dimen name="b_toggle_primary_m">16sp</dimen>
+    <dimen name="label_off_m">14sp</dimen>
+    <dimen name="label_on_m">14sp</dimen>
+    <dimen name="list_body_s">19sp</dimen>
+    <dimen name="list_body_xl">31sp</dimen>
+    <dimen name="list_body_xs">16sp</dimen>
+    <dimen name="separator_secondary_xs">16sp</dimen>
+    <dimen name="time_pick_primary_s">35sp</dimen>
+    <dimen name="toggle_primary_m">16sp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">1 回</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> 回</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one"><ns1:g id="count">%d</ns1:g> 日ごと</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other"><ns1:g id="count">%d</ns1:g> 日ごと</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one"><ns1:g id="count">%d</ns1:g> 月ごと</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other"><ns1:g id="count">%d</ns1:g> 月ごと</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one"><ns1:g id="count">%d</ns1:g> 週間ごと</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other"><ns1:g id="count">%d</ns1:g> 週間ごと</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one"><ns1:g id="count">%d</ns1:g> 年ごと</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other"><ns1:g id="count">%d</ns1:g> 年ごと</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">毎週 <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other"><ns1:g id="number">%1$d</ns1:g> 週間に一度の <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"ホームへ移動"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s、%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s、%2$s、%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"上へ移動"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"その他のオプション"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完了"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"すべて表示"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"アプリの選択"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"OFF"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ON"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"検索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"検索キーワードを削除"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"検索キーワード"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"検索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"検索キーワードを送信"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"音声検索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"共有"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%sと共有"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"折りたたむ"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="accessibility_tap_action">ダブルタップで実行</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="add_alarm">アラームを追加</string>
+    <string name="add_alarm_error">アラームの数が上限に達しました｡</string>
+    <string name="add_city">都市を追加</string>
+    <string name="add_city_error_msg">15 都市まで選択できます。新しい都市を追加するには、都市を 1 つ削除してください。</string>
+    <string name="add_city_error_title">都市を追加できません</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="add_comments">コメントを追加</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="add_lap_error">ラップタイムの最大記録数(300件)を超えています。ラップタイムの履歴を消去してください。</string>
+    <string name="addcity_search">都市を検索</string>
+    <string name="alarm_alert_alert_silenced">アラームは <ns1:g id="minutes">%d</ns1:g> 分後に止まります。</string>
+    <string name="alarm_alert_dismissed">アラームは終了しました。</string>
+    <string name="alarm_alert_snooze_not_set">スヌーズが設定されていません。次のアラームは <ns1:g id="time">%s</ns1:g> に設定されています</string>
+    <string name="alarm_alert_snooze_set">再通知は <ns1:g id="minutes">%d</ns1:g> 分後に行われます。</string>
+    <string name="alarm_caption">アラーム</string>
+    <string name="alarm_in_volume_increase_mode_summary">アラームの音が徐々に高くなります</string>
+    <string name="alarm_in_volume_increase_mode_title">やさしいアラーム</string>
+    <string name="alarm_notify_snooze_label"><ns1:g id="label">%s</ns1:g> (スヌーズ済み)</string>
+    <string name="alarm_notify_snooze_text"><ns1:g id="time">%s</ns1:g> にアラームを設定します。タップするとキャンセルします。</string>
+    <string name="alarm_off">アラーム OFF</string>
+    <string name="alarm_offalarm">電話オフ時のサウンド</string>
+    <string name="alarm_on">アラーム ON</string>
+    <string name="alarm_repeat">繰り返し</string>
+    <string name="alarm_ringtone">アラーム音</string>
+    <string name="alarm_set">このアラームは今から <ns1:g id="time_delta">%s</ns1:g> 後に設定されています。</string>
+    <string name="alarm_vibrate">バイブレーション</string>
+    <string name="alarm_volume_summary">アラームの音量を設定します</string>
+    <string name="alarm_volume_title">アラームの音量</string>
+    <string name="alert_sound">アラーム音</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="am">午前</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="analog_gadget">アナログ時計</string>
+    <string name="and">" と "</string>
+    <string name="bt_cancel_str">キャンセル</string>
+    <string name="bt_done_str">完了</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="button_hide_caption">タイトルを表示しない</string>
+    <string name="button_hide_description">説明を非表示</string>
+    <string name="button_show_caption">タイトルを表示</string>
+    <string name="button_show_description">説明を表示</string>
+    <string name="carousel_title">タブを編集</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="city_duplicate">この都市はすでにリストされています</string>
+    <string name="city_not_found">都市が見つかりません</string>
+    <string name="clock_permission_dialog_btn_close">閉じる</string>
+    <string name="clock_permission_dialog_btn_settings">設定</string>
+    <string name="clock_permission_dialog_content">このアプリが正常に機能するためには、ストレージにアクセスする必要があります。時計の権限は [設定] で管理できます。</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">連絡先を検索</string>
+    <string name="common_string_open_contact">連絡先を開く</string>
+    <string name="common_string_save_to_existing_contact">既存の連絡先に保存</string>
+    <string name="common_string_save_to_people">連絡先を保存</string>
+    <string name="common_string_share_title">共有方法</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="current_settings">日時の設定</string>
+    <string name="day_concat">", "</string>
+    <string name="days">"<ns1:g id="days">%s</ns1:g> 日"</string>
+    <string name="dberror">申し訳ありませんが、アラームを設定できませんでした。</string>
+    <string name="delete_alarm_caption">アラーム削除</string>
+    <string name="delete_city_caption">都市を削除</string>
+    <string name="desk_clock_caption">置き時計</string>
+    <string name="dialog_button_ok">OK</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="done">完了</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="error">アラームが設定できません</string>
+    <string name="error_title">データベース エラー</string>
+    <string name="every_day">毎日</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="every_weekday">"平日（月～金）"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="fit_screen_menu_item">画面に合わせる</string>
+    <string name="full_screen_menu_item">全画面表示</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/googleplay_strings.xml -->
+    <eat-comment/>
+    <string name="googleplay_description_app">台湾の台北に居ようとも、モロッコのマラケシュに居ようとも、HTC 時計を使用すると現在地、自宅、世界中の都市の時間をチェックすることができます。カスタマイズ可能なアラーム、ストップウォッチ、タイマーなどの時間管理機能を手軽に携帯できます。アラームをいくつでも設定したり、スヌーズの長さを変更したり、アラームが消えるときに鳴るサウンドを選択したり、あるいは電話がサイレント モードのときにアラームを鳴らしたりすることもできます。HTC 時計のストップウォッチは、トレーニング時間を測るときに便利です。また、タイマーは TV を見ながら料理をしたり、時間を測ったりするのに便利です。</string>
+    <string name="googleplay_description_legal">[googleplay_description_legal_common_1]</string>
+    <string name="googleplay_description_short">HTC の洗練されたストップウォッチ、タイマー、アラーム、世界時計を活用してください。</string>
+    <string name="googleplay_description_supportingScope"/>
+    <string name="googleplay_title">HTC 時計</string>
+    <string name="googleplay_whatsnew">- アラームの音が徐々に大きくなる\n- バグ修正と性能の向上</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="home_settings">ホーム タイムゾーンの設定</string>
+    <string name="hours"><ns1:g id="hours">%s</ns1:g> 時間</string>
+    <string name="htc_private_app_clock">時計</string>
+    <string name="internal_memory_low">電話の保存スペースが少なくなっています。このアプリケーションをお使いになる前に、空き領域を増やしてください。</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="label_day">日</string>
+    <string name="label_hour">時</string>
+    <string name="label_minute">分</string>
+    <string name="label_month">月</string>
+    <string name="label_second">秒</string>
+    <string name="label_year">年</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="lap">ラップ</string>
+    <string name="lap_error">ラップタイムが記録できません</string>
+    <string name="lap_id">ラップ #</string>
+    <string name="lap_time">今回のラップ</string>
+    <string name="lap_title">ラップ</string>
+    <string name="lap_total_time">合計</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="license_dialog_content">この電話で使用される一部のアイコンは、Google がデザインし、<a href="https://creativecommons.org/licenses/by/4.0/legalcode">クリエイティブ コモンズ ライセンス表示 4.0</a> の条件のもとに HTC が改変しました。</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="loading_city">都市リストを読み込んでいます...</string>
+    <string name="location_dialog_msg">ローカルの天気予報を見るには、位置設定をバッテリー節約または高精度モードに変更してください。</string>
+    <string name="location_dialog_title">位置情報サービスがオフになっています</string>
+    <string name="location_enable">現地の天気を確認するには、ここをタップしてロケーション機能をONにします。</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="location_unavailable">位置情報を取得できません</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="lockscreen_hint_dismiss">下へドラッグして消去</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="ls_doubletap_drag">ダブルタップしてドラッグすると調整できます</string>
+    <string name="ls_edit_number_before_calling">通話の前に番号を編集</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="ls_no_weather_data_available">気象情報を取得できません</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="ls_open_in_map">マップで開く</string>
+    <string name="ls_tablet_storage_error">タブレット PC のメモリでエラーが発生しました。デバイスをリブートするか、メモリをフォーマットしてください。</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="masthead_st_am">午前</string>
+    <string name="masthead_st_auto_sync_off">自動同期はオフです。タップすると天気を表示します。</string>
+    <string name="masthead_st_current_location">現在地</string>
+    <string name="masthead_st_device_only_off">天気情報を見るにはロケーションサービスモードを変更してください</string>
+    <string name="masthead_st_location_service_off">天気予報を見るには、位置サービスをオンにしてください</string>
+    <string name="masthead_st_pm">午後</string>
+    <string name="masthead_st_weather_unavailable">天気予報は利用できません</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="menu_crop">トリミング</string>
+    <string name="menu_delete">削除</string>
+    <string name="menu_properties">詳細</string>
+    <string name="menu_protect_info">保護情報</string>
+    <string name="menu_save_to_my_favorite">お気に入りに設定</string>
+    <string name="menu_send_photo_link_by_email">写真のリンクを共有</string>
+    <string name="menu_set_as">設定内容</string>
+    <string name="menu_settings">設定</string>
+    <string name="menu_share">共有</string>
+    <string name="menu_show_on_map">マップに表示</string>
+    <string name="menu_slideshow">スライドショー</string>
+    <string name="menu_view_full">表示</string>
+    <string name="menu_view_video">再生</string>
+    <string name="meun_rotate">回転</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="minutes">"<ns1:g id="minutes">%s</ns1:g> 分"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="monthly">毎月</string>
+    <string name="monthly_on_day_count">"毎月 (<ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g>)"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="nextAlarm">次のアラーム:  <ns1:g id="next_alarm_time">%s</ns1:g></string>
+    <string name="night_clock">@string/desk_clock_caption</string>
+    <string name="nn_alarm">アラーム</string>
+    <string name="nn_description">説明</string>
+    <string name="nn_music">音楽</string>
+    <string name="nn_ringtone">着信音</string>
+    <string name="nn_settings">"設定"</string>
+    <string name="nn_tips_help">ヒントとヘルプ</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">"不明なエラー"</string>
+    <string name="no">いいえ</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="pause">一時停止</string>
+    <string name="phone_type_home">自宅</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="pm">午後</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="query_fail">データベースにアクセスしようとして、エラーが発生しました</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="quickselection_share">共有方法</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="rearrange_city_caption">リストを編集</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="refresh">更新</string>
+    <string name="reminderview_common_unlock_hint_icon">アイコンを上にプルします</string>
+    <string name="reminderview_common_unlock_hint_up">上に引いてロックを解除</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="reset">リセット</string>
+    <string name="resume">再開</string>
+    <string name="ringtone_title">着信音</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string msgid="146198913615257606" name="search_menu_title">"検索"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="select_alert">警告音の選択</string>
+    <string name="select_ringtone">アラーム音の選択</string>
+    <string name="set_alarm_caption">アラーム設定</string>
+    <string name="snooze">スヌーズ</string>
+    <string name="snooze_duration_title">スヌーズの長さ</string>
+    <string name="sound_selection_title">アラーム音の選択元</string>
+    <string name="space">" "</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">離すと更新します</string>
+    <string name="st_action_bar_updating">更新中...</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="st_default">既定</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="st_draggable_item">ドラッグ可能なアイテム</string>
+    <string name="st_loading">読み込んでいます...</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="st_more">その他</string>
+    <string name="st_never">しない</string>
+    <string name="st_off">オフ</string>
+    <string name="st_on">オン</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="st_pull_down_refresh">下に引くと更新します</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="st_silent">サイレント</string>
+    <string name="st_storage_full">メモリがいっぱいです</string>
+    <string name="start">開始</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="stop">停止</string>
+    <string name="stopwatch_caption">ストップウォッチ</string>
+    <string name="storage_full_description">本体メモリの空き領域が少なくなっています。いくつかのコンテンツまたはアプリケーションを削除してください。下の \"設定\" をタップすると、アプリケーションを管理できます。</string>
+    <string name="subminute">"1 分未満"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="tab_remove_dialog_message">1 個のタブが残っています。このアプリに別のタブを追加するには、メニューから [タブを編集/フィルタ] を選択してください。</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="time_up">タイマー終了</string>
+    <string name="timer_caption">タイマー</string>
+    <string name="timer_reminder_tile_setting">設定</string>
+    <string name="timer_reminder_tile_timer_up">時間切れ</string>
+    <string name="tm_10_minutes">"10分"</string>
+    <string name="tm_1_day">"1日"</string>
+    <string name="tm_1_hour">1 時間</string>
+    <string name="tm_1_minute">"1分"</string>
+    <string name="tm_30_minutes">"30分"</string>
+    <string name="tm_am">午前</string>
+    <string name="tm_current">現在</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="tm_daily">"毎日"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="tm_fri">金</string>
+    <string name="tm_mon">月</string>
+    <string name="tm_pm">午後</string>
+    <string name="tm_sat">土</string>
+    <string name="tm_sun">日</string>
+    <string name="tm_thu">木</string>
+    <string name="tm_today">今日</string>
+    <string name="tm_tomorrow">明日</string>
+    <string name="tm_tue">火</string>
+    <string name="tm_wed">水</string>
+    <string name="tm_yesterday">昨日</string>
+    <string name="total_title">合計</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">このタブは削除できません</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="va_add">追加</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="va_back">戻る</string>
+    <string name="va_call">ダイヤル</string>
+    <string name="va_cancel">キャンセル</string>
+    <string name="va_clear">"消去"</string>
+    <string name="va_close">閉じる</string>
+    <string name="va_copy">コピー</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="va_deselect_all">すべての選択を解除する</string>
+    <string name="va_dismiss">"解除"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="va_download">ダウンロード</string>
+    <string name="va_downloading">ダウンロード中</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="va_edit">編集</string>
+    <string name="va_edit_tabs">タブを編集</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="va_finish">完了</string>
+    <string name="va_hide">"表示しない"</string>
+    <string name="va_move_above">上へ移動</string>
+    <string name="va_move_below">下へ移動</string>
+    <string name="va_next">次へ</string>
+    <string name="va_ok">OK</string>
+    <string name="va_open">開く</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="va_rearrange">再設定</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="va_reset">リセット</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="va_select_all">すべて選択</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="va_send_mail">メールを送信する</string>
+    <string name="va_send_message">メッセージを送信する</string>
+    <string name="va_show_all">すべて表示</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="volume_button_setting_summary">アラームが鳴っているときにボリューム ボタンを押すとどうなるかを選択します</string>
+    <string name="volume_button_setting_title">ボリューム ボタンのオプション</string>
+    <string name="weather_high_indicator">高:</string>
+    <string name="weather_low_indicator">低:</string>
+    <string name="world_clock_caption">世界時計</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="yearly_plain">毎年</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="yes">はい</string>
+</resources>

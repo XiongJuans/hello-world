@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-ro/arrays.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>în fiecare primă vineri</item><!--on every first Friday-->
+        <item>în fiecare a doua vineri</item><!--on every second Friday-->
+        <item>în fiecare a treia vineri</item><!--on every third Friday-->
+        <item>în fiecare a patra vineri</item><!--on every fourth Friday-->
+        <item>în fiecare ultimă vineri</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>în fiecare primă luni</item><!--on every first Monday-->
+        <item>în fiecare a doua luni</item><!--on every second Monday-->
+        <item>în fiecare a treia luni</item><!--on every third Monday-->
+        <item>în fiecare a patra luni</item><!--on every fourth Monday-->
+        <item>în fiecare ultimă luni</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>în fiecare primă sâmbătă</item><!--on every first Saturday-->
+        <item>în fiecare a doua sâmbătă</item><!--on every second Saturday-->
+        <item>în fiecare a treia sâmbătă</item><!--on every third Saturday-->
+        <item>în fiecare a patra sâmbătă</item><!--on every fourth Saturday-->
+        <item>în fiecare ultimă sâmbătă</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>în fiecare primă duminică</item><!--on every first Sunday-->
+        <item>în fiecare a doua duminică</item><!--on every second Sunday-->
+        <item>în fiecare a treia duminică</item><!--on every third Sunday-->
+        <item>în fiecare a patra duminică</item><!--on every fourth Sunday-->
+        <item>în fiecare ultimă duminică</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>în fiecare primă joi</item><!--on every first Thursday-->
+        <item>în fiecare a doua joi</item><!--on every second Thursday-->
+        <item>în fiecare a treia joi</item><!--on every third Thursday-->
+        <item>în fiecare a patra joi</item><!--on every fourth Thursday-->
+        <item>în fiecare ultimă joi</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>în fiecare primă marţi</item><!--on every first Tuesday-->
+        <item>în fiecare a doua marţi</item><!--on every second Tuesday-->
+        <item>în fiecare a treia marţi</item><!--on every third Tuesday-->
+        <item>în fiecare a patra marţi</item><!--on every fourth Tuesday-->
+        <item>în fiecare ultimă marţi</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>în fiecare primă miercuri</item><!--on every first Wednesday-->
+        <item>în fiecare a doua miercuri</item><!--on every second Wednesday-->
+        <item>în fiecare a treia miercuri</item><!--on every third Wednesday-->
+        <item>în fiecare a patra miercuri</item><!--on every fourth Wednesday-->
+        <item>în fiecare ultimă miercuri</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">o dată</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> ori</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">În fiecare <ns1:g id="count">%d</ns1:g> zi</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">La fiecare <ns1:g id="count">%d</ns1:g> zile</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">În fiecare <ns1:g id="count">%d</ns1:g> lună</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">La fiecare <ns1:g id="count">%d</ns1:g> luni</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">În fiecare <ns1:g id="count">%d</ns1:g> săptămână</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">La fiecare <ns1:g id="count">%d</ns1:g> săptămâni</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">În fiecare <ns1:g id="count">%d</ns1:g> an</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">La fiecare <ns1:g id="count">%d</ns1:g> ani</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">Săptămânal, <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other">La fiecare <ns1:g id="number">%1$d</ns1:g> săptămâni, <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <string name="every_weekday">"În fiecare zi a săptămânii (Lun\u2013Vin)"</string>
+    <string name="monthly">Lunar</string>
+    <string name="monthly_on_day_count">"Lunar (în fiecare <ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g>)"</string>
+    <string name="tm_daily">"Zilnic"</string>
+    <string name="yearly_plain">Anual</string>
+</resources>

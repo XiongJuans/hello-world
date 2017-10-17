@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-tr/arrays.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>her ilk Cuma gününde</item><!--on every first Friday-->
+        <item>her ikinci Cuma gününde</item><!--on every second Friday-->
+        <item>her üçüncü Cuma gününde</item><!--on every third Friday-->
+        <item>her dördüncü Cuma gününde</item><!--on every fourth Friday-->
+        <item>her son Cuma gününde</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>her ilk Pazartesi gününde</item><!--on every first Monday-->
+        <item>her ikinci Pazartesi gününde</item><!--on every second Monday-->
+        <item>her üçüncü Pazartesi gününde</item><!--on every third Monday-->
+        <item>her dördüncü Pazartesi gününde</item><!--on every fourth Monday-->
+        <item>her son Pazartesi gününde</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>her ilk Cumartesi gününde</item><!--on every first Saturday-->
+        <item>her ikinci Cumartesi gününde</item><!--on every second Saturday-->
+        <item>her üçüncü Cumartesi gününde</item><!--on every third Saturday-->
+        <item>her dördüncü Cumartesi gününde</item><!--on every fourth Saturday-->
+        <item>her son Cumartesi gününde</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>her ilk Pazar gününde</item><!--on every first Sunday-->
+        <item>her ikinci Pazar gününde</item><!--on every second Sunday-->
+        <item>her üçüncü Pazar gününde</item><!--on every third Sunday-->
+        <item>her dördüncü Pazar gününde</item><!--on every fourth Sunday-->
+        <item>her son Pazar gününde</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>her ilk Perşembe gününde</item><!--on every first Thursday-->
+        <item>her ikinci Perşembe gününde</item><!--on every second Thursday-->
+        <item>her üçüncü Perşembe gününde</item><!--on every third Thursday-->
+        <item>her dördüncü Perşembe gününde</item><!--on every fourth Thursday-->
+        <item>her son Perşembe gününde</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>her ilk Salı gününde</item><!--on every first Tuesday-->
+        <item>her ikinci Salı gününde</item><!--on every second Tuesday-->
+        <item>her üçüncü Salı gününde</item><!--on every third Tuesday-->
+        <item>her dördüncü Salı gününde</item><!--on every fourth Tuesday-->
+        <item>her son Salı gününde</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>her ilk Çarşamba gününde</item><!--on every first Wednesday-->
+        <item>her ikinci Çarşamba gününde</item><!--on every second Wednesday-->
+        <item>her üçüncü Çarşamba gününde</item><!--on every third Wednesday-->
+        <item>her dördüncü Çarşamba gününde</item><!--on every fourth Wednesday-->
+        <item>her son Çarşamba gününde</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-tr/strings.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">bir kez</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> kez</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Her <ns1:g id="count">%d</ns1:g> günde bir</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Her <ns1:g id="count">%d</ns1:g> günde bir</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Her <ns1:g id="count">%d</ns1:g> ayda bir</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Her <ns1:g id="count">%d</ns1:g> ayda bir</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Her <ns1:g id="count">%d</ns1:g> haftada bir</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Her <ns1:g id="count">%d</ns1:g> haftada bir</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Her <ns1:g id="count">%d</ns1:g> yılda bir</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Her <ns1:g id="count">%d</ns1:g> yılda bir</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one"><ns1:g id="days_of_week">%2$s</ns1:g> haftalık</item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other">Her <ns1:g id="number">%1$d</ns1:g> haftada <ns1:g id="days_of_week">%2$s</ns1:g> günleri</item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <string name="every_weekday">"Hafta içi her gün (Pzt\u2013Cum)"</string>
+    <string name="monthly">"Aylık"</string>
+    <string name="monthly_on_day_count">\"Aylık (Her <ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g>)\"</string>
+    <string name="tm_daily">\"Günlük\"</string>
+    <string name="yearly_plain">Yılda bir</string>
+</resources>

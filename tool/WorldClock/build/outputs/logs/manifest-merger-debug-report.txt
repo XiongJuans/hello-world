@@ -1,0 +1,1064 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:9:1
+	package
+		ADDED from AndroidManifest.xml:10:5
+	android:sharedUserId
+		ADDED from AndroidManifest.xml:12:5
+	android:versionName
+		ADDED from AndroidManifest.xml:11:5
+	xmlns:android
+		ADDED from AndroidManifest.xml:9:11
+skip-erased
+ADDED from AndroidManifest.xml:13:5
+permission#com.htc.sense.permission.worldclock.alert
+ADDED from AndroidManifest.xml:15:5
+	android:protectionLevel
+		ADDED from AndroidManifest.xml:15:74
+	android:name
+		ADDED from AndroidManifest.xml:15:17
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from AndroidManifest.xml:17:5
+	android:name
+		ADDED from AndroidManifest.xml:17:22
+uses-permission#android.permission.WAKE_LOCK
+ADDED from AndroidManifest.xml:18:5
+	android:name
+		ADDED from AndroidManifest.xml:18:22
+uses-permission#android.permission.VIBRATE
+ADDED from AndroidManifest.xml:19:5
+	android:name
+		ADDED from AndroidManifest.xml:19:22
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from AndroidManifest.xml:20:5
+	android:name
+		ADDED from AndroidManifest.xml:20:22
+uses-permission#android.permission.WRITE_SECURE_SETTINGS
+ADDED from AndroidManifest.xml:21:5
+	android:name
+		ADDED from AndroidManifest.xml:21:22
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from AndroidManifest.xml:22:5
+	android:name
+		ADDED from AndroidManifest.xml:22:22
+uses-permission#android.permission.GET_TASKS
+ADDED from AndroidManifest.xml:23:5
+	android:name
+		ADDED from AndroidManifest.xml:23:22
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from AndroidManifest.xml:24:5
+	android:name
+		ADDED from AndroidManifest.xml:24:22
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from AndroidManifest.xml:25:5
+	android:name
+		ADDED from AndroidManifest.xml:25:22
+uses-permission#android.permission.READ_PRIVILEGED_PHONE_STATE
+ADDED from AndroidManifest.xml:26:5
+	android:name
+		ADDED from AndroidManifest.xml:26:22
+uses-permission#com.android.alarm.permission.SET_ALARM
+ADDED from AndroidManifest.xml:27:5
+	android:name
+		ADDED from AndroidManifest.xml:27:22
+uses-permission#com.htc.adwagent.permission.RECEIVE_ADW_COMMAND
+ADDED from AndroidManifest.xml:28:5
+	android:name
+		ADDED from AndroidManifest.xml:28:22
+uses-permission#com.htc.adwagent.permission.ACCESS_ADW_PROVIDER
+ADDED from AndroidManifest.xml:29:5
+	android:name
+		ADDED from AndroidManifest.xml:29:22
+uses-permission#com.htc.permission.APP_DEFAULT
+ADDED from AndroidManifest.xml:30:5
+	android:name
+		ADDED from AndroidManifest.xml:30:22
+uses-permission#android.permission.BLUETOOTH
+ADDED from AndroidManifest.xml:32:5
+	android:name
+		ADDED from AndroidManifest.xml:32:22
+uses-permission#com.htc.dnatransfer.permission.ACCESS_PROVIDER
+ADDED from AndroidManifest.xml:34:5
+	android:name
+		ADDED from AndroidManifest.xml:34:22
+uses-permission#com.nero.permission.ACCESS_CONTENT_PROVIDER
+ADDED from AndroidManifest.xml:36:5
+	android:name
+		ADDED from AndroidManifest.xml:36:22
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from AndroidManifest.xml:38:5
+	android:name
+		ADDED from AndroidManifest.xml:38:22
+uses-permission#com.htc.sense.permission.APP_HSP
+ADDED from AndroidManifest.xml:40:5
+MERGED from WorldClock.............hdk.htc.lib1:MastHead:unspecified:9:5
+	android:name
+		ADDED from AndroidManifest.xml:40:22
+uses-permission#com.htc.sense.permission.worldclock.alert
+ADDED from AndroidManifest.xml:42:5
+	android:name
+		ADDED from AndroidManifest.xml:42:22
+uses-permission#android.permission.INTERACT_ACROSS_USERS
+ADDED from AndroidManifest.xml:44:5
+	android:name
+		ADDED from AndroidManifest.xml:44:22
+uses-permission#android.permission.MANAGE_USERS
+ADDED from AndroidManifest.xml:45:5
+	android:name
+		ADDED from AndroidManifest.xml:45:22
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from AndroidManifest.xml:46:5
+	android:name
+		ADDED from AndroidManifest.xml:46:22
+uses-permission#com.htc.permission.APP_PLATFORM
+ADDED from AndroidManifest.xml:48:5
+	android:name
+		ADDED from AndroidManifest.xml:48:22
+meta-data#HDK_Lib0_API19_1
+ADDED from AndroidManifest.xml:49:5
+	android:value
+		ADDED from AndroidManifest.xml:49:48
+	android:name
+		ADDED from AndroidManifest.xml:49:16
+meta-data#HDK_Lib1_API19_Sense60_Stable
+ADDED from AndroidManifest.xml:50:5
+	android:value
+		ADDED from AndroidManifest.xml:50:61
+	android:name
+		ADDED from AndroidManifest.xml:50:16
+meta-data#HDK_Lib3_API19_2_Stable
+ADDED from AndroidManifest.xml:51:5
+	android:value
+		ADDED from AndroidManifest.xml:51:55
+	android:name
+		ADDED from AndroidManifest.xml:51:16
+uses-sdk
+ADDED from AndroidManifest.xml:52:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib0:HDKUtil:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib0:Customization:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib0:Customization:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib1:HtcCalendarFramwork:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib0:Customization:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib1.HtcCommonControl:htccommoncontrol:unspecified:7:5
+MERGED from com.android.support:appcompat-v7:25.0.1:21:5
+MERGED from com.android.support:support-v4:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:support-media-compat:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:support-core-utils:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:support-core-ui:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:support-fragment:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:support-media-compat:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:support-core-ui:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:support-core-utils:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:support-vector-drawable:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:animated-vector-drawable:25.0.1:20:5
+MERGED from com.android.support:support-vector-drawable:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from WorldClock.............hdk.htc.lib1:HtcTheme:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib1:HfmClient:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib1.HtcCommonControl:htccommoncontrol:unspecified:7:5
+MERGED from com.android.support:appcompat-v7:25.0.1:21:5
+MERGED from com.android.support:support-v4:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:support-media-compat:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:support-core-utils:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:support-core-ui:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:support-fragment:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:support-media-compat:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:support-core-ui:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:support-core-utils:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:support-vector-drawable:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:animated-vector-drawable:25.0.1:20:5
+MERGED from com.android.support:support-vector-drawable:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from WorldClock.............hdk.htc.lib2:HtcConfiguration:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib0:Customization:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib0:HDKUtil:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib0:Customization:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib0:Customization:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib1:HtcTheme:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib0:HDKUtil:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib0:Customization:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib1:ProviderSettings:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib1:WeatherLib1:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib1:LockScreenLib1:unspecified:5:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib1:MastHead:unspecified:5:5
+MERGED from WorldClock.............hdk.htc.lib0:HDKUtil:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib0:Customization:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib0:Customization:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib1.HtcCommonControl:htccommoncontrol:unspecified:7:5
+MERGED from com.android.support:appcompat-v7:25.0.1:21:5
+MERGED from com.android.support:support-v4:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:support-media-compat:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:support-core-utils:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:support-core-ui:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:support-fragment:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:support-media-compat:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:support-core-ui:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:support-core-utils:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:support-vector-drawable:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:animated-vector-drawable:25.0.1:20:5
+MERGED from com.android.support:support-vector-drawable:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from WorldClock.............hdk.htc.lib1:HtcTheme:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib1:ProviderSettings:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib1:HtcCalendarFramwork:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib0:Customization:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib1:WeatherLib1:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib2:WeatherLib2:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib2:HtcConfiguration:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib0:Customization:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib0:HDKUtil:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib0:Customization:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib2:WeatherLib2:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib2:LockScreenLib2:unspecified:5:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib3:HtcIntentLib3:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib0:HDKUtil:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib0:Customization:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib3:PhoneContacts:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:7:5
+MERGED from WorldClock.............hdk.htc.lib3:HtcWrapWindowManager:unspecified:7:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:appcompat-v7:25.0.1:21:5
+MERGED from com.android.support:support-v4:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:support-media-compat:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:support-core-utils:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:support-core-ui:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:support-fragment:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:support-media-compat:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:support-core-ui:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:support-core-utils:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:support-vector-drawable:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+MERGED from com.android.support:animated-vector-drawable:25.0.1:20:5
+MERGED from com.android.support:support-vector-drawable:25.0.1:21:5
+MERGED from com.android.support:support-compat:26.0.0:21:5
+	tools:overrideLibrary
+		ADDED from com.android.support:appcompat-v7:25.0.1:23:9
+	android:targetSdkVersion
+		ADDED from AndroidManifest.xml:52:42
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:52:15
+		MERGED from AndroidManifest.xml:52:15
+		MERGED from AndroidManifest.xml:52:15
+		MERGED from AndroidManifest.xml:52:15
+		MERGED from AndroidManifest.xml:52:15
+		MERGED from AndroidManifest.xml:52:15
+		MERGED from AndroidManifest.xml:52:15
+		MERGED from AndroidManifest.xml:52:15
+		MERGED from AndroidManifest.xml:52:15
+		MERGED from AndroidManifest.xml:52:15
+		MERGED from AndroidManifest.xml:52:15
+		MERGED from AndroidManifest.xml:52:15
+		MERGED from AndroidManifest.xml:52:15
+		MERGED from AndroidManifest.xml:52:15
+		MERGED from AndroidManifest.xml:52:15
+		MERGED from AndroidManifest.xml:52:15
+		MERGED from AndroidManifest.xml:52:15
+		MERGED from AndroidManifest.xml:52:15
+		MERGED from AndroidManifest.xml:52:15
+		MERGED from AndroidManifest.xml:52:15
+		MERGED from AndroidManifest.xml:52:15
+		MERGED from AndroidManifest.xml:52:15
+		MERGED from AndroidManifest.xml:52:15
+		MERGED from AndroidManifest.xml:52:15
+		MERGED from AndroidManifest.xml:52:15
+		MERGED from AndroidManifest.xml:52:15
+		MERGED from AndroidManifest.xml:52:15
+		MERGED from AndroidManifest.xml:52:15
+		MERGED from AndroidManifest.xml:52:15
+		MERGED from AndroidManifest.xml:52:15
+		MERGED from AndroidManifest.xml:52:15
+		MERGED from AndroidManifest.xml:52:15
+		MERGED from AndroidManifest.xml:52:15
+application
+ADDED from AndroidManifest.xml:54:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:9:5
+MERGED from WorldClock.............hdk.htc.lib0:HDKUtil:unspecified:11:5
+MERGED from WorldClock.............hdk.htc.lib0:Customization:unspecified:9:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:9:5
+MERGED from WorldClock.............hdk.htc.lib0:Customization:unspecified:9:5
+MERGED from WorldClock.............hdk.htc.lib0:Customization:unspecified:9:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:9:5
+MERGED from WorldClock.............hdk.htc.lib1.HtcCommonControl:htccommoncontrol:unspecified:16:5
+MERGED from com.android.support:appcompat-v7:25.0.1:25:5
+MERGED from com.android.support:support-v4:25.0.1:25:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:support-media-compat:25.0.1:25:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:support-core-utils:25.0.1:25:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:support-core-ui:25.0.1:25:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:support-fragment:25.0.1:25:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:support-media-compat:25.0.1:25:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:support-core-ui:25.0.1:25:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:support-core-utils:25.0.1:25:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:support-vector-drawable:25.0.1:23:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:animated-vector-drawable:25.0.1:22:5
+MERGED from com.android.support:support-vector-drawable:25.0.1:23:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from WorldClock.............hdk.htc.lib1.HtcCommonControl:htccommoncontrol:unspecified:16:5
+MERGED from com.android.support:appcompat-v7:25.0.1:25:5
+MERGED from com.android.support:support-v4:25.0.1:25:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:support-media-compat:25.0.1:25:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:support-core-utils:25.0.1:25:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:support-core-ui:25.0.1:25:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:support-fragment:25.0.1:25:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:support-media-compat:25.0.1:25:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:support-core-ui:25.0.1:25:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:support-core-utils:25.0.1:25:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:support-vector-drawable:25.0.1:23:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:animated-vector-drawable:25.0.1:22:5
+MERGED from com.android.support:support-vector-drawable:25.0.1:23:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from WorldClock.............hdk.htc.lib2:HtcConfiguration:unspecified:11:5
+MERGED from WorldClock.............hdk.htc.lib0:Customization:unspecified:9:5
+MERGED from WorldClock.............hdk.htc.lib0:HDKUtil:unspecified:11:5
+MERGED from WorldClock.............hdk.htc.lib0:Customization:unspecified:9:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:9:5
+MERGED from WorldClock.............hdk.htc.lib0:Customization:unspecified:9:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:9:5
+MERGED from WorldClock.............hdk.htc.lib0:HDKUtil:unspecified:11:5
+MERGED from WorldClock.............hdk.htc.lib0:Customization:unspecified:9:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:9:5
+MERGED from WorldClock.............hdk.htc.lib1:ProviderSettings:unspecified:11:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:9:5
+MERGED from WorldClock.............hdk.htc.lib1:WeatherLib1:unspecified:11:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:9:5
+MERGED from WorldClock.............hdk.htc.lib1:LockScreenLib1:unspecified:9:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:9:5
+MERGED from WorldClock.............hdk.htc.lib0:HDKUtil:unspecified:11:5
+MERGED from WorldClock.............hdk.htc.lib0:Customization:unspecified:9:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:9:5
+MERGED from WorldClock.............hdk.htc.lib0:Customization:unspecified:9:5
+MERGED from WorldClock.............hdk.htc.lib1.HtcCommonControl:htccommoncontrol:unspecified:16:5
+MERGED from com.android.support:appcompat-v7:25.0.1:25:5
+MERGED from com.android.support:support-v4:25.0.1:25:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:support-media-compat:25.0.1:25:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:support-core-utils:25.0.1:25:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:support-core-ui:25.0.1:25:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:support-fragment:25.0.1:25:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:support-media-compat:25.0.1:25:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:support-core-ui:25.0.1:25:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:support-core-utils:25.0.1:25:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:support-vector-drawable:25.0.1:23:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:animated-vector-drawable:25.0.1:22:5
+MERGED from com.android.support:support-vector-drawable:25.0.1:23:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from WorldClock.............hdk.htc.lib1:ProviderSettings:unspecified:11:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:9:5
+MERGED from WorldClock.............hdk.htc.lib0:Customization:unspecified:9:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:9:5
+MERGED from WorldClock.............hdk.htc.lib1:WeatherLib1:unspecified:11:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:9:5
+MERGED from WorldClock.............hdk.htc.lib2:WeatherLib2:unspecified:11:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:9:5
+MERGED from WorldClock.............hdk.htc.lib2:HtcConfiguration:unspecified:11:5
+MERGED from WorldClock.............hdk.htc.lib0:Customization:unspecified:9:5
+MERGED from WorldClock.............hdk.htc.lib0:HDKUtil:unspecified:11:5
+MERGED from WorldClock.............hdk.htc.lib0:Customization:unspecified:9:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:9:5
+MERGED from WorldClock.............hdk.htc.lib2:WeatherLib2:unspecified:11:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:9:5
+MERGED from WorldClock.............hdk.htc.lib2:LockScreenLib2:unspecified:9:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:9:5
+MERGED from WorldClock.............hdk.htc.lib3:HtcIntentLib3:unspecified:11:5
+MERGED from WorldClock.............hdk.htc.lib0:HDKUtil:unspecified:11:5
+MERGED from WorldClock.............hdk.htc.lib0:Customization:unspecified:9:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:9:5
+MERGED from WorldClock.............hdk.htc.lib0:HtcDebugFlag:unspecified:9:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:appcompat-v7:25.0.1:25:5
+MERGED from com.android.support:support-v4:25.0.1:25:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:support-media-compat:25.0.1:25:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:support-core-utils:25.0.1:25:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:support-core-ui:25.0.1:25:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:support-fragment:25.0.1:25:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:support-media-compat:25.0.1:25:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:support-core-ui:25.0.1:25:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:support-core-utils:25.0.1:25:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:support-vector-drawable:25.0.1:23:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+MERGED from com.android.support:animated-vector-drawable:25.0.1:22:5
+MERGED from com.android.support:support-vector-drawable:25.0.1:23:5
+MERGED from com.android.support:support-compat:26.0.0:25:5
+	android:backupAgent
+		ADDED from AndroidManifest.xml:56:9
+	android:label
+		ADDED from AndroidManifest.xml:55:9
+	android:resizeableActivity
+		ADDED from AndroidManifest.xml:58:9
+	android:icon
+		ADDED from AndroidManifest.xml:59:9
+	android:restoreAnyVersion
+		ADDED from AndroidManifest.xml:57:9
+	android:allowBackup
+		ADDED from WorldClock.............hdk.htc.lib2:WeatherLib2:unspecified:11:18
+	android:theme
+		ADDED from AndroidManifest.xml:54:18
+provider#com.htc.android.worldclock.alarmclock.AlarmProvider
+ADDED from AndroidManifest.xml:60:9
+	android:readPermission
+		ADDED from AndroidManifest.xml:60:84
+	android:authorities
+		ADDED from AndroidManifest.xml:60:142
+	android:exported
+		ADDED from AndroidManifest.xml:60:19
+	android:name
+		ADDED from AndroidManifest.xml:60:43
+provider#com.htc.android.worldclock.stopwatch.StopwatchProvider
+ADDED from AndroidManifest.xml:61:9
+	android:authorities
+		ADDED from AndroidManifest.xml:61:88
+	android:exported
+		ADDED from AndroidManifest.xml:61:19
+	android:name
+		ADDED from AndroidManifest.xml:61:44
+provider#com.htc.android.worldclock.timer.TimerProvider
+ADDED from AndroidManifest.xml:62:9
+	android:authorities
+		ADDED from AndroidManifest.xml:62:80
+	android:exported
+		ADDED from AndroidManifest.xml:62:19
+	android:name
+		ADDED from AndroidManifest.xml:62:44
+meta-data#android.app.default_searchable
+ADDED from AndroidManifest.xml:63:9
+	android:value
+		ADDED from AndroidManifest.xml:63:66
+	android:name
+		ADDED from AndroidManifest.xml:63:20
+meta-data#com.google.android.backup.api_key
+ADDED from AndroidManifest.xml:64:9
+	android:value
+		ADDED from AndroidManifest.xml:65:13
+	android:name
+		ADDED from AndroidManifest.xml:64:20
+meta-data#China_Sense
+ADDED from AndroidManifest.xml:67:9
+	android:value
+		ADDED from AndroidManifest.xml:67:47
+	android:name
+		ADDED from AndroidManifest.xml:67:20
+meta-data#com.htc.themepicker.apply.supported.application.type
+ADDED from AndroidManifest.xml:69:9
+	android:value
+		ADDED from AndroidManifest.xml:71:13
+	android:name
+		ADDED from AndroidManifest.xml:70:13
+meta-data#com.htc.themepicker.apply.supported.feature.texture
+ADDED from AndroidManifest.xml:74:9
+	android:value
+		ADDED from AndroidManifest.xml:76:13
+	android:name
+		ADDED from AndroidManifest.xml:75:13
+meta-data#com.htc.themepicker.apply.supported.feature.weatherclockasset
+ADDED from AndroidManifest.xml:79:9
+	android:value
+		ADDED from AndroidManifest.xml:81:13
+	android:name
+		ADDED from AndroidManifest.xml:80:13
+activity#com.htc.android.worldclock.WorldClockTabControl
+ADDED from AndroidManifest.xml:82:9
+	android:clearTaskOnLaunch
+		ADDED from AndroidManifest.xml:88:13
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:87:13
+	android:label
+		ADDED from AndroidManifest.xml:84:13
+	android:launchMode
+		ADDED from AndroidManifest.xml:89:13
+	android:windowSoftInputMode
+		ADDED from AndroidManifest.xml:86:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:90:13
+	android:icon
+		ADDED from AndroidManifest.xml:85:13
+	android:theme
+		ADDED from AndroidManifest.xml:83:13
+	android:name
+		ADDED from AndroidManifest.xml:82:19
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:91:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:92:17
+	android:name
+		ADDED from AndroidManifest.xml:92:25
+category#android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:93:17
+	android:name
+		ADDED from AndroidManifest.xml:93:27
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:94:17
+	android:name
+		ADDED from AndroidManifest.xml:94:27
+meta-data#android.app.shortcuts
+ADDED from AndroidManifest.xml:96:13
+	android:resource
+		ADDED from AndroidManifest.xml:96:61
+	android:name
+		ADDED from AndroidManifest.xml:96:24
+activity#com.htc.android.worldclock.TimeZonePicker
+ADDED from AndroidManifest.xml:100:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:104:13
+	android:label
+		ADDED from AndroidManifest.xml:102:13
+	android:windowSoftInputMode
+		ADDED from AndroidManifest.xml:103:13
+	android:permission
+		ADDED from AndroidManifest.xml:106:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:105:13
+	android:theme
+		ADDED from AndroidManifest.xml:101:13
+	android:name
+		ADDED from AndroidManifest.xml:100:19
+intent-filter#android.intent.category.DEFAULT+com.htc.android.worldclock.action.TIMEZONEPICKER
+ADDED from AndroidManifest.xml:107:13
+action#com.htc.android.worldclock.action.TIMEZONEPICKER
+ADDED from AndroidManifest.xml:108:17
+	android:name
+		ADDED from AndroidManifest.xml:108:25
+activity#com.htc.android.worldclock.worldclock.RearrangeTimeZone
+ADDED from AndroidManifest.xml:113:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:116:13
+	android:label
+		ADDED from AndroidManifest.xml:115:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:117:13
+	android:theme
+		ADDED from AndroidManifest.xml:114:13
+	android:name
+		ADDED from AndroidManifest.xml:113:19
+service#com.htc.android.worldclock.worldclock.WorldClockService
+ADDED from AndroidManifest.xml:119:9
+	android:exported
+		ADDED from AndroidManifest.xml:120:13
+	android:name
+		ADDED from AndroidManifest.xml:119:18
+service#com.htc.android.worldclock.worldclock.WorldClockJobIntentService
+ADDED from AndroidManifest.xml:122:9
+	android:exported
+		ADDED from AndroidManifest.xml:124:13
+	android:permission
+		ADDED from AndroidManifest.xml:123:13
+	android:name
+		ADDED from AndroidManifest.xml:122:18
+receiver#com.htc.android.worldclock.worldclock.WorldClockReceiver
+ADDED from AndroidManifest.xml:126:9
+	android:permission
+		ADDED from AndroidManifest.xml:127:13
+	android:name
+		ADDED from AndroidManifest.xml:126:19
+intent-filter#android.intent.action.LOCALE_CHANGED+android.net.conn.CONNECTIVITY_CHANGE+com.htc.Weather.intent.action.ADD_LOCATION+com.htc.Weather.rearrange_list_changed+com.htc.htclocationservice.currentlocation.updated+com.htc.provider.notify.city_restored
+ADDED from AndroidManifest.xml:128:13
+action#android.intent.action.LOCALE_CHANGED
+ADDED from AndroidManifest.xml:129:17
+	android:name
+		ADDED from AndroidManifest.xml:129:25
+action#com.htc.htclocationservice.currentlocation.updated
+ADDED from AndroidManifest.xml:130:17
+	android:name
+		ADDED from AndroidManifest.xml:130:25
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from AndroidManifest.xml:131:17
+	android:name
+		ADDED from AndroidManifest.xml:131:25
+action#com.htc.provider.notify.city_restored
+ADDED from AndroidManifest.xml:132:17
+	android:name
+		ADDED from AndroidManifest.xml:132:25
+action#com.htc.Weather.intent.action.ADD_LOCATION
+ADDED from AndroidManifest.xml:133:17
+	android:name
+		ADDED from AndroidManifest.xml:133:25
+action#com.htc.Weather.rearrange_list_changed
+ADDED from AndroidManifest.xml:134:17
+	android:name
+		ADDED from AndroidManifest.xml:134:25
+activity#com.htc.android.worldclock.alarmclock.SetAlarm
+ADDED from AndroidManifest.xml:139:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:142:13
+	android:label
+		ADDED from AndroidManifest.xml:141:13
+	android:windowSoftInputMode
+		ADDED from AndroidManifest.xml:144:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:143:13
+	android:theme
+		ADDED from AndroidManifest.xml:140:13
+	android:name
+		ADDED from AndroidManifest.xml:139:19
+activity#com.htc.android.worldclock.alarmclock.DeleteAlarm
+ADDED from AndroidManifest.xml:146:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:149:13
+	android:label
+		ADDED from AndroidManifest.xml:148:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:150:13
+	android:theme
+		ADDED from AndroidManifest.xml:147:13
+	android:name
+		ADDED from AndroidManifest.xml:146:19
+activity#com.htc.android.worldclock.alarmclock.AlarmAlert
+ADDED from AndroidManifest.xml:152:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:156:13
+	android:excludeFromRecents
+		ADDED from AndroidManifest.xml:158:13
+	android:launchMode
+		ADDED from AndroidManifest.xml:154:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:157:13
+	android:theme
+		ADDED from AndroidManifest.xml:153:13
+	android:taskAffinity
+		ADDED from AndroidManifest.xml:155:13
+	android:name
+		ADDED from AndroidManifest.xml:152:19
+activity#com.htc.android.worldclock.alarmclock.HandleApiCalls
+ADDED from AndroidManifest.xml:160:9
+	android:excludeFromRecents
+		ADDED from AndroidManifest.xml:163:13
+	android:launchMode
+		ADDED from AndroidManifest.xml:162:13
+	android:permission
+		ADDED from AndroidManifest.xml:164:13
+	android:theme
+		ADDED from AndroidManifest.xml:161:13
+	android:name
+		ADDED from AndroidManifest.xml:160:19
+intent-filter#android.intent.action.SET_ALARM+android.intent.category.DEFAULT+android.intent.category.VOICE
+ADDED from AndroidManifest.xml:165:13
+action#android.intent.action.SET_ALARM
+ADDED from AndroidManifest.xml:166:17
+	android:name
+		ADDED from AndroidManifest.xml:166:25
+category#android.intent.category.VOICE
+ADDED from AndroidManifest.xml:168:17
+	android:name
+		ADDED from AndroidManifest.xml:168:27
+intent-filter#android.intent.action.DISMISS_ALARM+android.intent.category.DEFAULT+android.intent.category.VOICE
+ADDED from AndroidManifest.xml:170:13
+action#android.intent.action.DISMISS_ALARM
+ADDED from AndroidManifest.xml:171:17
+	android:name
+		ADDED from AndroidManifest.xml:171:25
+intent-filter#android.intent.action.SNOOZE_ALARM+android.intent.category.DEFAULT+android.intent.category.VOICE
+ADDED from AndroidManifest.xml:175:13
+action#android.intent.action.SNOOZE_ALARM
+ADDED from AndroidManifest.xml:176:17
+	android:name
+		ADDED from AndroidManifest.xml:176:25
+intent-filter#android.intent.action.SHOW_ALARMS+android.intent.category.DEFAULT+android.intent.category.VOICE
+ADDED from AndroidManifest.xml:180:13
+action#android.intent.action.SHOW_ALARMS
+ADDED from AndroidManifest.xml:181:17
+	android:name
+		ADDED from AndroidManifest.xml:181:25
+intent-filter#android.intent.action.SET_TIMER+android.intent.category.DEFAULT+android.intent.category.VOICE
+ADDED from AndroidManifest.xml:185:13
+action#android.intent.action.SET_TIMER
+ADDED from AndroidManifest.xml:186:17
+	android:name
+		ADDED from AndroidManifest.xml:186:25
+intent-filter#android.intent.category.DEFAULT+android.intent.category.VOICE+com.htc.android.worldclock.DISALBE_ALARM
+ADDED from AndroidManifest.xml:190:13
+action#com.htc.android.worldclock.DISALBE_ALARM
+ADDED from AndroidManifest.xml:191:17
+	android:name
+		ADDED from AndroidManifest.xml:191:25
+activity#com.htc.android.worldclock.alarmclock.ShortcutActivity
+ADDED from AndroidManifest.xml:198:9
+	android:exported
+		ADDED from AndroidManifest.xml:201:13
+	android:theme
+		ADDED from AndroidManifest.xml:200:13
+	android:name
+		ADDED from AndroidManifest.xml:199:13
+intent-filter#android.intent.action.SET_ALARM+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:202:13
+intent-filter#android.intent.action.SET_TIMER+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:207:13
+intent-filter#android.intent.category.DEFAULT+com.htc.action.SET_STOPWATCH
+ADDED from AndroidManifest.xml:212:13
+action#com.htc.action.SET_STOPWATCH
+ADDED from AndroidManifest.xml:213:17
+	android:name
+		ADDED from AndroidManifest.xml:213:25
+activity#com.htc.android.worldclock.alarmclock.HandleSetAlarm
+ADDED from AndroidManifest.xml:218:9
+	android:excludeFromRecents
+		ADDED from AndroidManifest.xml:220:13
+	android:theme
+		ADDED from AndroidManifest.xml:219:13
+	android:name
+		ADDED from AndroidManifest.xml:218:19
+intent-filter#android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:221:13
+receiver#com.htc.android.worldclock.alarmclock.AlarmReceiver
+ADDED from AndroidManifest.xml:226:9
+	android:exported
+		ADDED from AndroidManifest.xml:227:13
+	android:directBootAware
+		ADDED from AndroidManifest.xml:228:13
+	android:name
+		ADDED from AndroidManifest.xml:226:19
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.LOCKED_BOOT_COMPLETED+android.intent.action.TIMEZONE_CHANGED+android.intent.action.TIME_SET+com.htc.intent.action.QUICKBOOT_POWERON+com.htc.worldclock.ALARM_ALERT
+ADDED from AndroidManifest.xml:229:13
+action#android.intent.action.LOCKED_BOOT_COMPLETED
+ADDED from AndroidManifest.xml:230:17
+	android:name
+		ADDED from AndroidManifest.xml:230:25
+action#android.intent.action.TIME_SET
+ADDED from AndroidManifest.xml:231:17
+	android:name
+		ADDED from AndroidManifest.xml:231:25
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from AndroidManifest.xml:232:17
+	android:name
+		ADDED from AndroidManifest.xml:232:25
+action#android.intent.action.BOOT_COMPLETED
+ADDED from AndroidManifest.xml:233:17
+	android:name
+		ADDED from AndroidManifest.xml:233:25
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from AndroidManifest.xml:234:17
+	android:name
+		ADDED from AndroidManifest.xml:234:25
+action#com.htc.worldclock.ALARM_ALERT
+ADDED from AndroidManifest.xml:235:17
+	android:name
+		ADDED from AndroidManifest.xml:235:25
+receiver#com.htc.android.worldclock.alarmclock.SkipHolidayReceiver
+ADDED from AndroidManifest.xml:239:9
+	android:exported
+		ADDED from AndroidManifest.xml:240:13
+	android:permission
+		ADDED from AndroidManifest.xml:241:13
+	android:name
+		ADDED from AndroidManifest.xml:239:19
+intent-filter#com.htc.intent.action.ACTION_HOLIDAY_CHANGED
+ADDED from AndroidManifest.xml:242:13
+action#com.htc.intent.action.ACTION_HOLIDAY_CHANGED
+ADDED from AndroidManifest.xml:243:17
+	android:name
+		ADDED from AndroidManifest.xml:243:25
+service#com.htc.android.worldclock.alarmclock.AlarmService
+ADDED from AndroidManifest.xml:247:9
+	android:exported
+		ADDED from AndroidManifest.xml:248:18
+	android:directBootAware
+		ADDED from AndroidManifest.xml:249:18
+	android:name
+		ADDED from AndroidManifest.xml:247:18
+service#com.htc.android.worldclock.alarmclock.AlarmJobIntentService
+ADDED from AndroidManifest.xml:252:9
+	android:exported
+		ADDED from AndroidManifest.xml:254:13
+	android:permission
+		ADDED from AndroidManifest.xml:253:13
+	android:directBootAware
+		ADDED from AndroidManifest.xml:255:13
+	android:name
+		ADDED from AndroidManifest.xml:252:18
+service#com.htc.android.worldclock.alarmclock.AlarmQueryMediaService
+ADDED from AndroidManifest.xml:259:9
+	android:exported
+		ADDED from AndroidManifest.xml:260:18
+	android:name
+		ADDED from AndroidManifest.xml:259:18
+service#com.htc.android.worldclock.alarmclock.AlarmQueryMediaJobIntentService
+ADDED from AndroidManifest.xml:263:9
+	android:exported
+		ADDED from AndroidManifest.xml:265:13
+	android:permission
+		ADDED from AndroidManifest.xml:264:13
+	android:name
+		ADDED from AndroidManifest.xml:263:18
+service#com.htc.android.worldclock.worldclock.JobScheduleService
+ADDED from AndroidManifest.xml:267:9
+	android:permission
+		ADDED from AndroidManifest.xml:268:18
+	android:name
+		ADDED from AndroidManifest.xml:267:18
+activity#com.htc.android.worldclock.timer.TimerAlert
+ADDED from AndroidManifest.xml:271:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:275:13
+	android:label
+		ADDED from AndroidManifest.xml:271:52
+	android:excludeFromRecents
+		ADDED from AndroidManifest.xml:277:13
+	android:launchMode
+		ADDED from AndroidManifest.xml:273:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:276:13
+	android:theme
+		ADDED from AndroidManifest.xml:272:13
+	android:taskAffinity
+		ADDED from AndroidManifest.xml:274:13
+	android:name
+		ADDED from AndroidManifest.xml:271:19
+receiver#com.htc.android.worldclock.timer.TimerReceiver
+ADDED from AndroidManifest.xml:279:9
+	android:exported
+		ADDED from AndroidManifest.xml:280:13
+	android:name
+		ADDED from AndroidManifest.xml:279:19
+intent-filter#android.intent.action.TIMEZONE_CHANGED+android.intent.action.TIME_SET+com.htc.worldclock.TIMER_ALERT
+ADDED from AndroidManifest.xml:281:13
+action#com.htc.worldclock.TIMER_ALERT
+ADDED from AndroidManifest.xml:284:17
+	android:name
+		ADDED from AndroidManifest.xml:284:25
+service#com.htc.android.worldclock.timer.TimerService
+ADDED from AndroidManifest.xml:288:9
+	android:exported
+		ADDED from AndroidManifest.xml:289:18
+	android:name
+		ADDED from AndroidManifest.xml:288:18
+service#com.htc.android.worldclock.timer.TimerJobIntentService
+ADDED from AndroidManifest.xml:292:9
+	android:exported
+		ADDED from AndroidManifest.xml:294:13
+	android:permission
+		ADDED from AndroidManifest.xml:293:13
+	android:name
+		ADDED from AndroidManifest.xml:292:18
+activity#com.htc.android.worldclock.utils.SettingsActivity
+ADDED from AndroidManifest.xml:296:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:299:13
+	android:label
+		ADDED from AndroidManifest.xml:296:58
+	android:exported
+		ADDED from AndroidManifest.xml:298:13
+	android:theme
+		ADDED from AndroidManifest.xml:297:13
+	android:name
+		ADDED from AndroidManifest.xml:296:19
+intent-filter#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:300:13
+receiver#com.htc.android.worldclock.utils.ADWAgentReceiver
+ADDED from AndroidManifest.xml:305:9
+	android:exported
+		ADDED from AndroidManifest.xml:306:13
+	android:name
+		ADDED from AndroidManifest.xml:305:19
+intent-filter#android.intent.category.DEFAULT+com.htc.devicewipe.action.QUERY_DATA_CLOCK
+ADDED from AndroidManifest.xml:307:13
+action#com.htc.devicewipe.action.QUERY_DATA_CLOCK
+ADDED from AndroidManifest.xml:308:17
+	android:name
+		ADDED from AndroidManifest.xml:308:25
+activity#com.htc.android.worldclock.alarmclock.AlarmAlertReminder
+ADDED from AndroidManifest.xml:313:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:316:13
+	android:excludeFromRecents
+		ADDED from AndroidManifest.xml:319:13
+	android:launchMode
+		ADDED from AndroidManifest.xml:320:13
+	android:exported
+		ADDED from AndroidManifest.xml:317:13
+	android:noHistory
+		ADDED from AndroidManifest.xml:318:13
+	android:theme
+		ADDED from AndroidManifest.xml:315:13
+	android:name
+		ADDED from AndroidManifest.xml:314:13
+activity#com.htc.android.worldclock.timer.TimerAlertReminder
+ADDED from AndroidManifest.xml:326:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:329:13
+	android:excludeFromRecents
+		ADDED from AndroidManifest.xml:332:13
+	android:launchMode
+		ADDED from AndroidManifest.xml:333:13
+	android:exported
+		ADDED from AndroidManifest.xml:330:13
+	android:noHistory
+		ADDED from AndroidManifest.xml:331:13
+	android:theme
+		ADDED from AndroidManifest.xml:328:13
+	android:name
+		ADDED from AndroidManifest.xml:327:13
+service#com.htc.android.worldclock.aiservice.AiClientService
+ADDED from AndroidManifest.xml:339:9
+	android:exported
+		ADDED from AndroidManifest.xml:341:13
+	android:permission
+		ADDED from AndroidManifest.xml:340:13
+	android:name
+		ADDED from AndroidManifest.xml:339:18
+intent-filter#com.intent.AI_SERVICE
+ADDED from AndroidManifest.xml:342:13
+action#com.intent.AI_SERVICE
+ADDED from AndroidManifest.xml:343:17
+	android:name
+		ADDED from AndroidManifest.xml:343:25
+uses-permission#android.permission.READ_CALENDAR
+ADDED from WorldClock.............hdk.htc.lib1:HtcCalendarFramwork:unspecified:12:5
+MERGED from WorldClock.............hdk.htc.lib1:HtcCalendarFramwork:unspecified:12:5
+	android:name
+		ADDED from WorldClock.............hdk.htc.lib1:HtcCalendarFramwork:unspecified:12:22
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from WorldClock.............hdk.htc.lib1:HtcCalendarFramwork:unspecified:13:5
+MERGED from WorldClock.............hdk.htc.lib1:HtcCalendarFramwork:unspecified:13:5
+	android:name
+		ADDED from WorldClock.............hdk.htc.lib1:HtcCalendarFramwork:unspecified:13:22
+activity#com.htc.lib1.cc.app.HtcShareActivity
+ADDED from WorldClock.............hdk.htc.lib1.HtcCommonControl:htccommoncontrol:unspecified:17:9
+MERGED from WorldClock.............hdk.htc.lib1.HtcCommonControl:htccommoncontrol:unspecified:17:9
+MERGED from WorldClock.............hdk.htc.lib1.HtcCommonControl:htccommoncontrol:unspecified:17:9
+	android:theme
+		ADDED from WorldClock.............hdk.htc.lib1.HtcCommonControl:htccommoncontrol:unspecified:19:13
+	android:name
+		ADDED from WorldClock.............hdk.htc.lib1.HtcCommonControl:htccommoncontrol:unspecified:18:13
+meta-data#android.support.VERSION
+ADDED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+MERGED from com.android.support:support-compat:26.0.0:26:9
+	android:value
+		ADDED from com.android.support:support-compat:26.0.0:28:13
+	android:name
+		ADDED from com.android.support:support-compat:26.0.0:27:13
+meta-data#hdkapi_weather
+ADDED from WorldClock.............hdk.htc.lib2:WeatherLib2:unspecified:12:9
+MERGED from WorldClock.............hdk.htc.lib2:WeatherLib2:unspecified:12:9
+	android:value
+		ADDED from WorldClock.............hdk.htc.lib2:WeatherLib2:unspecified:14:13
+	android:name
+		ADDED from WorldClock.............hdk.htc.lib2:WeatherLib2:unspecified:13:13
+meta-data#hdkapi_lockscreen
+ADDED from WorldClock.............hdk.htc.lib2:LockScreenLib2:unspecified:10:9
+	android:value
+		ADDED from WorldClock.............hdk.htc.lib2:LockScreenLib2:unspecified:12:13
+	android:name
+		ADDED from WorldClock.............hdk.htc.lib2:LockScreenLib2:unspecified:11:13

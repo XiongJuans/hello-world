@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_marginTop="@dimen/theme_temp_block_margin_top"
+              android:layout_weight="0">
+    <TextView
+        android:id="@+id/align_base2"
+        style="@style/fixed_masthead_19"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:singleLine="true"
+        android:text="@string/comma"
+        android:visibility="invisible"/>
+    <TextView
+        android:id="@+id/separatrix"
+        style="@style/fixed_masthead_19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:letterSpacing="@string/theme3_letter_spacing"
+        android:text="@string/bullet"
+        android:layout_alignBaseline="@id/align_base2"
+        android:visibility="gone"/>
+    <TextView
+        android:id="@+id/day_of_week_text"
+        style="@style/fixed_masthead_19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/align_base2"
+        android:layout_weight="0"
+        android:ellipsize="marquee"
+        android:letterSpacing="@string/theme3_letter_spacing"
+        android:singleLine="true"
+        android:paddingRight="@dimen/theme_italic_padding"/>
+</LinearLayout>
+<!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/layout/specific_theme3_weather_clock_4x1_date.xml --><!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/layout/specific_theme3_weather_clock_4x1_date.xml -->

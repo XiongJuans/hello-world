@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-hu/arrays.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>minden első pénteken</item><!--on every first Friday-->
+        <item>minden második pénteken</item><!--on every second Friday-->
+        <item>minden harmadik pénteken</item><!--on every third Friday-->
+        <item>minden negyedik pénteken</item><!--on every fourth Friday-->
+        <item>minden utolsó pénteken</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>minden első hétfőn</item><!--on every first Monday-->
+        <item>minden második hétfőn</item><!--on every second Monday-->
+        <item>minden harmadik hétfőn</item><!--on every third Monday-->
+        <item>minden negyedik hétfőn</item><!--on every fourth Monday-->
+        <item>minden utolsó hétfőn</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>minden első szombaton</item><!--on every first Saturday-->
+        <item>minden második szombaton</item><!--on every second Saturday-->
+        <item>minden harmadik szombaton</item><!--on every third Saturday-->
+        <item>minden negyedik szombaton</item><!--on every fourth Saturday-->
+        <item>minden utolsó szombaton</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>minden első vasárnapon</item><!--on every first Sunday-->
+        <item>minden második vasárnapon</item><!--on every second Sunday-->
+        <item>minden harmadik vasárnapon</item><!--on every third Sunday-->
+        <item>minden negyedik vasárnapon</item><!--on every fourth Sunday-->
+        <item>minden utolsó vasárnapon</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>minden első csütörtökön</item><!--on every first Thursday-->
+        <item>minden második csütörtökön</item><!--on every second Thursday-->
+        <item>minden harmadik csütörtökön</item><!--on every third Thursday-->
+        <item>minden negyedik csütörtökön</item><!--on every fourth Thursday-->
+        <item>minden utolsó csütörtökön</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>minden első kedden</item><!--on every first Tuesday-->
+        <item>minden második kedden</item><!--on every second Tuesday-->
+        <item>minden harmadik kedden</item><!--on every third Tuesday-->
+        <item>minden negyedik kedden</item><!--on every fourth Tuesday-->
+        <item>minden utolsó kedden</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>minden első szerdán</item><!--on every first Wednesday-->
+        <item>minden második szerdán</item><!--on every second Wednesday-->
+        <item>minden harmadik szerdán</item><!--on every third Wednesday-->
+        <item>minden negyedik szerdán</item><!--on every fourth Wednesday-->
+        <item>minden utolsó szerdán</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">egyszer</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> alkalommal</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Minden <ns1:g id="count">%d</ns1:g> nap</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Minden <ns1:g id="count">%d</ns1:g> nap</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Minden <ns1:g id="count">%d</ns1:g> hónap</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Minden <ns1:g id="count">%d</ns1:g> hónap</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Minden <ns1:g id="count">%d</ns1:g> hét</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Minden <ns1:g id="count">%d</ns1:g> hét</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Minden <ns1:g id="count">%d</ns1:g> év</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Minden <ns1:g id="count">%d</ns1:g> év</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">Hetente a következő napon: <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other">Minden <ns1:g id="number">%1$d</ns1:g>. héten a következő napon: <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <string name="every_weekday">"Minden hétköznap (Hét\u2013Pén)"</string>
+    <string name="monthly">Havonta</string>
+    <string name="monthly_on_day_count">"Havonta (Mindig <ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g>)"</string>
+    <string name="tm_daily">"Naponta"</string>
+    <string name="yearly_plain">Évente</string>
+</resources>

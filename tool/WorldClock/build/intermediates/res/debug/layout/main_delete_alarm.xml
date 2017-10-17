@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.htc.lib1.cc.widget.HtcOverlapLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/base_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <com.htc.lib1.cc.widget.HtcListView 
+        android:id="@+id/alarms_list"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:cacheColorHint="@android:color/transparent"
+        android:fadingEdge="none"
+        style="@style/HtcListView"/>
+
+    <include layout="@layout/common_button_bar" />
+    
+</com.htc.lib1.cc.widget.HtcOverlapLayout>
+<!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/layout/main_delete_alarm.xml -->

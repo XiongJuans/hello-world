@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" >
+    <TextView
+        android:id="@+id/primary"
+        style="@style/fixed_title_primary_m"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="false"
+        android:ellipsize="marquee"
+        android:maxLines="1" />
+    <TextView
+        android:id="@+id/counter"
+        android:textAppearance="@style/fixed_darklist_primary_xxs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/spacing"
+        android:layout_marginLeft="@dimen/spacing"
+        android:maxLines="1"
+        android:singleLine="true"
+        android:ellipsize="none"
+        android:visibility="gone" />
+    <ImageView
+        android:id="@+id/arrow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/spacing"
+        android:layout_marginLeft="@dimen/spacing"
+        android:clickable="false"
+        android:scaleType="center"
+        android:src="@drawable/common_arrow_down"
+        android:visibility="gone" />
+    <TextView
+        android:id="@+id/secondary"
+        style="@style/fixed_title_secondary_m"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="false"
+        android:ellipsize="none"
+        android:maxLines="1"
+        android:singleLine="true"
+        android:fadingEdge="horizontal"
+        android:visibility="gone" />
+</merge><!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/layout/action_dropdown.xml -->

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-it/arrays.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>ogni primo Venerdì</item><!--on every first Friday-->
+        <item>ogni secondo Venerdì</item><!--on every second Friday-->
+        <item>ogni terzo Venerdì</item><!--on every third Friday-->
+        <item>ogni quarto Venerdì</item><!--on every fourth Friday-->
+        <item>ogni ultimo Venerdì</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>ogni primo Lunedì</item><!--on every first Monday-->
+        <item>ogni secondo Lunedì</item><!--on every second Monday-->
+        <item>ogni terzo Lunedì</item><!--on every third Monday-->
+        <item>ogni quarto Lunedì</item><!--on every fourth Monday-->
+        <item>ogni ultimo Lunedì</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>ogni primo Sabato</item><!--on every first Saturday-->
+        <item>ogni secondo Sabato</item><!--on every second Saturday-->
+        <item>ogni terzo Sabato</item><!--on every third Saturday-->
+        <item>ogni quarto Sabato</item><!--on every fourth Saturday-->
+        <item>ogni ultimo Sabato</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>ogni prima Domenica</item><!--on every first Sunday-->
+        <item>ogni seconda Domenica</item><!--on every second Sunday-->
+        <item>ogni terza Domenica</item><!--on every third Sunday-->
+        <item>ogni quarta Domenica</item><!--on every fourth Sunday-->
+        <item>ogni ultima Domenica</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>ogni primo Giovedì</item><!--on every first Thursday-->
+        <item>ogni secondo Giovedì</item><!--on every second Thursday-->
+        <item>ogni terzo Giovedì</item><!--on every third Thursday-->
+        <item>ogni quarto Giovedì</item><!--on every fourth Thursday-->
+        <item>ogni ultimo Giovedì</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>ogni primo Martedì</item><!--on every first Tuesday-->
+        <item>ogni secondo Martedì</item><!--on every second Tuesday-->
+        <item>ogni terzo Martedì</item><!--on every third Tuesday-->
+        <item>ogni quarto Martedì</item><!--on every fourth Tuesday-->
+        <item>ogni ultimo Martedì</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>ogni primo Mercoledì</item><!--on every first Wednesday-->
+        <item>ogni secondo Mercoledì</item><!--on every second Wednesday-->
+        <item>ogni terzo Mercoledì</item><!--on every third Wednesday-->
+        <item>ogni quarto Mercoledì</item><!--on every fourth Wednesday-->
+        <item>ogni ultimo Mercoledì</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-it/strings.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">una volta</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> volte</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Ogni <ns1:g id="count">%d</ns1:g> giorno</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Ogni <ns1:g id="count">%d</ns1:g> giorni</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Ogni <ns1:g id="count">%d</ns1:g> mese</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Ogni <ns1:g id="count">%d</ns1:g> mesi</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Ogni <ns1:g id="count">%d</ns1:g> settimana</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Ogni <ns1:g id="count">%d</ns1:g> settimane</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Ogni <ns1:g id="count">%d</ns1:g> anno</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Ogni <ns1:g id="count">%d</ns1:g> anni</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">Ogni settimana il <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other">Ogni <ns1:g id="number">%1$d</ns1:g> settimane il <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <string name="every_weekday">"Ogni giorno della settimana (Lun-Ven)"</string>
+    <string name="monthly">"Ogni mese"</string>
+    <string name="monthly_on_day_count">"Ogni mese (ogni <ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g>)"</string>
+    <string name="tm_daily">"Ogni giorno"</string>
+    <string name="yearly_plain">Ogni anno</string>
+</resources>

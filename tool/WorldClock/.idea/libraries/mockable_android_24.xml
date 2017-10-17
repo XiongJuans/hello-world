@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mockable-android-24">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/mockable-android-24.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

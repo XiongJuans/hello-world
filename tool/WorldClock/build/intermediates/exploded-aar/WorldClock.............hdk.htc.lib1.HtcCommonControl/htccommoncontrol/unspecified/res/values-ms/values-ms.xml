@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>Kecil</item><!--Small-->
+        <item>Sederhana</item><!--Medium-->
+        <item>Besar</item><!--Large-->
+        <item>Lebih besar</item><!--Extra large-->
+        <item>Sangat besar</item><!--Huge-->
+    </string-array>
+    <string-array name="weeklayout_secondary_text">
+        <item>AH</item><!--SU-->
+        <item>I</item><!--M-->
+        <item>SE</item><!--TU-->
+        <item>R</item><!--W-->
+        <item>KH</item><!--TH-->
+        <item>F</item><!--F-->
+        <item>SA</item><!--SA-->
+    </string-array>
+    <string name="accessibility_tap_action">Ketik dua kali untuk bertindak</string>
+    <string name="add_comments">Tambah komen</string>
+    <string name="am">AM</string>
+    <string name="button_hide_caption">Sembunyikan kapsyen</string>
+    <string name="button_hide_description">Sembunyikan keterangan</string>
+    <string name="button_show_caption">Tunjukkan kapsyen</string>
+    <string name="button_show_description">Tunjukkan keterangan</string>
+    <string name="carousel_title">Edit tab</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ms/htc_strings.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">Cari Orang</string>
+    <string name="common_string_open_contact">Buka kenalan</string>
+    <string name="common_string_save_to_existing_contact">Simpan pada kenalan sedia ada</string>
+    <string name="common_string_save_to_people">Simpan pada Orang</string>
+    <string name="common_string_share_title">Kongsi melalui</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="done">Selesai</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ms/htc_strings.xml -->
+    <eat-comment/>
+    <string name="label_day">Hari</string>
+    <string name="label_hour">Jam</string>
+    <string name="label_minute">Minit</string>
+    <string name="label_month">Bulan</string>
+    <string name="label_second">Saat</string>
+    <string name="label_year">Tahun</string>
+    <string name="license_dialog_content">Sesetengah ikon yang digunakan pada telefon ini secara asalnya telah direka oleh Google dan diubah suai oleh HTC di bawah <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons License Atribusi 4.0</a>.</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <string name="ls_doubletap_drag">ketik dua kali dan seret untuk melaras</string>
+    <string name="ls_edit_number_before_calling">Edit nombor sebelum memanggil</string>
+    <string name="ls_open_in_map">Buka dalam peta</string>
+    <string name="ls_tablet_storage_error">Berlaku ralat pada storan tablet anda. Sila but semula peranti anda atau format storan.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="menu_crop">Pangkas</string>
+    <string name="menu_delete">Padamkan</string>
+    <string name="menu_properties">Butiran</string>
+    <string name="menu_protect_info">Maklumat perlindungan</string>
+    <string name="menu_save_to_my_favorite">Tetapkan sebagai kegemaran</string>
+    <string name="menu_send_photo_link_by_email">Kongsi pautan foto</string>
+    <string name="menu_set_as">Tetapkan sebagai</string>
+    <string name="menu_settings">Tetapan</string>
+    <string name="menu_share">Kongsi</string>
+    <string name="menu_show_on_map">Tunjukkan pada peta</string>
+    <string name="menu_slideshow">Tayangan slaid</string>
+    <string name="menu_view_full">Lihat</string>
+    <string name="menu_view_video">Main</string>
+    <string name="meun_rotate">Putar</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ms/htc_strings.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">Ralat tidak diketahui</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="no">Tidak</string>
+    <string name="pm">PM</string>
+    <string name="quickselection_share">Kongsi melalui</string>
+    <string name="refresh">Muat semula</string>
+    <string name="reminderview_common_unlock_hint_icon">Tarik ikon ke atas</string>
+    <string name="reminderview_common_unlock_hint_up">Tarik ke atas untuk membuka kunci</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ms/htc_strings.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">Lepaskan untuk memuat semula</string>
+    <string name="st_action_bar_updating">Mengemas kini...</string>
+    <string name="st_draggable_item">Item boleh leret</string>
+    <string name="st_loading">Memuatkan…</string>
+    <string name="st_more">Lagi</string>
+    <string name="st_pull_down_refresh">Tarik ke bawah untuk memuat semula</string>
+    <string name="tab_remove_dialog_message">Anda mempunyai baki satu tab. Untuk menambahkan lagi tab untuk apl ini, pilih Edit tab/Penapis pada menu.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">Tidak dapat mengalih keluar tab ini</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ms/htc_strings.xml -->
+    <eat-comment/>
+    <string name="va_back">Undur</string>
+    <string name="va_call">Panggil</string>
+    <string name="va_cancel">Batalkan</string>
+    <string name="va_clear">Kosongkan</string>
+    <string name="va_close">Tutup</string>
+    <string name="va_copy">Salin</string>
+    <string name="va_download">Muat turun</string>
+    <string name="va_downloading">Memuat turun</string>
+    <string name="va_finish">Selesai</string>
+    <string name="va_hide">Sembunyi</string>
+    <string name="va_move_above">Alih ke atas</string>
+    <string name="va_move_below">Alih ke bawah</string>
+    <string name="va_next">Seterusnya</string>
+    <string name="va_ok">OK</string>
+    <string name="va_open">Buka</string>
+    <string name="va_reset">Tetapkan semula</string>
+    <string name="va_send_mail">Hantar mel</string>
+    <string name="va_send_message">Hantar mesej</string>
+    <string name="va_show_all">Tunjukkan semua</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="yes">Ya</string>
+</resources>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-el/arrays.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>κάθε πρώτη Παρασκευή</item><!--on every first Friday-->
+        <item>κάθε δεύτερη Παρασκευή</item><!--on every second Friday-->
+        <item>κάθε τρίτη Παρασκευή</item><!--on every third Friday-->
+        <item>κάθε τέταρτη Παρασκευή</item><!--on every fourth Friday-->
+        <item>κάθε τελευταία Παρασκευή</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>κάθε πρώτη Δευτέρα</item><!--on every first Monday-->
+        <item>κάθε δεύτερη Δευτέρα</item><!--on every second Monday-->
+        <item>κάθε τρίτη Δευτέρα</item><!--on every third Monday-->
+        <item>κάθε τέταρτη Δευτέρα</item><!--on every fourth Monday-->
+        <item>κάθε τελευταία Δευτέρα</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>κάθε πρώτο Σάββατο</item><!--on every first Saturday-->
+        <item>κάθε δεύτερο Σάββατο</item><!--on every second Saturday-->
+        <item>κάθε τρίτο Σάββατο</item><!--on every third Saturday-->
+        <item>κάθε τέταρτο Σάββατο</item><!--on every fourth Saturday-->
+        <item>κάθε τελευταίο Σάββατο</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>κάθε πρώτη Κυριακή</item><!--on every first Sunday-->
+        <item>κάθε δεύτερη Κυριακή</item><!--on every second Sunday-->
+        <item>κάθε τρίτη Κυριακή</item><!--on every third Sunday-->
+        <item>κάθε τέταρτη Κυριακή</item><!--on every fourth Sunday-->
+        <item>κάθε τελευταία Κυριακή</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>κάθε πρώτη Πέμπτη</item><!--on every first Thursday-->
+        <item>κάθε δεύτερη Πέμπτη</item><!--on every second Thursday-->
+        <item>κάθε τρίτη Πέμπτη</item><!--on every third Thursday-->
+        <item>κάθε τέταρτη Πέμπτη</item><!--on every fourth Thursday-->
+        <item>κάθε τελευταία Πέμπτη</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>κάθε πρώτη Τρίτη</item><!--on every first Tuesday-->
+        <item>κάθε δεύτερη Τρίτη</item><!--on every second Tuesday-->
+        <item>κάθε τρίτη Τρίτη</item><!--on every third Tuesday-->
+        <item>κάθε τέταρτη Τρίτη</item><!--on every fourth Tuesday-->
+        <item>κάθε τελευταία Τρίτη</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>κάθε πρώτη Τετάρτη</item><!--on every first Wednesday-->
+        <item>κάθε δεύτερη Τετάρτη</item><!--on every second Wednesday-->
+        <item>κάθε τρίτη Τετάρτη</item><!--on every third Wednesday-->
+        <item>κάθε τέταρτη Τετάρτη</item><!--on every fourth Wednesday-->
+        <item>κάθε τελευταία Τετάρτη</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-el/strings.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">μία φορά</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> φορές</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Κάθε <ns1:g id="count">%d</ns1:g> μέρα</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Κάθε <ns1:g id="count">%d</ns1:g> μέρες</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Κάθε <ns1:g id="count">%d</ns1:g> μήνα</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Κάθε <ns1:g id="count">%d</ns1:g> μήνες</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Κάθε <ns1:g id="count">%d</ns1:g> εβδομάδα</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Κάθε <ns1:g id="count">%d</ns1:g> εβδομάδες</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Κάθε <ns1:g id="count">%d</ns1:g> χρόνο</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Κάθε <ns1:g id="count">%d</ns1:g> χρόνια</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">Κάθε εβδομάδα την <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other">Κάθε <ns1:g id="number">%1$d</ns1:g> εβδομάδες την <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <string name="every_weekday">"Καθημερινά (Δευ-Παρ)"</string>
+    <string name="monthly">"Μηνιαία"</string>
+    <string name="monthly_on_day_count">"Κάθε μήνα (Κάθε <ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g>)"</string>
+    <string name="tm_daily">"Κάθε μέρα"</string>
+    <string name="yearly_plain">Ετησ</string>
+</resources>

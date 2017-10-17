@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values-da/strings.xml -->
+    <eat-comment/>
+    <string name="location_unavailable">Din placering er ikke tilgængelig</string>
+    <string name="masthead_st_am">AM</string>
+    <string name="masthead_st_auto_sync_off">Automatisk synkronisering er slået fra. Tryk for at se vejret.</string>
+    <string name="masthead_st_current_location">Aktuel placering</string>
+    <string name="masthead_st_device_only_off">Skift indstillingen i placeringstjenesten for at se vejrudsigten</string>
+    <string name="masthead_st_location_service_off">Slå placeringstjenester til for at få vejrudsigter</string>
+    <string name="masthead_st_pm">PM</string>
+    <string name="masthead_st_weather_unavailable">Vejr utilgængelig</string>
+</resources>

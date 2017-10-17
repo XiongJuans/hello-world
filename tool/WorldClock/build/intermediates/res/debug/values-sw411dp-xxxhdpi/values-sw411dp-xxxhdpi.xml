@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-sw411dp-xxxhdpi/values-sw411dp-xxxhdpi.xml -->
+    <eat-comment/>
+    <dimen name="dualclock_clocklayout_margin_left1">0dp</dimen>
+    <dimen name="dualclock_clocklayout_margin_left2">18.29dp</dimen>
+    <dimen name="dualclock_clocklayout_width">187.43dp</dimen>
+    <dimen name="fixed_automotive_01">48px</dimen>
+    <dimen name="fixed_automotive_02">141px</dimen>
+    <dimen name="fixed_automotive_03">96px</dimen>
+    <dimen name="fixed_automotive_07">160px</dimen>
+    <dimen name="fixed_automotive_08">160px</dimen>
+    <dimen name="fixed_automotive_11">64px</dimen>
+    <dimen name="fixed_automotive_13">77px</dimen>
+    <dimen name="fixed_automotive_14">82px</dimen>
+    <dimen name="fixed_automotive_15">53px</dimen>
+    <dimen name="fixed_automotive_16">53px</dimen>
+    <dimen name="fixed_masthead_01">51px</dimen>
+    <dimen name="fixed_masthead_02">45px</dimen>
+    <dimen name="fixed_masthead_03">56px</dimen>
+    <dimen name="fixed_masthead_04">29px</dimen>
+    <dimen name="fixed_masthead_05">40px</dimen>
+    <dimen name="fixed_masthead_06">24px</dimen>
+    <dimen name="fixed_masthead_07">48px</dimen>
+    <dimen name="fixed_masthead_08">48px</dimen>
+    <dimen name="fixed_masthead_09">48px</dimen>
+    <dimen name="fixed_masthead_10">48px</dimen>
+    <dimen name="fixed_masthead_11">48px</dimen>
+    <dimen name="fixed_masthead_12">28px</dimen>
+    <dimen name="fixed_masthead_13">44px</dimen>
+    <dimen name="fixed_masthead_14">40px</dimen>
+    <dimen name="fixed_masthead_15">39px</dimen>
+    <dimen name="fixed_masthead_16">46px</dimen>
+    <dimen name="fixed_masthead_17">28px</dimen>
+    <dimen name="fixed_masthead_18">120px</dimen>
+    <dimen name="fixed_masthead_19">46px</dimen>
+    <dimen name="fixed_masthead_20">46px</dimen>
+    <dimen name="fixed_masthead_21">32px</dimen>
+    <dimen name="fixed_simple_launcher_01">93px</dimen>
+    <dimen name="fixed_simple_launcher_02">80px</dimen>
+    <dimen name="fixed_simple_launcher_03">96px</dimen>
+    <dimen name="fixed_simple_launcher_04">56px</dimen>
+    <dimen name="fixed_simple_launcher_05">53px</dimen>
+    <dimen name="libmasthead_masthead_height">140.86dp</dimen>
+    <dimen name="libmasthead_masthead_height_large">152dp</dimen>
+    <dimen name="libmasthead_masthead_height_simple">165.14dp</dimen>
+    <dimen name="libmasthead_masthead_height_twoline">184dp</dimen>
+    <dimen name="libmasthead_masthead_widget_padding_bottom">2.57dp</dimen>
+    <dimen name="libmasthead_masthead_widget_padding_left_right">9.14dp</dimen>
+    <dimen name="libmasthead_masthead_widget_padding_top">10.28dp</dimen>
+    <item name="masthead_01_shadowDy" type="dimen">6.7</item>
+    <item name="masthead_01_shadowSize" type="dimen">6.7</item>
+    <item name="masthead_02_shadowDy" type="dimen">6.7</item>
+    <item name="masthead_02_shadowSize" type="dimen">6.7</item>
+    <item name="masthead_03_shadowDy" type="dimen">6.7</item>
+    <item name="masthead_03_shadowSize" type="dimen">6.7</item>
+    <item name="masthead_04_shadowDy" type="dimen">6.7</item>
+    <item name="masthead_04_shadowSize" type="dimen">6.7</item>
+    <item name="masthead_05_shadowDy" type="dimen">6.7</item>
+    <item name="masthead_05_shadowSize" type="dimen">6.7</item>
+    <item name="masthead_06_shadowDy" type="dimen">6.7</item>
+    <item name="masthead_06_shadowSize" type="dimen">6.7</item>
+    <item name="masthead_07_shadowDy" type="dimen">6.7</item>
+    <item name="masthead_07_shadowSize" type="dimen">6.7</item>
+    <item name="masthead_08_shadowDy" type="dimen">6.7</item>
+    <item name="masthead_08_shadowSize" type="dimen">6.7</item>
+    <item name="masthead_09_shadowDy" type="dimen">6.7</item>
+    <item name="masthead_09_shadowSize" type="dimen">6.7</item>
+    <item name="masthead_10_shadowDy" type="dimen">6.7</item>
+    <item name="masthead_10_shadowSize" type="dimen">6.7</item>
+    <item name="masthead_11_shadowDy" type="dimen">5.3</item>
+    <item name="masthead_11_shadowSize" type="dimen">8.0</item>
+    <item name="masthead_12_shadowDy" type="dimen">5.3</item>
+    <item name="masthead_12_shadowSize" type="dimen">8.0</item>
+    <item name="masthead_13_shadowDy" type="dimen">5.3</item>
+    <item name="masthead_13_shadowSize" type="dimen">8.0</item>
+    <item name="masthead_14_shadowDy" type="dimen">5.3</item>
+    <item name="masthead_14_shadowSize" type="dimen">8.0</item>
+    <item name="masthead_15_shadowDy" type="dimen">5.3</item>
+    <item name="masthead_15_shadowSize" type="dimen">8.0</item>
+    <item name="masthead_16_shadowDy" type="dimen">5.3</item>
+    <item name="masthead_16_shadowSize" type="dimen">8.0</item>
+    <item name="masthead_17_shadowDy" type="dimen">5.3</item>
+    <item name="masthead_17_shadowSize" type="dimen">8.0</item>
+    <item name="masthead_18_shadowDy" type="dimen">6.7</item>
+    <item name="masthead_18_shadowSize" type="dimen">6.7</item>
+    <item name="masthead_19_shadowDy" type="dimen">6.7</item>
+    <item name="masthead_19_shadowSize" type="dimen">6.7</item>
+    <item name="masthead_20_shadowDy" type="dimen">6.7</item>
+    <item name="masthead_20_shadowSize" type="dimen">6.7</item>
+    <item name="masthead_21_shadowDy" type="dimen">6.7</item>
+    <item name="masthead_21_shadowSize" type="dimen">6.7</item>
+    <item name="simple_launcher_02_shadowDy" type="dimen">2.7</item>
+    <item name="simple_launcher_02_shadowSize" type="dimen">2.7</item>
+    <item name="simple_launcher_03_shadowDy" type="dimen">2.7</item>
+    <item name="simple_launcher_03_shadowSize" type="dimen">2.7</item>
+    <item name="simple_launcher_04_shadowDy" type="dimen">2.7</item>
+    <item name="simple_launcher_04_shadowSize" type="dimen">2.7</item>
+    <item name="simple_launcher_05_shadowDy" type="dimen">2.7</item>
+    <item name="simple_launcher_05_shadowSize" type="dimen">2.7</item>
+    <dimen name="theme0_am_pm_margin_bottom">3.43dp</dimen>
+    <dimen name="theme0_background_block_padding_bottom">5.71dp</dimen>
+    <dimen name="theme0_clock_4x1_img_half_height">34.29dp</dimen>
+    <dimen name="theme0_clock_4x1_img_height">68.57dp</dimen>
+    <dimen name="theme0_clock_4x1_img_width">44dp</dimen>
+    <dimen name="theme0_clock_4x1_img_width_land">44dp</dimen>
+    <dimen name="theme0_clock_4x1_img_width_port">44dp</dimen>
+    <dimen name="theme0_clock_container_down_4x1_height">34.86dp</dimen>
+    <dimen name="theme0_clock_container_up_4x1_height">33.71dp</dimen>
+    <dimen name="theme0_clock_container_up_4x1_height_land">33.71dp</dimen>
+    <dimen name="theme0_clock_container_up_4x1_height_port">33.71dp</dimen>
+    <dimen name="theme0_clock_digital_down_4x1_margin_top">-34dp</dimen>
+    <dimen name="theme0_clock_digital_up_4x1_margin_bottom">-35.14dp</dimen>
+    <dimen name="theme0_clock_point_4x1_width">9.43dp</dimen>
+    <dimen name="theme0_error_text_height">77.14dp</dimen>
+    <dimen name="theme0_error_text_width">105.71dp</dimen>
+    <dimen name="theme0_info_temp_area_margin_top">76dp</dimen>
+    <dimen name="theme0_location_padding_top">0dp</dimen>
+    <dimen name="theme0_sun_small_height">77.14dp</dimen>
+    <dimen name="theme0_sun_small_width">77.14dp</dimen>
+    <dimen name="theme0_temp_c_f_margin_top">-2.57dp</dimen>
+    <dimen name="theme0_temp_symbol_margin_top">3.14dp</dimen>
+    <dimen name="theme0_widget_padding_top">4dp</dimen>
+    <dimen name="theme1_am_pm_margin_bottom">4.29dp</dimen>
+    <dimen name="theme1_background_block_height">123.71dp</dimen>
+    <dimen name="theme1_background_block_margin_left_right">44.57dp</dimen>
+    <dimen name="theme1_background_block_margin_top">5.71dp</dimen>
+    <dimen name="theme1_digital_clock_base_margin_bottom">15.71dp</dimen>
+    <dimen name="theme1_info_temp_area_margin_bottom">-7.43dp</dimen>
+    <dimen name="theme1_info_temp_area_margin_top">85.71dp</dimen>
+    <dimen name="theme1_info_temp_margin_right">29.43dp</dimen>
+    <dimen name="theme1_info_temp_upper_margin_botttom">30.86dp</dimen>
+    <dimen name="theme1_separatrix_height">11.43dp</dimen>
+    <dimen name="theme1_separatrix_width">0.86dp</dimen>
+    <dimen name="theme1_sun_small_height">25.14dp</dimen>
+    <dimen name="theme1_sun_small_margin_bottom">7.14dp</dimen>
+    <dimen name="theme1_sun_small_margin_top">5.71dp</dimen>
+    <dimen name="theme1_sun_small_width">25.14dp</dimen>
+    <dimen name="theme1_temp_c_f_margin_top">-5.14dp</dimen>
+    <dimen name="theme1_temp_margin_bottom">1.43dp</dimen>
+    <dimen name="theme1_temp_margin_top">1.43dp</dimen>
+    <dimen name="theme1_temp_symbol_margin_top">0.86dp</dimen>
+    <dimen name="theme1_widget_margin_top">10.29dp</dimen>
+    <dimen name="theme2_digital_clock_base_margin_bottom">10dp</dimen>
+    <dimen name="theme2_slash_img_height">94.57dp</dimen>
+    <dimen name="theme2_slash_img_width">106.57dp</dimen>
+    <dimen name="theme_am_pm_margin_bottom">4.29dp</dimen>
+    <dimen name="theme_clock_4x1_img_half_height">41.29dp</dimen>
+    <dimen name="theme_clock_4x1_img_height">83.14dp</dimen>
+    <dimen name="theme_clock_4x1_img_width">53.43dp</dimen>
+    <dimen name="theme_clock_4x1_img_width_land">53.43dp</dimen>
+    <dimen name="theme_clock_4x1_img_width_port">53.43dp</dimen>
+    <dimen name="theme_clock_container_down_4x1_height">42.29dp</dimen>
+    <dimen name="theme_clock_container_up_4x1_height">40.86dp</dimen>
+    <dimen name="theme_clock_container_up_4x1_height_land">40.86dp</dimen>
+    <dimen name="theme_clock_container_up_4x1_height_port">40.86dp</dimen>
+    <dimen name="theme_clock_digital_down_4x1_margin_top">-41.14dp</dimen>
+    <dimen name="theme_clock_digital_up_4x1_margin_bottom">-42.57dp</dimen>
+    <dimen name="theme_clock_point_4x1_width">11.43dp</dimen>
+    <dimen name="theme_digital_padding_left">@dimen/margin_l</dimen>
+    <dimen name="theme_dual_ampm_margin_top">5.71dp</dimen>
+    <dimen name="theme_dual_city_margin_top">42.57dp</dimen>
+    <dimen name="theme_dual_clock_padding_bottom">5.71dp</dimen>
+    <dimen name="theme_dual_clock_padding_top">5.14dp</dimen>
+    <dimen name="theme_dual_date_margin_top">27.43dp</dimen>
+    <dimen name="theme_dual_digital_dot_width">5.71dp</dimen>
+    <dimen name="theme_dual_digital_height">41.43dp</dimen>
+    <dimen name="theme_dual_digital_width">26.57dp</dimen>
+    <dimen name="theme_dual_sun_small_height">20dp</dimen>
+    <dimen name="theme_dual_sun_small_width">20dp</dimen>
+    <dimen name="theme_dual_temp_degree_margin_top">2dp</dimen>
+    <dimen name="theme_dual_widget_padding_top">0dp</dimen>
+    <dimen name="theme_error_text_height">106.57dp</dimen>
+    <dimen name="theme_error_text_width">111.14dp</dimen>
+    <dimen name="theme_info_temp_area_margin_top">88.86dp</dimen>
+    <dimen name="theme_italic_padding">2.29dp</dimen>
+    <dimen name="theme_italic_padding_shift">-2.29dp</dimen>
+    <dimen name="theme_location_padding_top">5.71dp</dimen>
+    <dimen name="theme_sun_small_height">100.57dp</dimen>
+    <dimen name="theme_sun_small_width">100.57dp</dimen>
+    <dimen name="theme_temp_block_margin_top">4.29dp</dimen>
+    <dimen name="theme_temp_block_margin_top_shift">-4.29dp</dimen>
+    <dimen name="theme_temp_c_f_margin_top">-2dp</dimen>
+    <dimen name="theme_temp_symbol_margin_bottom">-2.57dp</dimen>
+    <dimen name="theme_temp_symbol_margin_top">3.71dp</dimen>
+    <dimen name="theme_widget_margin_left_right">44.57dp</dimen>
+    <dimen name="theme_widget_padding_top">5.71dp</dimen>
+    <dimen name="theme_widget_padding_top_minus">-5.71dp</dimen>
+    <dimen name="widget_padding">0dp</dimen>
+</resources>

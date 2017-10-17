@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/theme_temp_block_margin_top"
+    android:layout_weight="0" >
+    <TextView
+        android:id="@+id/align_base2"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:singleLine="true"
+        android:text="@string/comma"
+        android:visibility="invisible"
+        style="@style/fixed_masthead_16"/>
+    <TextView
+        android:id="@+id/separatrix"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/theme_italic_padding_shift"
+        android:layout_weight="0"
+        android:letterSpacing="0.15"
+        android:text="@string/bullet"
+        android:visibility="gone"
+        style="@style/fixed_masthead_16"/>
+    <TextView
+        android:id="@+id/week_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingRight="@dimen/theme_italic_padding"
+        android:layout_weight="0"
+        android:layout_alignBaseline="@id/align_base2"
+        android:singleLine="true"
+        android:ellipsize="marquee"
+        android:letterSpacing="0.15"
+        style="@style/fixed_masthead_16"/>
+    <TextView
+        android:id="@+id/holiday_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/theme_italic_padding_shift"
+        android:paddingRight="@dimen/leading"
+        android:layout_weight="1"
+        android:layout_alignBaseline="@id/align_base2"
+        android:singleLine="true"
+        android:ellipsize="marquee"
+        android:letterSpacing="0.15"
+        style="@style/fixed_masthead_16"/>
+</LinearLayout>
+<!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/layout/specific_theme0_weather_clock_4x1_date.xml -->

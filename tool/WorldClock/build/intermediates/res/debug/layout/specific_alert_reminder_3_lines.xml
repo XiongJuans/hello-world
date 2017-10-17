@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- incoming call contact panel -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/reminder_tile_layout_height"
+    android:orientation="vertical" >
+    
+    <!-- alarm/timer reminder title -->
+    <TextView
+        android:id="@+id/reminder_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:layout_marginTop="@dimen/reminder_title_marginTop"
+        android:layout_marginLeft="@dimen/common_dimen_m1"
+        android:layout_marginRight="@dimen/common_dimen_m1"
+        android:singleLine="true"
+        style="@style/fixed_lockscreen_09" />
+
+    <!-- alarm/timer reminder description -->
+    <TextView
+        android:id="@+id/reminder_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:layout_marginTop="@dimen/reminder_description_marginTop"
+        android:layout_marginLeft="@dimen/common_dimen_m1"
+        android:layout_marginRight="@dimen/common_dimen_m1"
+        android:singleLine="true"
+        style="@style/fixed_lockscreen_10" />
+
+    <!-- alarm/timer reminder time -->
+    <TextView
+        android:id="@+id/reminder_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:layout_marginTop="@dimen/reminder_time_marginTop"
+        android:layout_marginLeft="@dimen/common_dimen_m1"
+        android:layout_marginRight="@dimen/common_dimen_m1"
+        android:singleLine="true"
+        style="@style/fixed_lockscreen_11" />
+
+</LinearLayout>
+<!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/layout/specific_alert_reminder_3_lines.xml -->

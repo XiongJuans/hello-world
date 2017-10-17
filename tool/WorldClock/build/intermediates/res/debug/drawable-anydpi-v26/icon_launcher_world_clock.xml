@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@drawable/icon_tile_01_02"/>
+    <foreground android:drawable="@drawable/icon_launcher_a_world_clock"/>
+</adaptive-icon><!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/drawable-anydpi-v26/icon_launcher_world_clock.xml -->
