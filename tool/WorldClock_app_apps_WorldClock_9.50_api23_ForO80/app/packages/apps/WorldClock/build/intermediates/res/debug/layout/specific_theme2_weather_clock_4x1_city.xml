@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_weight="1">
+    <TextView
+        android:id="@+id/align_base"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/theme_temp_block_margin_top"
+        android:singleLine="true"
+        android:text="@string/comma"
+        android:visibility="invisible"
+        style="@style/custom_fixed_masthead_01"/>
+    <TextView
+        android:id="@+id/city_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingRight="@dimen/theme_italic_padding"
+        android:drawableLeft="@drawable/clock_weather_icon_location_dark_s"
+        android:layout_alignBaseline="@id/align_base"
+        android:singleLine="true"
+        android:ellipsize="marquee"
+        android:visibility="gone"
+        style="@style/custom_fixed_masthead_01"/>
+    <FrameLayout 
+        android:id="@+id/city_name_t"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/city_name"
+        android:layout_alignBottom="@id/city_name"
+        android:layout_alignLeft="@id/city_name"
+        android:layout_alignRight="@id/city_name"/>
+</RelativeLayout>
+<!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/layout/specific_theme2_weather_clock_4x1_city.xml --><!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/layout/specific_theme2_weather_clock_4x1_city.xml -->

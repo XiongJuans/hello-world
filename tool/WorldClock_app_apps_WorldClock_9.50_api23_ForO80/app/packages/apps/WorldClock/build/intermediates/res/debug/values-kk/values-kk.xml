@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string-array name="days_of_week">
+        <item>Дүйсенбі</item><!--MONDAY-->
+        <item>Сейсенбі</item><!--TUESDAY-->
+        <item>Сәрсенбі</item><!--WEDNESDAY-->
+        <item>Бейсенбі</item><!--THURSDAY-->
+        <item>Жұма</item><!--FRIDAY-->
+        <item>Сенбі</item><!--SATURDAY-->
+        <item>Жексенбі</item><!--SUNDAY-->
+    </string-array>
+    <string-array name="days_of_week_abbr">
+        <item>Дс</item><!--M-->
+        <item>Сс</item><!--TU-->
+        <item>Ср</item><!--W-->
+        <item>Бс</item><!--TH-->
+        <item>Жм</item><!--F-->
+        <item>Сб</item><!--SA-->
+        <item>Жс</item><!--SU-->
+    </string-array>
+    <string-array name="days_of_week_capital">
+        <item/>
+        <item>Жс</item><!--SUN-->
+        <item>Дс</item><!--MON-->
+        <item>Сс</item><!--TUE-->
+        <item>Ср</item><!--WED-->
+        <item>Бс</item><!--THU-->
+        <item>Жм</item><!--FRI-->
+        <item>Сб</item><!--SAT-->
+    </string-array>
+    <string-array name="days_of_week_short">
+        <item>@string/tm_mon</item>
+        <item>@string/tm_tue</item>
+        <item>@string/tm_wed</item>
+        <item>@string/tm_thu</item>
+        <item>@string/tm_fri</item>
+        <item>@string/tm_sat</item>
+        <item>@string/tm_sun</item>
+    </string-array>
+    <string-array name="days_of_week_whole_capital">
+        <item/>
+        <item>Жексенбі</item><!--SUNDAY-->
+        <item>Дүйсенбі</item><!--MONDAY-->
+        <item>Сейсенбі</item><!--TUESDAY-->
+        <item>Сәрсенбі</item><!--WEDNESDAY-->
+        <item>Бейсенбі</item><!--THURSDAY-->
+        <item>Жұма</item><!--FRIDAY-->
+        <item>Сенбі</item><!--SATURDAY-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/WeatherLib1/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string-array name="htc_weather_conditions">
+<!-- weather condition 1 : Sunny -->
+        <item>Күн шуақ</item><!--Sunny-->
+<!-- weather condition 2 : Mostly Sunny -->
+        <item>Көбінесе күн шуақ</item><!--Mostly Sunny-->
+<!-- weather condition 3 : Partly Sunny -->
+        <item>Жартылай күн шуақ</item><!--Partly Sunny-->
+<!-- weather condition 4 : Intermittent Clouds -->
+        <item>Өткінші жаңбыр</item><!--Intermittent Clouds--><!--Intermittent Clouds-->
+<!-- weather condition 5 : Hazy Sunshine -->
+        <item>Бұлыңғыр, күн шығып тұр</item><!--Hazy Sunshine-->
+<!-- weather condition 6 : Mostly Cloudy -->
+        <item>Көбінесе бұлтты</item><!--Mostly Cloudy--><!--Mostly Cloudy-->
+<!-- weather condition 7 : Cloudy -->
+        <item>Бұлтты</item><!--Cloudy-->
+<!-- weather condition 8 : Dreary -->
+        <item>Бұлыңғыр</item><!--Dreary-->
+<!-- weather condition 11 : Fog -->
+        <item>Тұман</item><!--Fog-->
+<!-- weather condition 12 : Showers -->
+        <item>Қатты жаңбыр</item><!--Showers-->
+<!-- weather condition 13 : Mostly Cloudy with Showers -->
+        <item>Көбінесе бұлтты, қатты жаңбыр жауады</item><!--Mostly Cloudy with Showers--><!--Mostly Cloudy with Showers-->
+<!-- weather condition 14 : Partly Sunny with Showers -->
+        <item>Жартылай күн шуақ, қатты жаңбыр жауады</item><!--Partly Sunny with Showers-->
+<!-- weather condition 15 : Thunderstorms -->
+        <item>Найзағай</item><!--Thunderstorms-->
+<!-- weather condition 16 : Mostly Cloudy with Thunder Showers -->
+        <item>Көбінесе бұлтты, қатты жаңбыр жауады, найзағай ойнайды</item><!--Mostly Cloudy with Thunder Showers--><!--Mostly Cloudy with Thunder Showers-->
+<!-- weather condition 17 : Partly Sunny with Thunder Showers -->
+        <item>Жартылай күн шуақ, қатты жаңбыр жауады, найзағай ойнайды</item><!--Partly Sunny with Thunder Showers-->
+<!-- weather condition 18 : Rain -->
+        <item>Жаңбыр</item><!--Rain-->
+<!-- weather condition 19 : Flurries -->
+        <item>Аздаған жауын</item><!--Flurries-->
+<!-- weather condition 20 : Mostly Cloudy with Flurries -->
+        <item>Көбінесе бұлтты, аздап жауын жауады</item><!--Mostly Cloudy with Flurries--><!--Mostly Cloudy with Flurries-->
+<!-- weather condition 21 : Partly Sunny with Flurries -->
+        <item>Жартылай күн шуақ, аздап жауын жауады</item><!--Partly Sunny with Flurries-->
+<!-- weather condition 22 : Snow -->
+        <item>Қар</item><!--Snow-->
+<!-- weather condition 23 : Mostly Cloudy with Snow -->
+        <item>Көбінесе бұлтты, қар жауады</item><!--Mostly Cloudy with Snow-->
+<!-- weather condition 24 : Ice -->
+        <item>Мұз</item><!--Ice-->
+<!-- weather condition 25 : Sleet -->
+        <item>Көксоқта қар</item><!--Sleet-->
+<!-- weather condition 26 : Freezing Rain -->
+        <item>Суық жаңбыр</item><!--Freezing Rain-->
+<!-- weather condition 29 : Rain and Snow Mixed -->
+        <item>Қар аралас жаңбыр</item><!--Rain and Snow Mixed-->
+<!-- weather condition 30 : Hot -->
+        <item>Ыстық</item><!--Hot-->
+<!-- weather condition 31 : Cold -->
+        <item>Салқын</item><!--Cold-->
+<!-- weather condition 32 : Windy -->
+        <item>Жел тұрады</item><!--Windy-->
+<!-- weather condition 33 : Clear -->
+        <item>Ашық</item><!--Clear-->
+<!-- weather condition 34 : Mostly Clear -->
+        <item>Көбінесе ашық</item><!--Mostly Clear-->
+<!-- weather condition 35 : Partly Cloudy -->
+        <item>Жартылай бұлтты</item><!--Partly Cloudy-->
+<!-- weather condition 36 : Intermittent Clouds -->
+        <item>Өткінші жаңбыр</item><!--Intermittent Clouds--><!--Intermittent Clouds-->
+<!-- weather condition 37 : Hazy -->
+        <item>Тұманды</item><!--Hazy-->
+<!-- weather condition 38 : Mostly Cloudy -->
+        <item>Көбінесе бұлтты</item><!--Mostly Cloudy--><!--Mostly Cloudy-->
+<!-- weather condition 39 : Partly Cloudy with Showers -->
+        <item>Жартылай бұлтты, қатты жаңбыр жауады</item><!--Partly Cloudy with Showers-->
+<!-- weather condition 40 : Mostly Cloudy with Showers -->
+        <item>Көбінесе бұлтты, қатты жаңбыр жауады</item><!--Mostly Cloudy with Showers--><!--Mostly Cloudy with Showers-->
+<!-- weather condition 41 : Partly Cloudy with Thunder Showers -->
+        <item>Жартылай бұлтты, қатты жаңбыр жауады, найзағай ойнайды</item><!--Partly Cloudy with Thunder Showers-->
+<!-- weather condition 42 : Mostly Cloudy with Thunder Showers -->
+        <item>Көбінесе бұлтты, қатты жаңбыр жауады, найзағай ойнайды</item><!--Mostly Cloudy with Thunder Showers--><!--Mostly Cloudy with Thunder Showers-->
+<!-- weather condition 43 : Partly Cloudy with Flurries -->
+        <item>Жартылай бұлтты, аздап жауын жауады</item><!--Partly Cloudy with Flurries-->
+<!-- weather condition 44 : Mostly Cloudy with Flurries -->
+        <item>Көбінесе бұлтты, аздап жауын жауады</item><!--Mostly Cloudy with Flurries--><!--Mostly Cloudy with Flurries-->
+<!-- _For Huafeng -->
+<!-- weather condition 51 : -->
+        <item>Көксоқта қар мен найзағай</item><!--Thunderstorms with sleet-->
+<!-- weather condition 52 : -->
+        <item>Құм</item><!--Sand-->
+<!-- weather condition 53 : -->
+        <item>Шаң</item><!--Dust-->
+<!-- weather condition 54 : -->
+        <item>Дауыл</item><!--Tornado-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string-array name="month_of_year">
+    	<item>Қаң</item><!--JAN-->
+    	<item>АҚП</item><!--FEB-->
+    	<item>Нау</item><!--MAR-->
+    	<item>Сәу</item><!--APR-->
+    	<item>Мам</item><!--MAY-->
+    	<item>Мау</item><!--JUN-->
+    	<item>Шіл</item><!--JUL-->
+    	<item>Там</item><!--AUG-->
+    	<item>Қыр</item><!--SEP-->
+    	<item>Қаз</item><!--OCT-->
+    	<item>Қар</item><!--NOV-->
+    	<item>Жел</item><!--DEC-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>әрбір бірінші жұмада</item><!--on every first Friday-->
+        <item>әрбір екінші жұмада</item><!--on every second Friday-->
+        <item>әрбір үшінші жұмада</item><!--on every third Friday-->
+        <item>әрбір төртінші жұмада</item><!--on every fourth Friday-->
+        <item>әрбір соңғы жұмада</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>әрбір бірінші дүйсенбіде</item><!--on every first Monday-->
+        <item>әрбір екінші дүйсенбіде</item><!--on every second Monday-->
+        <item>әрбір үшінші дүйсенбіде</item><!--on every third Monday-->
+        <item>әрбір төртінші дүйсенбіде</item><!--on every fourth Monday-->
+        <item>әрбір соңғы дүйсенбіде</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>әрбір бірінші сенбіде</item><!--on every first Saturday-->
+        <item>әрбір екінші сенбіде</item><!--on every second Saturday-->
+        <item>әрбір үшінші сенбіде</item><!--on every third Saturday-->
+        <item>әрбір төртінші сенбіде</item><!--on every fourth Saturday-->
+        <item>әрбір соңғы сенбіде</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>әрбір бірінші жексенбіде</item><!--on every first Sunday-->
+        <item>әрбір екінші жексенбіде</item><!--on every second Sunday-->
+        <item>әрбір үшінші жексенбіде</item><!--on every third Sunday-->
+        <item>әрбір төртінші жексенбіде</item><!--on every fourth Sunday-->
+        <item>әрбір соңғы жексенбіде</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>әрбір бірінші бейсенбіде</item><!--on every first Thursday-->
+        <item>әрбір екінші бейсенбіде</item><!--on every second Thursday-->
+        <item>әрбір үшінші бейсенбіде</item><!--on every third Thursday-->
+        <item>әрбір төртінші бейсенбіде</item><!--on every fourth Thursday-->
+        <item>әрбір соңғы бейсенбіде</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>әрбір бірінші сейсенбіде</item><!--on every first Tuesday-->
+        <item>әрбір екінші сейсенбіде</item><!--on every second Tuesday-->
+        <item>әрбір үшінші сейсенбіде</item><!--on every third Tuesday-->
+        <item>әрбір төртінші сейсенбіде</item><!--on every fourth Tuesday-->
+        <item>әрбір соңғы сейсенбіде</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>әрбір бірінші сәрсенбіде</item><!--on every first Wednesday-->
+        <item>әрбір екінші сәрсенбіде</item><!--on every second Wednesday-->
+        <item>әрбір үшінші сәрсенбіде</item><!--on every third Wednesday-->
+        <item>әрбір төртінші сәрсенбіде</item><!--on every fourth Wednesday-->
+        <item>әрбір соңғы сәрсенбіде</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string-array name="repeat_option">
+        <item>Дс-Жм</item><!--Mon -/ Fri-->
+        <item>Қайталамау</item><!--Do not repeat-->
+        <item>Күн сайын</item><!--Every day-->
+        <item>Демалыстарды өткізіп жіберу</item><!--Skip holidays-->
+        <item>Реттелмелі</item><!--Custom-->
+    </string-array>
+    <string-array name="snooze_duration_entries">
+      <item>5 минут</item><!--5 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_10_minutes</item>
+      <item>15 минут</item><!--15 minutes-->
+      <item>20 минут</item><!--20 minutes-->
+      <item>25 минут</item><!--25 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_30_minutes</item>
+    </string-array>
+    <string-array name="sound_selection_setting_entries">
+<!-- Alarm sound -->
+      <item>Дабыл дыбысы</item><!--Alarm sound-->
+<!-- Do not translate. Ringtone -->
+      <item>@string/nn_ringtone</item>
+<!-- Do not translate. Music -->
+      <item>@string/nn_music</item>
+    </string-array>
+    <string-array name="sprint_volume_button_setting_entries">
+      <item>Ешнәрсе істемеу</item><!--Do nothing-->
+
+      <item>Кейінге қалдыру</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+
+      <item>Дыбысын басу</item><!--Silence-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>Кіші</item><!--Small-->
+        <item>Орташа</item><!--Medium-->
+        <item>Үлкен</item><!--Large-->
+        <item>Аса үлкен</item><!--Extra large-->
+        <item>Алып</item><!--Huge-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string-array name="volume_button_setting_entries">
+      <item>Ешнәрсе істемеу</item><!--Do nothing-->
+
+      <item>Кейінге қалдыру</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string-array name="weeklayout_secondary_text">
+        <item>Жс</item><!--SU-->
+        <item>Дс</item><!--M-->
+        <item>Сс</item><!--TU-->
+        <item>Ср</item><!--W-->
+        <item>Бс</item><!--TH-->
+        <item>Жм</item><!--F-->
+        <item>Сб</item><!--SA-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">бір рет</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> рет</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Әр <ns1:g id="count">%d</ns1:g> күн</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Әр <ns1:g id="count">%d</ns1:g> күн</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Әр <ns1:g id="count">%d</ns1:g> ай</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Әр <ns1:g id="count">%d</ns1:g> ай</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Әр <ns1:g id="count">%d</ns1:g> апта</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Әр <ns1:g id="count">%d</ns1:g> апта</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Әр <ns1:g id="count">%d</ns1:g> жыл</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Әр <ns1:g id="count">%d</ns1:g> жыл</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">Апта сайын <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other">Әрбір <ns1:g id="number">%1$d</ns1:g> апта сайын <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string name="accessibility_tap_action">Әрекет жасау үшін екі рет басыңыз</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="add_alarm">Дабыл қосу</string>
+    <string name="add_alarm_error">Сигналдар ең көп санына жетті.</string>
+    <string name="add_city">Қала қосу</string>
+    <string name="add_city_error_msg">Ең көбі 15 қала болуы мүмкін. Жаңа қала қосу үшін бұрынғы біреуін жойыңыз.</string>
+    <string name="add_city_error_title">Қала қосу мүмкін емес</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string name="add_comments">Пікір қосу</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="add_lap_error">Секундомер ең көбі 300 айналым сақтай алады. Айналымдар журналын өшіру үшін "Қалпына келтіру" түймешігін басыңыз.</string>
+    <string name="addcity_search">Қалаларды іздеу</string>
+    <string name="alarm_alert_alert_silenced">Дабылдың дыбысы <ns1:g id="minutes">%d</ns1:g> минуттан кейін өшірілді.</string>
+    <string name="alarm_alert_dismissed">Дабыл өткізілді.</string>
+    <string name="alarm_alert_snooze_not_set">Кейінге қалдыру орнатылған жоқ. Келесі дабыл қойылған уақыт: <ns1:g id="time">%s</ns1:g></string>
+    <string name="alarm_alert_snooze_set"><ns1:g id="minutes">%d</ns1:g> минутқа кейінге қалдырылды.</string>
+    <string name="alarm_caption">Дабылдар</string>
+    <string name="alarm_in_volume_increase_mode_summary">Сигнал деңгейін біртіндеп көбейту</string>
+    <string name="alarm_in_volume_increase_mode_title">Тыныш сигнал</string>
+    <string name="alarm_notify_snooze_label"><ns1:g id="label">%s</ns1:g> (кейінге қалдырылды)</string>
+    <string name="alarm_notify_snooze_text">Дабыл қойылған уақыт: <ns1:g id="time">%s</ns1:g>. Бас тарту үшін басыңыз.</string>
+    <string name="alarm_off">Дабыл өшірулі</string>
+    <string name="alarm_offalarm">Телефонды өшірген кездегі дыбыс</string>
+    <string name="alarm_on">Дабыл қосулы</string>
+    <string name="alarm_repeat">Қайталау</string>
+    <string name="alarm_ringtone">Дабыл дыбысы</string>
+    <string name="alarm_set">Бұл дабылға дейін қалған уақыт: <ns1:g id="time_delta">%s</ns1:g>.</string>
+    <string name="alarm_vibrate">Дірілдеу</string>
+    <string name="alarm_volume_summary">Дабылдардың дыбыс деңгейін орнату</string>
+    <string name="alarm_volume_title">Дабыл дыбысының деңгейі</string>
+    <string name="alert_sound">Дабыл дыбысы</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string name="am">AM</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="analog_gadget">Аналогтық сағат</string>
+    <string name="and">" және "</string>
+    <string name="bt_cancel_str">Бас тарту</string>
+    <string name="bt_done_str">Дайын</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string name="button_hide_caption">Тақырыпты жасыру</string>
+    <string name="button_hide_description">Сипаттаманы жасыру</string>
+    <string name="button_show_caption">Тақырыпты көрсету</string>
+    <string name="button_show_description">Сипаттаманы көрсету</string>
+    <string name="carousel_title">Қойындыларды өңдеу</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="city_duplicate">Бұл қала тізімде бұрыннан бар</string>
+    <string name="city_not_found">Қала табылмады</string>
+    <string name="clock_permission_dialog_btn_close">Жабу</string>
+    <string name="clock_permission_dialog_btn_settings">Параметрлер</string>
+    <string name="clock_permission_dialog_content">Дұрыс жұмыс істеуі үшін бұл қолданба жадыға кіруі тиіс. Сағат рұқсаттарын Параметрлер бөлімінде басқаруға болады.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">Адамдарды іздеу</string>
+    <string name="common_string_open_contact">Контактіні ашу</string>
+    <string name="common_string_save_to_existing_contact">Бар контактіге сақтау</string>
+    <string name="common_string_save_to_people">Адамдар қолданбасына сақтау</string>
+    <string name="common_string_share_title">Ортақтастыру әдісі</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="current_settings">Күнді және уақытты орнату</string>
+    <string name="day_concat">", "</string>
+    <string name="days">"<ns1:g id="days">%s</ns1:g> күн"</string>
+    <string name="dberror">Кешіріңіз, дабылды орнату мүмкін болмады.</string>
+    <string name="delete_alarm_caption">Дабылдарды жою</string>
+    <string name="delete_city_caption">Қалаларды жою</string>
+    <string name="desk_clock_caption">Үстел үстілік сағат</string>
+    <string name="dialog_button_ok">ОК</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string name="done">Дайын</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="error">Дабыл қосу мүмкін емес</string>
+    <string name="error_title">Дерекқор қатесі</string>
+    <string name="every_day">Күнде</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string name="every_weekday">"Әр жұмыс күні (Дс\u2013Жм)"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="fit_screen_menu_item">Экран өлшеміне сәйкес</string>
+    <string name="full_screen_menu_item">Толық экран</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/googleplay_strings.xml -->
+    <eat-comment/>
+    <string name="googleplay_description_app">Сіз Тайпей, Тайвань, Марракеш немесе Мароккода болсаңыз да, HTC сағаты қолданбасы ағымдағы орындағы, үйдегі және әлемдегі қалалардағы уақытты тексеруге мүмкіндік береді. Оның теңшелетін оятқыштар, секундомері және таймері көмегімен уақытты басқару қуатын қалтаңызда болады. Қалауыңыз бойынша көп оятқыш орнатыңыз, кідірту ұзақтығын өзгертіңіз, оятқыш өшірілген кезде ойнатылатын дыбысты таңдаңыз және оятқыштардың дыбысын телефон дыбыссыз болғанда да орнатыңыз. HTC сағатының секундомері жұмыс істеп жатырған кезде айналымды жазуға керемет және таймер теледидар алдында ас дайындау немесе бақылау үшін ыңғайлы болып келеді.</string>
+    <string name="googleplay_description_legal">[googleplay_description_legal_common_1]</string>
+    <string name="googleplay_description_short">HTC секундомері, таймері, дабылы мен әлемдік сағаты арқылы уақытты бақылау.</string>
+    <string name="googleplay_description_supportingScope"/>
+    <string name="googleplay_title">HTC сағаты</string>
+    <string name="googleplay_whatsnew">- Оятқыштар дыбысы біртіндеп көбейеді\n- Қателерді түзету және өнімділік жақсартулары</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="home_settings">Жергілікті уақыт белдеуін орнату</string>
+    <string name="hours"><ns1:g id="hours">%s</ns1:g> сағат</string>
+    <string name="htc_private_app_clock">Сағат</string>
+    <string name="internal_memory_low">Телефон жадындағы бос орын аз. Бұл қолданбаны қолданбас бұрын біраз орын босатыңыз.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string name="label_day">Күн</string>
+    <string name="label_hour">Сағат</string>
+    <string name="label_minute">Минут</string>
+    <string name="label_month">Ай</string>
+    <string name="label_second">Секунд</string>
+    <string name="label_year">Жыл</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="lap">Айналым</string>
+    <string name="lap_error">Айналым сақталмады</string>
+    <string name="lap_id">Айналым №</string>
+    <string name="lap_time">Осы айналым</string>
+    <string name="lap_title">Айналым</string>
+    <string name="lap_total_time">Барлығы</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string name="license_dialog_content">Бұл телефонда қолданылған кейбір белгішелер Google тарапынан жасалған және <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons лицензиясы BY4.0</a> бойынша HTC арқылы өзгертілді.</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="loading_city">Қала тізімдері жүктелуде...</string>
+    <string name="location_dialog_msg">Жергілікті ауа-райы ақпаратын алу үшін орынды анықтау параметрлерін батарея үнемдеу немесе жоғары дәлдік режиміне өзгертіңіз.</string>
+    <string name="location_dialog_title">Орынды анықтау қызметтері өшірулі</string>
+    <string name="location_enable">Жергілікті ауа райынкөру үшін осы жерді басып, "Орынды анықтау" қызметін қосыңыз.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string name="location_unavailable">Орын анықталмады</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="lockscreen_hint_dismiss">Өткізу үшін төмен сүйреңіз</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string name="ls_doubletap_drag">реттеу үшін екі рет басып, сүйреңіз</string>
+    <string name="ls_edit_number_before_calling">Нөмірді қоңырау соғудан бұрын өңдеу</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="ls_no_weather_data_available">Ауа райы деректері жоқ</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string name="ls_open_in_map">Картада ашу</string>
+    <string name="ls_tablet_storage_error">Планшет жадына қатысты қате пайда болды. Құрылғыны қайта қосыңыз немесе жадты пішімдеңіз.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string name="masthead_st_am">AM</string>
+    <string name="masthead_st_auto_sync_off">Автоматты түрде синхрондау өшірулі. Ауа-райын көру үшін басыңыз.</string>
+    <string name="masthead_st_current_location">Ағымдағы орын</string>
+    <string name="masthead_st_device_only_off">Ауа-райы ақпаратын алу үшін орынды анықтау қызметін режимін өзгертіңіз</string>
+    <string name="masthead_st_location_service_off">Ауа-райы ақпаратын алу үшін орынды анықтау қызметтерін қосыңыз</string>
+    <string name="masthead_st_pm">PM</string>
+    <string name="masthead_st_weather_unavailable">Ауа райы қол жетімді емес</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string name="menu_crop">Қиып алу</string>
+    <string name="menu_delete">Жою</string>
+    <string name="menu_properties">Мәлімет</string>
+    <string name="menu_protect_info">Қорғау туралы ақпарат</string>
+    <string name="menu_save_to_my_favorite">Таңдаулы ретінде орнату</string>
+    <string name="menu_send_photo_link_by_email">Фотосурет сілтемесін ортақтастыру</string>
+    <string name="menu_set_as">Келесі ретінде орнату</string>
+    <string name="menu_settings">Параметрлер</string>
+    <string name="menu_share">Ортақтастыру</string>
+    <string name="menu_show_on_map">Картада көрсету</string>
+    <string name="menu_slideshow">Слайд көрсетілімі</string>
+    <string name="menu_view_full">Көру</string>
+    <string name="menu_view_video">Ойнату</string>
+    <string name="meun_rotate">Бұру</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="minutes">"<ns1:g id="minutes">%s</ns1:g> минут"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string name="monthly">Ай сайын</string>
+    <string name="monthly_on_day_count">"Ай сайын (<ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g> сайын)"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="nextAlarm">Келесі дабыл: <ns1:g id="next_alarm_time">%s</ns1:g></string>
+    <string name="night_clock">@string/desk_clock_caption</string>
+    <string name="nn_alarm">Дабыл</string>
+    <string name="nn_description">Сипаттама</string>
+    <string name="nn_music">Музыка</string>
+    <string name="nn_ringtone">Қоңырау үні</string>
+    <string name="nn_settings">Параметрлер</string>
+    <string name="nn_tips_help">Кеңестер мен анықтама</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">Белгісіз қате</string>
+    <string name="no">Жоқ</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="pause">Тоқтатып қою</string>
+    <string name="phone_type_home">Үй</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string name="pm">PM</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="query_fail">Дерекқорды ашқан кезде қателер пайда болды</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string name="quickselection_share">Ортақтастыру әдісі</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="rearrange_city_caption">Тізімді өңдеу</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string name="refresh">Жаңарту</string>
+    <string name="reminderview_common_unlock_hint_icon">Белгішені жоғары тартыңыз</string>
+    <string name="reminderview_common_unlock_hint_up">Құлыпты ашу үшін жоғары тартыңыз</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="reset">Қалпына келтіру</string>
+    <string name="resume">Жалғастыру</string>
+    <string name="ringtone_title">Қоңырау үндері</string>
+    <string name="select_alert">Ескерту дыбысын таңдау</string>
+    <string name="select_ringtone">Дабыл дыбысын таңдау</string>
+    <string name="set_alarm_caption">Дабыл орнату</string>
+    <string name="snooze">Кейінге қалдыру</string>
+    <string name="snooze_duration_title">Кейінге қалдыру ұзақтығы</string>
+    <string name="sound_selection_title">Дабыл дыбысын келесінің ішінен таңдаңыз</string>
+    <string name="space">" "</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">ЖАҢАРТУ ҮШІН БОСАТЫҢЫЗ</string>
+    <string name="st_action_bar_updating">Жаңартылуда...</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="st_default">Әдепкі</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string name="st_draggable_item">Сүйрелетін элемент</string>
+    <string name="st_loading">Жүктелуде...</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="st_more">Қосымша</string>
+    <string name="st_never">Ешқашан</string>
+    <string name="st_off">Өшірулі</string>
+    <string name="st_on">Қосулы</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string name="st_pull_down_refresh">Жаңарту үшін төмен қарай тартыңыз</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="st_silent">Дыбыссыз</string>
+    <string name="st_storage_full">Жад толы</string>
+    <string name="start">Іске қосу</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="stop">Тоқтату</string>
+    <string name="stopwatch_caption">Секундомер</string>
+    <string name="storage_full_description">Телефонның жадында бос орын жеткіліксіз. Кейбір мазмұнды немесе қолданбаларды жойыңыз. Қолданбаларды басқару үшін төмендегі \"Параметрлер\" түймесін басыңыз.</string>
+    <string name="subminute">"1 минуттан аз"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string name="tab_remove_dialog_message">Бір қойынды қалды. Бұл қолданба үшін қосымша қойынды қосу үшін мәзірде "Қойындыларды/сүзгілерді өңдеу" түймешігін таңдаңыз.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="time_up">Уақыт аяқталды!</string>
+    <string name="timer_caption">Таймер</string>
+    <string name="timer_reminder_tile_setting">Параметрлер</string>
+    <string name="timer_reminder_tile_timer_up">Уақыт бітті</string>
+    <string name="tm_10_minutes">10 минут</string>
+    <string name="tm_1_day">1 күн</string>
+    <string name="tm_1_hour">1 сағат</string>
+    <string name="tm_1_minute">1 минут</string>
+    <string name="tm_30_minutes">30 минут</string>
+    <string name="tm_am">AM</string>
+    <string name="tm_current">Ағымдағы</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string name="tm_daily">"Күнделікті"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="tm_fri">Жм</string>
+    <string name="tm_mon">Дс</string>
+    <string name="tm_pm">PM</string>
+    <string name="tm_sat">Сб</string>
+    <string name="tm_sun">Жс</string>
+    <string name="tm_thu">Бс</string>
+    <string name="tm_today">Бүгін</string>
+    <string name="tm_tomorrow">Ертең</string>
+    <string name="tm_tue">Сс</string>
+    <string name="tm_wed">Ср</string>
+    <string name="tm_yesterday">Кеше</string>
+    <string name="total_title">Барлығы</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">Бұл қойындыны жою мүмкін емес</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="va_add">Қосу</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string name="va_back">Артқа</string>
+    <string name="va_call">Қоңырау</string>
+    <string name="va_cancel">Бас тарту</string>
+    <string name="va_clear">Өшіру</string>
+    <string name="va_close">Жабу</string>
+    <string name="va_copy">Көшіру</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="va_deselect_all">Барлығының белгісін алу</string>
+    <string name="va_dismiss">Өткізу</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string name="va_download">Жүктеу</string>
+    <string name="va_downloading">Жүктелуде</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="va_edit">Өңдеу</string>
+    <string name="va_edit_tabs">Қойындыларды өңдеу</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string name="va_finish">Дайын</string>
+    <string name="va_hide">Жасыру</string>
+    <string name="va_move_above">Үстіне жылжу</string>
+    <string name="va_move_below">Астына жылжу</string>
+    <string name="va_next">Келесі</string>
+    <string name="va_ok">ОК</string>
+    <string name="va_open">Ашу</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="va_rearrange">Қайта реттеу</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string name="va_reset">Қалпына келтіру</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="va_select_all">Барлығын таңдау</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string name="va_send_mail">Хат жіберу</string>
+    <string name="va_send_message">Хабар жіберу</string>
+    <string name="va_show_all">Барлығын көрсету</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="volume_button_setting_summary">Сигнал ойнаған кезде, дыбыс деңгейі түймелері орындайтын әрекеттерді таңдау</string>
+    <string name="volume_button_setting_title">Дыбыс деңгейі түймесінің опциялары</string>
+    <string name="weather_high_indicator">Ж:</string>
+    <string name="weather_low_indicator">Т:</string>
+    <string name="world_clock_caption">Әлемдік сағат</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string name="yearly_plain">Жыл сайын</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-kk/values-kk.xml -->
+    <eat-comment/>
+    <string name="yes">Иә</string>
+</resources>

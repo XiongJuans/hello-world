@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.htc.lib1.cc.test"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="18"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="com.htc.permission.APP_DEFAULT" />
+    <uses-permission android:name="android.permission.SET_WALLPAPER_HINTS" />
+    <uses-permission android:name="android.permission.SET_WALLPAPER" />
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+
+    <instrumentation
+        android:name="com.htc.test.HtcTestRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for com.htc.lib1.cc.test"
+        android:targetPackage="com.htc.lib1.cc.test" />
+
+    <application
+        android:allowBackup="true"
+        android:allowClearUserData="true"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/HtcDeviceDefault"
+        android:vmSafeMode="true" >
+        <activity
+            android:name="com.htc.lib1.cc.layout.activityhelper.HtcOverlapLayoutActivity"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.htc.lib1.cc.layout.activityhelper.AscentAlignLayoutActivity"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.htc.lib1.cc.layout.activityhelper.RailingLayoutDemoActivity"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.htc.lib1.cc.layout.activityhelper.HtcVcardActivity"
+            android:configChanges="orientation|screenSize" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.layout.activityhelper.WeekLayoutActivity"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.htc.lib1.cc.adapterview.activityhelper.CrabWalkViewDemo"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.htc.lib1.cc.adapterview.activityhelper.HtcGridViewDemo"
+            android:configChanges="screenSize|orientation" />
+        <activity
+            android:name="com.htc.lib1.cc.adapterview.activityhelper.HtcGridViewOverFlingDemo"
+            android:configChanges="screenSize|orientation" >
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.adapterview.activityhelper.HtcListViewAddDeleteDemo"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.htc.lib1.cc.adapterview.activityhelper.HtcListViewExpandableDemo"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.htc.lib1.cc.adapterview.activityhelper.HtcListViewFastScrollerDemo"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.htc.lib1.cc.adapterview.activityhelper.HtcListViewReorderDemo"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.htc.lib1.cc.adapterview.activityhelper.HtcShareViaDemo"
+            android:configChanges="screenSize|orientation"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.htc.lib1.cc.adapterview.activityhelper.TableViewDemo"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.htc.lib1.cc.actionbar.activityhelper.ActionBarMockActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="ActionBarMockActivity" >
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.button.activityhelper.HtcButtonDemo"
+            android:configChanges="orientation|screenSize" >
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.button.activityhelper.HtcButtons"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.htc.lib1.cc.button.activityhelper.HtcIconButtonDemo"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.htc.lib1.cc.button.activityhelper.HtcRimButtonDemo"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.htc.lib1.cc.htcfooter.activityhelper.FooterActivity"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.htc.lib1.cc.htcListitem.activityhelper.ListItemActivity"
+            android:configChanges="screenSize|orientation" />
+        <activity
+            android:name="com.htc.lib1.cc.htcListitem.activityhelper.HtcListItemActivity1"
+            android:configChanges="screenSize|orientation" />
+        <activity
+            android:name="com.htc.lib1.cc.htcListitem.activityhelper.HtcListItemSeparatorActivity"
+            android:configChanges="screenSize|orientation" />
+        <activity
+            android:name="com.htc.lib1.cc.imagebutton.activityhelper.HtcButtonDemo"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.htc.lib1.cc.imagebutton.activityhelper.HtcImageButtons"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.htc.lib1.cc.imagebutton.activityhelper.QuickContactDemo"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.htc.lib1.cc.imagebutton.activityhelper.HtcImageButtonAutActivity"
+            android:configChanges="orientation|screenSize" >
+        </activity>
+        <activity android:name="com.htc.lib1.cc.textView.activityhelper.AutoCompleteTextViewDemo" >
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.textView.activityhelper.HtcEditTextDemo"
+            android:configChanges="orientation|screenSize" />
+        <activity android:name="com.htc.aut.ActivityBase" />
+        <activity
+            android:name="com.htc.lib1.cc.colorTable.activityhelper.ColorTableDemo"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:launchMode="singleInstance"
+            android:screenOrientation="unspecified" >
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.colorTable.activityhelper.PublicResIDDemo"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:launchMode="singleInstance"
+            android:screenOrientation="unspecified" >
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.colorTable.activityhelper.DynamicColorTableDemo"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:launchMode="singleInstance"
+            android:screenOrientation="unspecified" >
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.viewpager.activityhelper.HtcViewPagerCombineTabbar"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.progressbarseekbar.activityhelper.ProgressBarSeekBarDemo"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="unspecified" >
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.progressbarseekbar.activityhelper.TrimSeekBarDemo"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.htc.lib1.cc.dialogpicker.activityhelper.AlertDialogDemo"
+            android:configChanges="screenSize|orientation" >
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.dialogpicker.activityhelper.DataActionPickerDemo"
+            android:configChanges="screenSize|orientation" >
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.dialogpicker.activityhelper.DatePickerDemo"
+            android:configChanges="screenSize|orientation" >
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.dialogpicker.activityhelper.TimePickerDemo"
+            android:configChanges="screenSize|orientation" >
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.dialogpicker.activityhelper.HtcMultiSeekBarDialogDemo"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.htc.lib1.cc.dialogpicker.activityhelper.ColorPickerAut"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.htc.lib1.cc.drawer.activityhelper.slidingmenu.SlidingMenuActivity"
+            android:configChanges="orientation|screenSize" >
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.drawer.activityhelper.htcdrawer.HtcDrawerDemo"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.htc.lib1.cc.reminderview.activityhelper.TestActivityVideoCall"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.setupwizard.activityhelper.DemoActivity1"
+            android:label="@string/app_name" >
+
+            <!--
+                  <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            -->
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.setupwizard.activityhelper.DemoButtonActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="unspecified" >
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.setupwizard.activityhelper.DemoRadioListActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="SetupWizard (RadioList)"
+            android:screenOrientation="unspecified" >
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.setupwizard.activityhelper.DemoSpecialActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="SetupWizard Special"
+            android:screenOrientation="unspecified" >
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.graphic.activityhelper.ThermometerDrawableDemoActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.graphic.activityhelper.GraphicMockActivity"
+            android:label="@string/app_name"
+            android:theme="@style/HtcDeviceDefault" >
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.fontstyle.activityhelper.MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.androidTheme.activityhelper.AlertDialogAut"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.androidTheme.activityhelper.HtcStyleUtilDemo"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.checkablebutton.activityhelper.HtcButtonDemo"
+            android:configChanges="orientation|screenSize" >
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.checkablebutton.activityhelper.HtcCompoundButtons"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.htc.lib1.cc.checkablebutton.activityhelper.HtcSwitchDemo"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.htc.appfragment.aut.HtcListFragmentDemo"
+            android:configChanges="screenSize|orientation"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.appfragment.activityhelper.HtcPagerFragmentDemo"
+            android:configChanges="screenSize|orientation"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.appfragment.activityhelper.CheckUtilDemo"
+            android:configChanges="screenSize|orientation"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.appfragment.activityhelper.PreferencesFromXml"
+            android:configChanges="screenSize|orientation"
+            android:label="@string/app_name"
+            android:theme="@style/HtcDeviceDefault.DevelopDontUse" >
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.appfragment.activityhelper.PreferencesFromCode"
+            android:configChanges="screenSize|orientation"
+            android:label="@string/app_name"
+            android:theme="@style/HtcDeviceDefault" >
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.appfragment.activityhelper.PreferencesFragment"
+            android:configChanges="screenSize|orientation"
+            android:label="@string/app_name"
+            android:theme="@style/HtcDeviceDefault.DevelopDontUse" >
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.recipientblock.activityhelper.RecipientBlockMockActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.tabbar.activityhelper.TabBarAutActivity"
+            android:configChanges="orientation|screenSize" >
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.tabbar.activityhelper.HtcPagerFragmentAutActivity"
+            android:configChanges="orientation|screenSize" >
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.quicktipswidget.activityhelper.QuickTipsDemo"
+            android:configChanges="orientation|screenSize" >
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.popupWindow.activityhelper.popupcontainer.HtcSeekBarPopupWindowDemo"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.htc.lib1.cc.popupWindow.activityhelper.popupmenu.ExpandableListPopupMenuDemo"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.htc.lib1.cc.popupWindow.activityhelper.popupmenu.ListPopupMenuDemo"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.htc.lib1.cc.popupWindow.activityhelper.popupmenu.PopupMenuDemo"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.htc.lib1.cc.popupWindow.activityhelper.popupmenu.ListPopupWindowDemo"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.htc.lib1.cc.layout.activityhelper.HtcEmptyViewDemo"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name" >
+        </activity>
+
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+</manifest>

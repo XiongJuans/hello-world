@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sw360dp-xxxhdpi/values-sw360dp-xxxhdpi.xml -->
+    <eat-comment/>
+    <dimen name="ab_height">216px</dimen>
+    <dimen name="ab_photoframe_size">134px</dimen>
+    <dimen name="action_button_min_width">212px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw360dp-xxxhdpi/alarm_clock_dimens.xml -->
+    <eat-comment/>
+    <dimen name="alarm_divider_height">35dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw360dp-xxxhdpi/dimens.xml -->
+    <eat-comment/>
+    <dimen name="alarm_divider_marginLeft">44px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw360dp-xxxhdpi/alarm_clock_dimens.xml -->
+    <eat-comment/>
+    <dimen name="alarm_time_checkbox_margin">10dp</dimen>
+    <dimen name="alarm_time_description_layout_marginLeft">125.5dp</dimen>
+    <dimen name="alarm_time_description_layout_marginTop">0dp</dimen>
+    <dimen name="alarm_time_layout_marginLeft">0dp</dimen>
+    <dimen name="alarm_time_min_height">50dp</dimen>
+    <dimen name="alarm_timerPickerTitle_text_width">95.5dp</dimen>
+    <dimen name="alarm_timerPicker_layout_height">254dp</dimen>
+    <dimen name="alarm_timerPicker_no_nevigation_width">300dp</dimen>
+    <dimen name="alarm_timerPicker_width">300dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw360dp-xxxhdpi/world_clock_style_dimen_common_fixed_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="am_pm_size">13dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw360dp-xxxhdpi/alarm_clock_dimens.xml -->
+    <eat-comment/>
+    <dimen name="base_layout_marginTop">0dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sw360dp-xxxhdpi/values-sw360dp-xxxhdpi.xml -->
+    <eat-comment/>
+    <dimen name="common_dialogbox_header_height">188px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw360dp-xxxhdpi/world_clock_style_dimen_common_fixed_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="day_size">9dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw360dp-xxxhdpi/alarm_clock_dimens.xml -->
+    <eat-comment/>
+    <dimen name="days_layout_marginTop">0dp</dimen>
+    <dimen name="days_marginRight">15dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw360dp-xxxhdpi/world_clock_style_dimen_common_fixed_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="days_of_week_size">11dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw360dp-xxxhdpi/alarm_clock_dimens.xml -->
+    <eat-comment/>
+    <dimen name="delete_icon_marginLeft">0dp</dimen>
+    <dimen name="delete_icon_marginRight">0dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw360dp-xxxhdpi/dimens.xml -->
+    <eat-comment/>
+    <dimen name="digital_alarm_am_pm_marginTop">17.5dp</dimen>
+    <dimen name="digital_am_pm_marginTop">18px</dimen>
+    <dimen name="digital_clock_height">44.5dp</dimen>
+    <dimen name="digital_clock_max_width">122dp</dimen>
+    <dimen name="digital_day_marginTop">21.5dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-sw360dp-xxxhdpi/values-sw360dp-xxxhdpi.xml -->
+    <eat-comment/>
+    <dimen name="dualclock_clocklayout_margin_left1">0dp</dimen>
+    <dimen name="dualclock_clocklayout_margin_left2">16dp</dimen>
+    <dimen name="dualclock_clocklayout_width">164dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sw360dp-xxxhdpi/values-sw360dp-xxxhdpi.xml -->
+    <eat-comment/>
+    <dimen name="expand_divider_height">8px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-sw360dp-xxxhdpi/values-sw360dp-xxxhdpi.xml -->
+    <eat-comment/>
+    <dimen name="fixed_automotive_01">48px</dimen>
+    <dimen name="fixed_automotive_02">141px</dimen>
+    <dimen name="fixed_automotive_03">96px</dimen>
+    <dimen name="fixed_automotive_07">160px</dimen>
+    <dimen name="fixed_automotive_08">160px</dimen>
+    <dimen name="fixed_automotive_11">64px</dimen>
+    <dimen name="fixed_automotive_13">77px</dimen>
+    <dimen name="fixed_automotive_14">82px</dimen>
+    <dimen name="fixed_automotive_15">53px</dimen>
+    <dimen name="fixed_automotive_16">53px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sw360dp-xxxhdpi/values-sw360dp-xxxhdpi.xml -->
+    <eat-comment/>
+    <dimen name="fixed_b_button_primary_l">62px</dimen>
+    <dimen name="fixed_b_button_primary_m">58px</dimen>
+    <dimen name="fixed_b_button_primary_s">54px</dimen>
+    <dimen name="fixed_b_button_primary_xl">66px</dimen>
+    <dimen name="fixed_b_button_primary_xs">50px</dimen>
+    <dimen name="fixed_b_separator_primary_l">46px</dimen>
+    <dimen name="fixed_b_separator_primary_m">42px</dimen>
+    <dimen name="fixed_b_separator_primary_s">38px</dimen>
+    <dimen name="fixed_b_separator_primary_xl">50px</dimen>
+    <dimen name="fixed_b_separator_primary_xs">34px</dimen>
+    <dimen name="fixed_b_separator_secondary_l">62px</dimen>
+    <dimen name="fixed_b_separator_secondary_m">58px</dimen>
+    <dimen name="fixed_b_separator_secondary_s">54px</dimen>
+    <dimen name="fixed_b_separator_secondary_xl">66px</dimen>
+    <dimen name="fixed_b_separator_secondary_xs">52px</dimen>
+    <dimen name="fixed_b_toggle_primary_m">54px</dimen>
+    <dimen name="fixed_button_primary_l">62px</dimen>
+    <dimen name="fixed_button_primary_m">58px</dimen>
+    <dimen name="fixed_button_primary_s">54px</dimen>
+    <dimen name="fixed_button_primary_xl">66px</dimen>
+    <dimen name="fixed_button_primary_xs">50px</dimen>
+    <dimen name="fixed_dark_source_label_m">46px</dimen>
+    <dimen name="fixed_darklist_primary_l">70px</dimen>
+    <dimen name="fixed_darklist_primary_l_bold">70px</dimen>
+    <dimen name="fixed_darklist_primary_m">66px</dimen>
+    <dimen name="fixed_darklist_primary_m_bold">66px</dimen>
+    <dimen name="fixed_darklist_primary_s">62px</dimen>
+    <dimen name="fixed_darklist_primary_s_bold">62px</dimen>
+    <dimen name="fixed_darklist_primary_xl">74px</dimen>
+    <dimen name="fixed_darklist_primary_xl_bold">74px</dimen>
+    <dimen name="fixed_darklist_primary_xs">58px</dimen>
+    <dimen name="fixed_darklist_primary_xs_bold">58px</dimen>
+    <dimen name="fixed_darklist_primary_xxs">54px</dimen>
+    <dimen name="fixed_darklist_primary_xxs_bold">54px</dimen>
+    <dimen name="fixed_darklist_secondary">40px</dimen>
+    <dimen name="fixed_darklist_secondary_l">62px</dimen>
+    <dimen name="fixed_darklist_secondary_m">58px</dimen>
+    <dimen name="fixed_darklist_secondary_s">54px</dimen>
+    <dimen name="fixed_darklist_secondary_xl">66px</dimen>
+    <dimen name="fixed_darklist_secondary_xs">50px</dimen>
+    <dimen name="fixed_darklist_secondary_xxs">46px</dimen>
+    <dimen name="fixed_info_primary_l">66px</dimen>
+    <dimen name="fixed_info_primary_m">58px</dimen>
+    <dimen name="fixed_info_primary_s">58px</dimen>
+    <dimen name="fixed_info_primary_xl">78px</dimen>
+    <dimen name="fixed_info_primary_xs">56px</dimen>
+    <dimen name="fixed_input_default_l">70px</dimen>
+    <dimen name="fixed_input_default_m">66px</dimen>
+    <dimen name="fixed_input_default_s">62px</dimen>
+    <dimen name="fixed_input_default_xl">74px</dimen>
+    <dimen name="fixed_input_default_xs">58px</dimen>
+    <dimen name="fixed_label_off_m">40px</dimen>
+    <dimen name="fixed_label_on_m">40px</dimen>
+    <dimen name="fixed_list_body_l">76px</dimen>
+    <dimen name="fixed_list_body_m">56px</dimen>
+    <dimen name="fixed_list_body_primary_l">70px</dimen>
+    <dimen name="fixed_list_body_primary_m">66px</dimen>
+    <dimen name="fixed_list_body_primary_s">62px</dimen>
+    <dimen name="fixed_list_body_primary_xl">74px</dimen>
+    <dimen name="fixed_list_body_primary_xs">58px</dimen>
+    <dimen name="fixed_list_body_s">66px</dimen>
+    <dimen name="fixed_list_body_secondary_l">70px</dimen>
+    <dimen name="fixed_list_body_secondary_m">66px</dimen>
+    <dimen name="fixed_list_body_secondary_s">62px</dimen>
+    <dimen name="fixed_list_body_secondary_xl">74px</dimen>
+    <dimen name="fixed_list_body_secondary_xs">58px</dimen>
+    <dimen name="fixed_list_body_xl">106px</dimen>
+    <dimen name="fixed_list_body_xs">58px</dimen>
+    <dimen name="fixed_list_primary_l">70px</dimen>
+    <dimen name="fixed_list_primary_l_bold">70px</dimen>
+    <dimen name="fixed_list_primary_m">66px</dimen>
+    <dimen name="fixed_list_primary_m_bold">66px</dimen>
+    <dimen name="fixed_list_primary_s">62px</dimen>
+    <dimen name="fixed_list_primary_s_bold">62px</dimen>
+    <dimen name="fixed_list_primary_xl">74px</dimen>
+    <dimen name="fixed_list_primary_xl_bold">74px</dimen>
+    <dimen name="fixed_list_primary_xs">58px</dimen>
+    <dimen name="fixed_list_primary_xs_bold">58px</dimen>
+    <dimen name="fixed_list_primary_xxs">54px</dimen>
+    <dimen name="fixed_list_primary_xxs_bold">54px</dimen>
+    <dimen name="fixed_list_secondary">42px</dimen>
+    <dimen name="fixed_list_secondary_l">62px</dimen>
+    <dimen name="fixed_list_secondary_m">58px</dimen>
+    <dimen name="fixed_list_secondary_s">54px</dimen>
+    <dimen name="fixed_list_secondary_xl">66px</dimen>
+    <dimen name="fixed_list_secondary_xs">50px</dimen>
+    <dimen name="fixed_list_secondary_xxs">46px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw360dp-xxxhdpi/lockscreen_style_dimen_common_fixed_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="fixed_lockscreen_01">56px</dimen>
+    <dimen name="fixed_lockscreen_03">59px</dimen>
+    <dimen name="fixed_lockscreen_04">80px</dimen>
+    <dimen name="fixed_lockscreen_05">48px</dimen>
+    <dimen name="fixed_lockscreen_06">53px</dimen>
+    <dimen name="fixed_lockscreen_07">48px</dimen>
+    <dimen name="fixed_lockscreen_08">120px</dimen>
+    <dimen name="fixed_lockscreen_09">12dp</dimen>
+    <dimen name="fixed_lockscreen_10">30dp</dimen>
+    <dimen name="fixed_lockscreen_11">20dp</dimen>
+    <dimen name="fixed_lockscreen_12">16dp</dimen>
+    <dimen name="fixed_lockscreen_13">56px</dimen>
+    <dimen name="fixed_lockscreen_14">96px</dimen>
+    <dimen name="fixed_lockscreen_15">59px</dimen>
+    <dimen name="fixed_lockscreen_16">53px</dimen>
+    <dimen name="fixed_lockscreen_17">53px</dimen>
+    <dimen name="fixed_lockscreen_18">32px</dimen>
+    <dimen name="fixed_lockscreen_19">45px</dimen>
+    <dimen name="fixed_lockscreen_20">61px</dimen>
+    <dimen name="fixed_lockscreen_21">48px</dimen>
+    <dimen name="fixed_lockscreen_22">48px</dimen>
+    <dimen name="fixed_lockscreen_23">53px</dimen>
+    <dimen name="fixed_lockscreen_24">133px</dimen>
+    <dimen name="fixed_lockscreen_25">48px</dimen>
+    <dimen name="fixed_lockscreen_26">51px</dimen>
+    <dimen name="fixed_lockscreen_27">48px</dimen>
+    <dimen name="fixed_lockscreen_28">48px</dimen>
+    <dimen name="fixed_lockscreen_29">48px</dimen>
+    <dimen name="fixed_lockscreen_30">43px</dimen>
+    <dimen name="fixed_lockscreen_31">43px</dimen>
+    <dimen name="fixed_lockscreen_32">96px</dimen>
+    <dimen name="fixed_lockscreen_33">45px</dimen>
+    <dimen name="fixed_lockscreen_34">45px</dimen>
+    <dimen name="fixed_lockscreen_35">72px</dimen>
+    <dimen name="fixed_lockscreen_36">72px</dimen>
+    <dimen name="fixed_lockscreen_37">72px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-sw360dp-xxxhdpi/values-sw360dp-xxxhdpi.xml -->
+    <eat-comment/>
+    <dimen name="fixed_masthead_01">51px</dimen>
+    <dimen name="fixed_masthead_02">45px</dimen>
+    <dimen name="fixed_masthead_03">56px</dimen>
+    <dimen name="fixed_masthead_04">29px</dimen>
+    <dimen name="fixed_masthead_05">40px</dimen>
+    <dimen name="fixed_masthead_06">24px</dimen>
+    <dimen name="fixed_masthead_07">48px</dimen>
+    <dimen name="fixed_masthead_08">48px</dimen>
+    <dimen name="fixed_masthead_09">48px</dimen>
+    <dimen name="fixed_masthead_10">48px</dimen>
+    <dimen name="fixed_masthead_11">48px</dimen>
+    <dimen name="fixed_masthead_12">28px</dimen>
+    <dimen name="fixed_masthead_13">44px</dimen>
+    <dimen name="fixed_masthead_14">40px</dimen>
+    <dimen name="fixed_masthead_15">39px</dimen>
+    <dimen name="fixed_masthead_16">46px</dimen>
+    <dimen name="fixed_masthead_17">28px</dimen>
+    <dimen name="fixed_masthead_18">120px</dimen>
+    <dimen name="fixed_masthead_19">46px</dimen>
+    <dimen name="fixed_masthead_20">46px</dimen>
+    <dimen name="fixed_masthead_21">32px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sw360dp-xxxhdpi/values-sw360dp-xxxhdpi.xml -->
+    <eat-comment/>
+    <dimen name="fixed_notification_info_m">58px</dimen>
+    <dimen name="fixed_notification_info_s">54px</dimen>
+    <dimen name="fixed_notification_info_xs">40px</dimen>
+    <dimen name="fixed_random_access_l">400px</dimen>
+    <dimen name="fixed_random_access_m">120px</dimen>
+    <dimen name="fixed_separator_primary_l">46px</dimen>
+    <dimen name="fixed_separator_primary_m">42px</dimen>
+    <dimen name="fixed_separator_primary_s">38px</dimen>
+    <dimen name="fixed_separator_primary_xl">50px</dimen>
+    <dimen name="fixed_separator_primary_xs">34px</dimen>
+    <dimen name="fixed_separator_secondary_l">62px</dimen>
+    <dimen name="fixed_separator_secondary_m">58px</dimen>
+    <dimen name="fixed_separator_secondary_s">54px</dimen>
+    <dimen name="fixed_separator_secondary_xl">66px</dimen>
+    <dimen name="fixed_separator_secondary_xs">52px</dimen>
+    <dimen name="fixed_shortcut_label_l">64px</dimen>
+    <dimen name="fixed_shortcut_label_m">58px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-sw360dp-xxxhdpi/values-sw360dp-xxxhdpi.xml -->
+    <eat-comment/>
+    <dimen name="fixed_simple_launcher_01">93px</dimen>
+    <dimen name="fixed_simple_launcher_02">80px</dimen>
+    <dimen name="fixed_simple_launcher_03">96px</dimen>
+    <dimen name="fixed_simple_launcher_04">56px</dimen>
+    <dimen name="fixed_simple_launcher_05">53px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sw360dp-xxxhdpi/values-sw360dp-xxxhdpi.xml -->
+    <eat-comment/>
+    <dimen name="fixed_source_label_m">54px</dimen>
+    <dimen name="fixed_time_info_m">42px</dimen>
+    <dimen name="fixed_time_pick_primary_m">220px</dimen>
+    <dimen name="fixed_time_pick_primary_s">200px</dimen>
+    <dimen name="fixed_time_pick_primary_xs">116px</dimen>
+    <dimen name="fixed_title_primary_l">76px</dimen>
+    <dimen name="fixed_title_primary_m">72px</dimen>
+    <dimen name="fixed_title_primary_s">68px</dimen>
+    <dimen name="fixed_title_primary_xl">80px</dimen>
+    <dimen name="fixed_title_primary_xs">64px</dimen>
+    <dimen name="fixed_title_secondary_l">62px</dimen>
+    <dimen name="fixed_title_secondary_m">58px</dimen>
+    <dimen name="fixed_title_secondary_s">54px</dimen>
+    <dimen name="fixed_title_secondary_xl">64px</dimen>
+    <dimen name="fixed_title_secondary_xs">50px</dimen>
+    <dimen name="fixed_toggle_primary_m">54px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw360dp-xxxhdpi/world_clock_style_dimen_common_fixed_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="fixed_world_clock_01">43px</dimen>
+    <dimen name="fixed_world_clock_02">59px</dimen>
+    <dimen name="fixed_world_clock_03">67px</dimen>
+    <dimen name="fixed_world_clock_04">120px</dimen>
+    <dimen name="fixed_world_clock_05">53px</dimen>
+    <dimen name="fixed_world_clock_06">37px</dimen>
+    <dimen name="fixed_world_clock_07">120px</dimen>
+    <dimen name="fixed_world_clock_08">53px</dimen>
+    <dimen name="fixed_world_clock_09">37px</dimen>
+    <dimen name="fixed_world_clock_10">45px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sw360dp-xxxhdpi/values-sw360dp-xxxhdpi.xml -->
+    <eat-comment/>
+    <dimen name="gridview_gap">12px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw360dp-xxxhdpi/dimens.xml -->
+    <eat-comment/>
+    <dimen name="header_cur_icon_margin_left">0px</dimen>
+    <dimen name="header_cur_icon_margin_right">42px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sw360dp-xxxhdpi/values-sw360dp-xxxhdpi.xml -->
+    <eat-comment/>
+    <dimen name="htc_footer_height">240px</dimen>
+    <dimen name="htc_footer_width">258px</dimen>
+    <dimen name="htc_list_item_color_bar_bold_width">32px</dimen>
+    <dimen name="htc_list_item_color_bar_width">16px</dimen>
+    <dimen name="htc_list_item_color_icon_size">174px</dimen>
+    <dimen name="htc_list_item_height_popup_menu">240px</dimen>
+    <dimen name="htc_list_item_photo_frame_diameter">170px</dimen>
+    <dimen name="htc_list_item_separator_automotive_dark_height">158px</dimen>
+    <dimen name="htc_list_item_separator_powerby_text_height">120px</dimen>
+    <dimen name="htc_list_item_separator_with_text_height">158px</dimen>
+    <dimen name="htc_list_item_vertical_divider_width">2px</dimen>
+    <dimen name="htc_progressbar_height">22px</dimen>
+    <dimen name="htc_thumbOffset">4px</dimen>
+    <dimen name="htc_thumb_size">62px</dimen>
+    <dimen name="htcprogress_medium_size">86px</dimen>
+    <dimen name="htcprogress_small_size">58px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw360dp-xxxhdpi/dimens.xml -->
+    <eat-comment/>
+    <dimen name="increase_touch_area">58px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw360dp-xxxhdpi/stopwatch_dimens.xml -->
+    <eat-comment/>
+    <dimen name="lap_title_marginLeft">6dp</dimen>
+    <dimen name="lap_title_marginRight">0dp</dimen>
+    <dimen name="lap_title_marginTop">18.25dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sw360dp-xxxhdpi/values-sw360dp-xxxhdpi.xml -->
+    <eat-comment/>
+    <dimen name="leading">12px</dimen>
+    <dimen name="leading_2">24px</dimen>
+    <dimen name="leading_3">36px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw360dp-xxxhdpi/stopwatch_dimens.xml -->
+    <eat-comment/>
+    <dimen name="led_pannel2_marginLeft">63dp</dimen>
+    <dimen name="led_pannel2_marginTop">116dp</dimen>
+    <dimen name="led_pannel_height">53dp</dimen>
+    <dimen name="led_pannel_marginLeft">63dp</dimen>
+    <dimen name="led_pannel_marginTop">29.5dp</dimen>
+    <dimen name="led_pannel_no_nevigation_height">53dp</dimen>
+    <dimen name="led_pannel_no_nevigation_width">234dp</dimen>
+    <dimen name="led_pannel_width">234dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-sw360dp-xxxhdpi/values-sw360dp-xxxhdpi.xml -->
+    <eat-comment/>
+    <dimen name="libmasthead_masthead_height">123.34dp</dimen>
+    <dimen name="libmasthead_masthead_height_large">133dp</dimen>
+    <dimen name="libmasthead_masthead_height_simple">144.4dp</dimen>
+    <dimen name="libmasthead_masthead_height_twoline">161dp</dimen>
+    <dimen name="libmasthead_masthead_widget_padding_bottom">2.25dp</dimen>
+    <dimen name="libmasthead_masthead_widget_padding_left_right">8dp</dimen>
+    <dimen name="libmasthead_masthead_widget_padding_top">9dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw360dp-xxxhdpi/dimens.xml -->
+    <eat-comment/>
+    <dimen name="list_item_icon_padding">28px</dimen>
+    <dimen name="list_item_text_padding">40px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw360dp-xxxhdpi/lockscreen_style_shadow_table.xml -->
+    <eat-comment/>
+    <item name="lockscreen_01_shadowDy" type="dimen">4.0</item>
+    <item name="lockscreen_01_shadowSize" type="dimen">5.3</item>
+    <item name="lockscreen_02_shadowDy" type="dimen">4.0</item>
+    <item name="lockscreen_02_shadowSize" type="dimen">5.3</item>
+    <item name="lockscreen_03_shadowDy" type="dimen">4.0</item>
+    <item name="lockscreen_03_shadowSize" type="dimen">5.3</item>
+    <item name="lockscreen_04_shadowDy" type="dimen">4.0</item>
+    <item name="lockscreen_04_shadowSize" type="dimen">5.3</item>
+    <item name="lockscreen_15_shadowDy" type="dimen">4.0</item>
+    <item name="lockscreen_15_shadowSize" type="dimen">5.3</item>
+    <item name="lockscreen_16_shadowDy" type="dimen">4.0</item>
+    <item name="lockscreen_16_shadowSize" type="dimen">5.3</item>
+    <item name="lockscreen_17_shadowDy" type="dimen">4.0</item>
+    <item name="lockscreen_17_shadowSize" type="dimen">5.3</item>
+    <item name="lockscreen_18_shadowDy" type="dimen">4.0</item>
+    <item name="lockscreen_18_shadowSize" type="dimen">5.3</item>
+    <item name="lockscreen_19_shadowDy" type="dimen">4.0</item>
+    <item name="lockscreen_19_shadowSize" type="dimen">5.3</item>
+    <item name="lockscreen_20_shadowDy" type="dimen">4.0</item>
+    <item name="lockscreen_20_shadowSize" type="dimen">5.3</item>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sw360dp-xxxhdpi/values-sw360dp-xxxhdpi.xml -->
+    <eat-comment/>
+    <dimen name="margin_l">60px</dimen>
+    <dimen name="margin_l_2">120px</dimen>
+    <dimen name="margin_l_3">180px</dimen>
+    <dimen name="margin_m">40px</dimen>
+    <dimen name="margin_m_2">80px</dimen>
+    <dimen name="margin_m_3">120px</dimen>
+    <dimen name="margin_s">28px</dimen>
+    <dimen name="margin_s_2">56px</dimen>
+    <dimen name="margin_s_3">84px</dimen>
+    <dimen name="margin_xs">24px</dimen>
+    <dimen name="margin_xs_2">48px</dimen>
+    <dimen name="margin_xs_3">72px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-sw360dp-xxxhdpi/values-sw360dp-xxxhdpi.xml -->
+    <eat-comment/>
+    <item name="masthead_01_shadowDy" type="dimen">6.7</item>
+    <item name="masthead_01_shadowSize" type="dimen">6.7</item>
+    <item name="masthead_02_shadowDy" type="dimen">6.7</item>
+    <item name="masthead_02_shadowSize" type="dimen">6.7</item>
+    <item name="masthead_03_shadowDy" type="dimen">6.7</item>
+    <item name="masthead_03_shadowSize" type="dimen">6.7</item>
+    <item name="masthead_04_shadowDy" type="dimen">6.7</item>
+    <item name="masthead_04_shadowSize" type="dimen">6.7</item>
+    <item name="masthead_05_shadowDy" type="dimen">6.7</item>
+    <item name="masthead_05_shadowSize" type="dimen">6.7</item>
+    <item name="masthead_06_shadowDy" type="dimen">6.7</item>
+    <item name="masthead_06_shadowSize" type="dimen">6.7</item>
+    <item name="masthead_07_shadowDy" type="dimen">6.7</item>
+    <item name="masthead_07_shadowSize" type="dimen">6.7</item>
+    <item name="masthead_08_shadowDy" type="dimen">6.7</item>
+    <item name="masthead_08_shadowSize" type="dimen">6.7</item>
+    <item name="masthead_09_shadowDy" type="dimen">6.7</item>
+    <item name="masthead_09_shadowSize" type="dimen">6.7</item>
+    <item name="masthead_10_shadowDy" type="dimen">6.7</item>
+    <item name="masthead_10_shadowSize" type="dimen">6.7</item>
+    <item name="masthead_11_shadowDy" type="dimen">5.3</item>
+    <item name="masthead_11_shadowSize" type="dimen">8.0</item>
+    <item name="masthead_12_shadowDy" type="dimen">5.3</item>
+    <item name="masthead_12_shadowSize" type="dimen">8.0</item>
+    <item name="masthead_13_shadowDy" type="dimen">5.3</item>
+    <item name="masthead_13_shadowSize" type="dimen">8.0</item>
+    <item name="masthead_14_shadowDy" type="dimen">5.3</item>
+    <item name="masthead_14_shadowSize" type="dimen">8.0</item>
+    <item name="masthead_15_shadowDy" type="dimen">5.3</item>
+    <item name="masthead_15_shadowSize" type="dimen">8.0</item>
+    <item name="masthead_16_shadowDy" type="dimen">5.3</item>
+    <item name="masthead_16_shadowSize" type="dimen">8.0</item>
+    <item name="masthead_17_shadowDy" type="dimen">5.3</item>
+    <item name="masthead_17_shadowSize" type="dimen">8.0</item>
+    <item name="masthead_18_shadowDy" type="dimen">6.7</item>
+    <item name="masthead_18_shadowSize" type="dimen">6.7</item>
+    <item name="masthead_19_shadowDy" type="dimen">6.7</item>
+    <item name="masthead_19_shadowSize" type="dimen">6.7</item>
+    <item name="masthead_20_shadowDy" type="dimen">6.7</item>
+    <item name="masthead_20_shadowSize" type="dimen">6.7</item>
+    <item name="masthead_21_shadowDy" type="dimen">6.7</item>
+    <item name="masthead_21_shadowSize" type="dimen">6.7</item>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sw360dp-xxxhdpi/values-sw360dp-xxxhdpi.xml -->
+    <eat-comment/>
+    <dimen name="progress_button_stroke_middle">12px</dimen>
+    <dimen name="progress_button_stroke_small">12px</dimen>
+    <dimen name="railing_layout_height">140px</dimen>
+    <dimen name="railing_layout_large_height">220px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw360dp-xxxhdpi/alarm_clock_dimens.xml -->
+    <eat-comment/>
+    <dimen name="setAlarm_list_no_nevigation_width">-0.25dp</dimen>
+    <dimen name="setAlarm_list_width">-0.25dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw360dp-xxxhdpi/dimens.xml -->
+    <eat-comment/>
+    <dimen name="set_alarm_primary_marginBottom">46px</dimen>
+    <dimen name="set_alarm_primary_marginTop">30px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-sw360dp-xxxhdpi/values-sw360dp-xxxhdpi.xml -->
+    <eat-comment/>
+    <item name="simple_launcher_02_shadowDy" type="dimen">2.7</item>
+    <item name="simple_launcher_02_shadowSize" type="dimen">2.7</item>
+    <item name="simple_launcher_03_shadowDy" type="dimen">2.7</item>
+    <item name="simple_launcher_03_shadowSize" type="dimen">2.7</item>
+    <item name="simple_launcher_04_shadowDy" type="dimen">2.7</item>
+    <item name="simple_launcher_04_shadowSize" type="dimen">2.7</item>
+    <item name="simple_launcher_05_shadowDy" type="dimen">2.7</item>
+    <item name="simple_launcher_05_shadowSize" type="dimen">2.7</item>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sw360dp-xxxhdpi/values-sw360dp-xxxhdpi.xml -->
+    <eat-comment/>
+    <dimen name="spacing">18px</dimen>
+    <dimen name="spacing_2">36px</dimen>
+    <dimen name="spacing_3">54px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw360dp-xxxhdpi/stopwatch_dimens.xml -->
+    <eat-comment/>
+    <dimen name="stopwatch_colon_no_nevigation_width">11dp</dimen>
+    <dimen name="stopwatch_colon_width">11dp</dimen>
+    <dimen name="stopwatch_digit_colon_marginLeft">7dp</dimen>
+    <dimen name="stopwatch_digit_colon_marginRight">7dp</dimen>
+    <dimen name="stopwatch_digit_colon_no_negivation_marginLeft">7dp</dimen>
+    <dimen name="stopwatch_digit_no_nevigation_width">34dp</dimen>
+    <dimen name="stopwatch_digit_width">34dp</dimen>
+    <dimen name="stopwatch_divider_marginLeft">266.25dp</dimen>
+    <dimen name="stopwatch_divider_no_nevigation_marginLeft">287.25dp</dimen>
+    <dimen name="stopwatch_dot_no_nevigation_width">11dp</dimen>
+    <dimen name="stopwatch_dot_width">11dp</dimen>
+    <dimen name="stopwatch_lap_id_marginLeft">10dp</dimen>
+    <dimen name="stopwatch_lap_time_marginRight">10dp</dimen>
+    <dimen name="stopwatch_list_height">-0.25dp</dimen>
+    <dimen name="stopwatch_list_marginLeft">0dp</dimen>
+    <dimen name="stopwatch_list_marginTop">237.5dp</dimen>
+    <dimen name="stopwatch_list_no_nevigation_marginLeft">0dp</dimen>
+    <dimen name="stopwatch_list_width">-0.25dp</dimen>
+    <dimen name="stopwatch_listheader_height">30dp</dimen>
+    <dimen name="stopwatch_listheader_marginLeft">0dp</dimen>
+    <dimen name="stopwatch_listheader_marginTop">198.5dp</dimen>
+    <dimen name="stopwatch_listheader_width">-0.25dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sw360dp-xxxhdpi/values-sw360dp-xxxhdpi.xml -->
+    <eat-comment/>
+    <dimen name="table_view_height">746px</dimen>
+    <dimen name="table_view_slide_offest">174px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-sw360dp-xxxhdpi/values-sw360dp-xxxhdpi.xml -->
+    <eat-comment/>
+    <dimen name="theme0_am_pm_margin_bottom">3dp</dimen>
+    <dimen name="theme0_background_block_padding_bottom">4dp</dimen>
+    <dimen name="theme0_clock_4x1_img_half_height">30dp</dimen>
+    <dimen name="theme0_clock_4x1_img_height">60dp</dimen>
+    <dimen name="theme0_clock_4x1_img_width">38.5dp</dimen>
+    <dimen name="theme0_clock_4x1_img_width_land">38.5dp</dimen>
+    <dimen name="theme0_clock_4x1_img_width_port">38.5dp</dimen>
+    <dimen name="theme0_clock_container_down_4x1_height">30.5dp</dimen>
+    <dimen name="theme0_clock_container_up_4x1_height">29.5dp</dimen>
+    <dimen name="theme0_clock_container_up_4x1_height_land">29.5dp</dimen>
+    <dimen name="theme0_clock_container_up_4x1_height_port">29.5dp</dimen>
+    <dimen name="theme0_clock_digital_down_4x1_margin_top">-29.75dp</dimen>
+    <dimen name="theme0_clock_digital_up_4x1_margin_bottom">-30.75dp</dimen>
+    <dimen name="theme0_clock_point_4x1_width">8.25dp</dimen>
+    <dimen name="theme0_error_text_height">67.5dp</dimen>
+    <dimen name="theme0_error_text_width">92.5dp</dimen>
+    <dimen name="theme0_info_temp_area_margin_top">66.5dp</dimen>
+    <dimen name="theme0_location_padding_top">0dp</dimen>
+    <dimen name="theme0_sun_small_height">67.5dp</dimen>
+    <dimen name="theme0_sun_small_width">67.5dp</dimen>
+    <dimen name="theme0_temp_c_f_margin_top">-2.25dp</dimen>
+    <dimen name="theme0_temp_symbol_margin_top">2.75dp</dimen>
+    <dimen name="theme0_widget_padding_top">3.5dp</dimen>
+    <dimen name="theme1_am_pm_margin_bottom">3.67dp</dimen>
+    <dimen name="theme1_background_block_height">108.25dp</dimen>
+    <dimen name="theme1_background_block_margin_left_right">39dp</dimen>
+    <dimen name="theme1_background_block_margin_top">5dp</dimen>
+    <dimen name="theme1_digital_clock_base_margin_bottom">13.75dp</dimen>
+    <dimen name="theme1_info_temp_area_margin_bottom">-6.5dp</dimen>
+    <dimen name="theme1_info_temp_area_margin_top">75dp</dimen>
+    <dimen name="theme1_info_temp_margin_right">25.67dp</dimen>
+    <dimen name="theme1_info_temp_upper_margin_botttom">27dp</dimen>
+    <dimen name="theme1_separatrix_height">10dp</dimen>
+    <dimen name="theme1_separatrix_width">0.67dp</dimen>
+    <dimen name="theme1_sun_small_height">22dp</dimen>
+    <dimen name="theme1_sun_small_margin_bottom">6.33dp</dimen>
+    <dimen name="theme1_sun_small_margin_top">5dp</dimen>
+    <dimen name="theme1_sun_small_width">22dp</dimen>
+    <dimen name="theme1_temp_c_f_margin_top">-4.5dp</dimen>
+    <dimen name="theme1_temp_margin_bottom">1.33dp</dimen>
+    <dimen name="theme1_temp_margin_top">1.33dp</dimen>
+    <dimen name="theme1_temp_symbol_margin_top">0.75dp</dimen>
+    <dimen name="theme1_widget_margin_top">9dp</dimen>
+    <dimen name="theme2_digital_clock_base_margin_bottom">8.75dp</dimen>
+    <dimen name="theme2_slash_img_height">82.67dp</dimen>
+    <dimen name="theme2_slash_img_width">93.33dp</dimen>
+    <dimen name="theme_am_pm_margin_bottom">3.67dp</dimen>
+    <dimen name="theme_clock_4x1_img_half_height">36.34dp</dimen>
+    <dimen name="theme_clock_4x1_img_height">72.67dp</dimen>
+    <dimen name="theme_clock_4x1_img_width">46.67dp</dimen>
+    <dimen name="theme_clock_4x1_img_width_land">46.67dp</dimen>
+    <dimen name="theme_clock_4x1_img_width_port">46.67dp</dimen>
+    <dimen name="theme_clock_container_down_4x1_height">37dp</dimen>
+    <dimen name="theme_clock_container_up_4x1_height">35.67dp</dimen>
+    <dimen name="theme_clock_container_up_4x1_height_land">35.67dp</dimen>
+    <dimen name="theme_clock_container_up_4x1_height_port">35.67dp</dimen>
+    <dimen name="theme_clock_digital_down_4x1_margin_top">-36dp</dimen>
+    <dimen name="theme_clock_digital_up_4x1_margin_bottom">-37.33dp</dimen>
+    <dimen name="theme_clock_point_4x1_width">10dp</dimen>
+    <dimen name="theme_digital_padding_left">@dimen/margin_l</dimen>
+    <dimen name="theme_dual_ampm_margin_top">5dp</dimen>
+    <dimen name="theme_dual_city_margin_top">37.17dp</dimen>
+    <dimen name="theme_dual_clock_padding_bottom">5dp</dimen>
+    <dimen name="theme_dual_clock_padding_top">4.5dp</dimen>
+    <dimen name="theme_dual_date_margin_top">24dp</dimen>
+    <dimen name="theme_dual_digital_dot_width">5dp</dimen>
+    <dimen name="theme_dual_digital_height">36.25dp</dimen>
+    <dimen name="theme_dual_digital_width">23.25dp</dimen>
+    <dimen name="theme_dual_sun_small_height">17.5dp</dimen>
+    <dimen name="theme_dual_sun_small_width">17.5dp</dimen>
+    <dimen name="theme_dual_temp_degree_margin_top">1.75dp</dimen>
+    <dimen name="theme_dual_widget_padding_top">0dp</dimen>
+    <dimen name="theme_error_text_height">93.33dp</dimen>
+    <dimen name="theme_error_text_width">97.33dp</dimen>
+    <dimen name="theme_info_temp_area_margin_top">77.66dp</dimen>
+    <dimen name="theme_italic_padding">2dp</dimen>
+    <dimen name="theme_italic_padding_shift">-2dp</dimen>
+    <dimen name="theme_location_padding_top">5dp</dimen>
+    <dimen name="theme_sun_small_height">88dp</dimen>
+    <dimen name="theme_sun_small_width">88dp</dimen>
+    <dimen name="theme_temp_block_margin_top">3.67dp</dimen>
+    <dimen name="theme_temp_block_margin_top_shift">-3.67dp</dimen>
+    <dimen name="theme_temp_c_f_margin_top">-1.67dp</dimen>
+    <dimen name="theme_temp_symbol_margin_bottom">-2.33dp</dimen>
+    <dimen name="theme_temp_symbol_margin_top">3.33dp</dimen>
+    <dimen name="theme_widget_margin_left_right">39dp</dimen>
+    <dimen name="theme_widget_padding_top">5dp</dimen>
+    <dimen name="theme_widget_padding_top_minus">-5dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw360dp-xxxhdpi/alarm_clock_dimens.xml -->
+    <eat-comment/>
+    <dimen name="timePickerContainer_height">-0.5dp</dimen>
+    <dimen name="timePickerContainer_no_nevigation_width">300dp</dimen>
+    <dimen name="timePickerContainer_width">300dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw360dp-xxxhdpi/world_clock_style_dimen_common_fixed_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="time_display_size">30dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sw360dp-xxxhdpi/values-sw360dp-xxxhdpi.xml -->
+    <eat-comment/>
+    <dimen name="time_pick_border_weight">8px</dimen>
+    <dimen name="time_pick_bottom_margin">@dimen/margin_xs_2</dimen>
+    <dimen name="time_pick_left_margin">@dimen/margin_m_2</dimen>
+    <dimen name="time_pick_picker_height_landscape">626px</dimen>
+    <dimen name="time_pick_picker_height_portrait">744px</dimen>
+    <dimen name="time_pick_picker_width">320px</dimen>
+    <dimen name="time_pick_right_margin">@dimen/margin_m_2</dimen>
+    <dimen name="time_pick_text_view_height">312px</dimen>
+    <dimen name="time_pick_title_margin">@dimen/margin_xs</dimen>
+    <dimen name="time_pick_top_margin">@dimen/margin_l</dimen>
+    <dimen name="time_pick_total_width">1160px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw360dp-xxxhdpi/timer_dimens.xml -->
+    <eat-comment/>
+    <dimen name="timerPickerAll_marginTop">21dp</dimen>
+    <dimen name="timerPicker_marginTop">0dp</dimen>
+    <dimen name="timerPicker_width">300dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw360dp-xxxhdpi/dimens.xml -->
+    <eat-comment/>
+    <dimen name="timer_gray_shadow_y">-4.0px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw360dp-xxxhdpi/stopwatch_dimens.xml -->
+    <eat-comment/>
+    <dimen name="total_title_marginLeft">6dp</dimen>
+    <dimen name="total_title_marginRight">0dp</dimen>
+    <dimen name="total_title_marginTop">6.75dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-sw360dp-xxxhdpi/values-sw360dp-xxxhdpi.xml -->
+    <eat-comment/>
+    <dimen name="widget_padding">0dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw360dp-xxxhdpi/world_clock_dimens.xml -->
+    <eat-comment/>
+    <dimen name="world_clock_item_description_marginTop">0px</dimen>
+    <dimen name="worldclock_digital_clock_marginLeft">40px</dimen>
+    <dimen name="worldclock_global_marginTop">0px</dimen>
+    <dimen name="worldclock_listview_marginLeft">0px</dimen>
+    <dimen name="worldclock_listview_marginTop">960px</dimen>
+    <dimen name="worldclock_listview_no_nevigation_marginLeft">0px</dimen>
+    <dimen name="worldclock_listview_width">-1px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw360dp-xxxhdpi/alarm_clock_dimens.xml -->
+    <eat-comment/>
+    <string name="alarm_digital_clock_alignParentRight">false</string>
+    <string name="delete_icon_alignParentRight">true</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw360dp-xxxhdpi/stopwatch_dimens.xml -->
+    <eat-comment/>
+    <string name="lap_title_alignParentRight">false</string>
+    <string name="navbar_button_bottomRoundCorners">true</string>
+    <string name="navbar_button_topRoundCorners">true</string>
+    <string name="stopwatch_digit_colon_alignParentRight">false</string>
+    <string name="total_title_alignParentRight">false</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw360dp-xxxhdpi/world_clock_dimens.xml -->
+    <eat-comment/>
+    <string name="worldclock_digital_clock_alignParentRight">true</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw360dp-xxxhdpi/styles.xml -->
+    <eat-comment/>
+    <style name="ListView" parent="@android:style/Widget.AbsListView">
+    </style>
+    <style name="bgAlarmClockDetailList">
+        <item name="android:background">@color/listview_bg_color</item>        
+    </style>
+    <style name="common_style_list_primary_m" parent="@style/fixed_list_primary_m">
+    </style>
+</resources>

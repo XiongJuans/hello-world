@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-hi/arrays.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>हर पहले शुक्रवार को</item><!--on every first Friday-->
+        <item>हर दूसरे शुक्रवार को</item><!--on every second Friday-->
+        <item>हर तीसरे शुक्रवार को</item><!--on every third Friday-->
+        <item>हर चौथे शुक्रवार को</item><!--on every fourth Friday-->
+        <item>हर अंतिम शुक्रवार को</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>हर पहले सोमवार को</item><!--on every first Monday-->
+        <item>हर दूसरे सोमवार को</item><!--on every second Monday-->
+        <item>हर तीसरे सोमवार को</item><!--on every third Monday-->
+        <item>हर चौथे सोमवार को</item><!--on every fourth Monday-->
+        <item>हर अंतिम सोमवार को</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>हर पहले शनिवार को</item><!--on every first Saturday-->
+        <item>हर दूसरे शनिवार को</item><!--on every second Saturday-->
+        <item>हर तीसरे शनिवार को</item><!--on every third Saturday-->
+        <item>हर चौथे शनिवार को</item><!--on every fourth Saturday-->
+        <item>हर अंतिम शनिवार को</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>हर पहले रविवार को</item><!--on every first Sunday-->
+        <item>हर दूसरे रविवार को</item><!--on every second Sunday-->
+        <item>हर तीसरे रविवार को</item><!--on every third Sunday-->
+        <item>हर चौथे रविवार को</item><!--on every fourth Sunday-->
+        <item>हर अंतिम रविवार को</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>हर पहले गुरुवार को</item><!--on every first Thursday-->
+        <item>हर दूसरे गुरुवार को</item><!--on every second Thursday-->
+        <item>हर तीसरे गुरुवार को</item><!--on every third Thursday-->
+        <item>हर चौथे गुरुवार को</item><!--on every fourth Thursday-->
+        <item>हर अंतिम गुरुवार को</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>हर पहले मंगलवार को</item><!--on every first Tuesday-->
+        <item>हर दूसरे मंगलवार को</item><!--on every second Tuesday-->
+        <item>हर तीसरे मंगलवार को</item><!--on every third Tuesday-->
+        <item>हर चौथे मंगलवार को</item><!--on every fourth Tuesday-->
+        <item>हर अंतिम मंगलवार को</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>हर पहले बुधवार को</item><!--on every first Wednesday-->
+        <item>हर दूसरे बुधवार को</item><!--on every second Wednesday-->
+        <item>हर तीसरे बुधवार को</item><!--on every third Wednesday-->
+        <item>हर चौथे बुधवार को</item><!--on every fourth Wednesday-->
+        <item>हर अंतिम बुधवार को</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-hi/strings.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">एक बार</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> बार</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">हर <ns1:g id="count">%d</ns1:g> दिन</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">हर <ns1:g id="count">%d</ns1:g> दिन</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">हर <ns1:g id="count">%d</ns1:g> महीना</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">हर <ns1:g id="count">%d</ns1:g> महीने</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">हर <ns1:g id="count">%s</ns1:g> सप्ताह</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">हर <ns1:g id="count">%s</ns1:g> सप्ताह</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">हर <ns1:g id="count">%d</ns1:g> वर्ष</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">हर <ns1:g id="count">%d</ns1:g> वर्ष</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one"><ns1:g id="days_of_week">%2$s</ns1:g> को साप्ताहिक तौर पर</item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other"><ns1:g id="days_of_week">%2$s</ns1:g> को हर <ns1:g id="number">%1$d</ns1:g> सप्ताह</item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <string name="every_weekday">हर कार्य दिवस (सोम-शुक्र)</string>
+    <string name="monthly">मासिक</string>
+    <string name="monthly_on_day_count">\"मासिक (हर <ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g>)\"</string>
+    <string name="tm_daily">\"प्रतिदिन\"</string>
+    <string name="yearly_plain">वार्षिक</string>
+</resources>

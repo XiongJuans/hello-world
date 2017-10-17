@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-bg/arrays.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>всеки първи петък</item><!--on every first Friday-->
+        <item>всеки втори петък</item><!--on every second Friday-->
+        <item>всеки трети петък</item><!--on every third Friday-->
+        <item>всеки четвърти петък</item><!--on every fourth Friday-->
+        <item>всеки последен петък</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>всеки първи понеделник</item><!--on every first Monday-->
+        <item>всеки втори понеделник</item><!--on every second Monday-->
+        <item>всеки трети понеделник</item><!--on every third Monday-->
+        <item>всеки четвърти понеделник</item><!--on every fourth Monday-->
+        <item>всеки последен понеделник</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>всяка първа събота</item><!--on every first Saturday-->
+        <item>всяка втора събота</item><!--on every second Saturday-->
+        <item>всяка трета събота</item><!--on every third Saturday-->
+        <item>всяка четвърта събота</item><!--on every fourth Saturday-->
+        <item>всяка последна събота</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>всяка първа неделя</item><!--on every first Sunday-->
+        <item>всяка втора неделя</item><!--on every second Sunday-->
+        <item>всяка трета неделя</item><!--on every third Sunday-->
+        <item>всяка четвърта неделя</item><!--on every fourth Sunday-->
+        <item>всяка последна неделя</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>всеки първи четвъртък</item><!--on every first Thursday-->
+        <item>всеки втори четвъртък</item><!--on every second Thursday-->
+        <item>всеки трети четвъртък</item><!--on every third Thursday-->
+        <item>всеки четвърти четвъртък</item><!--on every fourth Thursday-->
+        <item>всеки последен четвъртък</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>всеки първи вторник</item><!--on every first Tuesday-->
+        <item>всеки втори вторник</item><!--on every second Tuesday-->
+        <item>всеки трети вторник</item><!--on every third Tuesday-->
+        <item>всеки четвърти вторник</item><!--on every fourth Tuesday-->
+        <item>всеки последен вторник</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>всяка първа сряда</item><!--on every first Wednesday-->
+        <item>всяка втора сряда</item><!--on every second Wednesday-->
+        <item>всяка трета сряда</item><!--on every third Wednesday-->
+        <item>всяка четвърта сряда</item><!--on every fourth Wednesday-->
+        <item>всяка последна сряда</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-bg/strings.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">веднъж</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> пъти</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Всеки <ns1:g id="count">%d</ns1:g> ден</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">На <ns1:g id="count">%d</ns1:g> дни</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Всеки <ns1:g id="count">%d</ns1:g> месец</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">На <ns1:g id="count">%d</ns1:g> месеца</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Всяка <ns1:g id="count">%d</ns1:g> седмица</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">На <ns1:g id="count">%d</ns1:g> седмици</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Всяка <ns1:g id="count">%d</ns1:g> година</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">На <ns1:g id="count">%d</ns1:g> години</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">Седмично в/във <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other">На всеки <ns1:g id="number">%1$d</ns1:g> седмици в/във <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <string name="every_weekday">"Всеки работен ден (Пон\u2013Пет)"</string>
+    <string name="monthly">Месечно</string>
+    <string name="monthly_on_day_count">"Месечно (всеки <ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g>)"</string>
+    <string name="tm_daily">"Ежедневно"</string>
+    <string name="yearly_plain">Годишно</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:drawable="@color/mask_bitmap_background"/>
+    <item android:drawable="@drawable/mask_bitmap_repeat"/>
+
+</layer-list><!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/drawable/mask_bitmap_repeat_alpha.xml --><!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/drawable/mask_bitmap_repeat_alpha.xml -->

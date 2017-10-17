@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-w416dp/values-w416dp.xml -->
+    <eat-comment/>
+    <dimen name="common_dialogbox_horizontal_margin">37.8dp</dimen>
+</resources>

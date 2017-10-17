@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-sl/arrays.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>vsak prvi petek</item><!--on every first Friday-->
+        <item>vsak drugi petek</item><!--on every second Friday-->
+        <item>vsak tretji petek</item><!--on every third Friday-->
+        <item>vsak četrti petek</item><!--on every fourth Friday-->
+        <item>vsak zadnji petek</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>vsak prvi ponedeljek</item><!--on every first Monday-->
+        <item>vsak drugi ponedeljek</item><!--on every second Monday-->
+        <item>vsak tretji ponedeljek</item><!--on every third Monday-->
+        <item>vsak četrti ponedeljek</item><!--on every fourth Monday-->
+        <item>vsak zadnji ponedeljek</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>vsako prvo soboto</item><!--on every first Saturday-->
+        <item>vsako drugo soboto</item><!--on every second Saturday-->
+        <item>vsako tretjo soboto</item><!--on every third Saturday-->
+        <item>vsako četrto soboto</item><!--on every fourth Saturday-->
+        <item>vsako zadnjo soboto</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>vsako prvo nedeljo</item><!--on every first Sunday-->
+        <item>vsako drugo nedeljo</item><!--on every second Sunday-->
+        <item>vsako tretjo nedeljo</item><!--on every third Sunday-->
+        <item>vsako četrto nedeljo</item><!--on every fourth Sunday-->
+        <item>vsako zadnjo nedeljo</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>vsak prvi četrtek</item><!--on every first Thursday-->
+        <item>vsak drugi četrtek</item><!--on every second Thursday-->
+        <item>vsak tretji četrtek</item><!--on every third Thursday-->
+        <item>vsak četrti četrtek</item><!--on every fourth Thursday-->
+        <item>vsak zadnji četrtek</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>vsak prvi torek</item><!--on every first Tuesday-->
+        <item>vsak drugi torek</item><!--on every second Tuesday-->
+        <item>vsak tretji torek</item><!--on every third Tuesday-->
+        <item>vsak četrti torek</item><!--on every fourth Tuesday-->
+        <item>vsak zadnji torek</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>vsako prvo sredo</item><!--on every first Wednesday-->
+        <item>vsako drugo sredo</item><!--on every second Wednesday-->
+        <item>vsako tretjo sredo</item><!--on every third Wednesday-->
+        <item>vsako četrto sredo</item><!--on every fourth Wednesday-->
+        <item>vsako zadnjo sredo</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">enkrat</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g>-krat</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Vsak <ns1:g id="count">%d</ns1:g> dan</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Vsakih toliko dni: <ns1:g id="count">%d</ns1:g></item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Vsak <ns1:g id="count">%d</ns1:g> mesec</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Vsakih toliko mesecev: <ns1:g id="count">%d</ns1:g></item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Vsak <ns1:g id="count">%d</ns1:g> teden</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Vsakih toliko tednov: <ns1:g id="count">%d</ns1:g></item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Vsako <ns1:g id="count">%d</ns1:g> leto</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Vsakih toliko let: <ns1:g id="count">%d</ns1:g></item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">Tedensko v <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other">Vsake <ns1:g id="number">%1$d</ns1:g> tedne v <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <string name="every_weekday">"Vsak delovni dan (Pon\u2013Pet)"</string>
+    <string name="monthly">Mesečno</string>
+    <string name="monthly_on_day_count">"Mesečno (vsakih <ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g>)"</string>
+    <string name="tm_daily">"Dnevno"</string>
+    <string name="yearly_plain">Letno</string>
+</resources>

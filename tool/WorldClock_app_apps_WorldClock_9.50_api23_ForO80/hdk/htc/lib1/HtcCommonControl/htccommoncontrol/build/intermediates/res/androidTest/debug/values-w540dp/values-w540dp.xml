@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-w540dp/values-w540dp.xml -->
+    <eat-comment/>
+    <integer name="columnNum_htcShareActivity">5</integer>
+    <integer name="duration_slide_from_expand_to_hide">280</integer>
+    <integer name="duration_slide_from_hide_to_collapse">140</integer>
+</resources>

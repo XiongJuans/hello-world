@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-zy/strings.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>ေသးငယ္</item><!--Small-->
+        <item>အလယ္အလတ္</item><!--Medium-->
+        <item>ႀကီးမား</item><!--Large-->
+        <item>အလြန္ႀကီးမား</item><!--Extra large-->
+        <item>ဧရာမႀကီးမား</item><!--Huge-->
+    </string-array>
+    <string-array name="weeklayout_secondary_text">
+        <item>Su</item><!--SU-->
+        <item>M</item><!--M-->
+        <item>Tu</item><!--TU-->
+        <item>W</item><!--W-->
+        <item>Th</item><!--TH-->
+        <item>F</item><!--F-->
+        <item>Sa</item><!--SA-->
+    </string-array>
+    <string name="accessibility_tap_action">အလုပ္စရန္ႏွစ္ခ်က္ႏွိပ္လိုက္ပါ</string>
+    <string name="add_comments">မွတ္ခ်က္ထည့္</string>
+    <string name="am">AM</string>
+    <string name="button_hide_caption">ေခါင္းစဥ္ေဖ်ာက္ထား</string>
+    <string name="button_hide_description">ေဖာ္ျပခ်က္ကိုေဖ်ာက္ထား</string>
+    <string name="button_show_caption">ေခါင္းစဥ္ ေဖာ္ျပ</string>
+    <string name="button_show_description">ရည္ၫႊန္းခ်က္ေဖာ္ျပ</string>
+    <string name="carousel_title">က႑မ်ား တည္းျဖတ္</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-zy/htc_strings.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">လူရွာ</string>
+    <string name="common_string_open_contact">အမည္စာရင္းဖြင့္</string>
+    <string name="common_string_save_to_existing_contact">ရွိၿပီးသားအမည္စာရင္းသို႔သိမ္း</string>
+    <string name="common_string_save_to_people">လူပုဂၢိဳလ္သို႔သိမ္း</string>
+    <string name="common_string_share_title">မွတဆင့္မွ်ေဝ</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-zy/strings.xml -->
+    <eat-comment/>
+    <string name="done">ၿပီးၿပီ</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-zy/htc_strings.xml -->
+    <eat-comment/>
+    <string name="label_day">ရက္</string>
+    <string name="label_hour">နာရီ</string>
+    <string name="label_minute">မိနစ္</string>
+    <string name="label_month">လ</string>
+    <string name="label_second">စကၠန္႔</string>
+    <string name="label_year">ႏွစ္</string>
+    <string name="license_dialog_content">၅။ ဤဖုန္းတြင္အသုံးျပဳထားေသာ အိုင္ကြန္အခ်ိဳ႕သည္ Google မွ အစျပဳ၍ ဖန္တီးထားေသာ ဒီဇိုင္းမ်ားႏွင့္ <a href="https://creativecommons.org/licenses/by/4.0/legalcode">ျပဳျပင္ဖန္တီးႏိုင္ေသာ အေထြေထြ လိုင္စင္ BY4.0</a> ေအာက္တြင္ HTC မွ မြမ္းမံထားသည့္ ဒီဇိုင္းမ်ားျဖစ္သည္။</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <string name="ls_doubletap_drag">ႏွစ္ခါႏွိပ္ၿပီးခ်ိန္ညွိရန္ဆြဲပါ</string>
+    <string name="ls_edit_number_before_calling">မေခၚဆိုမီ နံပါတ္ကို တည္းျဖတ္</string>
+    <string name="ls_open_in_map">ေျမပံုတြင္ဖြင့္</string>
+    <string name="ls_tablet_storage_error">သင့္၏ဖုန္းမွတ္ဉာဏ္မွားယြင္းေန၊ဖုန္းစက္ျပန္ဖြင့္ၿပီးမွတ္ဉာဏ္ပံုစံသြင္းပါ</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-zy/strings.xml -->
+    <eat-comment/>
+    <string name="menu_crop">ေဘးသားျဖတ္</string>
+    <string name="menu_delete">ပယ္ဖ်က္</string>
+    <string name="menu_properties">အေသးစိတ္</string>
+    <string name="menu_protect_info">ကာကြယ္ျခင္း အခ်က္အလက္</string>
+    <string name="menu_save_to_my_favorite">စိတ္ႀကိဳက္သတ္မွတ္</string>
+    <string name="menu_send_photo_link_by_email">ဓာတ္ပံုကြန္ယက္မွ်ေဝ</string>
+    <string name="menu_set_as">သတ္မွတ္</string>
+    <string name="menu_settings">ခ်ိန္ညႇိခ်က္မ်ား</string>
+    <string name="menu_share">မွ်ေဝ</string>
+    <string name="menu_show_on_map">ေျမပံုေပၚမွာေဖာ္ျပ</string>
+    <string name="menu_slideshow">ဆလိုက္႐ႈိး</string>
+    <string name="menu_view_full">ျမင္ကြင္း</string>
+    <string name="menu_view_video">ဖြင့္</string>
+    <string name="meun_rotate">လွည့္</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-zy/htc_strings.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">မသိေသာ မွားယြင္းမႈ</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-zy/strings.xml -->
+    <eat-comment/>
+    <string name="no">မရွိ</string>
+    <string name="pm">PM</string>
+    <string name="quickselection_share">မွတဆင့္မွ်ေဝ</string>
+    <string name="refresh">အသစ္တင္</string>
+    <string name="reminderview_common_unlock_hint_icon">အိုင္ကြန္ကို ဆြဲ၍ တင္ပါ</string>
+    <string name="reminderview_common_unlock_hint_up">ေသာ့ဖြင့္ရန္အေပၚသို႕ဆြဲပါ။</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-zy/htc_strings.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">အသစ္တင္ရန္ လြတ္ေပးျခင္း</string>
+    <string name="st_action_bar_updating">အသစ္ျပင္ဆင္တင္ျပျခင္း...</string>
+    <string name="st_draggable_item">ဆြဲယူႏိုင္သည့္ အရာ</string>
+    <string name="st_loading">လုပ္ေဆာင္ေနစဥ္</string>
+    <string name="st_more">ပို၍</string>
+    <string name="st_pull_down_refresh">အသစ္တင္ရန္ ဆြဲခ်</string>
+    <string name="tab_remove_dialog_message">က႑တစ္ခုက်န္ေနသည္။ ဤအက္ပ္အတြက္ က႑မ်ားပို၍ ထည့္ေပါင္းပါ၊ ေမႏူးေပၚတြင္ ေဘာင္ကြက္မ်ားတည္းျဖတ္ပါ/စစ္ထုတ္ပါကို ေရြးခ်ယ္ပါ။</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-zy/strings.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">သေကၤတ ဖယ္ရွား၍မရ</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-zy/htc_strings.xml -->
+    <eat-comment/>
+    <string name="va_back">ေနာက္ျပန္</string>
+    <string name="va_call">ဖုန္း</string>
+    <string name="va_cancel">႐ုပ္သိမ္း</string>
+    <string name="va_clear">ရွင္းလင္း</string>
+    <string name="va_close">ပိတ္</string>
+    <string name="va_copy">ကူးယူ</string>
+    <string name="va_download">ေဒါင္းလုတ္</string>
+    <string name="va_downloading">ေဒါင္းလုတ္ဆြဲေနစဥ္</string>
+    <string name="va_finish">ၿပီးဆံုး</string>
+    <string name="va_hide">ေဖ်ာက္ထား</string>
+    <string name="va_move_above">အေပၚသို႔ေရႊ႕</string>
+    <string name="va_move_below">ေအာက္သို႔ေရႊ႕</string>
+    <string name="va_next">ေရွ႕ဆက္</string>
+    <string name="va_ok">အိုေက</string>
+    <string name="va_open">ဖြင့္</string>
+    <string name="va_reset">အသစ္ျပန္စ</string>
+    <string name="va_send_mail">ေမးလ္ပို႔</string>
+    <string name="va_send_message">မက္ေဆ့ခ်္ပို႔</string>
+    <string name="va_show_all">အကုန္လံုးျပ</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-zy/strings.xml -->
+    <eat-comment/>
+    <string name="yes">မွန္</string>
+</resources>

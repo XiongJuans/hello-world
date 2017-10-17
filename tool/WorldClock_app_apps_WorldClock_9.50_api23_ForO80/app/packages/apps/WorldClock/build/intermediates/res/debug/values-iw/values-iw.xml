@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string-array name="days_of_week">
+        <item>שני</item><!--MONDAY-->
+        <item>שלישי</item><!--TUESDAY-->
+        <item>רביעי</item><!--WEDNESDAY-->
+        <item>חמישי</item><!--THURSDAY-->
+        <item>שישי</item><!--FRIDAY-->
+        <item>שבת</item><!--SATURDAY-->
+        <item>ראשון</item><!--SUNDAY-->
+    </string-array>
+    <string-array name="days_of_week_abbr">
+        <item>ב</item><!--M-->
+        <item>ג</item><!--TU-->
+        <item>ד</item><!--W-->
+        <item>ה</item><!--TH-->
+        <item>ו</item><!--F-->
+        <item>ש</item><!--SA-->
+        <item>א</item><!--SU-->
+    </string-array>
+    <string-array name="days_of_week_capital">
+        <item>ראש</item><!---->
+        <item>א</item><!--SUN-->
+        <item>ב</item><!--MON-->
+        <item>ג</item><!--TUE-->
+        <item>ד</item><!--WED-->
+        <item>ה</item><!--THU-->
+        <item>ו</item><!--FRI-->
+        <item>ש</item><!--SAT-->
+    </string-array>
+    <string-array name="days_of_week_short">
+        <item>@string/tm_mon</item>
+        <item>@string/tm_tue</item>
+        <item>@string/tm_wed</item>
+        <item>@string/tm_thu</item>
+        <item>@string/tm_fri</item>
+        <item>@string/tm_sat</item>
+        <item>@string/tm_sun</item>
+    </string-array>
+    <string-array name="days_of_week_whole_capital">
+        <item/>
+        <item>ראשון</item><!--SUNDAY-->
+        <item>שני</item><!--MONDAY-->
+        <item>שלישי</item><!--TUESDAY-->
+        <item>רביעי</item><!--WEDNESDAY-->
+        <item>חמישי</item><!--THURSDAY-->
+        <item>שישי</item><!--FRIDAY-->
+        <item>שבת</item><!--SATURDAY-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/WeatherLib1/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string-array name="htc_weather_conditions">
+<!-- weather condition 1 : Sunny -->
+        <item>שטוף שמש</item><!--Sunny-->
+<!-- weather condition 2 : Mostly Sunny -->
+        <item>רב היום שטוף שמש</item><!--Mostly Sunny-->
+<!-- weather condition 3 : Partly Sunny -->
+        <item>שמש לפרקים</item><!--Partly Sunny-->
+<!-- weather condition 4 : Intermittent Clouds -->
+        <item>מעונן חלקית</item><!--Intermittent Clouds--><!--Intermittent Clouds-->
+<!-- weather condition 5 : Hazy Sunshine -->
+        <item>שמש לפרקים</item><!--Hazy Sunshine-->
+<!-- weather condition 6 : Mostly Cloudy -->
+        <item>רוב היום מעונן</item><!--Mostly Cloudy--><!--Mostly Cloudy-->
+<!-- weather condition 7 : Cloudy -->
+        <item>מעונן</item><!--Cloudy-->
+<!-- weather condition 8 : Dreary -->
+        <item>קודר</item><!--Dreary-->
+<!-- weather condition 11 : Fog -->
+        <item>ערפל</item><!--Fog-->
+<!-- weather condition 12 : Showers -->
+        <item>ממטרים</item><!--Showers-->
+<!-- weather condition 13 : Mostly Cloudy with Showers -->
+        <item>רוב היום מעונן עם ממטרים</item><!--Mostly Cloudy with Showers--><!--Mostly Cloudy with Showers-->
+<!-- weather condition 14 : Partly Sunny with Showers -->
+        <item>שמש לפרקים עם ממטרים</item><!--Partly Sunny with Showers-->
+<!-- weather condition 15 : Thunderstorms -->
+        <item>סופות רעמים</item><!--Thunderstorms-->
+<!-- weather condition 16 : Mostly Cloudy with Thunder Showers -->
+        <item>רוב היום מעונן עם ממטרים ורעמים</item><!--Mostly Cloudy with Thunder Showers--><!--Mostly Cloudy with Thunder Showers-->
+<!-- weather condition 17 : Partly Sunny with Thunder Showers -->
+        <item>שמש לפרקים עם ממטרים ורעמים</item><!--Partly Sunny with Thunder Showers-->
+<!-- weather condition 18 : Rain -->
+        <item>גשם</item><!--Rain-->
+<!-- weather condition 19 : Flurries -->
+        <item>משבי רוח</item><!--Flurries-->
+<!-- weather condition 20 : Mostly Cloudy with Flurries -->
+        <item>רוב היום מעונן עם משבי רוח</item><!--Mostly Cloudy with Flurries--><!--Mostly Cloudy with Flurries-->
+<!-- weather condition 21 : Partly Sunny with Flurries -->
+        <item>שמש לפרקים עם משבי רוח</item><!--Partly Sunny with Flurries-->
+<!-- weather condition 22 : Snow -->
+        <item>שלג</item><!--Snow-->
+<!-- weather condition 23 : Mostly Cloudy with Snow -->
+        <item>רוב היום מעונן עם שלג</item><!--Mostly Cloudy with Snow-->
+<!-- weather condition 24 : Ice -->
+        <item>קרח</item><!--Ice-->
+<!-- weather condition 25 : Sleet -->
+        <item>גשם מעורב בשלג</item><!--Sleet-->
+<!-- weather condition 26 : Freezing Rain -->
+        <item>גשם קפוא</item><!--Freezing Rain-->
+<!-- weather condition 29 : Rain and Snow Mixed -->
+        <item>גשם ושלג מעורבים</item><!--Rain and Snow Mixed-->
+<!-- weather condition 30 : Hot -->
+        <item>חם</item><!--Hot-->
+<!-- weather condition 31 : Cold -->
+        <item>קר</item><!--Cold-->
+<!-- weather condition 32 : Windy -->
+        <item>רוחות ערות</item><!--Windy-->
+<!-- weather condition 33 : Clear -->
+        <item>בהיר</item><!--Clear-->
+<!-- weather condition 34 : Mostly Clear -->
+        <item>רוב היום בהיר</item><!--Mostly Clear-->
+<!-- weather condition 35 : Partly Cloudy -->
+        <item>מעונן חלקית</item><!--Partly Cloudy-->
+<!-- weather condition 36 : Intermittent Clouds -->
+        <item>מעונן חלקית</item><!--Intermittent Clouds--><!--Intermittent Clouds-->
+<!-- weather condition 37 : Hazy -->
+        <item>אביך</item><!--Hazy-->
+<!-- weather condition 38 : Mostly Cloudy -->
+        <item>רוב היום מעונן</item><!--Mostly Cloudy--><!--Mostly Cloudy-->
+<!-- weather condition 39 : Partly Cloudy with Showers -->
+        <item>מעונן חלקית עם ממטרים</item><!--Partly Cloudy with Showers-->
+<!-- weather condition 40 : Mostly Cloudy with Showers -->
+        <item>רוב היום מעונן עם ממטרים</item><!--Mostly Cloudy with Showers--><!--Mostly Cloudy with Showers-->
+<!-- weather condition 41 : Partly Cloudy with Thunder Showers -->
+        <item>מעונן חלקית עם גשם ורעמים</item><!--Partly Cloudy with Thunder Showers-->
+<!-- weather condition 42 : Mostly Cloudy with Thunder Showers -->
+        <item>רוב היום מעונן עם ממטרים ורעמים</item><!--Mostly Cloudy with Thunder Showers--><!--Mostly Cloudy with Thunder Showers-->
+<!-- weather condition 43 : Partly Cloudy with Flurries -->
+        <item>מעונן חלקית עם משבי רוח</item><!--Partly Cloudy with Flurries-->
+<!-- weather condition 44 : Mostly Cloudy with Flurries -->
+        <item>רוב היום מעונן עם משבי רוח</item><!--Mostly Cloudy with Flurries--><!--Mostly Cloudy with Flurries-->
+<!-- _For Huafeng -->
+<!-- weather condition 51 : -->
+        <item>סופות רעמים עם גשם מעורב בשלג</item><!--Thunderstorms with sleet-->
+<!-- weather condition 52 : -->
+        <item>חול</item><!--Sand-->
+<!-- weather condition 53 : -->
+        <item>אבק</item><!--Dust-->
+<!-- weather condition 54 : -->
+        <item>טורנדו</item><!--Tornado-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string-array name="month_of_year">
+    	<item>ינו</item><!--JAN-->
+    	<item>פבר</item><!--FEB-->
+    	<item>מרץ</item><!--MAR-->
+    	<item>אפר</item><!--APR-->
+    	<item>מאי</item><!--MAY-->
+    	<item>יונ</item><!--JUN-->
+    	<item>יול</item><!--JUL-->
+    	<item>אוג</item><!--AUG-->
+    	<item>ספט</item><!--SEP-->
+    	<item>אוק</item><!--OCT-->
+    	<item>נוב</item><!--NOV-->
+    	<item>דצמ</item><!--DEC-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>בכל יום שישי הראשון בחודש</item><!--on every first Friday-->
+        <item>בכל יום שישי השני בחודש</item><!--on every second Friday-->
+        <item>בכל יום שישי השלישי בחודש</item><!--on every third Friday-->
+        <item>בכל יום שישי הרביעי בחודש</item><!--on every fourth Friday-->
+        <item>בכל יום שישי האחרון בחודש</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>בכל יום שני הראשון בחודש</item><!--on every first Monday-->
+        <item>בכל יום שני השני בחודש</item><!--on every second Monday-->
+        <item>בכל יום שני השלישי בחודש</item><!--on every third Monday-->
+        <item>בכל יום שני הרביעי בחודש</item><!--on every fourth Monday-->
+        <item>בכל יום שני האחרון בחודש</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>בכל יום שבת הראשון בחודש</item><!--on every first Saturday-->
+        <item>בכל יום שבת השני בחודש</item><!--on every second Saturday-->
+        <item>בכל יום שבת השלישי בחודש</item><!--on every third Saturday-->
+        <item>בכל יום שבת הרביעי בחודש</item><!--on every fourth Saturday-->
+        <item>בכל יום שבת האחרון בחודש</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>בכל יום ראשון הראשון בחודש</item><!--on every first Sunday-->
+        <item>בכל יום ראשון השני בחודש</item><!--on every second Sunday-->
+        <item>בכל יום ראשון השלישי בחודש</item><!--on every third Sunday-->
+        <item>בכל יום ראשון הרביעי בחודש</item><!--on every fourth Sunday-->
+        <item>בכל יום ראשון האחרון בחודש</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>בכל יום חמישי הראשון בחודש</item><!--on every first Thursday-->
+        <item>בכל יום חמישי השני בחודש</item><!--on every second Thursday-->
+        <item>בכל יום חמישי השלישי בחודש</item><!--on every third Thursday-->
+        <item>בכל יום חמישי הרביעי בחודש</item><!--on every fourth Thursday-->
+        <item>בכל יום חמישי האחרון בחודש</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>בכל יום שלישי הראשון בחודש</item><!--on every first Tuesday-->
+        <item>בכל יום שלישי השני בחודש</item><!--on every second Tuesday-->
+        <item>בכל יום שלישי השלישי בחודש</item><!--on every third Tuesday-->
+        <item>בכל יום שלישי הרביעי בחודש</item><!--on every fourth Tuesday-->
+        <item>בכל יום שלישי האחרון בחודש</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>בכל יום רביעי הראשון בחודש</item><!--on every first Wednesday-->
+        <item>בכל יום רביעי השני בחודש</item><!--on every second Wednesday-->
+        <item>בכל יום רביעי השלישי בחודש</item><!--on every third Wednesday-->
+        <item>בכל יום רביעי הרביעי בחודש</item><!--on every fourth Wednesday-->
+        <item>בכל יום רביעי האחרון בחודש</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string-array name="repeat_option">
+        <item>שני-שישי</item><!--Mon -/ Fri-->
+        <item>ללא חזרה</item><!--Do not repeat-->
+        <item>כל יום</item><!--Every day-->
+        <item>דלג על חגים</item><!--Skip holidays-->
+        <item>מותאם אישית</item><!--Custom-->
+    </string-array>
+    <string-array name="snooze_duration_entries">
+      <item>5 דקות</item><!--5 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_10_minutes</item>
+      <item>15 דקות</item><!--15 minutes-->
+      <item>20 דקות</item><!--20 minutes-->
+      <item>25 דקות</item><!--25 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_30_minutes</item>
+    </string-array>
+    <string-array name="sound_selection_setting_entries">
+<!-- Alarm sound -->
+      <item>צליל שעון מעורר</item><!--Alarm sound-->
+<!-- Do not translate. Ringtone -->
+      <item>@string/nn_ringtone</item>
+<!-- Do not translate. Music -->
+      <item>@string/nn_music</item>
+    </string-array>
+    <string-array name="sprint_volume_button_setting_entries">
+      <item>אל תעשה כלום</item><!--Do nothing-->
+
+      <item>נידנוד</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+
+      <item>שקט</item><!--Silence-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>קטן</item><!--Small-->
+        <item>בינוני</item><!--Medium-->
+        <item>גדול</item><!--Large-->
+        <item>גדול מאוד</item><!--Extra large-->
+        <item>ענק</item><!--Huge-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string-array name="volume_button_setting_entries">
+      <item>אל תעשה כלום</item><!--Do nothing-->
+
+      <item>נדנד</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string-array name="weeklayout_secondary_text">
+        <item>א</item><!--SU-->
+        <item>ב</item><!--M-->
+        <item>ג</item><!--TU-->
+        <item>ד</item><!--W-->
+        <item>ה</item><!--TH-->
+        <item>ו</item><!--F-->
+        <item>ש</item><!--SA-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">פעם אחת</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> פעמים</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">כל יום <ns1:g id="count">%d</ns1:g></item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">כל <ns1:g id="count">%d</ns1:g> ימים</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">כל חודש <ns1:g id="count">%d</ns1:g></item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">כל <ns1:g id="count">%d</ns1:g> חודשים</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">כל שבוע <ns1:g id="count">%d</ns1:g></item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">כל <ns1:g id="count">%d</ns1:g> שבועות</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">כל שנה <ns1:g id="count">%d</ns1:g></item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">כל <ns1:g id="count">%d</ns1:g> שנים</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">פעם בשבוע ב-<ns1:g id="days_of_week">%2$s</ns1:g></item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other">מדי <ns1:g id="number">%1$d</ns1:g> שבועות ב-<ns1:g id="days_of_week">%2$s</ns1:g></item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"נווט לדף הבית"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"‏%1$s‏, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"‏%1$s‏, %2$s‏, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"נווט למעלה"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"עוד אפשרויות"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"בוצע"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"ראה הכל"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"בחר אפליקציה"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"כבוי"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"פועל"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"חפש…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"מחק שאילתה"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"שאילתת חיפוש"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"חפש"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"שלח שאילתה"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"חיפוש קולי"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"שתף עם"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"‏שתף עם %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"כווץ"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string name="accessibility_tap_action">הקש פעמיים כדי להפעיל</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="add_alarm">הוסף ש.מעורר</string>
+    <string name="add_alarm_error">הגעת למספר המרבי האפשרי של שעונים מעוררים.</string>
+    <string name="add_city">הוסף עיר</string>
+    <string name="add_city_error_msg">ניתן להגדיר עד 15 ערים. כדי להוסיף עיר חדשה, מחק עיר קיימת.</string>
+    <string name="add_city_error_title">לא ניתן להוסיף עיר</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string name="add_comments">הוסף תגובה</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="add_lap_error">שעון העצר יכול לשמור עד 300 הקפות. הקש על \'איפוס\' כדי למחוק את היסטורית ההקפות.</string>
+    <string name="addcity_search">חיפוש ערים</string>
+    <string name="alarm_alert_alert_silenced">צלצול השעון המעורר משתתק לאחר <ns1:g id="minutes">%d</ns1:g> דקות</string>
+    <string name="alarm_alert_dismissed">שעון מעורר בוטל</string>
+    <string name="alarm_alert_snooze_not_set">לא הוגדר נדנוד. השעון המעורר הבא נקבע ל<ns1:g id="time">%s</ns1:g></string>
+    <string name="alarm_alert_snooze_set">נדנד אחרי <ns1:g id="minutes">%d</ns1:g> דקות</string>
+    <string name="alarm_caption">שעונים מעוררים</string>
+    <string name="alarm_in_volume_increase_mode_summary">הגבר בהדרגה את עוצמת השעון המעורר</string>
+    <string name="alarm_in_volume_increase_mode_title">שעון מעורר עדין</string>
+    <string name="alarm_notify_snooze_label"><ns1:g id="label">%s</ns1:g> (נדנד)</string>
+    <string name="alarm_notify_snooze_text">שעון מעורר נקבע לשעה <ns1:g id="time">%s</ns1:g>. הקש לביטול.</string>
+    <string name="alarm_off">שעון מעורר כבוי</string>
+    <string name="alarm_offalarm">צליל כשהמכשיר כבוי</string>
+    <string name="alarm_on">שעון מעורר מופעל</string>
+    <string name="alarm_repeat">חזור</string>
+    <string name="alarm_ringtone">צליל שעון מעורר</string>
+    <string name="alarm_set">שעון מעורר זה נקבע ל-<ns1:g id="time_delta">%s</ns1:g> מעכשיו.</string>
+    <string name="alarm_vibrate">רטט</string>
+    <string name="alarm_volume_summary">הגדר את עוצמת השמע של השעון המעורר</string>
+    <string name="alarm_volume_title">עוצמת שמע של שעון מעורר</string>
+    <string name="alert_sound">צליל שעון מעורר</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string name="am">AM</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="analog_gadget">שעון אנאלוגי</string>
+    <string name="and">" ו "</string>
+    <string name="bt_cancel_str">ביטול</string>
+    <string name="bt_done_str">בוצע</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string name="button_hide_caption">הסתר כיתוב</string>
+    <string name="button_hide_description">הסתר תיאור</string>
+    <string name="button_show_caption">הצג כיתוב</string>
+    <string name="button_show_description">הצג תיאור</string>
+    <string name="carousel_title">ע.לשוניות</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="city_duplicate">העיר כבר נמצאת ברשימה</string>
+    <string name="city_not_found">העיר לא נמצאה</string>
+    <string name="clock_permission_dialog_btn_close">סגור</string>
+    <string name="clock_permission_dialog_btn_settings">הגדרות</string>
+    <string name="clock_permission_dialog_content">כדי לפעול כמו שצריך, האפליקציה הזו זקוקה לגישה לזיכרון האחסון שלך. ניתן לנהל את ההרשאות של השעון בהגדרות.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">חיפוש ב\"אנשים\"</string>
+    <string name="common_string_open_contact">פתח איש קשר</string>
+    <string name="common_string_save_to_existing_contact">שמור לאיש קשר קיים</string>
+    <string name="common_string_save_to_people">שמור ב\"אנשים\"</string>
+    <string name="common_string_share_title">שתף באמצעות</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="current_settings">הגדר תאריך ושעה</string>
+    <string name="day_concat">", "</string>
+    <string name="days">"<ns1:g id="days">%s</ns1:g> ימים"</string>
+    <string name="dberror">מצטערים, לא ניתן להגדיר את השעון המעורר</string>
+    <string name="delete_alarm_caption">מחק שעונים מעוררים</string>
+    <string name="delete_city_caption">מחק ערים</string>
+    <string name="desk_clock_caption">שעון שולחני</string>
+    <string name="dialog_button_ok">אישור</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string name="done">בוצע</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="error">לא ניתן להוסיף צלצול השכמה</string>
+    <string name="error_title">שגיאת מסד נתונים</string>
+    <string name="every_day">כל יום</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string name="every_weekday">"כל יום עבודה (שני\u2013שישי)"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="fit_screen_menu_item">התאם למסך</string>
+    <string name="full_screen_menu_item">מסך מלא</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/googleplay_strings.xml -->
+    <eat-comment/>
+    <string name="googleplay_description_app">בין אם אתה בטייפיי, טייואן או מרקש, מרוקו, אפליקציית השעון HTC מאפשרת לך לבדוק מה השעה היכן שאתה נמצא, בבית ובערים שונות בעולם. ניתן להשתמש בפונקציות הניתנות להתאמה אישית של שעון מעורר, סטופר וטיימר אשר שמות את עוצמת ניהול הזמן בכיס הקטן שלך. תוכל להגדיר כמה שעונים מעוררים שתרצה, לשנות את משך הנודניק, לבחור את הצלצול של השעון המעורר ואפילו להגדיר שהשעון המעורר יצלצל גם כשהטלפון במצב שקט. הסטופר של השעון HTC הוא דרך נהדרת למדידת הקפות בזמן אימון והטיימר הוא כלי שימושי כשרוצים לבשל או לפקח על כמות הזמן שמבלים מול הטלוויזיה.</string>
+    <string name="googleplay_description_legal">[googleplay_description_legal_common_1]</string>
+    <string name="googleplay_description_short">דע מה השעה בכל רגע עם אפליקציית HTC שמכילה סטופר, טיימר, שעון מעורר ושעון עולמי.</string>
+    <string name="googleplay_description_supportingScope"/>
+    <string name="googleplay_title">שעון HTC</string>
+    <string name="googleplay_whatsnew">- השעון המעורר הולך ומתעצם\n- תיקון באגים ושיפורי ביצועים</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="home_settings">הגדר אזור זמן ראשי</string>
+    <string name="hours"><ns1:g id="hours">%s</ns1:g> שעות</string>
+    <string name="htc_private_app_clock">שעון</string>
+    <string name="internal_memory_low">לא נותר כמעט מקום אחסון בטלפון. פנה בבקשה מקום לפני השימוש ביישום</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string name="label_day">יום</string>
+    <string name="label_hour">שעה</string>
+    <string name="label_minute">דקה</string>
+    <string name="label_month">חודש</string>
+    <string name="label_second">שניה</string>
+    <string name="label_year">שנה</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="lap">הקפה</string>
+    <string name="lap_error">ההקפה לא נשמרה</string>
+    <string name="lap_id">הקפה #</string>
+    <string name="lap_time">הקפה זו</string>
+    <string name="lap_title">הקפה</string>
+    <string name="lap_total_time">סיכום</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string name="license_dialog_content">חלק מהסמלים המופיעים בטלפון הזה נוצרו במקור על ידי Google ושונו על ידי HTC במסגרת רישיון <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons License BY4.0</a>.</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="loading_city">טוען רשימת ערים...</string>
+    <string name="location_dialog_msg">כדי לקבל את מזג האוויר המקומי, שנה את הגדרות המיקום שלך למצב חיסכון בסוללה או דיוק גבוה.</string>
+    <string name="location_dialog_title">שירותי המיקום כבויים</string>
+    <string name="location_enable">כדי לצפות במזג אויר מקומי,\nהקש כאן כדי להפעיל שירותי מיקום</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string name="location_unavailable">המיקום אינו זמין</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="lockscreen_hint_dismiss">גרור כלפי מטה כדי לבטל</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string name="ls_doubletap_drag">הקש פעמיים וגרור כדי לכוונן</string>
+    <string name="ls_edit_number_before_calling">לפני שתתקשר, ערוך את המספר</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="ls_no_weather_data_available">אין נתוני מזג אויר זמינים</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string name="ls_open_in_map">פתח במפה</string>
+    <string name="ls_tablet_storage_error">אירעה שגיאה בזכרון מחשב הלוח. אתחל את המכשיר או אתחל פרמט את הזכרון.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string name="masthead_st_am">AM</string>
+    <string name="masthead_st_auto_sync_off">הסנכרון האוטומטי כבוי. הקש כדי להציג את תחזית מזג האוויר.</string>
+    <string name="masthead_st_current_location">מיקום נוכחי</string>
+    <string name="masthead_st_device_only_off">שנה את המצב של שירותי המיקום כדי לקבל תחזית מזג אוויר</string>
+    <string name="masthead_st_location_service_off">כדי לקבל את מזג האוויר הפעל את שירותי המיקום</string>
+    <string name="masthead_st_pm">PM</string>
+    <string name="masthead_st_weather_unavailable">נתוני מזג אוויר אינם זמינים</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string name="menu_crop">חתוך</string>
+    <string name="menu_delete">מחק</string>
+    <string name="menu_properties">פרטים</string>
+    <string name="menu_protect_info">נתוני הגנה</string>
+    <string name="menu_save_to_my_favorite">הגדר כמועדף</string>
+    <string name="menu_send_photo_link_by_email">שתף קישור לתמונה</string>
+    <string name="menu_set_as">הגדר כ</string>
+    <string name="menu_settings">הגדרות</string>
+    <string name="menu_share">שתף</string>
+    <string name="menu_show_on_map">הצג במפה</string>
+    <string name="menu_slideshow">מצגת</string>
+    <string name="menu_view_full">הצג</string>
+    <string name="menu_view_video">הפעל</string>
+    <string name="meun_rotate">סובב</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="minutes">"<ns1:g id="minutes">%s</ns1:g> דקות"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string name="monthly">חודשי</string>
+    <string name="monthly_on_day_count">\"חודשי (כל יום <ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g>)\"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="nextAlarm">השעון המעורר הבא: <ns1:g id="next_alarm_time">%s</ns1:g></string>
+    <string name="night_clock">@string/desk_clock_caption</string>
+    <string name="nn_alarm">שעון מעורר</string>
+    <string name="nn_description">תיאור</string>
+    <string name="nn_music">מוסיקה</string>
+    <string name="nn_ringtone">צלצול</string>
+    <string name="nn_settings">הגדרות</string>
+    <string name="nn_tips_help">טיפים ועזרה</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">שגיאה לא ידועה</string>
+    <string name="no">לא</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="pause">השהה</string>
+    <string name="phone_type_home">בית</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string name="pm">PM</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="query_fail">שגיאה בעת גישה לבסיס הנתונים</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string name="quickselection_share">שתף באמצעות</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="rearrange_city_caption">ערוך רשימה</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string name="refresh">רענן</string>
+    <string name="reminderview_common_unlock_hint_icon">משוך את הסמל למעלה</string>
+    <string name="reminderview_common_unlock_hint_up">משוך למעלה כדי לבטל נעילה</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="reset">אתחל</string>
+    <string name="resume">המשך</string>
+    <string name="ringtone_title">צלצולים</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string msgid="146198913615257606" name="search_menu_title">"חפש"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="select_alert">בחר צליל התראה</string>
+    <string name="select_ringtone">בחר צליל שעון מעורר</string>
+    <string name="set_alarm_caption">הגדר שעון מעורר</string>
+    <string name="snooze">נדנד</string>
+    <string name="snooze_duration_title">משך זמן נדנוד</string>
+    <string name="sound_selection_title">בחר צליל לשעון מעורר מ</string>
+    <string name="space">" "</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">שחרר כדי לרענן</string>
+    <string name="st_action_bar_updating">מעדכן...</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="st_default">ברירת מחדל</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string name="st_draggable_item">פריט ניתן לגרירה</string>
+    <string name="st_loading">טוען...</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="st_more">עוד</string>
+    <string name="st_never">אף פעם</string>
+    <string name="st_off">כבוי</string>
+    <string name="st_on">מופעל</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string name="st_pull_down_refresh">משוך למטה כדי לרענן</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="st_silent">שקט</string>
+    <string name="st_storage_full">זכרון האחסון מלא</string>
+    <string name="start">התחל</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"‎999+‎"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="stop">עצור</string>
+    <string name="stopwatch_caption">שעון עצר</string>
+    <string name="storage_full_description">חסר מקום בזכרון הטלפון. מחק בבקשה חלק מהתוכן ו/או היישומים. לניהול היישומים - הקש \”הגדרות\”.</string>
+    <string name="subminute">"פחות מדקה"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string name="tab_remove_dialog_message">נותרה לך לשונית אחת. להוספת לשוניות ליישום זה, בחר באפשרות \'ערוך לשוניות/מסננים\' בתפריט.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="time_up">הזמן נגמר!</string>
+    <string name="timer_caption">טיימר</string>
+    <string name="timer_reminder_tile_setting">הגדרות</string>
+    <string name="timer_reminder_tile_timer_up">תם הזמן</string>
+    <string name="tm_10_minutes">10 דקות</string>
+    <string name="tm_1_day">יום 1</string>
+    <string name="tm_1_hour">שעה 1</string>
+    <string name="tm_1_minute">דקה 1</string>
+    <string name="tm_30_minutes">30 דקות</string>
+    <string name="tm_am">AM</string>
+    <string name="tm_current">נוכחי</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string name="tm_daily">\"יומי\"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="tm_fri">ו</string>
+    <string name="tm_mon">ב</string>
+    <string name="tm_pm">PM</string>
+    <string name="tm_sat">שבת</string>
+    <string name="tm_sun">א</string>
+    <string name="tm_thu">ה</string>
+    <string name="tm_today">היום</string>
+    <string name="tm_tomorrow">מחר</string>
+    <string name="tm_tue">ג</string>
+    <string name="tm_wed">ד</string>
+    <string name="tm_yesterday">אתמול</string>
+    <string name="total_title">סה\"כ</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">לא ניתן להסיר לשונית זו</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="va_add">הוסף</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string name="va_back">הקודם</string>
+    <string name="va_call">התקשר</string>
+    <string name="va_cancel">ביטול</string>
+    <string name="va_clear">נקה</string>
+    <string name="va_close">סגור</string>
+    <string name="va_copy">העתק</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="va_deselect_all">הסר בחירה מהכל</string>
+    <string name="va_dismiss">התעלם</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string name="va_download">הורד</string>
+    <string name="va_downloading">מוריד</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="va_edit">ערוך</string>
+    <string name="va_edit_tabs">ע.לשוניות</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string name="va_finish">סיים</string>
+    <string name="va_hide">הסתר</string>
+    <string name="va_move_above">הזז למעלה</string>
+    <string name="va_move_below">הזז למטה</string>
+    <string name="va_next">הבא</string>
+    <string name="va_ok">אישור</string>
+    <string name="va_open">פתח</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="va_rearrange">סדר מחדש</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string name="va_reset">אתחל</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="va_select_all">בחר הכל</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string name="va_send_mail">שלח דואר</string>
+    <string name="va_send_message">שלח הודעה</string>
+    <string name="va_show_all">הצג הכל</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="volume_button_setting_summary">בחר את עוצמת הקול של הלחצנים כשלוחצים עליהם בזמן שעון מעורר</string>
+    <string name="volume_button_setting_title">אפשרויות לחצן עוצמת הקול</string>
+    <string name="weather_high_indicator">ג:</string>
+    <string name="weather_low_indicator">נ:</string>
+    <string name="world_clock_caption">שעון עולמי</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string name="yearly_plain">שנתי</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-iw/values-iw.xml -->
+    <eat-comment/>
+    <string name="yes">כן</string>
+</resources>

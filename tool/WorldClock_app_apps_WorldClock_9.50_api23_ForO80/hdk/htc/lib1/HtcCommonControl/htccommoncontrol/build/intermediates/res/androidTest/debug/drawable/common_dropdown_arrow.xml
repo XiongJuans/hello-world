@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true"
+        android:drawable="@drawable/common_dropdown_arrow_press" />        
+    <item android:state_selected="true"
+        android:drawable="@drawable/common_dropdown_arrow_selected" />        
+    <item 
+        android:drawable="@drawable/common_dropdown_arrow_rest" />                
+        
+</selector>
+<!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/androidTest/res/drawable/common_dropdown_arrow.xml -->

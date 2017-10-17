@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-hy/values-hy.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>Փոքր</item><!--Small-->
+        <item>Միջին</item><!--Medium-->
+        <item>Մեծ</item><!--Large-->
+        <item>Գերմեծ</item><!--Extra large-->
+        <item>Ահռելի</item><!--Huge-->
+    </string-array>
+    <string-array name="weeklayout_secondary_text">
+        <item>ԿԻՐ</item><!--SU-->
+        <item>ԵՐԿ</item><!--M-->
+        <item>ԵՐՔ</item><!--TU-->
+        <item>ՉՐՔ</item><!--W-->
+        <item>ՀՆԳ</item><!--TH-->
+        <item>ՈՒՐԲ</item><!--F-->
+        <item>ՇԲԹ</item><!--SA-->
+    </string-array>
+    <string name="accessibility_tap_action">Երկհպեք գործողության համար</string>
+    <string name="add_comments">Հավելել մեկնաբանություն</string>
+    <string name="am">AM</string>
+    <string name="button_hide_caption">Թաքցնել խորագիրը</string>
+    <string name="button_hide_description">Թաքցնել նկարագրությունը</string>
+    <string name="button_show_caption">Ցուցադրել խորագիրը</string>
+    <string name="button_show_description">Ցուցադրել նկարագրությունը</string>
+    <string name="carousel_title">Խմբագրել ներդիրներ</string>
+    <string name="common_string_hint_search_people">Որոնել Մարդկանց</string>
+    <string name="common_string_open_contact">Բացել կոնտակտը</string>
+    <string name="common_string_save_to_existing_contact">Պահել առկա կոնտակտում</string>
+    <string name="common_string_save_to_people">Պահել` Մարդիկ գործադիրում</string>
+    <string name="common_string_share_title">Համօգտագործել`</string>
+    <string name="done">Արված է</string>
+    <string name="label_day">Օր</string>
+    <string name="label_hour">Ժամ</string>
+    <string name="label_minute">Րոպե</string>
+    <string name="label_month">Ամիս</string>
+    <string name="label_second">Վայրկյան</string>
+    <string name="label_year">Տարի</string>
+    <string name="license_dialog_content">Հեռախոսում օգտագործվող որոշ պատկերակներ ստեղծվել են Google-ի կողմից և կերպափոխվել են HTC-ի կողմից՝<a href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons BY4.0 լիցենզիայի</a> շրջանակներում:</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <string name="ls_doubletap_drag">երկհպեք և քաշեք` կարգաբերելու համար</string>
+    <string name="ls_edit_number_before_calling">Խմբագրել համարը նախքան զանգելը</string>
+    <string name="ls_open_in_map">Բացել քարտեզում</string>
+    <string name="ls_tablet_storage_error">Ձեր սալիկի պահեստում սխալ է տեղի ունեցել: Վերասկզբնաբեռնեք Ձեր սարքը կամ ձևաչափեք պահեստը:</string>
+    <string name="menu_crop">Եզրատել</string>
+    <string name="menu_delete">Ջնջել</string>
+    <string name="menu_properties">Մանրամասներ</string>
+    <string name="menu_protect_info">Պաշտպանության տեղեկություն</string>
+    <string name="menu_save_to_my_favorite">Կայել որխես նախապատվելի</string>
+    <string name="menu_send_photo_link_by_email">Համօգտագործել լուսանկարի հղումը</string>
+    <string name="menu_set_as">Կայել որպես</string>
+    <string name="menu_settings">Կարգավորումներ</string>
+    <string name="menu_share">Համօգտագործել</string>
+    <string name="menu_show_on_map">Ցուցադրել քարտեզի վրա</string>
+    <string name="menu_slideshow">Սալիկների ցուցադրում</string>
+    <string name="menu_view_full">Դիտել</string>
+    <string name="menu_view_video">Վերարտադրել</string>
+    <string name="meun_rotate">Պտտել</string>
+    <string name="nn_unknown_error">Անհայտ սխալ</string>
+    <string name="no">Ոչ</string>
+    <string name="pm">PM</string>
+    <string name="quickselection_share">Համօգտագործել`</string>
+    <string name="refresh">Թարմացնել</string>
+    <string name="reminderview_common_unlock_hint_icon">Վեր հրեք պատկերակը</string>
+    <string name="reminderview_common_unlock_hint_up">Սեղնեք վեր` ապակողպելու համար</string>
+    <string name="st_action_bar_pull_down">Բաց թողնել` թարմացնելու համար</string>
+    <string name="st_action_bar_updating">Արդիացում...</string>
+    <string name="st_draggable_item">Տեղափոխելի միավոր</string>
+    <string name="st_loading">Բեռնում...</string>
+    <string name="st_more">Ավելին</string>
+    <string name="st_pull_down_refresh">Սեղմել վար` թարմացնելու համար</string>
+    <string name="tab_remove_dialog_message">Մնացել է մեկ ներդիր: Այս գործադիրի համար լրացուցիչ ներդիրներ հավելելու համար ցանկում ընտրեք Խմբագրել ներդիրներ/Զտիչներ:</string>
+    <string name="unremovable_warning_text">Անհնար է հեռացնել այս ներդիրը</string>
+    <string name="va_back">Հետ</string>
+    <string name="va_call">Կանչ</string>
+    <string name="va_cancel">Չեղարկել</string>
+    <string name="va_clear">Մաքրել</string>
+    <string name="va_close">Փակել</string>
+    <string name="va_copy">Պատճենել</string>
+    <string name="va_download">Ներբեռնել</string>
+    <string name="va_downloading">Ներբեռնում</string>
+    <string name="va_finish">Ավարտել</string>
+    <string name="va_hide">Թաքցնել</string>
+    <string name="va_move_above">Տեղափոխել վեր</string>
+    <string name="va_move_below">Տեղափոխել ստորև</string>
+    <string name="va_next">Հաջորդը</string>
+    <string name="va_ok">Լավ</string>
+    <string name="va_open">Բացել</string>
+    <string name="va_reset">Վերակայել</string>
+    <string name="va_send_mail">Ուղարկել փոստ</string>
+    <string name="va_send_message">Ուղարկել ուղերձ</string>
+    <string name="va_show_all">Ցուցադրել բոլորը</string>
+    <string name="yes">Այո</string>
+</resources>

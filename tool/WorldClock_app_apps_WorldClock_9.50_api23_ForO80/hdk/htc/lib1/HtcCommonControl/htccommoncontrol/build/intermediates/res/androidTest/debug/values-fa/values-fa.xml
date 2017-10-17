@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-fa/values-fa.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>کوچک</item><!--Small-->
+        <item>متوسط</item><!--Medium-->
+        <item>بزرگ</item><!--Large-->
+        <item>فوق العاده بزرگ</item><!--Extra large-->
+        <item>عظیم</item><!--Huge-->
+    </string-array>
+    <string-array name="weeklayout_secondary_text">
+        <item>ی</item><!--SU-->
+        <item>د</item><!--M-->
+        <item>س</item><!--TU-->
+        <item>چ</item><!--W-->
+        <item>پ</item><!--TH-->
+        <item>ج</item><!--F-->
+        <item>ش</item><!--SA-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-fa/values-fa.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"پیمایش به صفحه اصلی"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"‏%1$s‏، %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"‏%1$s‏، %2$s‏، %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"پیمایش به بالا"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"گزینه‌های بیشتر"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"انجام شد"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"مشاهده همه"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"انتخاب برنامه"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"جستجو…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"پاک کردن عبارت جستجو"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"عبارت جستجو"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"جستجو"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"ارسال عبارت جستجو"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"جستجوی شفاهی"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"اشتراک‌گذاری با"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"‏اشتراک‌گذاری با %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"کوچک کردن"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-fa/values-fa.xml -->
+    <eat-comment/>
+    <string name="accessibility_tap_action">برای فعال شدن دو بار ضربه بزنید</string>
+    <string name="add_comments">افزودن توضیح</string>
+    <string name="am">صبح</string>
+    <string name="button_hide_caption">مخفي كردن عنوان</string>
+    <string name="button_hide_description">مخفي كردن شرح</string>
+    <string name="button_show_caption">نشان دادن عنوان</string>
+    <string name="button_show_description">نمایش شرح</string>
+    <string name="carousel_title">ويرايش زبانه ها</string>
+    <string name="common_string_hint_search_people">جستجوي افراد</string>
+    <string name="common_string_open_contact">بازكردن اطلاعات مخاطب</string>
+    <string name="common_string_save_to_existing_contact">ذخيره روي مخاطب موجود</string>
+    <string name="common_string_save_to_people">ذخيره روي افراد</string>
+    <string name="common_string_share_title">اشتراك گذاشتن از طريق</string>
+    <string name="done">انجام شد</string>
+    <string name="label_day">روز</string>
+    <string name="label_hour">ساعت</string>
+    <string name="label_minute">دقيقه</string>
+    <string name="label_month">ماه</string>
+    <string name="label_second">ثانيه</string>
+    <string name="label_year">سال</string>
+    <string name="license_dialog_content">بعضی از نمادهای به کار رفته در این تلفن در اصل برای Google طراحی شده اند و تحت مجوز <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons License BY4.0</a> توسط HTC اصلاح شده اند.</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <string name="ls_doubletap_drag">دو ضربه و کشیدن برای تنظیم</string>
+    <string name="ls_edit_number_before_calling">ويرايش شماره قبل از برقراري تماس</string>
+    <string name="ls_open_in_map">باز کردن در نقشه</string>
+    <string name="ls_tablet_storage_error">خطايي در حافظه تبلت شما اتفاق افتاده است. لطفا وسيله خود را دوباره راه اندازي كنيد يا حافظه را فرمت نماييد.</string>
+    <string name="menu_crop">برش</string>
+    <string name="menu_delete">حذف</string>
+    <string name="menu_properties">جزييات</string>
+    <string name="menu_protect_info">اطلاعات پشتيباني</string>
+    <string name="menu_save_to_my_favorite">تعيين به عنوان برگزيده</string>
+    <string name="menu_send_photo_link_by_email">اشتراك پيوند عکس</string>
+    <string name="menu_set_as">تعيين به عنوان</string>
+    <string name="menu_settings">تنظیمات</string>
+    <string name="menu_share">اشتراك گذاشتن</string>
+    <string name="menu_show_on_map">نشان دادن روي نقشه</string>
+    <string name="menu_slideshow">نمايش اسلايد</string>
+    <string name="menu_view_full">مشاهده</string>
+    <string name="menu_view_video">پخش</string>
+    <string name="meun_rotate">چرخش</string>
+    <string name="nn_unknown_error">خطاي نامعلوم</string>
+    <string name="no">خير</string>
+    <string name="pm">بعدازظهر</string>
+    <string name="quickselection_share">اشتراك گذاشتن از طريق</string>
+    <string name="refresh">بازآوری</string>
+    <string name="reminderview_common_unlock_hint_icon">نماد را به سمت بالا بکشید</string>
+    <string name="reminderview_common_unlock_hint_up">بالا بکشید تا قفل باز شود</string>
+    <string name="st_action_bar_pull_down">آزاد کنید تا بازآوری شود</string>
+    <string name="st_action_bar_updating">درحال به روزرساني...</string>
+    <string name="st_draggable_item">شی کشیدنی</string>
+    <string name="st_loading">در حال بارگذاري...</string>
+    <string name="st_more">بيشتر</string>
+    <string name="st_pull_down_refresh">برای بازآوری به پایین بکشید</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-fa/values-fa.xml -->
+    <eat-comment/>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"۹۹۹+"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-fa/values-fa.xml -->
+    <eat-comment/>
+    <string name="tab_remove_dialog_message">تنها یک زبانه باقی مانده است. برای افزودن زبانه های دیگر برای این برنامه کاربردی، گزینه ویرایش زبانه ها/فیلترها در منو را انتخاب کنید.</string>
+    <string name="unremovable_warning_text">حذف این زبانه ممکن نیست</string>
+    <string name="va_back">برگشت</string>
+    <string name="va_call">تماس</string>
+    <string name="va_cancel">لغو</string>
+    <string name="va_clear">پاك كردن</string>
+    <string name="va_close">بستن</string>
+    <string name="va_copy">کپی</string>
+    <string name="va_download">دریافت </string>
+    <string name="va_downloading">درحال دریافت </string>
+    <string name="va_finish">پايان</string>
+    <string name="va_hide">مخفي</string>
+    <string name="va_move_above">انتقال به بالا</string>
+    <string name="va_move_below">انتقال به زیر</string>
+    <string name="va_next">بعدي</string>
+    <string name="va_ok">قبول</string>
+    <string name="va_open">بازكردن</string>
+    <string name="va_reset">تنظيم مجدد</string>
+    <string name="va_send_mail">ارسال پست</string>
+    <string name="va_send_message">ارسال پيام</string>
+    <string name="va_show_all">نمایش همه</string>
+    <string name="yes">بله</string>
+</resources>

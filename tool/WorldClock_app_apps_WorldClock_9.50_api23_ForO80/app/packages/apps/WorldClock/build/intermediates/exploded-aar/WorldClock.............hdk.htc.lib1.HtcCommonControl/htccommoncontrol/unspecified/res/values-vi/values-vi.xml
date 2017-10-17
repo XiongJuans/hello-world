@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-vi/strings.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>Nhỏ</item><!--Small-->
+        <item>Trung bình</item><!--Medium-->
+        <item>Lớn</item><!--Large-->
+        <item>Quá lớn</item><!--Extra large-->
+        <item>Rất lớn</item><!--Huge-->
+    </string-array>
+    <string-array name="weeklayout_secondary_text">
+        <item>CN</item><!--SU-->
+        <item>T2</item><!--M-->
+        <item>T3</item><!--TU-->
+        <item>T4</item><!--W-->
+        <item>T5</item><!--TH-->
+        <item>T6</item><!--F-->
+        <item>T7</item><!--SA-->
+    </string-array>
+    <string name="accessibility_tap_action">Nhấp chọn 2 lần để thực hiện hành động</string>
+    <string name="add_comments">Thêm bình luận</string>
+    <string name="am">SA</string>
+    <string name="button_hide_caption">Ẩn chú thích</string>
+    <string name="button_hide_description">Ẩn mô tả</string>
+    <string name="button_show_caption">Hiện chú thích</string>
+    <string name="button_show_description">Hiện mô tả</string>
+    <string name="carousel_title">Chỉnh sửa các tab</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-vi/htc_strings.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">Tìm số liên lạc</string>
+    <string name="common_string_open_contact">Mở số liên lạc̣</string>
+    <string name="common_string_save_to_existing_contact">Lưu vào số liên lạc đã có</string>
+    <string name="common_string_save_to_people">Lưu vào Danh Bạ</string>
+    <string name="common_string_share_title">Chia sẻ qua</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-vi/strings.xml -->
+    <eat-comment/>
+    <string name="done">Hoàn tất</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-vi/htc_strings.xml -->
+    <eat-comment/>
+    <string name="label_day">Ngày</string>
+    <string name="label_hour">Giờ</string>
+    <string name="label_minute">Phút</string>
+    <string name="label_month">Tháng</string>
+    <string name="label_second">Giây</string>
+    <string name="label_year">Năm</string>
+    <string name="license_dialog_content">Một số biểu tượng sử dụng trên điện thoại này ban đầu được thiết kế bởi Google và sửa đổi bởi HTC theo <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Giấy phép Tài sản Sáng tạo Công Cộng Ghi nhận công của tác giả 4.0</a>.</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <string name="ls_doubletap_drag">chạm hai lần và kéo để điều chỉnh</string>
+    <string name="ls_edit_number_before_calling">Sửa số trước khi gọI</string>
+    <string name="ls_open_in_map">Mở trong bản đồ</string>
+    <string name="ls_tablet_storage_error">Đã xảy ra lỗi trên bộ nhớ máy tính bảng của bạn. Hãy khởi động lại thiết bị của bạn hoặc định dạng lại bộ nhớ.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-vi/strings.xml -->
+    <eat-comment/>
+    <string name="menu_crop">Cắt</string>
+    <string name="menu_delete">Xóa</string>
+    <string name="menu_properties">Chi tiết</string>
+    <string name="menu_protect_info">Thông tin bảo vệ</string>
+    <string name="menu_save_to_my_favorite">Cài làm yêu thích</string>
+    <string name="menu_send_photo_link_by_email">Chia sẻ link ảnh</string>
+    <string name="menu_set_as">Cài làm</string>
+    <string name="menu_settings">Cài đặt</string>
+    <string name="menu_share">Chia sẻ</string>
+    <string name="menu_show_on_map">Hiển thị trên bản đồ</string>
+    <string name="menu_slideshow">Slide trình chiếu</string>
+    <string name="menu_view_full">Xem</string>
+    <string name="menu_view_video">Phát</string>
+    <string name="meun_rotate">Xoay</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-vi/htc_strings.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">Lỗi không xác định</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-vi/strings.xml -->
+    <eat-comment/>
+    <string name="no">Không</string>
+    <string name="pm">CH</string>
+    <string name="quickselection_share">Chia sẻ qua</string>
+    <string name="refresh">Cập nhật mới</string>
+    <string name="reminderview_common_unlock_hint_icon">Kéo biểu tượng lên</string>
+    <string name="reminderview_common_unlock_hint_up">Kéo lên để mở khóa</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-vi/htc_strings.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">Nhả để làm mới</string>
+    <string name="st_action_bar_updating">Đang cập nhật...</string>
+    <string name="st_draggable_item">Mục kéo thả được</string>
+    <string name="st_loading">Đang tải...</string>
+    <string name="st_more">Thêm nữa</string>
+    <string name="st_pull_down_refresh">Kéo xuống để cập nhật mới</string>
+    <string name="tab_remove_dialog_message">Bạn còn lại một tab. Để thêm tab cho ứng dụng này, chọn tab Chỉnh sửa/Lọc lại trên menu.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-vi/strings.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">Không thể gỡ bỏ tab này</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-vi/htc_strings.xml -->
+    <eat-comment/>
+    <string name="va_back">Quay lại</string>
+    <string name="va_call">Gọi</string>
+    <string name="va_cancel">Hủy</string>
+    <string name="va_clear">Xóa</string>
+    <string name="va_close">Đóng</string>
+    <string name="va_copy">Sao chép</string>
+    <string name="va_download">Tải</string>
+    <string name="va_downloading">Đang tải...</string>
+    <string name="va_finish">Hoàn tất</string>
+    <string name="va_hide">Ẩn đi</string>
+    <string name="va_move_above">Chuyển lên trên</string>
+    <string name="va_move_below">Chuyển xuống dưới</string>
+    <string name="va_next">Tiếp tục</string>
+    <string name="va_ok">OK</string>
+    <string name="va_open">Mở</string>
+    <string name="va_reset">Cài lại</string>
+    <string name="va_send_mail">Gửi mail</string>
+    <string name="va_send_message">Gửi tin nhắn</string>
+    <string name="va_show_all">Hiển thị tất cả</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-vi/strings.xml -->
+    <eat-comment/>
+    <string name="yes">Đồng ý</string>
+</resources>

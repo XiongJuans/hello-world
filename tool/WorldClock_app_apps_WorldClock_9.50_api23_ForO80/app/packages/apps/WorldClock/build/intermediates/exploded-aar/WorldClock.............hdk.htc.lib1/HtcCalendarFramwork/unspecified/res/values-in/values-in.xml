@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-in/arrays.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>pada tiap Jumat pertama</item><!--on every first Friday-->
+        <item>pada tiap Jumat kedua</item><!--on every second Friday-->
+        <item>pada tiap Jumat ketiga</item><!--on every third Friday-->
+        <item>pada tiap Jumat keempat</item><!--on every fourth Friday-->
+        <item>pada tiap Jumat terakhir</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>pada tiap Senin pertama</item><!--on every first Monday-->
+        <item>pada tiap Senin kedua</item><!--on every second Monday-->
+        <item>pada tiap Senin ketiga</item><!--on every third Monday-->
+        <item>pada tiap Senin keempat</item><!--on every fourth Monday-->
+        <item>pada tiap Senin terakhir</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>pada tiap Sabtu pertama</item><!--on every first Saturday-->
+        <item>pada tiap Sabtu kedua</item><!--on every second Saturday-->
+        <item>pada tiap Sabtu ketiga</item><!--on every third Saturday-->
+        <item>pada tiap Sabtu keempat</item><!--on every fourth Saturday-->
+        <item>pada tiap Sabtu terakhir</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>pada tiap hari Minggu pertama</item><!--on every first Sunday-->
+        <item>pada tiap hari Minggu kedua</item><!--on every second Sunday-->
+        <item>pada tiap hari Minggu ketiga</item><!--on every third Sunday-->
+        <item>pada tiap hari Minggu keempat</item><!--on every fourth Sunday-->
+        <item>pada tiap hari Minggu terakhir</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>pada tiap Kamis pertama</item><!--on every first Thursday-->
+        <item>pada tiap Kamis kedua</item><!--on every second Thursday-->
+        <item>pada tiap Kamis ketiga</item><!--on every third Thursday-->
+        <item>pada tiap Kamis keempat</item><!--on every fourth Thursday-->
+        <item>pada tiap Kamis terakhir</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>pada tiap Selasa pertama</item><!--on every first Tuesday-->
+        <item>pada tiap Selasa kedua</item><!--on every second Tuesday-->
+        <item>pada tiap Selasa ketiga</item><!--on every third Tuesday-->
+        <item>pada tiap Selasa keempat</item><!--on every fourth Tuesday-->
+        <item>pada tiap Selasa terakhir</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>pada tiap Rabu pertama</item><!--on every first Wednesday-->
+        <item>pada tiap Rabu kedua</item><!--on every second Wednesday-->
+        <item>pada tiap Rabu ketiga</item><!--on every third Wednesday-->
+        <item>pada tiap Rabu keempat</item><!--on every fourth Wednesday-->
+        <item>pada tiap Rabu terakhir</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-in/strings.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">satu kali</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> kali</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Tiap <ns1:g id="count">%d</ns1:g> hari</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Tiap <ns1:g id="count">%d</ns1:g> hari</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Tiap <ns1:g id="count">%d</ns1:g> bln</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Tiap <ns1:g id="count">%d</ns1:g> bln</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Tiap <ns1:g id="count">%d</ns1:g> mggu</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Tiap <ns1:g id="count">%d</ns1:g> mggu</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Tiap <ns1:g id="count">%d</ns1:g> th</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Tiap <ns1:g id="count">%d</ns1:g> th</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">Mingguan pada <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other">Setiap <ns1:g id="number">%1$d</ns1:g> minggu pada <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <string name="every_weekday">"Setiap hari kerja (Sen–Jum)"</string>
+    <string name="monthly">"Bulanan"</string>
+    <string name="monthly_on_day_count">"Bulanan (Setiap <ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g>)"</string>
+    <string name="tm_daily">"Harian"</string>
+    <string name="yearly_plain">Tahunan</string>
+</resources>

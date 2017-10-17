@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values-ms/strings.xml -->
+    <eat-comment/>
+    <string name="location_unavailable">Lokasi tidak tersedia</string>
+    <string name="masthead_st_am">AM</string>
+    <string name="masthead_st_auto_sync_off">Penyegerakan auto dimatikan. Ketik untuk melihat cuaca.</string>
+    <string name="masthead_st_current_location">Lokasi semasa</string>
+    <string name="masthead_st_device_only_off">Ubah mod perkhidmatan lokasi untuk mendapatkan cuaca</string>
+    <string name="masthead_st_location_service_off">Hidupkan perkhidmatan lokasi untuk mendapatkan cuaca</string>
+    <string name="masthead_st_pm">PM</string>
+    <string name="masthead_st_weather_unavailable">Cuaca tidak tersedia</string>
+</resources>

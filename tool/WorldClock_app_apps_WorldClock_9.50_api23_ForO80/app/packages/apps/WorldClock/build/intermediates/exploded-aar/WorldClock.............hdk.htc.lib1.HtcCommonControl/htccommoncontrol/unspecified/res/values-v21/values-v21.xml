@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/skinstyle_actionbar.xml -->
+    <eat-comment/>
+    <style name="ActionBarWidgetTheme">
+        <item name="android:dropDownListViewStyle">@style/HtcWidget.ListView.DropDown.ActionBar</item>
+        <item name="android:listPreferredItemHeightSmall">@dimen/htc_list_item_height_popup_menu</item>
+        <item name="android:popupMenuStyle">@style/HtcWidget.PopupMenu.ActionBar</item>
+        <item name="android:listPopupWindowStyle">@style/HtcWidget.ListPopupWindow.ActionBar</item>
+        <item name="android:textAppearanceLargePopupMenu">@style/darklist_primary_s</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/dontusethemes_dark.xml -->
+    <eat-comment/>
+    <style name="AlertDialogDarkDonUse">
+        <!-- skinable attribute -->
+        <item name="android:fullDark">@drawable/common_dialogbox_full_dark</item>
+        <!-- skinable attribute -->
+        <item name="android:topDark">@drawable/common_dialogbox_top_dark</item>
+        <!-- skinable attribute -->
+        <item name="android:centerDark">@drawable/common_dialogbox_center_dark</item>
+        <!-- skinable attribute -->
+        <item name="android:bottomDark">@drawable/common_dialogbox_bottom_dark</item>
+        <!-- skinable attribute -->
+        <item name="android:bottomMedium">@drawable/common_dialogbox_bottom_medium_dark</item>
+        <item name="android:centerBright">@drawable/common_dialogbox_center_dark</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/dontusethemes.xml -->
+    <eat-comment/>
+    <style name="AlertDialogDevelopDontUse">
+        <!-- skinable attribute -->
+        <item name="android:fullDark">@drawable/common_dialogbox_full_dark</item>
+        <!-- skinable attribute -->
+        <item name="android:topDark">@drawable/common_dialogbox_top_dark</item>
+        <!-- skinable attribute -->
+        <item name="android:bottomDark">@drawable/common_dialogbox_bottom_dark</item>
+        <!-- skinable attribute -->
+        <item name="android:fullBright">@drawable/common_dialogbox_full_bright</item>
+        <!-- skinable attribute -->
+        <item name="android:topBright">@drawable/common_dialogbox_top_bright</item>
+        <!-- skinable attribute -->
+        <item name="android:centerBright">@drawable/common_dialogbox_center_bright</item>
+        <!-- skinable attribute -->
+        <item name="android:bottomBright">@drawable/common_dialogbox_bottom_bright</item>
+        <!-- skinable attribute -->
+        <item name="android:bottomMedium">@drawable/common_dialogbox_bottom_medium</item>
+        <!-- skinable attribute -->
+        <item name="android:centerDark">@drawable/common_dialogbox_center_bright</item>
+    </style>
+    <style name="DevelopDontUsePreferencePanel"/>
+    <style name="DevelopDontUsePreferencePanel.Dialog">
+        <item name="android:layout_marginLeft">0dip</item>
+        <item name="android:layout_marginRight">0dip</item>
+        <item name="android:layout_marginTop">0dip</item>
+        <item name="android:layout_marginBottom">0dip</item>
+        <item name="android:background">@null</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/themes.xml -->
+    <eat-comment/>
+    <style name="DialogTitle">
+       <item name="android:maxLines">1</item>
+       <item name="android:textAppearance">@style/title_primary_m</item>
+       <item name="android:scrollHorizontally">false</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/skinstyle_progressbar_seekbar.xml -->
+    <eat-comment/>
+    <style name="HTCProgressBarStyle.Indeterminate.ActionBar">
+        <item name="displayMode">mode_light</item>
+        <!-- skinable attribute -->
+        <item name="android:indeterminateDrawable">@drawable/htcprogress_actionbar</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/themes.xml -->
+    <eat-comment/>
+    <style name="HtcDeviceDefault" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- HTC theme type -->
+        <item name="backgroundMode">light</item>
+        <!-- HTC alert dialog style -->
+        <item name="htcAlertDialogStyle">@style/AlertDialog</item>
+        <!-- HTC Date/Time Picker Style -->
+        <item name="dateTimePickerStyle">@style/HtcDateTimePicker</item>
+        <!-- Default popup and listPopup style -->
+        <item name="popupBubbleWindowStyle">@style/HtcWidget.PopupBubbleWindow</item>
+        <item name="listPopupBubbleWindowStyle">@style/HtcWidget.ListPopupBubbleWindow</item>
+        <item name="dropDownExpandableListViewStyle">@style/HtcWidget.ExpandableListView.DropDown</item>
+        <item name="htcDropDownListViewStyle">@style/HtcWidget.ListView.DropDown</item>
+        <!-- Default ListItem style -->
+        <item name="htcListItemStyle">@style/htcListItem</item>
+        <!-- TabBar -->
+        <item name="tabbarStyle">@style/HtcTabBar</item>
+        <item name="tabReorderStyle">@style/TabReorder.Light</item>
+        <!-- HtcReorderListView -->
+        <item name="htcReorderListViewStyle">@style/HtcReorderListViewStyle</item>
+        <!-- QuickContactBadge -->
+        <item name="quickContactBadgeStyle">@style/QuickContactBadgeStyle</item>
+        <!-- HtcListItemSeparator -->
+        <item name="htcListItemSeparatorStyle">@style/HtcListItemSeparatorStyle</item>
+        <!-- HtcAutoCompleteTextView -->
+        <item name="htcAutoCompleteTextViewStyle">@style/htcAutoCompleteTextViewStyleDefault</item>
+        <!-- HtcEditText -->
+        <item name="htcEditTextStyle">@style/htcEditTextStyleDefault</item>
+        <!-- Footer -->
+        <item name="footerStyle">@style/FooterBarStyle</item>
+        <item name="footerButtonStyle">@style/FooterBarButtonStyle</item>
+        <!-- HtcProgressBar -->
+        <item name="htcProgressBarStyle">@style/HTCProgressBarStyle</item>
+        <item name="htcProgressBarStyleIndeterminate">@style/HTCProgressBarStyle.Indeterminate</item>
+        <item name="htcProgressBarStyleIndeterminateSmall">@style/HTCProgressBarStyle.Indeterminate.Small</item>
+        <item name="htcProgressBarStyleHorizontalFull">@style/HTCProgressBarStyle.Full</item>
+        <!-- HtcSeekBar -->
+        <item name="htcSeekBarStyle">@style/HTCSeekBarStyle</item>
+        <!-- HtcPopupContainer -->
+        <item name="htcPopupContainerStyle">@style/HTCPopupContainerStyle</item>
+        <!-- HtcListView -->
+        <item name="htcListViewStyle">@style/HtcListView</item>
+        <!-- overlay color -->
+        <item name="category_color">@color/category_color</item>
+        <item name="light_category_color">@color/light_category_color</item>
+        <item name="dark_category_color">@color/dark_category_color</item>
+        <item name="text_selection_opacity_color">@color/text_selection_opacity_color</item>
+        <item name="text_selection_color">@color/text_selection_color</item>
+        <item name="progress_track_start_color">@color/progress_track_start_color</item>
+        <item name="progress_track_center_color">@color/progress_track_center_color</item>
+        <item name="progress_track_end_color">@color/progress_track_end_color</item>
+        <item name="multiply_color">@color/multiply_color</item>
+        <item name="all_hyperlink_color">@color/all_hyperlink_color</item>
+        <item name="overlay_color">@color/overlay_color</item>
+        <item name="light_primaryfont_color">@color/light_primaryfont_color</item>
+        <item name="light_primaryfont_disable_color">@color/light_primaryfont_disable_color</item>
+        <item name="light_secondaryfont_color">@color/light_secondaryfont_color</item>
+        <item name="dark_primaryfont_color">@color/dark_primaryfont_color</item>
+        <item name="dark_primaryfont_disable_color">@color/dark_primaryfont_disable_color</item>
+        <item name="dark_secondaryfont_color">@color/dark_secondaryfont_color</item>
+        <item name="tabfont_color">@color/tabfont_color</item>
+        <item name="light_separatorfont_color">@color/light_separatorfont_color</item>
+        <item name="list_item_bg_center_color">@color/list_item_bg_center_color</item>
+        <item name="list_item_bg_top_color">@color/list_item_bg_top_color</item>
+        <item name="list_item_bg_bottom_color">@color/list_item_bg_bottom_color</item>
+        <item name="highlight_color">@color/highlight_color</item>
+        <item name="ap_background_color">@color/ap_background_color</item>
+        <item name="dark_ap_background_color">@color/dark_ap_background_color</item>
+        <item name="focused_color">@color/focused_color</item>
+        <item name="standard_color">@color/standard_color</item>
+        <item name="active_color">@color/active_color</item>
+        <!-- add for sense60 start -->
+        <item name="htcListItemSerialNumberStyle">@style/HtcListItemSerialNumber</item>
+        <!-- add for sense60 end -->
+        <!-- HtcIndicatorButton-->
+        <item name="htcIndicatorButtonStyle">@style/HtcIndicatorButton.Light</item>
+        <!-- Action bar styles start-->
+        <item name="htcActionBarProgressBarStyle">@style/HTCProgressBarStyle.Indeterminate.ActionBar</item>
+        <item name="actionBarSearchStyle">@style/ActionBarSearch</item>
+        <item name="actionBarRefreshStyle">@style/ActionBarRefresh</item>
+        <item name="actionBarDropDownStyle">@style/ActionBarDropDown</item>
+        <item name="htcActionBarStyle">@style/HtcActionBar</item>
+        <item name="android:actionBarSize">@dimen/ab_height</item>
+        <item name="android:actionBarStyle">@style/HtcWidget.ActionBar</item>
+        <item name="android:actionModeStyle">@style/HtcWidget.ActionMode</item>
+        <item name="android:actionBarWidgetTheme">@style/ActionBarWidgetTheme</item>
+        <item name="android:actionModeCloseButtonStyle">@style/HtcWidget.ActionButton.CloseMode</item>
+        <item name="android:actionModeCloseDrawable">@drawable/icon_btn_done_dark</item>
+        <item name="android:actionOverflowButtonStyle">@style/HtcWidget.ActionButton.Overflow</item>
+        <item name="android:actionButtonStyle">@style/HtcWidget.ActionButton</item>
+        <item name="android:actionBarDivider">@null</item>
+        <item name="android:actionOverflowMenuStyle">@style/HtcWidget.PopupMenu.Overflow</item>
+        <item name="android:actionBarPopupTheme">@style/ActionBarWidgetTheme</item>
+        <item name="android:actionModeBackground">?attr/multiply_color</item>
+        <item name="android:actionModeSplitBackground">?attr/multiply_color</item>
+        <item name="android:actionBarItemBackground">@drawable/actionbar_item_background</item>
+        <item name="android:actionBarTheme">@android:style/ThemeOverlay.Material.Dark.ActionBar</item>
+        <item name="htcActionButtonStyle">@style/HtcActionButton</item>
+        <!-- Action bar styles  end-->
+        <item name="android:expandableListViewStyle">@style/HtcListView</item>
+        <item name="android:listViewStyle">@style/HtcListView</item>
+        <item name="android:dropDownListViewStyle">@style/HtcListView</item>
+        <item name="android:textColorHighlight">@color/text_selection_color</item>
+        <item name="android:textColorHighlightInverse">@color/text_selection_color</item>
+        <item name="android:dividerHorizontal">@drawable/common_b_div_land</item>
+        <item name="android:dividerVertical">@drawable/common_b_div</item>
+        <item name="android:fastScrollPreviewBackgroundRight">@drawable/common_dialogbox_full_dark</item>
+        <item name="android:fastScrollThumbDrawable">@drawable/common_scroller_grip</item>
+        <item name="android:fastScrollTrackDrawable">@null</item>
+        <item name="android:fastScrollOverlayPosition">floating</item>
+        <item name="themeTexture">@style/ThemeTexture</item>
+        <item name="android:dialogTheme">@style/HtcDeviceDefault.Dialog</item>
+        <item name="android:alertDialogTheme">@style/HtcDeviceDefault.Dialog.Alert</item>
+        <item name="htcSwitchStyle">@style/HtcSwitch.Light</item>
+        <item name="android:spinnerStyle">@style/HtcWidget.SpinnerStyle</item>
+        <item name="htcDrawerStyle">@style/HtcDrawer</item>
+        <!-- To avoid PhoneWindow clip windowBackground outline,that conflict with HTC theme arch -->
+        <item name="android:windowClipToOutline">false</item>
+        <!-- To avoid PhoneWindow extend window size, that conflict with HTC Theme texture arch -->
+        <item name="android:windowDrawsSystemBarBackgrounds">false</item>
+        <item name="android:scrollbarThumbHorizontal">@drawable/common_scroller</item>
+        <item name="android:scrollbarThumbVertical">@drawable/common_scroller</item>
+        <item name="htcEmptyViewStyle">@style/HtcEmptyView.Light</item>
+        <item name="htcRailingLayoutStyle">@style/HtcRailingLayout.Light</item>
+        <item name="htcShareViaStyle">@style/HtcShareVia.Light</item>
+        <item name="htcShareActivityTheme">@style/HtcDeviceDefault</item>
+        <!-- add for V7 start -->
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:windowActionBar">true</item>
+        <!-- add for V7 end -->
+        <!-- HtcGridView -->
+        <item name="android:gridViewStyle">@style/HtcGridView</item>
+        <item name="htcGridItemStyle">@style/HtcGridItemStyle</item>
+        <item name="htcRecipientBlock">@style/HtcRecipientBlockStyle</item>
+        <item name="htcWizardActivityStyle">@style/HtcWizardActivityStyle</item>
+        <item name="htcButtonWizardActivityStyle">@style/HtcButtonWizardActivityStyle</item>
+        <item name="htcRadioListWizardActivityStyle">@style/HtcRadioListWizardActivityStyle</item>
+        <item name="android:preferenceStyle">@style/Preference.DevelopDontUse</item>
+        <item name="android:preferenceInformationStyle">@style/Preference.DevelopDontUse.Information</item>
+        <item name="android:preferenceCategoryStyle">@style/Preference.DevelopDontUse.Category</item>
+        <item name="android:checkBoxPreferenceStyle">@style/Preference.DevelopDontUse.CheckBoxPreference</item>
+        <item name="android:yesNoPreferenceStyle">@style/Preference.DevelopDontUse.DialogPreference.YesNoPreference</item>
+        <item name="android:editTextPreferenceStyle">@style/Preference.DevelopDontUse.DialogPreference.EditTextPreference</item>
+        <item name="android:preferenceScreenStyle">@style/Preference.DevelopDontUse.PreferenceScreen</item>
+        <item name="android:dialogPreferenceStyle">@style/Preference.DevelopDontUse.DialogPreference</item>
+        <item name="android:ringtonePreferenceStyle">@style/Preference.DevelopDontUse.RingtonePreference</item>
+        <item name="android:switchPreferenceStyle">@style/Preference.DevelopDontUse.SwitchPreference</item>
+        <item name="android:preferenceLayoutChild">@layout/preference_child</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/themes_dark.xml -->
+    <eat-comment/>
+    <style name="HtcDeviceDefault.Dark" parent="Theme.AppCompat">
+        <!-- HTC theme type -->
+        <item name="backgroundMode">dark</item>
+        <!-- HTC alert dialog style -->
+        <item name="htcAlertDialogStyle">@style/AlertDialog.Dark</item>
+        <!-- HTC Button Style -->
+        <item name="htcButtonStyle">@style/HtcButton</item>
+        <item name="htcProgressButtonStyle">@style/HtcProgressButton</item>
+        <!-- HTC Date/Time Picker Style -->
+        <item name="dateTimePickerStyle">@style/HtcDateTimePicker</item>
+        <!-- Default popup and listPopup style -->
+        <item name="popupBubbleWindowStyle">@style/HtcWidget.PopupBubbleWindow</item>
+        <item name="listPopupBubbleWindowStyle">@style/HtcWidget.ListPopupBubbleWindow</item>
+        <item name="dropDownExpandableListViewStyle">@style/HtcWidget.ExpandableListView.DropDown</item>
+        <item name="htcDropDownListViewStyle">@style/HtcWidget.ListView.DropDown</item>
+        <!-- Default ListItem style -->
+        <item name="htcListItemStyle">@style/htcListItem.Dark</item>
+        <!-- TabBar -->
+        <item name="tabbarStyle">@style/HtcTabBar</item>
+        <item name="tabReorderStyle">@style/TabReorder</item>
+        <!-- HtcReorderListView -->
+        <item name="htcReorderListViewStyle">@style/HtcReorderListViewStyle.Dark</item>
+        <!-- QuickContactBadge -->
+        <item name="quickContactBadgeStyle">@style/QuickContactBadgeStyle</item>
+        <!-- HtcListItemSeparator -->
+        <item name="htcListItemSeparatorStyle">@style/HtcListItemSeparatorStyle.Dark</item>
+        <!-- HtcAutoCompleteTextView -->
+        <item name="htcAutoCompleteTextViewStyle">@style/htcAutoCompleteTextViewStyleDefault.Dark</item>
+        <!-- HtcEditText -->
+        <item name="htcEditTextStyle">@style/htcEditTextStyleDefault.Dark</item>
+        <!-- Footer -->
+        <item name="footerStyle">@style/FooterBarStyle.Dark</item>
+        <item name="footerButtonStyle">@style/FooterBarButtonStyle.Dark</item>
+        <!-- HtcProgressBar -->
+        <item name="htcProgressBarStyle">@style/HTCProgressBarStyle.Dark</item>
+        <item name="htcProgressBarStyleIndeterminate">@style/HTCProgressBarStyle.Indeterminate.Dark</item>
+        <item name="htcProgressBarStyleIndeterminateSmall">@style/HTCProgressBarStyle.Indeterminate.Small.Dark</item>
+        <item name="htcProgressBarStyleHorizontalFull">@style/HTCProgressBarStyle.Full</item>
+        <!-- HtcSeekBar -->
+        <item name="htcSeekBarStyle">@style/HTCSeekBarStyle.Dark</item>
+        <!-- HtcPopupContainer -->
+        <item name="htcPopupContainerStyle">@style/HTCPopupContainerStyle</item>
+        <!-- HtcListView -->
+        <item name="htcListViewStyle">@style/HtcListView.Dark</item>
+        <!-- overlay color -->
+        <item name="category_color">@color/category_color</item>
+        <item name="light_category_color">@color/light_category_color</item>
+        <item name="dark_category_color">@color/dark_category_color</item>
+        <item name="text_selection_opacity_color">@color/text_selection_opacity_color</item>
+        <item name="text_selection_color">@color/text_selection_color</item>
+        <item name="progress_track_start_color">@color/progress_track_start_color</item>
+        <item name="progress_track_center_color">@color/progress_track_center_color</item>
+        <item name="progress_track_end_color">@color/progress_track_end_color</item>
+        <item name="multiply_color">@color/multiply_color</item>
+        <item name="all_hyperlink_color">@color/all_hyperlink_color</item>
+        <item name="overlay_color">@color/overlay_color</item>
+        <item name="light_primaryfont_color">@color/light_primaryfont_color</item>
+        <item name="light_primaryfont_disable_color">@color/light_primaryfont_disable_color</item>
+        <item name="light_secondaryfont_color">@color/light_secondaryfont_color</item>
+        <item name="dark_primaryfont_color">@color/dark_primaryfont_color</item>
+        <item name="dark_primaryfont_disable_color">@color/dark_primaryfont_disable_color</item>
+        <item name="dark_secondaryfont_color">@color/dark_secondaryfont_color</item>
+        <item name="tabfont_color">@color/tabfont_color</item>
+        <item name="light_separatorfont_color">@color/light_separatorfont_color</item>
+        <item name="list_item_bg_center_color">@color/list_item_bg_center_color</item>
+        <item name="list_item_bg_top_color">@color/list_item_bg_top_color</item>
+        <item name="list_item_bg_bottom_color">@color/list_item_bg_bottom_color</item>
+        <item name="highlight_color">@color/highlight_color</item>
+        <item name="ap_background_color">@color/ap_background_color</item>
+        <item name="dark_ap_background_color">@color/dark_ap_background_color</item>
+        <item name="focused_color">@color/focused_color</item>
+        <item name="standard_color">@color/standard_color</item>
+        <item name="active_color">@color/active_color</item>
+        <!-- add for sense60 start -->
+        <item name="htcListItemSerialNumberStyle">@style/HtcListItemSerialNumber.Dark</item>
+        <!-- add for sense60 end -->
+        <!-- Action bar styles start-->
+        <item name="htcActionBarProgressBarStyle">@style/HTCProgressBarStyle.Indeterminate.ActionBar</item>
+        <item name="actionBarSearchStyle">@style/ActionBarSearch</item>
+        <item name="actionBarRefreshStyle">@style/ActionBarRefresh</item>
+        <item name="actionBarDropDownStyle">@style/ActionBarDropDown</item>
+        <item name="htcActionBarStyle">@style/HtcActionBar</item>
+        <item name="android:actionBarSize">@dimen/ab_height</item>
+        <item name="android:actionBarStyle">@style/HtcWidget.ActionBar</item>
+        <item name="android:actionModeStyle">@style/HtcWidget.ActionMode</item>
+        <item name="android:actionBarWidgetTheme">@style/ActionBarWidgetTheme</item>
+        <item name="android:actionModeCloseButtonStyle">@style/HtcWidget.ActionButton.CloseMode</item>
+        <item name="android:actionModeCloseDrawable">@drawable/icon_btn_done_dark</item>
+        <item name="android:actionOverflowButtonStyle">@style/HtcWidget.ActionButton.Overflow</item>
+        <item name="android:actionButtonStyle">@style/HtcWidget.ActionButton</item>
+        <item name="android:actionBarDivider">@null</item>
+        <item name="android:actionOverflowMenuStyle">@style/HtcWidget.PopupMenu.Overflow</item>
+        <item name="android:actionBarPopupTheme">@style/ActionBarWidgetTheme</item>
+        <item name="android:actionModeBackground">?attr/multiply_color</item>
+        <item name="android:actionModeSplitBackground">?attr/multiply_color</item>
+        <item name="android:actionBarItemBackground">@drawable/actionbar_item_background</item>
+        <item name="htcActionButtonStyle">@style/HtcActionButton</item>
+        <!-- Action bar styles  end-->
+        <item name="android:expandableListViewStyle">@style/HtcListView.Dark</item>
+        <item name="android:listViewStyle">@style/HtcListView.Dark</item>
+        <item name="android:dropDownListViewStyle">@style/HtcListView.Dark</item>
+        <item name="android:textColorHighlight">@color/text_selection_color</item>
+        <item name="android:textColorHighlightInverse">@color/text_selection_color</item>
+        <item name="android:dividerHorizontal">@drawable/common_b_div_land</item>
+        <item name="android:dividerVertical">@drawable/common_div</item>
+        <item name="android:fastScrollPreviewBackgroundRight">@drawable/common_dialogbox_full_bright</item>
+        <item name="android:fastScrollThumbDrawable">@drawable/common_scroller_grip</item>
+        <item name="android:fastScrollTrackDrawable">@null</item>
+        <item name="android:fastScrollOverlayPosition">floating</item>
+        <item name="themeTexture">@style/ThemeTexture</item>
+        <item name="android:dialogTheme">@style/HtcDeviceDefault.Dark.Dialog</item>
+        <item name="android:alertDialogTheme">@style/HtcDeviceDefault.Dark.Dialog.Alert</item>
+        <item name="htcSwitchStyle">@style/HtcSwitch</item>
+        <item name="android:spinnerStyle">@style/HtcWidget.SpinnerStyle</item>
+        <item name="htcDrawerStyle">@style/HtcDrawer</item>
+        <!-- To avoid PhoneWindow clip windowBackground outline,that conflict with HTC theme arch -->
+        <item name="android:windowClipToOutline">false</item>
+        <!-- To avoid PhoneWindow extend window size, that conflict with HTC Theme texture arch -->
+        <item name="android:windowDrawsSystemBarBackgrounds">false</item>
+        <item name="android:scrollbarThumbHorizontal">@drawable/common_scroller</item>
+        <item name="android:scrollbarThumbVertical">@drawable/common_scroller</item>
+        <item name="htcEmptyViewStyle">@style/HtcEmptyView</item>
+        <item name="htcRailingLayoutStyle">@style/HtcRailingLayout</item>
+        <item name="htcShareViaStyle">@style/HtcShareVia</item>
+        <item name="htcShareActivityTheme">@style/HtcDeviceDefault.Dark</item>
+        <!-- add for V7 start -->
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:windowActionBar">true</item>
+        <!-- add for V7 end -->
+        <item name="htcCheckBoxStyle">@style/HtcCompoundButton.HtcCheckBox</item>
+        <item name="htcDeleteButtonStyle">@style/HtcCompoundButton.HtcDeleteButton</item>
+        <item name="htcFlagButtonStyle">@style/HtcCompoundButton.HtcFlagButton</item>
+        <item name="htcLoveButtonStyle">@style/HtcCompoundButton.HtcLoveButton</item>
+        <item name="htcRadioButtonStyle">@style/HtcCompoundButton.HtcRadioButton</item>
+        <item name="htcStarButtonStyle">@style/HtcCompoundButton.HtcStarButton</item>
+        <!-- HtcGridView -->
+        <item name="android:gridViewStyle">@style/HtcGridView.Dark</item>
+        <item name="htcGridItemStyle">@style/HtcGridItemStyle.Dark</item>
+        <item name="htcRecipientBlock">@style/HtcRecipientBlockStyle.Dark</item>
+        <item name="htcWizardActivityStyle">@style/HtcWizardActivityStyle.Dark</item>
+        <item name="htcButtonWizardActivityStyle">@style/HtcButtonWizardActivityStyle.Dark</item>
+        <item name="htcRadioListWizardActivityStyle">@style/HtcRadioListWizardActivityStyle.Dark</item>
+        <!-- HtcIndicatorButton-->
+        <item name="htcIndicatorButtonStyle">@style/HtcIndicatorButton</item>
+        <item name="android:preferenceStyle">@style/Preference.DevelopDontUse</item>
+        <item name="android:preferenceInformationStyle">@style/Preference.DevelopDontUse.Information</item>
+        <item name="android:preferenceCategoryStyle">@style/Preference.DevelopDontUse.Category</item>
+        <item name="android:checkBoxPreferenceStyle">@style/Preference.DevelopDontUse.CheckBoxPreference</item>
+        <item name="android:yesNoPreferenceStyle">@style/Preference.DevelopDontUse.DialogPreference.YesNoPreference</item>
+        <item name="android:editTextPreferenceStyle">@style/Preference.DevelopDontUse.DialogPreference.EditTextPreference</item>
+        <item name="android:preferenceScreenStyle">@style/Preference.DevelopDontUse.PreferenceScreen</item>
+        <item name="android:dialogPreferenceStyle">@style/Preference.DevelopDontUse.DialogPreference</item>
+        <item name="android:ringtonePreferenceStyle">@style/Preference.DevelopDontUse.RingtonePreference</item>
+        <item name="android:switchPreferenceStyle">@style/Preference.DevelopDontUse.SwitchPreference</item>
+        <item name="android:preferenceLayoutChild">@layout/preference_child</item>
+    </style>
+    <style name="HtcDeviceDefault.Dark.CategoryOne"/>
+    <style name="HtcDeviceDefault.Dark.CategoryThree"/>
+    <style name="HtcDeviceDefault.Dark.CategoryTwo"/>
+    <style name="HtcDeviceDefault.Dark.Dialog" parent="@android:style/Theme.Material.Dialog">
+        <item name="android:actionBarSize">@dimen/ab_height</item>
+        <item name="android:actionBarStyle">@style/HtcWidget.ActionBar</item>
+        <item name="android:actionModeStyle">@style/HtcWidget.ActionMode</item>
+        <item name="android:actionBarWidgetTheme">@style/ActionBarWidgetTheme</item>
+        <item name="android:actionModeCloseButtonStyle">@style/HtcWidget.ActionButton.CloseMode</item>
+        <item name="android:actionModeCloseDrawable">@drawable/icon_btn_done_dark</item>
+        <item name="android:actionOverflowButtonStyle">@style/HtcWidget.ActionButton.Overflow</item>
+        <item name="android:actionButtonStyle">@style/HtcWidget.ActionButton.Overflow</item>
+        <item name="android:actionBarDivider">@null</item>
+        <item name="android:actionOverflowMenuStyle">@style/HtcWidget.PopupMenu.Overflow</item>
+        <item name="android:actionBarPopupTheme">@style/ActionBarWidgetTheme</item>
+        <item name="android:actionModeBackground">?attr/multiply_color</item>
+        <item name="android:actionModeSplitBackground">?attr/multiply_color</item>
+        <item name="android:actionBarItemBackground">@drawable/actionbar_item_background</item>
+        <item name="android:windowClipToOutline">false</item>
+    </style>
+    <style name="HtcDeviceDefault.Dark.Dialog.Alert" parent="@android:style/Theme.Material.Dialog.Alert">
+        <item name="android:actionBarSize">@dimen/ab_height</item>
+        <item name="android:actionBarStyle">@style/HtcWidget.ActionBar</item>
+        <item name="android:actionModeStyle">@style/HtcWidget.ActionMode</item>
+        <item name="android:actionBarWidgetTheme">@style/ActionBarWidgetTheme</item>
+        <item name="android:actionModeCloseButtonStyle">@style/HtcWidget.ActionButton.CloseMode</item>
+        <item name="android:actionModeCloseDrawable">@drawable/icon_btn_done_dark</item>
+        <item name="android:actionOverflowButtonStyle">@style/HtcWidget.ActionButton.Overflow</item>
+        <item name="android:actionButtonStyle">@style/HtcWidget.ActionButton.Overflow</item>
+        <item name="android:actionBarDivider">@null</item>
+        <item name="android:actionOverflowMenuStyle">@style/HtcWidget.PopupMenu.Overflow</item>
+        <item name="android:actionBarPopupTheme">@style/ActionBarWidgetTheme</item>
+        <item name="android:actionModeBackground">?attr/multiply_color</item>
+        <item name="android:actionModeSplitBackground">?attr/multiply_color</item>
+        <item name="android:actionBarItemBackground">@drawable/actionbar_item_background</item>
+        <item name="android:windowClipToOutline">false</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/dontusethemes.xml -->
+    <eat-comment/>
+    <style name="HtcDeviceDefault.DevelopDontUse" parent="@style/HtcDeviceDefault">
+        <item name="android:alertDialogTheme">@style/PreferenceDialogThemeDevelopDontUse</item>
+        <item name="android:preferenceStyle">@style/Preference.DevelopDontUse</item>
+        <item name="android:preferenceInformationStyle">@style/Preference.DevelopDontUse.Information</item>
+        <item name="android:preferenceCategoryStyle">@style/Preference.DevelopDontUse.Category</item>
+        <item name="android:checkBoxPreferenceStyle">@style/Preference.DevelopDontUse.CheckBoxPreference</item>
+        <item name="android:yesNoPreferenceStyle">@style/Preference.DevelopDontUse.DialogPreference.YesNoPreference</item>
+        <item name="android:editTextPreferenceStyle">@style/Preference.DevelopDontUse.DialogPreference.EditTextPreference</item>
+        <item name="android:preferenceScreenStyle">@style/Preference.DevelopDontUse.PreferenceScreen</item>
+        <item name="android:dialogPreferenceStyle">@style/Preference.DevelopDontUse.DialogPreference</item>
+        <item name="android:ringtonePreferenceStyle">@style/Preference.DevelopDontUse.RingtonePreference</item>
+        <item name="android:switchPreferenceStyle">@style/Preference.DevelopDontUse.SwitchPreference</item>
+        <item name="android:preferenceLayoutChild">@layout/preference_child</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/dontusethemes_dark.xml -->
+    <eat-comment/>
+    <style name="HtcDeviceDefault.DevelopDontUse.Dark" parent="@style/HtcDeviceDefault.Dark">
+        <item name="android:alertDialogTheme">@style/PreferenceDialogThemeDevelopDontUse.Dark</item>
+        <item name="android:preferenceStyle">@style/Preference.DevelopDontUse</item>
+        <item name="android:preferenceInformationStyle">@style/Preference.DevelopDontUse.Information</item>
+        <item name="android:preferenceCategoryStyle">@style/Preference.DevelopDontUse.Category</item>
+        <item name="android:checkBoxPreferenceStyle">@style/Preference.DevelopDontUse.CheckBoxPreference</item>
+        <item name="android:yesNoPreferenceStyle">@style/Preference.DevelopDontUse.DialogPreference.YesNoPreference</item>
+        <item name="android:editTextPreferenceStyle">@style/Preference.DevelopDontUse.DialogPreference.EditTextPreference</item>
+        <item name="android:preferenceScreenStyle">@style/Preference.DevelopDontUse.PreferenceScreen</item>
+        <item name="android:dialogPreferenceStyle">@style/Preference.DevelopDontUse.DialogPreference</item>
+        <item name="android:ringtonePreferenceStyle">@style/Preference.DevelopDontUse.RingtonePreference</item>
+        <item name="android:switchPreferenceStyle">@style/Preference.DevelopDontUse.SwitchPreference</item>
+        <item name="android:preferenceLayoutChild">@layout/preference_child</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/themes.xml -->
+    <eat-comment/>
+    <style name="HtcDeviceDefault.Dialog" parent="@android:style/Theme.Material.Light.Dialog">
+        <item name="android:actionBarSize">@dimen/ab_height</item>
+        <item name="android:actionBarStyle">@style/HtcWidget.ActionBar</item>
+        <item name="android:actionModeStyle">@style/HtcWidget.ActionMode</item>
+        <item name="android:actionBarWidgetTheme">@style/ActionBarWidgetTheme</item>
+        <item name="android:actionModeCloseButtonStyle">@style/HtcWidget.ActionButton.CloseMode</item>
+        <item name="android:actionModeCloseDrawable">@drawable/icon_btn_done_dark</item>
+        <item name="android:actionOverflowButtonStyle">@style/HtcWidget.ActionButton.Overflow</item>
+        <item name="android:actionButtonStyle">@style/HtcWidget.ActionButton.Overflow</item>
+        <item name="android:actionBarDivider">@null</item>
+        <item name="android:actionOverflowMenuStyle">@style/HtcWidget.PopupMenu.Overflow</item>
+        <item name="android:actionBarPopupTheme">@style/ActionBarWidgetTheme</item>
+        <item name="android:actionModeBackground">?attr/multiply_color</item>
+        <item name="android:actionModeSplitBackground">?attr/multiply_color</item>
+        <item name="android:actionBarItemBackground">@drawable/actionbar_item_background</item>
+        <item name="android:actionBarTheme">@android:style/ThemeOverlay.Material.Dark.ActionBar</item>
+        <item name="android:windowClipToOutline">false</item>
+    </style>
+    <style name="HtcDeviceDefault.Dialog.Alert" parent="@android:style/Theme.Material.Light.Dialog.Alert">
+        <item name="android:actionBarSize">@dimen/ab_height</item>
+        <item name="android:actionBarStyle">@style/HtcWidget.ActionBar</item>
+        <item name="android:actionModeStyle">@style/HtcWidget.ActionMode</item>
+        <item name="android:actionBarWidgetTheme">@style/ActionBarWidgetTheme</item>
+        <item name="android:actionModeCloseButtonStyle">@style/HtcWidget.ActionButton.CloseMode</item>
+        <item name="android:actionModeCloseDrawable">@drawable/icon_btn_done_dark</item>
+        <item name="android:actionOverflowButtonStyle">@style/HtcWidget.ActionButton.Overflow</item>
+        <item name="android:actionButtonStyle">@style/HtcWidget.ActionButton.Overflow</item>
+        <item name="android:actionBarDivider">@null</item>
+        <item name="android:actionOverflowMenuStyle">@style/HtcWidget.PopupMenu.Overflow</item>
+        <item name="android:actionBarPopupTheme">@style/ActionBarWidgetTheme</item>
+        <item name="android:actionModeBackground">?attr/multiply_color</item>
+        <item name="android:actionModeSplitBackground">?attr/multiply_color</item>
+        <item name="android:actionBarItemBackground">@drawable/actionbar_item_background</item>
+        <item name="android:actionBarTheme">@android:style/ThemeOverlay.Material.Dark.ActionBar</item>
+        <item name="android:windowClipToOutline">false</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/style_htcgridview.xml -->
+    <eat-comment/>
+    <style name="HtcGridView" parent="android:Widget.Material.GridView">
+        <item name="android:spacing">@dimen/gridview_gap</item>
+        <item name="android:listSelector"> @drawable/list_selector_light </item>
+    </style>
+    <style name="HtcGridView.Dark">
+        <item name="android:listSelector"> @drawable/list_selector_dark </item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/styles.xml -->
+    <eat-comment/>
+    <style name="HtcListView" parent="android:style/Widget.Material.ExpandableListView">
+        <item name="android:divider">@null</item>
+        <item name="android:childDivider">@drawable/inset_list_divider</item>
+        <item name="android:listSelector">@drawable/list_selector_light</item>
+        <!-- HtcExpandableListView's group divder's height-->
+        <item name="android:height">0px</item>
+        <!-- HtcExpandableListView's group divder's height End-->
+        <!-- DividerController's divider-->
+        <item name="android:horizontalDivider">@drawable/common_list_divider</item>
+        <item name="android:insetLeft">@dimen/common_list_divider_margin</item>
+        <!-- DividerController's divider End-->
+        <!-- HtcExpandableListView child item's background color -->
+        <item name="android:itemBackground">@color/HtcExpandableListView_childItem_backgroundColor</item>
+        <!-- HtcExpandableListView child item's background colorEND -->
+    </style>
+    <style name="HtcListView.Dark">
+        <item name="android:divider">@null</item>
+        <item name="android:childDivider">@drawable/inset_list_divider_dark</item>
+        <item name="android:listSelector">@drawable/list_selector_dark</item>
+        <item name="android:horizontalDivider">@drawable/common_b_div_land</item>
+        <item name="android:itemBackground">@color/HtcExpandableListView_childItem_backgroundColor_dark</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/skinstyle_htcsharevia.xml -->
+    <eat-comment/>
+    <style name="HtcShareVia" parent="BaseHtcShareVia">
+        <item name="android:listSelector">@drawable/list_selector_dark</item>
+    </style>
+    <style name="HtcShareVia.Light" parent="BaseHtcShareVia.Light">
+        <item name="android:listSelector">@drawable/list_selector_light</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/styles.xml -->
+    <eat-comment/>
+    <style name="HtcSwitchPreference">
+        <item name="android:widgetLayout">@layout/preference_widget_switch</item>
+        <item name="android:switchTextOn">@string/switch_on</item>
+        <item name="android:switchTextOff">@string/switch_off</item>
+    </style>
+    <style name="HtcWidget">
+        <item name="android:textAppearance">@android:style/TextAppearance.Material</item>
+        <item name="android:listSelector">@drawable/list_selector_light</item>
+    </style>
+    <style name="HtcWidget.AbsListView" parent="@android:style/Widget.Material.ListView">
+        <item name="android:scrollbars">vertical</item>
+        <item name="android:fadingEdge">vertical</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/skinstyle_actionbar.xml -->
+    <eat-comment/>
+    <style name="HtcWidget.ActionBar" parent="@android:style/Widget.Material.ActionBar">
+        <!-- the transparent mode can't work reason -->
+        <item name="android:background">@color/starting_window_header</item>
+        <item name="android:height">?android:actionBarSize</item>
+        <item name="android:contentInsetStart">0dp</item>
+        <item name="android:contentInsetEnd">0dp</item>
+        <item name="android:displayOptions">none</item>
+    </style>
+    <style name="HtcWidget.ActionButton" parent="@android:style/Widget.Material.ActionButton">
+        <item name="android:background">?android:attr/actionBarItemBackground</item>
+        <item name="android:minWidth">@dimen/action_button_min_width</item>
+        <item name="android:minHeight">?android:attr/actionBarSize</item>
+        <item name="android:layout_width">@dimen/action_button_min_width</item>
+        <item name="android:paddingStart">0dp</item>
+        <item name="android:paddingEnd">0dp</item>
+    </style>
+    <style name="HtcWidget.ActionButton.CloseMode" parent="@android:style/Widget.Material.ActionButton.CloseMode">
+        <item name="android:minHeight">?android:attr/actionBarSize</item>
+        <item name="android:background">?android:attr/actionBarItemBackground</item>
+    </style>
+    <style name="HtcWidget.ActionButton.Overflow" parent="@android:Widget.Material.ActionButton.Overflow">
+        <item name="android:src">@drawable/icon_btn_menu_dark</item>
+        <item name="android:background">?android:attr/actionBarItemBackground</item>
+        <item name="android:minWidth">@dimen/action_button_min_width</item>
+        <item name="android:minHeight">?android:attr/actionBarSize</item>
+        <item name="android:paddingStart">0dp</item>
+        <item name="android:paddingEnd">0dp</item>
+    </style>
+    <style name="HtcWidget.ActionMode" parent="@android:style/Widget.Material.ActionMode">
+        <!-- the transparent mode can't work reason -->
+        <item name="android:background">?android:attr/actionModeBackground</item>
+        <item name="android:backgroundSplit">?android:attr/actionModeSplitBackground</item>
+        <item name="android:height">?android:actionBarSize</item>
+        <item name="android:titleTextStyle">@style/ab_primary_textview_style</item>
+        <item name="android:subtitleTextStyle">@style/ab_secondary_textview_style</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/dontusethemes.xml -->
+    <eat-comment/>
+    <style name="HtcWidget.Button.DevelopDontUse" parent="@android:style/Widget.Material.Button.Borderless.Small">
+        <item name="android:textAppearance">@style/fixed_separator_secondary_m</item>
+        <item name="android:paddingStart">@dimen/margin_s</item>
+        <item name="android:paddingEnd">@dimen/margin_s</item>
+        <item name="android:paddingTop">@dimen/margin_m</item>
+        <item name="android:paddingBottom">@dimen/margin_m</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/dontusethemes_dark.xml -->
+    <eat-comment/>
+    <style name="HtcWidget.Button.DevelopDontUse.Dark">
+        <item name="android:textAppearance">@style/fixed_b_separator_secondary_m</item>
+        <item name="android:textColor">@color/dark_primaryfont</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/dontusethemes.xml -->
+    <eat-comment/>
+    <style name="HtcWidget.ButtonBar.DevelopDontUse" parent="@android:style/Widget.Material.ButtonBar">
+        <item name="android:background">@drawable/list_selector_light</item>
+        <item name="android:divider">@drawable/common_div</item>
+        <item name="android:showDividers">middle</item>
+        <item name="android:dividerPadding">@dimen/margin_s</item>
+        <item name="android:padding">@dimen/margin_m</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/dontusethemes_dark.xml -->
+    <eat-comment/>
+    <style name="HtcWidget.ButtonBar.DevelopDontUse.Dark">
+        <item name="android:background">@drawable/list_selector_dark</item>
+        <item name="android:divider">@drawable/common_b_div</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/styles.xml -->
+    <eat-comment/>
+    <style name="HtcWidget.CompoundButton" parent="@android:style/Widget.Material.Button">
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:gravity">center_vertical|start</item>
+    </style>
+    <style name="HtcWidget.CompoundButton.Switch">
+        <item name="android:textOn">@string/switch_on</item>
+        <item name="android:textOff">@string/switch_off</item>
+    </style>
+    <style name="HtcWidget.ExpandableListView.DropDown" parent="HtcListView.Dark">
+    </style>
+    <style name="HtcWidget.ListPopupBubbleWindow">
+        <item name="android:listSelector">@drawable/list_selector_dark</item>
+        <item name="android:dropDownSelector">@drawable/list_selector_dark</item>
+        <item name="popupBubbleBackground">@drawable/common_popupmenu</item>
+        <item name="popupBubbleTriangle">@drawable/common_popupmenu_arrow</item>
+        <item name="popupBubbleLeftTriangle">@drawable/common_popupmenu_arrow_land</item>
+        <item name="popupBubbleAnimationStyle">@style/HtcAnimation.PopupBubbleWindow</item>
+        <item name="android:drawable">@drawable/common_popupmenu_triangle</item>
+        <item name="android:drawableLeft">@drawable/common_popupmenu_left_triangle</item>
+        <item name="android:dropDownVerticalOffset">-10dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/skinstyle_actionbar.xml -->
+    <eat-comment/>
+    <style name="HtcWidget.ListPopupWindow.ActionBar" parent="@android:style/Widget.Material.ListPopupWindow">
+        <item name="android:popupBackground">@drawable/popupbg_inset</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/styles.xml -->
+    <eat-comment/>
+    <style name="HtcWidget.ListView" parent="HtcWidget.AbsListView">
+        <item name="android:listSelector">@drawable/list_selector_light</item>
+        <item name="android:cacheColorHint">?android:attr/colorBackgroundCacheHint</item>
+        <item name="android:divider">@drawable/inset_list_divider</item>
+    </style>
+    <style name="HtcWidget.ListView.DropDown" parent="HtcListView.Dark">
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/skinstyle_actionbar.xml -->
+    <eat-comment/>
+    <style name="HtcWidget.ListView.DropDown.ActionBar" parent="@android:style/Widget.Material.ListView.DropDown">
+        <item name="android:divider">@null</item>
+        <item name="android:listSelector">@drawable/list_selector_dark</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/styles.xml -->
+    <eat-comment/>
+    <style name="HtcWidget.PopupBubbleWindow">
+        <item name="android:listSelector">@drawable/list_selector_dark</item>
+        <item name="popupBubbleBackground">@drawable/common_popupmenu</item>
+        <item name="popupBubbleTriangle">@drawable/common_popupmenu_arrow</item>
+        <item name="popupBubbleLeftTriangle">@drawable/common_popupmenu_arrow_land</item>
+        <item name="popupBubbleAnimationStyle">@style/HtcAnimation.PopupBubbleWindow</item>
+        <item name="android:drawable">@drawable/common_popupmenu_triangle</item>
+        <item name="android:drawableLeft">@drawable/common_popupmenu_left_triangle</item>
+        <item name="android:background">@drawable/tips_panel_shadow</item>
+        <item name="android:panelBackground">@drawable/tips_arrow_shadow</item>
+        <item name="android:panelFullBackground">@drawable/icon_btn_cancel_dark_s</item>
+        <item name="android:panelTextAppearance">@style/fixed_darklist_primary_m</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/skinstyle_actionbar.xml -->
+    <eat-comment/>
+    <style name="HtcWidget.PopupMenu.ActionBar" parent="@android:style/Widget.Material.PopupMenu">
+        <item name="android:popupBackground">@drawable/popupbg_inset</item>
+    </style>
+    <style name="HtcWidget.PopupMenu.Overflow" parent="@android:style/Widget.Material.PopupMenu.Overflow">
+        <item name="android:popupBackground">@drawable/popupbg_inset</item>
+        <item name="android:overlapAnchor">false</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/styles.xml -->
+    <eat-comment/>
+    <style name="HtcWidget.SpinnerStyle" parent="@android:style/Widget.Material.Spinner">
+        <item name="android:background">@drawable/htcspinner</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/dontusethemes.xml -->
+    <eat-comment/>
+    <style name="HtcWidget.TextView.DevelopDontUse" parent="@android:style/Widget.Material.TextView">
+        <item name="android:textAppearance">@style/list_secondary_m</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/dontusethemes_dark.xml -->
+    <eat-comment/>
+    <style name="HtcWidget.TextView.DevelopDontUse.Dark">
+        <item name="android:textAppearance">@style/darklist_secondary_m</item>
+        <item name="android:textColor">@color/dark_primaryfont</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/styles.xml -->
+    <eat-comment/>
+    <style name="PopupBubbleWindow" parent="@android:style/Widget.Material.ListPopupWindow">
+        <item name="android:windowEnterAnimation">@anim/popup_fade_in</item>
+        <item name="android:windowExitAnimation">@anim/popup_fade_out</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/style_preference.xml -->
+    <eat-comment/>
+    <style name="Preference" parent="Theme.AppCompat.Light">
+        <item name="android:textAppearanceMedium">@style/list_primary_m</item>
+        <item name="android:textAppearanceSmall">@style/list_secondary_m</item>
+        <item name="android:textColorSecondary">@color/light_primaryfont</item>
+        <item name="android:textColorPrimary">@color/light_primaryfont</item>
+        <item name="android:textAppearanceListItem">@style/list_primary_m</item>
+        <item name="android:textAppearanceListItemSecondary">@style/list_secondary_m</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/dontusethemes.xml -->
+    <eat-comment/>
+    <style name="Preference.DevelopDontUse">
+        <item name="android:layout">@layout/preference</item>
+    </style>
+    <style name="Preference.DevelopDontUse.Category">
+        <item name="android:layout">@layout/preference_category</item>
+        <item name="android:shouldDisableView">false</item>
+        <item name="android:selectable">false</item>
+    </style>
+    <style name="Preference.DevelopDontUse.CheckBoxPreference">
+        <item name="android:widgetLayout">@layout/preference_widget_checkbox</item>
+    </style>
+    <style name="Preference.DevelopDontUse.DialogPreference">
+        <item name="android:positiveButtonText">@android:string/ok</item>
+        <item name="android:negativeButtonText">@android:string/cancel</item>
+    </style>
+    <style name="Preference.DevelopDontUse.DialogPreference.EditTextPreference">
+        <item name="android:dialogLayout">@layout/preference_dialog_edittext</item>
+    </style>
+    <style name="Preference.DevelopDontUse.DialogPreference.YesNoPreference">
+        <item name="android:positiveButtonText">@android:string/yes</item>
+        <item name="android:negativeButtonText">@android:string/no</item>
+    </style>
+    <style name="Preference.DevelopDontUse.Information">
+        <item name="android:layout">@layout/preference_information</item>
+        <item name="android:enabled">false</item>
+        <item name="android:shouldDisableView">false</item>
+    </style>
+    <style name="Preference.DevelopDontUse.PreferenceScreen"/>
+    <style name="Preference.DevelopDontUse.RingtonePreference">
+        <item name="android:ringtoneType">ringtone</item>
+        <item name="android:showSilent">true</item>
+        <item name="android:showDefault">true</item>
+    </style>
+    <style name="Preference.DevelopDontUse.SeekBarPreferenceStyle">
+        <item name="android:layout">@layout/dontuse_preference_widget_seekbar</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/dontusethemes_dark.xml -->
+    <eat-comment/>
+    <style name="Preference.DevelopDontUse.SeekBarPreferenceStyle.Dark">
+        <item name="android:layout">@layout/preference_widget_seekbar_dark</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/dontusethemes.xml -->
+    <eat-comment/>
+    <style name="Preference.DevelopDontUse.SwitchPreference">
+        <item name="android:widgetLayout">@layout/dontuse_preference_widget_switch</item>
+        <item name="android:switchTextOn">@string/switch_on</item>
+        <item name="android:switchTextOff">@string/switch_off</item>
+    </style>
+    <style name="PreferenceDialogThemeDevelopDontUse" parent="Theme.AppCompat.Dialog">
+        <item name="android:alertDialogStyle">@style/AlertDialogDevelopDontUse</item>
+        <item name="android:windowTitleStyle">@style/DialogTitle</item>
+        <item name="android:editTextStyle">@style/htcEditTextStyleDefault</item>
+        <item name="android:seekBarStyle">@style/HTCSeekBarStyle.DevelopDontUse</item>
+        <item name="android:textViewStyle">@style/HtcWidget.TextView.DevelopDontUse</item>
+        <item name="android:buttonBarStyle">@style/HtcWidget.ButtonBar.DevelopDontUse</item>
+        <item name="android:buttonBarButtonStyle">@style/HtcWidget.Button.DevelopDontUse</item>
+        <item name="android:progressBarStyleLarge">@style/HTCProgressBarStyle.Indeterminate</item>
+        <item name="android:progressBarStyleHorizontal">@style/HTCProgressBarStyle</item>
+        <item name="android:listDividerAlertDialog">@drawable/inset_list_divider</item>
+        <item name="android:textAppearanceListItemSmall">@style/list_primary_m</item>
+        <item name="android:textAppearanceMedium">@style/list_primary_m</item>
+        <item name="android:textColorAlertDialogListItem">@color/light_primaryfont</item>
+        <item name="android:listViewStyle">@style/HtcWidget.ListView</item>
+        <item name="android:dividerHorizontal">@drawable/common_div</item>
+        <item name="android:dividerVertical">@drawable/common_b_div</item>
+        <item name="android:textColorHighlight">@color/text_selection_color</item>
+        <item name="android:textColorHighlightInverse">@color/text_selection_color</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/dontusethemes_dark.xml -->
+    <eat-comment/>
+    <style name="PreferenceDialogThemeDevelopDontUse.Dark">
+        <item name="android:alertDialogStyle">@style/AlertDialogDarkDonUse</item>
+        <item name="android:editTextStyle">@style/htcEditTextStyleDefault.Dark</item>
+        <item name="android:textViewStyle">@style/HtcWidget.TextView.DevelopDontUse.Dark</item>
+        <item name="android:buttonBarStyle">@style/HtcWidget.ButtonBar.DevelopDontUse.Dark</item>
+        <item name="android:buttonBarButtonStyle">@style/HtcWidget.Button.DevelopDontUse.Dark</item>
+        <item name="android:progressBarStyleLarge">@style/HTCProgressBarStyle.Indeterminate.Dark</item>
+        <item name="android:progressBarStyleHorizontal">@style/HTCProgressBarStyle.Dark</item>
+        <item name="android:listDividerAlertDialog">@drawable/inset_list_divider_dark</item>
+        <item name="android:textAppearanceListItemSmall">@style/darklist_primary_m</item>
+        <item name="android:textAppearanceMedium">@style/darklist_primary_m</item>
+        <item name="android:textColorAlertDialogListItem">@color/dark_primaryfont</item>
+        <item name="android:listViewStyle">@style/HtcListView.Dark</item>
+        <item name="android:dividerHorizontal">@drawable/common_b_div_land</item>
+        <item name="android:dividerVertical">@drawable/common_b_div</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-v21/sharebottomsheet.xml -->
+    <eat-comment/>
+    <style name="ThemeHtcShareActivity" parent="@style/ThemeHtcShareActivity_v16">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">false</item>
+    </style>
+</resources>

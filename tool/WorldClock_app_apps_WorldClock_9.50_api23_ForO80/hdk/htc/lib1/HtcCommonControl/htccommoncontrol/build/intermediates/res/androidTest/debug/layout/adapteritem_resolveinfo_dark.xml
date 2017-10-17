@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- adapter item used in HtcShareActivity -->
+<com.htc.lib1.cc.widget.HtcShareTextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/height_shareGridItem"
+
+    android:paddingTop="@dimen/paddingTop_shareGridItem"
+    android:lines="2"
+    android:ellipsize="end"
+    android:gravity="center_horizontal|top"
+    android:drawablePadding="@dimen/drawablePadding_shareGridItem"
+    style="@style/shortcut_label_m"
+    />
+<!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/layout/adapteritem_resolveinfo_dark.xml --><!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/layout/adapteritem_resolveinfo_dark.xml -->

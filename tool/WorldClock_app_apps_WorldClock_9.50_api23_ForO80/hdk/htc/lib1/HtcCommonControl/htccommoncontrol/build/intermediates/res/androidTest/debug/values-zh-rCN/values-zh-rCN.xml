@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/androidTest/res/values-zh-rCN/arrays.xml -->
+    <eat-comment/>
+    <string-array name="cheese_responses">
+        <item>I\'m afraid we\'re fresh out.</item>
+        <item>I\'m afraid we never have that at the end of the week, sir.  We get it fresh on Monday.</item>
+        <item>Ah. It\'s been on order, sir, for two weeks.  I was expecting it this morning.</item>
+        <item>Normally, sir, yes.  Today the van broke down.</item>
+        <item>No.</item>
+        <item>No.</item>
+        <item>No.</item>
+        <item>Yes, sir.  It\'s, ah ..... it\'s a bit runny.</item>
+        <item>Well, it\'s very runny, actually, sir.</item>
+        <item>I think it\'s a bit runnier than you\'ll like it, sir.</item>
+        <item>Oh... The cat\'s eaten it.</item>
+        <item>No.</item>
+        <item>No.</item>
+        <item>No.</item>
+        <item>Mmm... cheese.</item>
+    </string-array>
+    <string-array name="clip_data_types">
+        <item>No data in clipboard</item>
+        <item>Text clip</item>
+        <item>Intent clip</item>
+        <item>Uri clip</item>
+    </string-array>
+    <string-array name="colors">
+        <item>red</item>
+        <item>orange</item>
+        <item>yellow</item>
+        <item>green</item>
+        <item>blue</item>
+        <item>violet</item>
+    </string-array>
+    <string-array name="entries_list_preference">
+        <item>Alpha Option 01</item>
+        <item>Beta Option 02</item>
+        <item>Charlie Option 03</item>  
+    </string-array>
+    <string-array name="entryvalues_list_preference">
+        <item>alpha</item>
+        <item>beta</item>
+        <item>charlie</item>  
+    </string-array>
+    <string-array name="password_qualities">
+        <item>Unspecified</item>
+        <item>Something</item>
+        <item>Numeric</item>
+        <item>Alphabetic</item>
+        <item>Alphanumeric</item>
+        <item>Complex</item>
+    </string-array>
+    <string-array name="planets">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+        <item>Pluto</item>
+    </string-array>
+    <string-array name="screen_orientations">
+        <item>UNSPECIFIED</item>
+        <item>LANDSCAPE</item>
+        <item>PORTRAIT</item>
+        <item>USER</item>
+        <item>BEHIND</item>
+        <item>SENSOR</item>
+        <item>NOSENSOR</item>
+        <item>SENSOR_LANDSCAPE</item>
+        <item>SENSOR_PORTRAIT</item>
+        <item>REVERSE_LANDSCAPE</item>
+        <item>REVERSE_PORTRAIT</item>
+        <item>FULL_SENSOR</item>
+    </string-array>
+    <string-array name="search_menuModes">
+        <item>Search Key</item>
+        <item>Menu Item</item>
+        <item>Type-To-Search</item>
+        <item>Disabled</item>
+    </string-array>
+    <string-array name="secure_view_clicked">
+        <item>*bzzt*\nTransferred $1,000,000 to J. Phisher.  Thank you!</item>
+        <item>*bzzt*\nSending all life savings to the International Cabal of Evil Penguins.</item>
+        <item>*bzzt*\nOpening portal to R\'lyeh.  Long live Cthulhu!</item>
+        <item>*bzzt*\nYou\'re not very good at this, are you?</item>
+        <item>*bzzt*\nGo away...</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>Command one</item>
+        <item>Command two</item>
+        <item>Command three</item>
+        <item>Command four</item>
+    </string-array>
+    <string-array name="select_dialog_items2">
+        <item>Map</item>
+        <item>Satellite</item>
+        <item>Traffic</item>
+        <item>Street view</item>
+    </string-array>
+    <string-array name="select_dialog_items3">
+        <item>Every Monday</item>
+        <item>Every Tuesday</item>
+        <item>Every Wednesday</item>
+        <item>Every Thursday</item>
+        <item>Every Friday</item>
+        <item>Every Saturday</item>
+        <item>Every Sunday</item>
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>小</item><!--Small-->
+        <item>中</item><!--Medium-->
+        <item>大</item><!--Large-->
+        <item>特大</item><!--Extra large-->
+        <item>超大</item><!--Huge-->
+    </string-array>
+    <string-array name="weeklayout_secondary_text">
+        <item>日</item><!--SU-->
+        <item>一</item><!--M-->
+        <item>二</item><!--TU-->
+        <item>三</item><!--W-->
+        <item>四</item><!--TH-->
+        <item>五</item><!--F-->
+        <item>六</item><!--SA-->
+    </string-array>
+    <dimen name="b_separator_secondary_xs">15sp</dimen>
+    <dimen name="b_toggle_primary_m">16sp</dimen>
+    <dimen name="label_off_m">14sp</dimen>
+    <dimen name="label_on_m">14sp</dimen>
+    <dimen name="list_body_s">19sp</dimen>
+    <dimen name="list_body_xl">31sp</dimen>
+    <dimen name="list_body_xs">16sp</dimen>
+    <dimen name="separator_secondary_xs">16sp</dimen>
+    <dimen name="time_pick_primary_s">35sp</dimen>
+    <dimen name="toggle_primary_m">16sp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"转到主屏幕"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s：%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s - %2$s：%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"转到上一层级"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多选项"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"选择应用"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查询"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜索查询"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查询"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"语音搜索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"分享方式"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"通过%s分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收起"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="accessibility_tap_action">双击进行操作</string>
+    <string name="add_comments">添加评论</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/androidTest/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="advanced_preferences">Preference/6. Advanced preferences</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="am">上午</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/androidTest/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">CommonControlDemo</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="button_hide_caption">隐藏图片说明</string>
+    <string name="button_hide_description">隐藏说明</string>
+    <string name="button_show_caption">显示图片说明</string>
+    <string name="button_show_description">显示说明</string>
+    <string name="carousel_title">编辑显示项</string>
+    <string name="common_string_hint_search_people">搜索联系人</string>
+    <string name="common_string_open_contact">打开联系人</string>
+    <string name="common_string_save_to_existing_contact">保存至现有联系人</string>
+    <string name="common_string_save_to_people">保存至联系人</string>
+    <string name="common_string_share_title">分享方式</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/androidTest/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="counter_value_is">The counter value is</string>
+    <string name="default_value_edittext_preference">Default value</string>
+    <string name="default_value_list_preference">beta</string>
+    <string name="default_values">Preference/4. Default values</string>
+    <string name="dialog_based_preferences">Dialog-based preferences</string>
+    <string name="dialog_title_edittext_preference">Enter your favorite animal</string>
+    <string name="dialog_title_list_preference">Choose one</string>
+    <string name="dialog_title_yesno_preference">Do you like bananas?</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="done">完成</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/androidTest/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="example_preference_dependency">Example preference dependency</string>
+    <string name="fragment_preferences">Preference/7. Fragment</string>
+    <string name="hello">Hello World, CommonControlDemoActivity!</string>
+    <string name="inline_preferences">In-line preferences</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="label_day">日</string>
+    <string name="label_hour">小时</string>
+    <string name="label_minute">分钟</string>
+    <string name="label_month">月</string>
+    <string name="label_second">秒</string>
+    <string name="label_year">年</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/androidTest/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="launch_preference_activity">Launch PreferenceActivity</string>
+    <string name="launch_preferences">Launch preferences</string>
+    <string name="launching_preferences">Preference/2. Launching preferences</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="license_dialog_content">此手机上的部分图标最初是由 Google 设计，并由 HTC 根据<a href="https://creativecommons.org/licenses/by/4.0/legalcode">知识共享署名 4.0 许可协议</a>进行修改。</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <string name="ls_doubletap_drag">双击并拖动以进行调整</string>
+    <string name="ls_edit_number_before_calling">拨号前编辑号码</string>
+    <string name="ls_open_in_map">在地图中打开</string>
+    <string name="ls_tablet_storage_error">平板电脑存储出现错误。请重启设备或格式化存储。</string>
+    <string name="menu_crop">裁剪</string>
+    <string name="menu_delete">删除</string>
+    <string name="menu_properties">详情</string>
+    <string name="menu_protect_info">保护信息</string>
+    <string name="menu_save_to_my_favorite">设置为收藏</string>
+    <string name="menu_send_photo_link_by_email">分享照片链接</string>
+    <string name="menu_set_as">设为</string>
+    <string name="menu_settings">设置</string>
+    <string name="menu_share">分享</string>
+    <string name="menu_show_on_map">在地图上显示</string>
+    <string name="menu_slideshow">幻灯片</string>
+    <string name="menu_view_full">查看</string>
+    <string name="menu_view_video">播放</string>
+    <string name="meun_rotate">旋转</string>
+    <string name="nn_unknown_error">"未知错误"</string>
+    <string name="no">否</string>
+    <string name="pm">下午</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/androidTest/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="preference_attributes">Preference attributes</string>
+    <string name="preference_dependencies">Preference/3. Preference dependencies</string>
+    <string name="preference_with_headers">Preference/8. Headers</string>
+    <string name="preferences_from_code">Preference/5. Preferences from code</string>
+    <string name="preferences_from_xml">Preference/1. Preferences from XML</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="quickselection_share">分享方式</string>
+    <string name="refresh">刷新</string>
+    <string name="reminderview_common_unlock_hint_icon">向上拖动图标</string>
+    <string name="reminderview_common_unlock_hint_up">向上拖动以解锁</string>
+    <string name="st_action_bar_pull_down">释放以刷新</string>
+    <string name="st_action_bar_updating">更新中...</string>
+    <string name="st_draggable_item">可拖动项目</string>
+    <string name="st_loading">正在加载...</string>
+    <string name="st_more">更多</string>
+    <string name="st_pull_down_refresh">下拉以刷新</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/androidTest/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="summary_checkbox_preference">This is a checkbox</string>
+    <string name="summary_child_preference">This is visually a child</string>
+    <string name="summary_edittext_preference">An example that uses an edit text dialog</string>
+    <string name="summary_fragment_preference">Shows another fragment of preferences</string>
+    <string name="summary_intent_preference">Launches an Activity from an Intent</string>
+    <string name="summary_list_preference">An example that uses a list dialog</string>
+    <string name="summary_my_preference">This is a custom counter preference</string>
+    <string name="summary_next_screen_toggle_preference">Preference that is on the next screen but same hierarchy</string>
+    <string name="summary_off_advanced_toggle_preference">I\'m off! :(</string>
+    <string name="summary_on_advanced_toggle_preference">I\'m on! :)</string>
+    <string name="summary_parent_preference">This is visually a parent</string>
+    <string name="summary_screen_preference">Shows another screen of preferences</string>
+    <string name="summary_switch_preference">This is a switch</string>
+    <string name="summary_switch_preference_yes_no">This is a switch with custom text</string>
+    <string name="summary_toggle_preference">This is a toggle button</string>
+    <string name="summary_yesno_preference">An example that uses a yes/no dialog</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="switch_off">关</string>
+    <string name="switch_on">开</string>
+    <string name="tab_remove_dialog_message">您还剩一个显示项。要对此应用程序添加更多显示项，选择菜单中的编辑显示项/筛选。</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/androidTest/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="title_advanced_toggle_preference">Haunted preference</string>
+    <string name="title_checkbox_preference">Checkbox preference</string>
+    <string name="title_child_preference">Child toggle</string>
+    <string name="title_edittext_preference">Edit text preference</string>
+    <string name="title_fragment_preference">Fragment preference</string>
+    <string name="title_intent_preference">Intent preference</string>
+    <string name="title_list_preference">List preference</string>
+    <string name="title_my_preference">My preference</string>
+    <string name="title_next_screen_toggle_preference">Toggle preference</string>
+    <string name="title_parent_preference">Parent toggle</string>
+    <string name="title_screen_preference">Screen preference</string>
+    <string name="title_switch_preference">Switch preference</string>
+    <string name="title_toggle_preference">Toggle preference</string>
+    <string name="title_wifi">WiFi</string>
+    <string name="title_wifi_settings">WiFi settings</string>
+    <string name="title_yesno_preference">Yes or no preference</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">无法删除此显示项</string>
+    <string name="va_back">返回</string>
+    <string name="va_call">呼叫</string>
+    <string name="va_cancel">取消</string>
+    <string name="va_clear">"清除"</string>
+    <string name="va_close">关闭</string>
+    <string name="va_copy">复制</string>
+    <string name="va_download">下载</string>
+    <string name="va_downloading">正在下载</string>
+    <string name="va_finish">结束</string>
+    <string name="va_hide">"隐藏"</string>
+    <string name="va_move_above">向上移动</string>
+    <string name="va_move_below">向下移动</string>
+    <string name="va_next">下一步</string>
+    <string name="va_ok">确定</string>
+    <string name="va_open">打开</string>
+    <string name="va_reset">重置</string>
+    <string name="va_send_mail">发送邮件</string>
+    <string name="va_send_message">发送信息</string>
+    <string name="va_show_all">全部显示</string>
+    <string name="yes">是</string>
+</resources>

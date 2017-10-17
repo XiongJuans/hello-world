@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layoutDirection="ltr" >
+    <RelativeLayout
+		android:id="@+id/widget_layout"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+        android:layout_marginTop="@dimen/libmasthead_masthead_widget_padding_top"
+        android:layout_marginBottom="@dimen/libmasthead_masthead_widget_padding_bottom"
+		android:layout_marginLeft="@dimen/leading"
+		android:layout_marginRight="@dimen/leading">
+		<RelativeLayout
+			android:id="@+id/background_block"
+			android:layout_width="wrap_content"
+			android:layout_height="match_parent"
+			android:layout_centerHorizontal="true">
+            <FrameLayout
+                android:id="@+id/digital_clock_base"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/theme2_slash_img_height"
+                android:layout_marginBottom="@dimen/theme2_digital_clock_base_margin_bottom"/>
+	        <include 
+	            android:id="@+id/digital_clock"
+	            layout="@layout/specific_theme2_weather_clock_4x1_digital"
+				android:layout_width="wrap_content"
+	    		android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/theme_widget_padding_top_minus"
+                android:layout_alignBottom="@id/digital_clock_base"
+	    		android:layout_toRightOf="@+id/sun_block"/>
+			<com.htc.lib1.masthead.view.WeatherDisplay
+				android:id="@+id/sun_block"
+	            android:layout_width="wrap_content"
+	            android:minWidth="@dimen/theme_sun_small_width"
+	            android:layout_height="match_parent"
+	            android:layout_marginTop="@dimen/theme_location_padding_top">
+				<ImageView
+					android:id="@+id/sun"
+                    android:layout_width="@dimen/theme_sun_small_width"
+                    android:layout_height="@dimen/theme_sun_small_height"
+					android:layout_gravity="right|top"
+					android:visibility="gone"/>
+				<TextView 
+					android:id="@+id/no_weather_text"
+					style="@style/custom_fixed_masthead_08"
+					android:layout_width="@dimen/theme_error_text_width"
+                    android:layout_height="wrap_content"
+                    android:minHeight="@dimen/theme_error_text_height"
+					android:gravity="center"
+					android:ellipsize="end"
+					android:maxLines="6"
+					android:visibility="gone" />
+	        </com.htc.lib1.masthead.view.WeatherDisplay>
+	        <include
+	            android:id="@+id/info_temp_area"
+	            layout="@layout/specific_theme2_weather_clock_4x1_info" />
+		</RelativeLayout>
+	</RelativeLayout>
+	<include
+	    android:id="@+id/travel_layout" 
+	    layout="@layout/specific_theme0_clock_dual_4x1" />
+</RelativeLayout><!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/layout/specific_theme2_weather_clock_4x1.xml --><!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/layout/specific_theme2_weather_clock_4x1.xml -->

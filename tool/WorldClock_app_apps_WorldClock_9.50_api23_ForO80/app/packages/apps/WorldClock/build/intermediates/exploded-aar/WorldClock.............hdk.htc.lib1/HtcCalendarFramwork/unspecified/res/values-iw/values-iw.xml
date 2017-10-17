@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-iw/arrays.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>בכל יום שישי הראשון בחודש</item><!--on every first Friday-->
+        <item>בכל יום שישי השני בחודש</item><!--on every second Friday-->
+        <item>בכל יום שישי השלישי בחודש</item><!--on every third Friday-->
+        <item>בכל יום שישי הרביעי בחודש</item><!--on every fourth Friday-->
+        <item>בכל יום שישי האחרון בחודש</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>בכל יום שני הראשון בחודש</item><!--on every first Monday-->
+        <item>בכל יום שני השני בחודש</item><!--on every second Monday-->
+        <item>בכל יום שני השלישי בחודש</item><!--on every third Monday-->
+        <item>בכל יום שני הרביעי בחודש</item><!--on every fourth Monday-->
+        <item>בכל יום שני האחרון בחודש</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>בכל יום שבת הראשון בחודש</item><!--on every first Saturday-->
+        <item>בכל יום שבת השני בחודש</item><!--on every second Saturday-->
+        <item>בכל יום שבת השלישי בחודש</item><!--on every third Saturday-->
+        <item>בכל יום שבת הרביעי בחודש</item><!--on every fourth Saturday-->
+        <item>בכל יום שבת האחרון בחודש</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>בכל יום ראשון הראשון בחודש</item><!--on every first Sunday-->
+        <item>בכל יום ראשון השני בחודש</item><!--on every second Sunday-->
+        <item>בכל יום ראשון השלישי בחודש</item><!--on every third Sunday-->
+        <item>בכל יום ראשון הרביעי בחודש</item><!--on every fourth Sunday-->
+        <item>בכל יום ראשון האחרון בחודש</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>בכל יום חמישי הראשון בחודש</item><!--on every first Thursday-->
+        <item>בכל יום חמישי השני בחודש</item><!--on every second Thursday-->
+        <item>בכל יום חמישי השלישי בחודש</item><!--on every third Thursday-->
+        <item>בכל יום חמישי הרביעי בחודש</item><!--on every fourth Thursday-->
+        <item>בכל יום חמישי האחרון בחודש</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>בכל יום שלישי הראשון בחודש</item><!--on every first Tuesday-->
+        <item>בכל יום שלישי השני בחודש</item><!--on every second Tuesday-->
+        <item>בכל יום שלישי השלישי בחודש</item><!--on every third Tuesday-->
+        <item>בכל יום שלישי הרביעי בחודש</item><!--on every fourth Tuesday-->
+        <item>בכל יום שלישי האחרון בחודש</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>בכל יום רביעי הראשון בחודש</item><!--on every first Wednesday-->
+        <item>בכל יום רביעי השני בחודש</item><!--on every second Wednesday-->
+        <item>בכל יום רביעי השלישי בחודש</item><!--on every third Wednesday-->
+        <item>בכל יום רביעי הרביעי בחודש</item><!--on every fourth Wednesday-->
+        <item>בכל יום רביעי האחרון בחודש</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">פעם אחת</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> פעמים</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">כל יום <ns1:g id="count">%d</ns1:g></item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">כל <ns1:g id="count">%d</ns1:g> ימים</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">כל חודש <ns1:g id="count">%d</ns1:g></item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">כל <ns1:g id="count">%d</ns1:g> חודשים</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">כל שבוע <ns1:g id="count">%d</ns1:g></item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">כל <ns1:g id="count">%d</ns1:g> שבועות</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">כל שנה <ns1:g id="count">%d</ns1:g></item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">כל <ns1:g id="count">%d</ns1:g> שנים</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">פעם בשבוע ב-<ns1:g id="days_of_week">%2$s</ns1:g></item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other">מדי <ns1:g id="number">%1$d</ns1:g> שבועות ב-<ns1:g id="days_of_week">%2$s</ns1:g></item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <string name="every_weekday">"כל יום עבודה (שני\u2013שישי)"</string>
+    <string name="monthly">חודשי</string>
+    <string name="monthly_on_day_count">\"חודשי (כל יום <ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g>)\"</string>
+    <string name="tm_daily">\"יומי\"</string>
+    <string name="yearly_plain">שנתי</string>
+</resources>

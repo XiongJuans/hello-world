@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="true" android:state_pressed="true"
+          android:drawable="@drawable/htc_btn_raise_pressed_dark"/>
+    <item android:drawable="@drawable/htc_btn_raised_shape_dark" />
+    <item android:state_enabled="false"
+          android:drawable="@drawable/htc_btn_raised_shape_disable_dark" />
+</selector>
+
+<!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/drawable/htc_btn_raise_ripple_dark.xml --><!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/drawable/htc_btn_raise_ripple_dark.xml -->

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/ai_tips_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/ai_tip_background"
+        android:gravity="center_vertical"
+        android:paddingBottom="@dimen/digital_margin_right"
+        android:paddingLeft="@dimen/digital_margin_left"
+        android:paddingRight="@dimen/digital_margin_left"
+        android:paddingTop="@dimen/digital_margin_right"
+        android:visibility="gone">
+
+        <Button
+            android:id="@+id/ai_cancel_button"
+            android:layout_width="@dimen/ai_tips_margin"
+            android:layout_height="@dimen/ai_tips_margin"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/icon_btn_cancel_dark_s" />
+
+        <TextView
+            android:id="@+id/ai_alarm_tips"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toStartOf="@id/ai_cancel_button"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+
+    <com.htc.lib1.cc.widget.HtcListView
+        android:id="@+id/alarms_list"
+        style="@style/HtcListView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:cacheColorHint="@android:color/transparent"
+        android:fadingEdge="none" />
+</LinearLayout>
+
+
+<!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/layout/main_alarm_clock.xml -->

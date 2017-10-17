@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string-array name="days_of_week">
+        <item>Mandag</item><!--MONDAY-->
+        <item>Tirsdag</item><!--TUESDAY-->
+        <item>Onsdag</item><!--WEDNESDAY-->
+        <item>Torsdag</item><!--THURSDAY-->
+        <item>Fredag</item><!--FRIDAY-->
+        <item>Lørdag</item><!--SATURDAY-->
+        <item>Søndag</item><!--SUNDAY-->
+    </string-array>
+    <string-array name="days_of_week_abbr">
+        <item>M</item><!--M-->
+        <item>Ti</item><!--TU-->
+        <item>O</item><!--W-->
+        <item>To</item><!--TH-->
+        <item>F</item><!--F-->
+        <item>Lø</item><!--SA-->
+        <item>Sø</item><!--SU-->
+    </string-array>
+    <string-array name="days_of_week_capital">
+        <item/><!---->
+        <item>Søn</item><!--SUN-->
+        <item>Man</item><!--MON-->
+        <item>Tir</item><!--TUE-->
+        <item>Ons</item><!--WED-->
+        <item>Tor</item><!--THU-->
+        <item>Fre</item><!--FRI-->
+        <item>Lør</item><!--SAT-->
+    </string-array>
+    <string-array name="days_of_week_short">
+        <item>@string/tm_mon</item>
+        <item>@string/tm_tue</item>
+        <item>@string/tm_wed</item>
+        <item>@string/tm_thu</item>
+        <item>@string/tm_fri</item>
+        <item>@string/tm_sat</item>
+        <item>@string/tm_sun</item>
+    </string-array>
+    <string-array name="days_of_week_whole_capital">
+        <item/>
+        <item>Søndag</item><!--SUNDAY-->
+        <item>Mandag</item><!--MONDAY-->
+        <item>Tirsdag</item><!--TUESDAY-->
+        <item>Onsdag</item><!--WEDNESDAY-->
+        <item>Torsdag</item><!--THURSDAY-->
+        <item>Fredag</item><!--FRIDAY-->
+        <item>Lørdag</item><!--SATURDAY-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/WeatherLib1/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string-array name="htc_weather_conditions">
+<!-- weather condition 1 : Sunny -->
+        <item>Sol</item><!--Sunny-->
+<!-- weather condition 2 : Mostly Sunny -->
+        <item>Sol for det meste</item><!--Mostly Sunny-->
+<!-- weather condition 3 : Partly Sunny -->
+        <item>Delvis sol</item><!--Partly Sunny-->
+<!-- weather condition 4 : Intermittent Clouds -->
+        <item>Spredte skyer</item><!--Intermittent Clouds--><!--Intermittent Clouds-->
+<!-- weather condition 5 : Hazy Sunshine -->
+        <item>Disig sol</item><!--Hazy Sunshine-->
+<!-- weather condition 6 : Mostly Cloudy -->
+        <item>For det meste skyet</item><!--Mostly Cloudy--><!--Mostly Cloudy-->
+<!-- weather condition 7 : Cloudy -->
+        <item>Overskyet</item><!--Cloudy-->
+<!-- weather condition 8 : Dreary -->
+        <item>Guffent</item><!--Dreary-->
+<!-- weather condition 11 : Fog -->
+        <item>Tåke</item><!--Fog-->
+<!-- weather condition 12 : Showers -->
+        <item>Regnskurer</item><!--Showers-->
+<!-- weather condition 13 : Mostly Cloudy with Showers -->
+        <item>For det meste skyet med regnskurer</item><!--Mostly Cloudy with Showers--><!--Mostly Cloudy with Showers-->
+<!-- weather condition 14 : Partly Sunny with Showers -->
+        <item>Delvis solfylt med regnskurer</item><!--Partly Sunny with Showers-->
+<!-- weather condition 15 : Thunderstorms -->
+        <item>Tordenvær</item><!--Thunderstorms-->
+<!-- weather condition 16 : Mostly Cloudy with Thunder Showers -->
+        <item>For det meste skyet med tordenskurer</item><!--Mostly Cloudy with Thunder Showers--><!--Mostly Cloudy with Thunder Showers-->
+<!-- weather condition 17 : Partly Sunny with Thunder Showers -->
+        <item>Delvis solfylt med regnskurer</item><!--Partly Sunny with Thunder Showers-->
+<!-- weather condition 18 : Rain -->
+        <item>Regn</item><!--Rain-->
+<!-- weather condition 19 : Flurries -->
+        <item>Sludd</item><!--Flurries-->
+<!-- weather condition 20 : Mostly Cloudy with Flurries -->
+        <item>For det meste skyet med sludd</item><!--Mostly Cloudy with Flurries--><!--Mostly Cloudy with Flurries-->
+<!-- weather condition 21 : Partly Sunny with Flurries -->
+        <item>Delvis solfylt med sludd</item><!--Partly Sunny with Flurries-->
+<!-- weather condition 22 : Snow -->
+        <item>Snø</item><!--Snow-->
+<!-- weather condition 23 : Mostly Cloudy with Snow -->
+        <item>For det meste skyet med snø</item><!--Mostly Cloudy with Snow-->
+<!-- weather condition 24 : Ice -->
+        <item>Is</item><!--Ice-->
+<!-- weather condition 25 : Sleet -->
+        <item>Sludd</item><!--Sleet-->
+<!-- weather condition 26 : Freezing Rain -->
+        <item>Isregn</item><!--Freezing Rain-->
+<!-- weather condition 29 : Rain and Snow Mixed -->
+        <item>Regn og snø</item><!--Rain and Snow Mixed-->
+<!-- weather condition 30 : Hot -->
+        <item>Varmt</item><!--Hot-->
+<!-- weather condition 31 : Cold -->
+        <item>Kaldt</item><!--Cold-->
+<!-- weather condition 32 : Windy -->
+        <item>Vind</item><!--Windy-->
+<!-- weather condition 33 : Clear -->
+        <item>Klart</item><!--Clear-->
+<!-- weather condition 34 : Mostly Clear -->
+        <item>For det meste skyfritt</item><!--Mostly Clear-->
+<!-- weather condition 35 : Partly Cloudy -->
+        <item>Delvis skyet</item><!--Partly Cloudy-->
+<!-- weather condition 36 : Intermittent Clouds -->
+        <item>Spredte skyer</item><!--Intermittent Clouds--><!--Intermittent Clouds-->
+<!-- weather condition 37 : Hazy -->
+        <item>Disig</item><!--Hazy-->
+<!-- weather condition 38 : Mostly Cloudy -->
+        <item>For det meste skyet</item><!--Mostly Cloudy--><!--Mostly Cloudy-->
+<!-- weather condition 39 : Partly Cloudy with Showers -->
+        <item>Delvis skyet med regnbyger</item><!--Partly Cloudy with Showers-->
+<!-- weather condition 40 : Mostly Cloudy with Showers -->
+        <item>For det meste skyet med regnskurer</item><!--Mostly Cloudy with Showers--><!--Mostly Cloudy with Showers-->
+<!-- weather condition 41 : Partly Cloudy with Thunder Showers -->
+        <item>Delvis skyet med tordenskruer</item><!--Partly Cloudy with Thunder Showers-->
+<!-- weather condition 42 : Mostly Cloudy with Thunder Showers -->
+        <item>For det meste skyet med tordenskurer</item><!--Mostly Cloudy with Thunder Showers--><!--Mostly Cloudy with Thunder Showers-->
+<!-- weather condition 43 : Partly Cloudy with Flurries -->
+        <item>Delvis skyet med sludd</item><!--Partly Cloudy with Flurries-->
+<!-- weather condition 44 : Mostly Cloudy with Flurries -->
+        <item>For det meste skyet med sludd</item><!--Mostly Cloudy with Flurries--><!--Mostly Cloudy with Flurries-->
+<!-- _For Huafeng -->
+<!-- weather condition 51 : -->
+        <item>Tordenvær med sludd</item><!--Thunderstorms with sleet-->
+<!-- weather condition 52 : -->
+        <item>Sand</item><!--Sand-->
+<!-- weather condition 53 : -->
+        <item>Støv</item><!--Dust-->
+<!-- weather condition 54 : -->
+        <item>Tornado</item><!--Tornado-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string-array name="month_of_year">
+    	<item>Jan</item><!--JAN-->
+    	<item>FEB</item><!--FEB-->
+    	<item>Mar</item><!--MAR-->
+    	<item>Apr</item><!--APR-->
+    	<item>Mai</item><!--MAY-->
+    	<item>Jun</item><!--JUN-->
+    	<item>Jul</item><!--JUL-->
+    	<item>Aug</item><!--AUG-->
+    	<item>Sep</item><!--SEP-->
+    	<item>Okt</item><!--OCT-->
+    	<item>Nov</item><!--NOV-->
+    	<item>Des</item><!--DEC-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>på hver første fredag</item><!--on every first Friday-->
+        <item>på hver andre fredag</item><!--on every second Friday-->
+        <item>på hver tredje fredag</item><!--on every third Friday-->
+        <item>på hver fjerde fredag</item><!--on every fourth Friday-->
+        <item>på hver siste fredag</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>på hver første mandag</item><!--on every first Monday-->
+        <item>på hver andre mandag</item><!--on every second Monday-->
+        <item>på hver tredje mandag</item><!--on every third Monday-->
+        <item>på hver fjerde mandag</item><!--on every fourth Monday-->
+        <item>på hver siste mandag</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>på hver første lørdag</item><!--on every first Saturday-->
+        <item>på hver andre lørdag</item><!--on every second Saturday-->
+        <item>på hver tredje lørdag</item><!--on every third Saturday-->
+        <item>på hver fjerde lørdag</item><!--on every fourth Saturday-->
+        <item>på hver siste lørdag</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>på hver første søndag</item><!--on every first Sunday-->
+        <item>på hver andre søndag</item><!--on every second Sunday-->
+        <item>på hver tredje søndag</item><!--on every third Sunday-->
+        <item>på hver fjerde søndag</item><!--on every fourth Sunday-->
+        <item>på hver siste søndag</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>på hver første torsdag</item><!--on every first Thursday-->
+        <item>på hver andre torsdag</item><!--on every second Thursday-->
+        <item>på hver tredje torsdag</item><!--on every third Thursday-->
+        <item>på hver fjerde torsdag</item><!--on every fourth Thursday-->
+        <item>på hver siste torsdag</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>på hver første tirsdag</item><!--on every first Tuesday-->
+        <item>på hver andre tirsdag</item><!--on every second Tuesday-->
+        <item>på hver tredje tirsdag</item><!--on every third Tuesday-->
+        <item>på hver fjerde tirsdag</item><!--on every fourth Tuesday-->
+        <item>på hver siste tirsdag</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>på hver første onsdag</item><!--on every first Wednesday-->
+        <item>på hver andre onsdag</item><!--on every second Wednesday-->
+        <item>på hver tredje onsdag</item><!--on every third Wednesday-->
+        <item>på hver fjerde onsdag</item><!--on every fourth Wednesday-->
+        <item>på hver siste onsdag</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string-array name="repeat_option">
+        <item>Man-Fre</item><!--Mon -/ Fri-->
+        <item>Ikke gjenta</item><!--Do not repeat-->
+        <item>Hver dag</item><!--Every day-->
+        <item>Hopp over ferier</item><!--Skip holidays-->
+        <item>Tilpasset</item><!--Custom-->
+    </string-array>
+    <string-array name="snooze_duration_entries">
+      <item>5 minutter</item><!--5 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_10_minutes</item>
+      <item>15 minutter</item><!--15 minutes-->
+      <item>20 minutter</item><!--20 minutes-->
+      <item>25 minutter</item><!--25 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_30_minutes</item>
+    </string-array>
+    <string-array name="sound_selection_setting_entries">
+<!-- Alarm sound -->
+      <item>Alarmlyd</item><!--Alarm sound-->
+<!-- Do not translate. Ringtone -->
+      <item>@string/nn_ringtone</item>
+<!-- Do not translate. Music -->
+      <item>@string/nn_music</item>
+    </string-array>
+    <string-array name="sprint_volume_button_setting_entries">
+      <item>Gjør ingenting</item><!--Do nothing-->
+
+      <item>Slumre</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+
+      <item>Stille</item><!--Silence-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>Liten</item><!--Small-->
+        <item>Middels</item><!--Medium-->
+        <item>Stor</item><!--Large-->
+        <item>Ekstra stor</item><!--Extra large-->
+        <item>Kjempestor</item><!--Huge-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string-array name="volume_button_setting_entries">
+      <item>Gjør ingenting</item><!--Do nothing-->
+
+      <item>Pause</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string-array name="weeklayout_secondary_text">
+        <item>Sø</item><!--SU-->
+        <item>M</item><!--M-->
+        <item>Ti</item><!--TU-->
+        <item>O</item><!--W-->
+        <item>To</item><!--TH-->
+        <item>F</item><!--F-->
+        <item>Lø</item><!--SA-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">en gang</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> ganger</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Hver <ns1:g id="count">%d</ns1:g>. dag</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Hver <ns1:g id="count">%d</ns1:g>. dag</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Hver <ns1:g id="count">%d</ns1:g>. måned</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Hver <ns1:g id="count">%d</ns1:g>. måned</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Hver <ns1:g id="count">%d</ns1:g>. uke</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Hver <ns1:g id="count">%d</ns1:g>. uke</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Hvert <ns1:g id="count">%d</ns1:g>. år</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Hvert <ns1:g id="count">%d</ns1:g>. år</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">Ukentlig på <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other">Hver <ns1:g id="number">%1$d</ns1:g>. uke på <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Gå til startsiden"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s – %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s – %2$s – %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Gå opp"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Flere alternativer"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Ferdig"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Se alle"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Velg en app"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"AV"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"PÅ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Søk …"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Slett søket"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Søkeord"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Søk"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Utfør søket"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Talesøk"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Del med"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Del med %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Skjul"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="accessibility_tap_action">Dobbelttrykk for handling</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="add_alarm">Legg til alarm</string>
+    <string name="add_alarm_error">Maksimalt antall alarmer nådd.</string>
+    <string name="add_city">Legg til by</string>
+    <string name="add_city_error_msg">Du kan ha opptil 15 byer. Slett en eksisterende by før du legger til en ny.</string>
+    <string name="add_city_error_title">Kan ikke legge til by</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="add_comments">Legg til kommentar</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="add_lap_error">Stoppeklokke can lagre opptil 300 runder. Trykk på Nullstill for å tømme rundeloggen.</string>
+    <string name="addcity_search">Finn byer</string>
+    <string name="alarm_alert_alert_silenced">Alarm slått av etter <ns1:g id="minutes">%d</ns1:g> minutter.</string>
+    <string name="alarm_alert_dismissed">Alarm avvist.</string>
+    <string name="alarm_alert_snooze_not_set">Pause ikke angitt. Neste alarm angitt for <ns1:g id="time">%s</ns1:g></string>
+    <string name="alarm_alert_snooze_set">Pause i <ns1:g id="minutes">%d</ns1:g> minutter.</string>
+    <string name="alarm_caption">Alarmer</string>
+    <string name="alarm_in_volume_increase_mode_summary">Øk alarmvolumet gradvis</string>
+    <string name="alarm_in_volume_increase_mode_title">Varsom alarm</string>
+    <string name="alarm_notify_snooze_label"><ns1:g id="label">%s</ns1:g> (i pause)</string>
+    <string name="alarm_notify_snooze_text">Alarm angitt for <ns1:g id="time">%s</ns1:g>. Klikk for å avbryte.</string>
+    <string name="alarm_off">Alarm av</string>
+    <string name="alarm_offalarm">Lyd når telefonen er av</string>
+    <string name="alarm_on">Alarm på</string>
+    <string name="alarm_repeat">Gjenta</string>
+    <string name="alarm_ringtone">Alarmlyd</string>
+    <string name="alarm_set">Denne alarmen er angitt for <ns1:g id="time_delta">%s</ns1:g> fra nå.</string>
+    <string name="alarm_vibrate">Vibrer</string>
+    <string name="alarm_volume_summary">Angi volumet for alarmer</string>
+    <string name="alarm_volume_title">Alarmvolum</string>
+    <string name="alert_sound">Alarmlyd</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="am">AM</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="analog_gadget">Analog klokke</string>
+    <string name="and">" og "</string>
+    <string name="bt_cancel_str">Avbryt</string>
+    <string name="bt_done_str">Ferdig</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="button_hide_caption">Skjul bildetekst</string>
+    <string name="button_hide_description">Skjul beskrivelse</string>
+    <string name="button_show_caption">Vis bildetekst</string>
+    <string name="button_show_description">Vis beskrivelse</string>
+    <string name="carousel_title">Rediger kategorier</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="city_duplicate">Denne byen er allerede på listen</string>
+    <string name="city_not_found">FANT IKKE BY</string>
+    <string name="clock_permission_dialog_btn_close">Lukk</string>
+    <string name="clock_permission_dialog_btn_settings">Innstillinger</string>
+    <string name="clock_permission_dialog_content">For å fungere riktig trenger denne appen tilgang til lagringsområdet ditt. Du kan administrere klokkens tillatelser i Innstillinger.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">Søk i Personer</string>
+    <string name="common_string_open_contact">Åpne kontakt</string>
+    <string name="common_string_save_to_existing_contact">Lagre i eksisterende kontakt</string>
+    <string name="common_string_save_to_people">Lagre i Personer</string>
+    <string name="common_string_share_title">Del via</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="current_settings">Angi dato og klokkeslett</string>
+    <string name="day_concat">", "</string>
+    <string name="days">"<ns1:g id="days">%s</ns1:g> dager"</string>
+    <string name="dberror">Beklager, denne alarmen kunne ikke angis.</string>
+    <string name="delete_alarm_caption">Slett alarmer</string>
+    <string name="delete_city_caption">Slett byer</string>
+    <string name="desk_clock_caption">Skrivebordsklokke</string>
+    <string name="dialog_button_ok">OK</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="done">Fullført</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="error">Kunne ikke legge til alarm</string>
+    <string name="error_title">Databasefeil</string>
+    <string name="every_day">Hver dag</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="every_weekday">"Hverdager (man–fre)"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="fit_screen_menu_item">Tilpass skjerm</string>
+    <string name="full_screen_menu_item">Full skjerm</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/googleplay_strings.xml -->
+    <eat-comment/>
+    <string name="googleplay_description_app">Enten du er i Taipei på Taiwan eller i Marrakech i Marokko kan du bruke HTC Klokke til å sjekke tiden på din gjeldende plassering, hjemme eller i byer rundt om i verden. Alarmen, stoppeklokken og tidtakeren i appen kan tilpasses og gjør at du har full kontroll over tidsplanlegging i din egen lomme. Sett så mange alarmer du vil, endre slumretidens varighet og velg lyden som skal spilles av når alarmer utløses. Du kan til og med la alarmer utløses når telefonen er i stille modus. HTC Klokkes stoppeklokke er glimrende for registrering av rundetider mens du trener, og tidtakeren er praktisk til matlaging eller for å få med deg når TV-programmer starter.</string>
+    <string name="googleplay_description_legal">[googleplay_description_legal_common_1]</string>
+    <string name="googleplay_description_short">Hold styr på tid med HTCs fikse stoppeklokke, tidtaker, alarm og verdensklokke.</string>
+    <string name="googleplay_description_supportingScope"/>
+    <string name="googleplay_title">HTC Klokke</string>
+    <string name="googleplay_whatsnew">- Alarmer blir gradvis avspilt høyere\n- Feilrettinger og ytelsesforbedringer</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="home_settings">Angi hjemmetidssone</string>
+    <string name="hours"><ns1:g id="hours">%s</ns1:g> timer</string>
+    <string name="htc_private_app_clock">Klokke</string>
+    <string name="internal_memory_low">Telefonen har lite lagringsplass. Frigjør plass før du bruker denne applikasjonen.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="label_day">Dag</string>
+    <string name="label_hour">Time</string>
+    <string name="label_minute">Minutt</string>
+    <string name="label_month">Måned</string>
+    <string name="label_second">Sekund</string>
+    <string name="label_year">År</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="lap">Runde</string>
+    <string name="lap_error">Runde ikke lagret</string>
+    <string name="lap_id">Runde nr</string>
+    <string name="lap_time">Denne r.</string>
+    <string name="lap_title">Runde</string>
+    <string name="lap_total_time">Totalt</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="license_dialog_content">Enkelte ikoner som brukes på denne telefonen, ble opprinnelig designet av Google og tilpasses av HTC ifølge <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons License BY4.0</a>.</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="loading_city">Laster byliste...</string>
+    <string name="location_dialog_msg">For å hente lokalt vær må du endre plasseringsinnstillingene til batterisparing eller høy nøyaktighet-modus.</string>
+    <string name="location_dialog_title">Stedstjenester er av</string>
+    <string name="location_enable">Hvis du vil se lokalt vær, klikker du her for å slå på plasseringstjenesten.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="location_unavailable">Plassering ikke tilgjengelig</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="lockscreen_hint_dismiss">Dra ned for å lukke</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="ls_doubletap_drag">dobbeltklikk og dra for å justere</string>
+    <string name="ls_edit_number_before_calling">Rediger nummer før du ringer</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="ls_no_weather_data_available">Ingen værdata tilgjengelig</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="ls_open_in_map">Åpne i kart</string>
+    <string name="ls_tablet_storage_error">Det oppstod en feil med lagringsstedet for nettbrettet. Start enheten på nytt eller formater lagringsstedet.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="masthead_st_am">AM</string>
+    <string name="masthead_st_auto_sync_off">Automatisk synkronisering er av. Klikk for å se været.</string>
+    <string name="masthead_st_current_location">Gjeldende plassering</string>
+    <string name="masthead_st_device_only_off">Endre plasseringstjenestemodus for å hente vær</string>
+    <string name="masthead_st_location_service_off">Slå på plasseringstjenester for å hente vær</string>
+    <string name="masthead_st_pm">PM</string>
+    <string name="masthead_st_weather_unavailable">Vær utilgjengelig</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="menu_crop">Beskjær</string>
+    <string name="menu_delete">Slett</string>
+    <string name="menu_properties">Detaljer</string>
+    <string name="menu_protect_info">Beskyttelsesinfo</string>
+    <string name="menu_save_to_my_favorite">Angi som favoritt</string>
+    <string name="menu_send_photo_link_by_email">Del fotokobling</string>
+    <string name="menu_set_as">Angi som</string>
+    <string name="menu_settings">Innstillinger</string>
+    <string name="menu_share">Del</string>
+    <string name="menu_show_on_map">Vis på kart</string>
+    <string name="menu_slideshow">Lysbildefremvisning</string>
+    <string name="menu_view_full">Vis</string>
+    <string name="menu_view_video">Spill</string>
+    <string name="meun_rotate">Roter</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="minutes">"<ns1:g id="minutes">%s</ns1:g> minutter"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="monthly">"Månedlig"</string>
+    <string name="monthly_on_day_count">"Månedlig (hver <ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g>)"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="nextAlarm">Neste alarm: <ns1:g id="next_alarm_time">%s</ns1:g></string>
+    <string name="night_clock">@string/desk_clock_caption</string>
+    <string name="nn_alarm">Alarm</string>
+    <string name="nn_description">Beskrivelse</string>
+    <string name="nn_music">Musikk</string>
+    <string name="nn_ringtone">Ringetone</string>
+    <string name="nn_settings">"Innstillinger"</string>
+    <string name="nn_tips_help">Tips og hjelp</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">"Ukjent feil"</string>
+    <string name="no">Nei</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="pause">Pause</string>
+    <string name="phone_type_home">Hjemme</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="pm">PM</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="query_fail">Det oppstod feil med tilgang til databasen</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="quickselection_share">Del via</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="rearrange_city_caption">Rediger liste</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="refresh">Oppdater</string>
+    <string name="reminderview_common_unlock_hint_icon">Trekk ikon opp</string>
+    <string name="reminderview_common_unlock_hint_up">Trekk opp for å låse opp</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="reset">Nullst.</string>
+    <string name="resume">Gjenoppta</string>
+    <string name="ringtone_title">Ringetoner</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string msgid="146198913615257606" name="search_menu_title">"Søk"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="select_alert">Velg varsellyd</string>
+    <string name="select_ringtone">Velg alarmlyd</string>
+    <string name="set_alarm_caption">Angi alarm</string>
+    <string name="snooze">Pause</string>
+    <string name="snooze_duration_title">Pausevarighet</string>
+    <string name="sound_selection_title">Velg alarmlyd fra</string>
+    <string name="space">" "</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">Slipp for å oppdatere</string>
+    <string name="st_action_bar_updating">Oppdaterer …</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="st_default">Standard</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="st_draggable_item">Flyttbart element</string>
+    <string name="st_loading">Laster...</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="st_more">Mer</string>
+    <string name="st_never">Aldri</string>
+    <string name="st_off">Av</string>
+    <string name="st_on">På</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="st_pull_down_refresh">Trekk ned for å oppdatere</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="st_silent">Stille</string>
+    <string name="st_storage_full">Lagringsområde fullt</string>
+    <string name="start">Start</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="stop">Stopp</string>
+    <string name="stopwatch_caption">Stoppeklokke</string>
+    <string name="storage_full_description">Du har ikke nok ledig plass i telefonens lagringsområde. Slett innhold eller applikasjoner. Klikk på \"Innstillinger\" nedenfor for å administrere appene dine.</string>
+    <string name="subminute">"mindre enn 1 minutt"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="tab_remove_dialog_message">Du har én kategori igjen. Hvis du vil legge flere kategorier til denne appen, velger du Rediger kategorier/Filtere i menyen.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="time_up">Tiden er ute</string>
+    <string name="timer_caption">Tidtaker</string>
+    <string name="timer_reminder_tile_setting">Innstillinger</string>
+    <string name="timer_reminder_tile_timer_up">Tiden er over</string>
+    <string name="tm_10_minutes">"10 minutter"</string>
+    <string name="tm_1_day">"En dag"</string>
+    <string name="tm_1_hour">1 time</string>
+    <string name="tm_1_minute">"1 minutt"</string>
+    <string name="tm_30_minutes">"30 minutter"</string>
+    <string name="tm_am">AM</string>
+    <string name="tm_current">Gjeldende</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="tm_daily">"Daglig"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="tm_fri">Fre</string>
+    <string name="tm_mon">Man</string>
+    <string name="tm_pm">PM</string>
+    <string name="tm_sat">Lør</string>
+    <string name="tm_sun">Søn</string>
+    <string name="tm_thu">Tor</string>
+    <string name="tm_today">I dag</string>
+    <string name="tm_tomorrow">I morgen</string>
+    <string name="tm_tue">Tir</string>
+    <string name="tm_wed">Ons</string>
+    <string name="tm_yesterday">I går</string>
+    <string name="total_title">Totalt</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">Kan ikke fjerne denne kategorien</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="va_add">Legg til</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="va_back">Tilbake</string>
+    <string name="va_call">Ring</string>
+    <string name="va_cancel">Avbryt</string>
+    <string name="va_clear">"Nullstill"</string>
+    <string name="va_close">Lukk</string>
+    <string name="va_copy">Kopier</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="va_deselect_all">Opphev all merking</string>
+    <string name="va_dismiss">"Lukk"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="va_download">Last ned</string>
+    <string name="va_downloading">Laster ned</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="va_edit">Rediger</string>
+    <string name="va_edit_tabs">Rediger kategorier</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="va_finish">Fullfør</string>
+    <string name="va_hide">"Skjul"</string>
+    <string name="va_move_above">Flytt over</string>
+    <string name="va_move_below">Flytt under</string>
+    <string name="va_next">Neste</string>
+    <string name="va_ok">OK</string>
+    <string name="va_open">Åpne</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="va_rearrange">Ordne</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="va_reset">Tilbakestill</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="va_select_all">Merk alt</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="va_send_mail">Send e-post</string>
+    <string name="va_send_message">Send melding</string>
+    <string name="va_show_all">Vis alle</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="volume_button_setting_summary">Velg hva volumknappene skal gjøre når de trykkes under en alarm</string>
+    <string name="volume_button_setting_title">Volumknappalternativer</string>
+    <string name="weather_high_indicator">H:</string>
+    <string name="weather_low_indicator">L:</string>
+    <string name="world_clock_caption">Global klokke</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="yearly_plain">Årlig</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="yes">Ja</string>
+</resources>

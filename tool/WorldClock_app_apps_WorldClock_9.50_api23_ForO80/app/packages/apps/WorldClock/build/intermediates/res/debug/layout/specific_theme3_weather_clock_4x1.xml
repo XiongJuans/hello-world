@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:layout_marginLeft="@dimen/theme3_masthead_margin_left"
+                android:layout_marginRight="@dimen/theme3_masthead_margin_right"
+                android:layoutDirection="ltr">
+    <RelativeLayout
+        android:id="@+id/widget_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/theme3_gap_margin_left_right"
+        android:layout_marginRight="@dimen/theme3_gap_margin_left_right"
+        android:layout_marginBottom="@dimen/libmasthead_masthead_widget_padding_bottom"
+        android:layout_marginTop="@dimen/libmasthead_masthead_widget_padding_top">
+
+        <!-- left part -->
+        <FrameLayout android:layout_height="wrap_content"
+                     android:id="@+id/digital_gap"
+                     android:layout_width="@dimen/theme3_digital_gap_width"
+                     android:layout_alignParentLeft="true"/>
+        <include
+            android:id="@+id/digital_clock"
+            layout="@layout/specific_theme3_weather_clock_4x1_digital"
+            android:layout_toRightOf="@+id/digital_gap"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/theme3_digital_clock_margin_top"/>
+
+        <!-- full name area part -->
+        <RelativeLayout
+            android:id="@+id/full_name_area"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentTop="true"
+            android:gravity="end"
+            android:orientation="vertical"
+            android:layout_above="@id/digital_am_pm"
+            android:paddingLeft="@dimen/leading">
+            <TextView
+                android:id="@+id/week_date"
+                style="@style/fixed_masthead_18"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="@dimen/theme3_date_margin_top"
+                android:layout_marginRight="@dimen/theme3_date_margin_right"
+                android:singleLine="true"
+                android:requiresFadingEdge="horizontal"
+                android:ellipsize="none"/>
+            </RelativeLayout>
+
+        <!-- right part -->
+        <RelativeLayout
+            android:id="@+id/info_temp_area"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentTop="true"
+            android:gravity="end"
+            android:orientation="vertical"
+            android:layout_toRightOf="@+id/digital_clock"
+            android:paddingLeft="@dimen/leading">
+            <com.htc.lib1.masthead.view.WeatherDisplay
+                android:id="@+id/sun_block"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentTop="true">
+                <ImageView
+                    android:id="@+id/sun"
+                    android:layout_width="@dimen/theme3_sun_small_width"
+                    android:layout_height="@dimen/theme3_sun_small_height"
+                    android:visibility="gone"/>
+                <TextView
+                    android:id="@+id/no_weather_text"
+                    style="@style/fixed_masthead_19"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/theme3_error_text_height"
+                    android:paddingRight="@dimen/theme3_location_padding_right"
+                    android:ellipsize="end"
+                    android:gravity="right|center_vertical"
+                    android:visibility="gone"/>
+            </com.htc.lib1.masthead.view.WeatherDisplay>
+            <TextView
+                android:id="@+id/holiday_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/theme_italic_padding_shift"
+                android:paddingRight="@dimen/leading"
+                android:layout_weight="1"
+                android:singleLine="true"
+                android:ellipsize="marquee"
+                android:letterSpacing="0.15"
+                style="@style/fixed_masthead_18"
+                android:visibility="gone"/>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="@dimen/theme3_info_temp_area_margin_top"
+                android:orientation="horizontal">
+                <include layout="@layout/specific_theme3_weather_clock_4x1_info"/>
+            </LinearLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <include
+        android:id="@+id/travel_layout"
+        layout="@layout/specific_theme0_clock_dual_4x1"/>
+</RelativeLayout><!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/layout/specific_theme3_weather_clock_4x1.xml --><!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/layout/specific_theme3_weather_clock_4x1.xml -->

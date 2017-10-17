@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-tr/strings.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>Küçük</item><!--Small-->
+        <item>Orta</item><!--Medium-->
+        <item>Büyük</item><!--Large-->
+        <item>Çok büyük</item><!--Extra large-->
+        <item>Çok Büyük</item><!--Huge-->
+    </string-array>
+    <string-array name="weeklayout_secondary_text">
+        <item>Pa</item><!--SU-->
+        <item>Pz</item><!--M-->
+        <item>Sa</item><!--TU-->
+        <item>Çr</item><!--W-->
+        <item>Pş</item><!--TH-->
+        <item>Cu</item><!--F-->
+        <item>Ct</item><!--SA-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-tr/values-tr.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ana ekrana git"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Yukarı git"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Diğer seçenekler"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Tamamlandı"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Tümünü göster"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Bir uygulama seçin"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Ara…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Sorguyu temizle"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Arama sorgusu"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Ara"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Sorguyu gönder"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Sesli arama"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Şununla paylaş"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s ile paylaş"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Daralt"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-tr/strings.xml -->
+    <eat-comment/>
+    <string name="accessibility_tap_action">Eyleme iki kez dokunun</string>
+    <string name="add_comments">Yorum ekle</string>
+    <string name="am">AM</string>
+    <string name="button_hide_caption">Başlığı gizle</string>
+    <string name="button_hide_description">Tanımı gizle</string>
+    <string name="button_show_caption">Başlığı göster</string>
+    <string name="button_show_description">Tanımı göster</string>
+    <string name="carousel_title">Sekmeleri Düzenle</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-tr/htc_strings.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">Kişileri ara</string>
+    <string name="common_string_open_contact">Kişi aç</string>
+    <string name="common_string_save_to_existing_contact">Mevcut kişiye ekle</string>
+    <string name="common_string_save_to_people">Kişiler\'e Kaydet</string>
+    <string name="common_string_share_title">Bununla paylaş</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-tr/strings.xml -->
+    <eat-comment/>
+    <string name="done">Bitti</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-tr/htc_strings.xml -->
+    <eat-comment/>
+    <string name="label_day">Gün</string>
+    <string name="label_hour">Saat</string>
+    <string name="label_minute">Dakika</string>
+    <string name="label_month">Ay</string>
+    <string name="label_second">Saniye</string>
+    <string name="label_year">Yıl</string>
+    <string name="license_dialog_content">Bu telefonda kullanılan bazı simgeler orijinal olarak Google tarafından tasarlanmıştır ve HTC tarafından <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons License Alıntı 4.0</a> altında düzenlenmiştir.</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <string name="ls_doubletap_drag">ayarlamak için iki defa dokunun ve sürükleyin</string>
+    <string name="ls_edit_number_before_calling">Aramadan önce numarayı düzenle</string>
+    <string name="ls_open_in_map">Harita\'da aç</string>
+    <string name="ls_tablet_storage_error">Tabletinizin depolama alanında bir hata ile karşılaşıldı. Lütfen aygıtı yeniden başlatın veya depolama alanını biçimlendirin.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-tr/strings.xml -->
+    <eat-comment/>
+    <string name="menu_crop">Kes</string>
+    <string name="menu_delete">Sil</string>
+    <string name="menu_properties">Detaylar</string>
+    <string name="menu_protect_info">Koruma bilgileri</string>
+    <string name="menu_save_to_my_favorite">Sık kullanan olarak ayarla</string>
+    <string name="menu_send_photo_link_by_email">Fotoğraf bağlantısını paylaş</string>
+    <string name="menu_set_as">Böyle ayarla</string>
+    <string name="menu_settings">Ayarlar</string>
+    <string name="menu_share">Paylaş</string>
+    <string name="menu_show_on_map">Haritada göster</string>
+    <string name="menu_slideshow">Slayt Gösterisi</string>
+    <string name="menu_view_full">Görüntüle</string>
+    <string name="menu_view_video">Yürüt</string>
+    <string name="meun_rotate">Döndür</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-tr/htc_strings.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">"Bilinmeyen hata"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-tr/strings.xml -->
+    <eat-comment/>
+    <string name="no">Hayır</string>
+    <string name="pm">PM</string>
+    <string name="quickselection_share">Bununla paylaş</string>
+    <string name="refresh">Yenile</string>
+    <string name="reminderview_common_unlock_hint_icon">Simgeyi yukarı çek</string>
+    <string name="reminderview_common_unlock_hint_up">Kilidi açmak için yukarı çekin</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-tr/htc_strings.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">Yenilemek için serbest bırak</string>
+    <string name="st_action_bar_updating">Güncelleştiriliyor...</string>
+    <string name="st_draggable_item">Süreklenebilir öğe</string>
+    <string name="st_loading">Yüklüyor...</string>
+    <string name="st_more">Daha</string>
+    <string name="st_pull_down_refresh">Yenilemek için aşağı çek</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-tr/values-tr.xml -->
+    <eat-comment/>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-tr/htc_strings.xml -->
+    <eat-comment/>
+    <string name="tab_remove_dialog_message">Yalnızca bir sekme bıraktınız. Bu uygulama için daha fazla sekme eklemek üzere, menüden Sekmeleri/Filtreleri Düzenle sekmelerini seçin.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-tr/strings.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">Bu sekme kaldırılamadı</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-tr/htc_strings.xml -->
+    <eat-comment/>
+    <string name="va_back">Geri</string>
+    <string name="va_call">Ara</string>
+    <string name="va_cancel">İptal</string>
+    <string name="va_clear">Temizle</string>
+    <string name="va_close">Kapat</string>
+    <string name="va_copy">Kopyala</string>
+    <string name="va_download">İndir</string>
+    <string name="va_downloading">İndiriliyor</string>
+    <string name="va_finish">Son</string>
+    <string name="va_hide">"Gizle"</string>
+    <string name="va_move_above">Yukarı taşı</string>
+    <string name="va_move_below">Aşağı taşı</string>
+    <string name="va_next">İleri</string>
+    <string name="va_ok">TAMAM</string>
+    <string name="va_open">Aç</string>
+    <string name="va_reset">Sıfırla</string>
+    <string name="va_send_mail">E-posta gönder</string>
+    <string name="va_send_message">İleti gönder</string>
+    <string name="va_show_all">Tümünü göster</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-tr/strings.xml -->
+    <eat-comment/>
+    <string name="yes">Evet</string>
+</resources>

@@ -1,0 +1,1093 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/config.xml -->
+    <eat-comment/>
+    <bool name="config_flip_animation">true</bool>
+    <bool name="config_full_name_month">true</bool>
+    <declare-styleable name="MastheadMaskImageView"><attr format="reference" name="MastheadMask"/><attr name="MaskStyle"><enum name="Normal" value="0"/><enum name="Upper" value="1"/><enum name="Lower" value="2"/></attr></declare-styleable>
+    <declare-styleable name="MastheadView"><attr name="DisplayMode"><enum name="Normal" value="0"/><enum name="Simple" value="1"/><enum name="Large" value="2"/><enum name="Powersaving" value="3"/><enum name="Large2line" value="4"/></attr></declare-styleable>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/automotive_style_dimen_common_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="automotive_01">12sp</dimen>
+    <dimen name="automotive_02">35sp</dimen>
+    <dimen name="automotive_03">24sp</dimen>
+    <dimen name="automotive_07">40sp</dimen>
+    <dimen name="automotive_08">40sp</dimen>
+    <dimen name="automotive_11">16sp</dimen>
+    <dimen name="automotive_13">19sp</dimen>
+    <dimen name="automotive_14">20sp</dimen>
+    <dimen name="automotive_15">13sp</dimen>
+    <dimen name="automotive_16">13sp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dummy_res.xml -->
+    <eat-comment/>
+    <dimen name="automotive_darklist_primary_s">20sp</dimen>
+    <dimen name="automotive_title_primary_m">31sp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="dualclock_clocklayout_margin_left1">0dp</dimen>
+    <dimen name="dualclock_clocklayout_margin_left2">16dp</dimen>
+    <dimen name="dualclock_clocklayout_width">164dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dummy_res.xml -->
+    <eat-comment/>
+    <dimen name="fixed_automotive_darklist_primary_s">20dp</dimen>
+    <dimen name="fixed_automotive_title_primary_m">23dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens_other.xml -->
+    <eat-comment/>
+    <dimen name="large2line_theme0_background_block_margin_top">6.67dp</dimen>
+    <dimen name="large2line_theme0_info_temp_area_degree_margin_top">2dp</dimen>
+    <dimen name="large2line_theme0_info_temp_area_degree_symbol_margin_top">0dp</dimen>
+    <dimen name="large2line_theme0_info_temp_area_margin_left">@dimen/margin_l</dimen>
+    <dimen name="large2line_theme0_info_temp_area_margin_top">-2dp</dimen>
+    <dimen name="large2line_theme0_sun_margin_left">@dimen/margin_m</dimen>
+    <dimen name="large_theme0_am_pm_margin_bottom">2.67dp</dimen>
+    <dimen name="large_theme0_background_block_margin_top">15.34dp</dimen>
+    <dimen name="large_theme0_digit_margin_top">6dp</dimen>
+    <dimen name="large_theme0_info_temp_area_degree_margin_top">10.34dp</dimen>
+    <dimen name="large_theme0_info_temp_area_degree_symbol_margin_top">8dp</dimen>
+    <dimen name="large_theme0_info_temp_area_margin_top">8.67dp</dimen>
+    <dimen name="large_theme0_sun_margin_left">23.67dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="libmasthead_masthead_height">123.34dp</dimen>
+    <dimen name="libmasthead_masthead_height_large">133dp</dimen>
+    <dimen name="libmasthead_masthead_height_simple">144.4dp</dimen>
+    <dimen name="libmasthead_masthead_height_twoline">161dp</dimen>
+    <dimen name="libmasthead_masthead_widget_padding_bottom">3.33dp</dimen>
+    <dimen name="libmasthead_masthead_widget_padding_left_right">8dp</dimen>
+    <dimen name="libmasthead_masthead_widget_padding_top">8dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_dimen_common_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="masthead_01">13sp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_shadow_table.xml -->
+    <eat-comment/>
+    <item name="masthead_01_shadowDy" type="dimen">1.7</item>
+    <item name="masthead_01_shadowSize" type="dimen">1.7</item>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_dimen_common_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="masthead_02">11sp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_shadow_table.xml -->
+    <eat-comment/>
+    <item name="masthead_02_shadowDy" type="dimen">1.7</item>
+    <item name="masthead_02_shadowSize" type="dimen">1.7</item>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_dimen_common_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="masthead_03">14sp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_shadow_table.xml -->
+    <eat-comment/>
+    <item name="masthead_03_shadowDy" type="dimen">1.7</item>
+    <item name="masthead_03_shadowSize" type="dimen">1.7</item>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_dimen_common_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="masthead_04">7sp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_shadow_table.xml -->
+    <eat-comment/>
+    <item name="masthead_04_shadowDy" type="dimen">1.7</item>
+    <item name="masthead_04_shadowSize" type="dimen">1.7</item>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_dimen_common_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="masthead_05">10sp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_shadow_table.xml -->
+    <eat-comment/>
+    <item name="masthead_05_shadowDy" type="dimen">1.7</item>
+    <item name="masthead_05_shadowSize" type="dimen">1.7</item>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_dimen_common_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="masthead_06">6sp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_shadow_table.xml -->
+    <eat-comment/>
+    <item name="masthead_06_shadowDy" type="dimen">1.7</item>
+    <item name="masthead_06_shadowSize" type="dimen">1.7</item>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_dimen_common_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="masthead_07">12sp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_shadow_table.xml -->
+    <eat-comment/>
+    <item name="masthead_07_shadowDy" type="dimen">1.7</item>
+    <item name="masthead_07_shadowSize" type="dimen">1.7</item>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_dimen_common_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="masthead_08">12sp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_shadow_table.xml -->
+    <eat-comment/>
+    <item name="masthead_08_shadowDy" type="dimen">1.7</item>
+    <item name="masthead_08_shadowSize" type="dimen">1.7</item>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_dimen_common_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="masthead_09">12sp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_shadow_table.xml -->
+    <eat-comment/>
+    <item name="masthead_09_shadowDy" type="dimen">1.7</item>
+    <item name="masthead_09_shadowSize" type="dimen">1.7</item>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_dimen_common_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="masthead_10">12sp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_shadow_table.xml -->
+    <eat-comment/>
+    <item name="masthead_10_shadowDy" type="dimen">1.7</item>
+    <item name="masthead_10_shadowSize" type="dimen">1.7</item>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_dimen_common_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="masthead_11">12sp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_shadow_table.xml -->
+    <eat-comment/>
+    <item name="masthead_11_shadowDy" type="dimen">1.3</item>
+    <item name="masthead_11_shadowSize" type="dimen">2.0</item>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_dimen_common_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="masthead_12">7sp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_shadow_table.xml -->
+    <eat-comment/>
+    <item name="masthead_12_shadowDy" type="dimen">1.3</item>
+    <item name="masthead_12_shadowSize" type="dimen">2.0</item>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_dimen_common_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="masthead_13">11sp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_shadow_table.xml -->
+    <eat-comment/>
+    <item name="masthead_13_shadowDy" type="dimen">1.3</item>
+    <item name="masthead_13_shadowSize" type="dimen">2.0</item>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_dimen_common_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="masthead_14">10sp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_shadow_table.xml -->
+    <eat-comment/>
+    <item name="masthead_14_shadowDy" type="dimen">1.3</item>
+    <item name="masthead_14_shadowSize" type="dimen">2.0</item>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_dimen_common_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="masthead_15">10sp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_shadow_table.xml -->
+    <eat-comment/>
+    <item name="masthead_15_shadowDy" type="dimen">1.3</item>
+    <item name="masthead_15_shadowSize" type="dimen">2.0</item>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_dimen_common_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="masthead_16">12sp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_shadow_table.xml -->
+    <eat-comment/>
+    <item name="masthead_16_shadowDy" type="dimen">1.3</item>
+    <item name="masthead_16_shadowSize" type="dimen">2.0</item>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_dimen_common_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="masthead_17">7sp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_shadow_table.xml -->
+    <eat-comment/>
+    <item name="masthead_17_shadowDy" type="dimen">1.3</item>
+    <item name="masthead_17_shadowSize" type="dimen">2.0</item>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_dimen_common_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="masthead_18">30sp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_shadow_table.xml -->
+    <eat-comment/>
+    <item name="masthead_18_shadowDy" type="dimen">1.7</item>
+    <item name="masthead_18_shadowSize" type="dimen">1.7</item>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_dimen_common_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="masthead_19">11sp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_shadow_table.xml -->
+    <eat-comment/>
+    <item name="masthead_19_shadowDy" type="dimen">1.7</item>
+    <item name="masthead_19_shadowSize" type="dimen">1.7</item>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_dimen_common_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="masthead_20">11sp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_shadow_table.xml -->
+    <eat-comment/>
+    <item name="masthead_20_shadowDy" type="dimen">1.7</item>
+    <item name="masthead_20_shadowSize" type="dimen">1.7</item>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_dimen_common_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="masthead_21">8sp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_shadow_table.xml -->
+    <eat-comment/>
+    <item name="masthead_21_shadowDy" type="dimen">1.7</item>
+    <item name="masthead_21_shadowSize" type="dimen">1.7</item>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/simple_launcher_style_dimen_common_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="simple_launcher_01">23sp</dimen>
+    <dimen name="simple_launcher_02">20sp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/simple_launcher_style_shadow_table.xml -->
+    <eat-comment/>
+    <item name="simple_launcher_02_shadowDy" type="dimen">0.7</item>
+    <item name="simple_launcher_02_shadowSize" type="dimen">0.7</item>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/simple_launcher_style_dimen_common_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="simple_launcher_03">24sp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/simple_launcher_style_shadow_table.xml -->
+    <eat-comment/>
+    <item name="simple_launcher_03_shadowDy" type="dimen">0.7</item>
+    <item name="simple_launcher_03_shadowSize" type="dimen">0.7</item>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/simple_launcher_style_dimen_common_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="simple_launcher_04">14sp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/simple_launcher_style_shadow_table.xml -->
+    <eat-comment/>
+    <item name="simple_launcher_04_shadowDy" type="dimen">0.7</item>
+    <item name="simple_launcher_04_shadowSize" type="dimen">0.7</item>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/simple_launcher_style_dimen_common_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="simple_launcher_05">13sp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/simple_launcher_style_shadow_table.xml -->
+    <eat-comment/>
+    <item name="simple_launcher_05_shadowDy" type="dimen">0.7</item>
+    <item name="simple_launcher_05_shadowSize" type="dimen">0.7</item>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens_other.xml -->
+    <eat-comment/>
+    <dimen name="simple_theme0_am_pm_margin_bottom">3dp</dimen>
+    <dimen name="simple_theme0_background_block_margin_left">27dp</dimen>
+    <dimen name="simple_theme0_digital_margin_top">24dp</dimen>
+    <dimen name="simple_theme0_info_temp_area_degree_margin_top">9.34dp</dimen>
+    <dimen name="simple_theme0_info_temp_area_degree_symbol_margin_top">5.67dp</dimen>
+    <dimen name="simple_theme0_info_temp_area_margin_top">@dimen/margin_s</dimen>
+    <dimen name="simple_theme0_sun_margin_top">16.67dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens_theme.xml -->
+    <eat-comment/>
+    <dimen name="theme0_am_pm_margin_bottom">3dp</dimen>
+    <dimen name="theme0_background_block_padding_bottom">4dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="theme0_clock_4x1_img_half_height">30dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens_theme.xml -->
+    <eat-comment/>
+    <dimen name="theme0_clock_4x1_img_height">60dp</dimen>
+    <dimen name="theme0_clock_4x1_img_width">38.5dp</dimen>
+    <dimen name="theme0_clock_4x1_img_width_land">38.5dp</dimen>
+    <dimen name="theme0_clock_4x1_img_width_port">38.5dp</dimen>
+    <dimen name="theme0_clock_container_down_4x1_height">30.67dp</dimen>
+    <dimen name="theme0_clock_container_up_4x1_height">29.33dp</dimen>
+    <dimen name="theme0_clock_container_up_4x1_height_land">29.33dp</dimen>
+    <dimen name="theme0_clock_container_up_4x1_height_port">29.33dp</dimen>
+    <dimen name="theme0_clock_digital_down_4x1_margin_top">-29.67dp</dimen>
+    <dimen name="theme0_clock_digital_up_4x1_margin_bottom">-31dp</dimen>
+    <dimen name="theme0_clock_point_4x1_width">8.25dp</dimen>
+    <dimen name="theme0_error_text_height">67.5dp</dimen>
+    <dimen name="theme0_error_text_width">92.5dp</dimen>
+    <dimen name="theme0_info_temp_area_margin_top">66.5dp</dimen>
+    <dimen name="theme0_location_padding_top">0dp</dimen>
+    <dimen name="theme0_sun_small_height">67.5dp</dimen>
+    <dimen name="theme0_sun_small_width">67.5dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens_theme_degree.xml -->
+    <eat-comment/>
+    <dimen name="theme0_temp_c_f_margin_top">-2.33dp</dimen>
+    <dimen name="theme0_temp_symbol_margin_top">2.67dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens_theme.xml -->
+    <eat-comment/>
+    <dimen name="theme0_widget_padding_top">3.5dp</dimen>
+    <dimen name="theme1_am_pm_margin_bottom">3.67dp</dimen>
+    <dimen name="theme1_background_block_height">108.33dp</dimen>
+    <dimen name="theme1_background_block_margin_left_right">39dp</dimen>
+    <dimen name="theme1_background_block_margin_top">5dp</dimen>
+    <dimen name="theme1_digital_clock_base_margin_bottom">13.75dp</dimen>
+    <dimen name="theme1_info_temp_area_margin_bottom">-6.5dp</dimen>
+    <dimen name="theme1_info_temp_area_margin_top">75dp</dimen>
+    <dimen name="theme1_info_temp_margin_right">25.67dp</dimen>
+    <dimen name="theme1_info_temp_upper_margin_botttom">27dp</dimen>
+    <dimen name="theme1_separatrix_height">10dp</dimen>
+    <dimen name="theme1_separatrix_width">0.67dp</dimen>
+    <dimen name="theme1_sun_small_height">22dp</dimen>
+    <dimen name="theme1_sun_small_margin_bottom">6.33dp</dimen>
+    <dimen name="theme1_sun_small_margin_top">5dp</dimen>
+    <dimen name="theme1_sun_small_width">22dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens_theme_degree.xml -->
+    <eat-comment/>
+    <dimen name="theme1_temp_c_f_margin_top">-4.67dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens_theme.xml -->
+    <eat-comment/>
+    <dimen name="theme1_temp_margin_bottom">1.33dp</dimen>
+    <dimen name="theme1_temp_margin_top">1.33dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens_theme_degree.xml -->
+    <eat-comment/>
+    <dimen name="theme1_temp_symbol_margin_top">0.33dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens_theme.xml -->
+    <eat-comment/>
+    <dimen name="theme1_widget_margin_top">9dp</dimen>
+    <dimen name="theme2_digital_clock_base_margin_bottom">8.75dp</dimen>
+    <dimen name="theme2_slash_img_height">82.67dp</dimen>
+    <dimen name="theme2_slash_img_width">93.33dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens_theme3.xml -->
+    <eat-comment/>
+    <dimen name="theme3_am_pm_margin_bottom">1.75dp</dimen>
+    <dimen name="theme3_city_name_icon_margin_right">-2dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens_theme3_local.xml -->
+    <eat-comment/>
+    <dimen name="theme3_clock_4x1_img_half_height">27.25dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens_theme3.xml -->
+    <eat-comment/>
+    <dimen name="theme3_clock_4x1_img_height">54.5dp</dimen>
+    <dimen name="theme3_clock_4x1_img_width">35dp</dimen>
+    <dimen name="theme3_clock_4x1_img_width_land">35dp</dimen>
+    <dimen name="theme3_clock_4x1_img_width_port">35dp</dimen>
+    <dimen name="theme3_clock_container_down_4x1_height">27.75dp</dimen>
+    <dimen name="theme3_clock_container_up_4x1_height">26.75dp</dimen>
+    <dimen name="theme3_clock_container_up_4x1_height_land">26.75dp</dimen>
+    <dimen name="theme3_clock_container_up_4x1_height_port">26.75dp</dimen>
+    <dimen name="theme3_clock_digital_down_4x1_margin_top">-27dp</dimen>
+    <dimen name="theme3_clock_digital_up_4x1_margin_bottom">-28dp</dimen>
+    <dimen name="theme3_clock_point_4x1_margin_left_right">1.25dp</dimen>
+    <dimen name="theme3_clock_point_4x1_width">7.5dp</dimen>
+    <dimen name="theme3_date_margin_right">2dp</dimen>
+    <dimen name="theme3_date_margin_top">27.5dp</dimen>
+    <dimen name="theme3_digital_clock_margin_top">32dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens_theme3_ext.xml -->
+    <eat-comment/>
+    <dimen name="theme3_digital_gap_width">@dimen/margin_xs</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens_theme3.xml -->
+    <eat-comment/>
+    <dimen name="theme3_error_text_height">29dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens_theme3_ext.xml -->
+    <eat-comment/>
+    <dimen name="theme3_gap_margin_left_right">0dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens_theme3.xml -->
+    <eat-comment/>
+    <dimen name="theme3_info_temp_area_margin_right">0.25dp</dimen>
+    <dimen name="theme3_info_temp_area_margin_top">65.5dp</dimen>
+    <dimen name="theme3_location_padding_right">3.5dp</dimen>
+    <dimen name="theme3_location_padding_top">0dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens_theme3_local.xml -->
+    <eat-comment/>
+    <dimen name="theme3_masthead_margin_left">8dp</dimen>
+    <dimen name="theme3_masthead_margin_right">8dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens_theme3.xml -->
+    <eat-comment/>
+    <dimen name="theme3_sun_small_height">35.25dp</dimen>
+    <dimen name="theme3_sun_small_width">35.25dp</dimen>
+    <dimen name="theme3_temp_block_margin_top">3.67dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens_theme3_degree.xml -->
+    <eat-comment/>
+    <dimen name="theme3_temp_c_f_margin_top">1.25dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens_theme3.xml -->
+    <eat-comment/>
+    <dimen name="theme3_temp_symbol_margin_bottom">-2.33dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens_theme3_degree.xml -->
+    <eat-comment/>
+    <dimen name="theme3_temp_symbol_margin_top">2.75dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens_theme.xml -->
+    <eat-comment/>
+    <dimen name="theme_am_pm_margin_bottom">3.67dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="theme_clock_4x1_img_half_height">36.34dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens_theme.xml -->
+    <eat-comment/>
+    <dimen name="theme_clock_4x1_img_height">72.67dp</dimen>
+    <dimen name="theme_clock_4x1_img_width">46.67dp</dimen>
+    <dimen name="theme_clock_4x1_img_width_land">46.67dp</dimen>
+    <dimen name="theme_clock_4x1_img_width_port">46.67dp</dimen>
+    <dimen name="theme_clock_container_down_4x1_height">37dp</dimen>
+    <dimen name="theme_clock_container_up_4x1_height">35.67dp</dimen>
+    <dimen name="theme_clock_container_up_4x1_height_land">35.67dp</dimen>
+    <dimen name="theme_clock_container_up_4x1_height_port">35.67dp</dimen>
+    <dimen name="theme_clock_digital_down_4x1_margin_top">-36dp</dimen>
+    <dimen name="theme_clock_digital_up_4x1_margin_bottom">-37.33dp</dimen>
+    <dimen name="theme_clock_point_4x1_width">10dp</dimen>
+    <dimen name="theme_digital_padding_left">@dimen/margin_l</dimen>
+    <dimen name="theme_dual_ampm_margin_top">5dp</dimen>
+    <dimen name="theme_dual_city_margin_top">37dp</dimen>
+    <dimen name="theme_dual_clock_padding_bottom">5dp</dimen>
+    <dimen name="theme_dual_clock_padding_top">4.67dp</dimen>
+    <dimen name="theme_dual_date_margin_top">24dp</dimen>
+    <dimen name="theme_dual_digital_dot_width">5dp</dimen>
+    <dimen name="theme_dual_digital_height">36.25dp</dimen>
+    <dimen name="theme_dual_digital_width">23.25dp</dimen>
+    <dimen name="theme_dual_sun_small_height">17.5dp</dimen>
+    <dimen name="theme_dual_sun_small_width">17.5dp</dimen>
+    <dimen name="theme_dual_temp_degree_margin_top">1.75dp</dimen>
+    <dimen name="theme_dual_widget_padding_top">0dp</dimen>
+    <dimen name="theme_error_text_height">93.33dp</dimen>
+    <dimen name="theme_error_text_width">97.33dp</dimen>
+    <dimen name="theme_info_temp_area_margin_top">77.66dp</dimen>
+    <dimen name="theme_italic_padding">2dp</dimen>
+    <dimen name="theme_italic_padding_shift">-2dp</dimen>
+    <dimen name="theme_location_padding_top">5dp</dimen>
+    <dimen name="theme_sun_small_height">88dp</dimen>
+    <dimen name="theme_sun_small_width">88dp</dimen>
+    <dimen name="theme_temp_block_margin_top">3.67dp</dimen>
+    <dimen name="theme_temp_block_margin_top_shift">-3.67dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens_theme_degree.xml -->
+    <eat-comment/>
+    <dimen name="theme_temp_c_f_margin_top">-1.67dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens_theme.xml -->
+    <eat-comment/>
+    <dimen name="theme_temp_symbol_margin_bottom">-2.33dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens_theme_degree.xml -->
+    <eat-comment/>
+    <dimen name="theme_temp_symbol_margin_top">3.33dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens_theme.xml -->
+    <eat-comment/>
+    <dimen name="theme_widget_margin_left_right">39dp</dimen>
+    <dimen name="theme_widget_padding_top">5dp</dimen>
+    <dimen name="theme_widget_padding_top_minus">-5dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="widget_padding">0dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dummy_res.xml -->
+    <eat-comment/>
+    <drawable name="clock_weather_icon_go_home_dark_s">@android:color/transparent</drawable>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="bullet">" • "</string>
+    <string name="comma">", "</string>
+    <string name="dash">" - "</string>
+    <string name="htc_private_app">HTC Masthead</string>
+    <string name="location_unavailable">Location unavailable</string>
+    <string name="masthead_st_am">AM</string>
+    <string name="masthead_st_auto_sync_off">Auto sync is off. Tap to see weather.</string>
+    <string name="masthead_st_current_location">Current location</string>
+    <string name="masthead_st_device_only_off">Change location service mode to get weather</string>
+    <string name="masthead_st_location_service_off">Turn on location services to get weather</string>
+    <string name="masthead_st_pm">PM</string>
+    <string name="masthead_st_weather_unavailable">Weather unavailable</string>
+    <string name="temp_degree">\u00b0</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens_theme3.xml -->
+    <eat-comment/>
+    <string name="theme3_city_icon_scale">0.8</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dimens_theme3_ext.xml -->
+    <eat-comment/>
+    <string name="theme3_letter_spacing">0.03</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="HeaderInfoTextStyleLarge" parent="@style/fixed_automotive_13">
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="HeaderInfoTextStyleLarge2line" parent="@style/HeaderInfoTextStyleLarge">
+    </style>
+    <style name="HeaderInfoTextStyleSimple" parent="@style/fixed_simple_launcher_02">
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/automotive_style_style_font_table.xml -->
+    <eat-comment/>
+    <style name="automotive_01">
+        <item name="android:textSize">@dimen/automotive_01</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+    </style>
+    <style name="automotive_02">
+        <item name="android:textSize">@dimen/automotive_02</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+    </style>
+    <style name="automotive_03">
+        <item name="android:textSize">@dimen/automotive_03</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_secondaryfont_color</item>
+    </style>
+    <style name="automotive_04" parent="@style/automotive_title_primary_m">
+        <item name="android:textColor">#FFed1c24</item>
+    </style>
+    <style name="automotive_05" parent="@style/automotive_title_primary_m">
+        <item name="android:textColor">#FF37ad70</item>
+    </style>
+    <style name="automotive_07">
+        <item name="android:textSize">@dimen/automotive_07</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#FFfaf7ee</item>
+    </style>
+    <style name="automotive_08">
+        <item name="android:textSize">@dimen/automotive_08</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+    </style>
+    <style name="automotive_09" parent="@style/automotive_darklist_primary_s">
+        <item name="android:textColor">@color/tabfont_color</item>
+    </style>
+    <style name="automotive_10" parent="@style/automotive_darklist_primary_s">
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+    </style>
+    <style name="automotive_11">
+        <item name="android:textSize">@dimen/automotive_11</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_secondaryfont_color</item>
+    </style>
+    <style name="automotive_12" parent="@style/automotive_title_primary_m">
+        <item name="android:textColor">#FF33b5e5</item>
+    </style>
+    <style name="automotive_13">
+        <item name="android:textSize">@dimen/automotive_13</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+    </style>
+    <style name="automotive_14">
+        <item name="android:textSize">@dimen/automotive_14</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+    </style>
+    <style name="automotive_15">
+        <item name="android:textSize">@dimen/automotive_15</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+    </style>
+    <style name="automotive_16">
+        <item name="android:textSize">@dimen/automotive_16</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dummy_res.xml -->
+    <eat-comment/>
+    <style name="automotive_darklist_primary_s" parent="@style/condensed">
+        <item name="android:textSize">@dimen/automotive_darklist_primary_s</item>
+        <item name="android:textColor">@color/dark_secondaryfont_color</item>
+    </style>
+    <style name="automotive_title_primary_m" parent="@style/condensed">
+        <item name="android:textSize">@dimen/automotive_title_primary_m</item>
+        <item name="android:textColor">@color/dark_primaryfont</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="custom_fixed_automotive_14" parent="@style/fixed_automotive_14">
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="custom_fixed_automotive_15" parent="@style/fixed_automotive_15">
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="custom_fixed_automotive_16" parent="@style/fixed_automotive_16">
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="custom_fixed_masthead_01" parent="@style/fixed_masthead_01">
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="custom_fixed_masthead_02" parent="@style/fixed_masthead_02">      
+		<item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="custom_fixed_masthead_03" parent="@style/fixed_masthead_03">
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="custom_fixed_masthead_04" parent="@style/fixed_masthead_04">
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="custom_fixed_masthead_08" parent="@style/fixed_masthead_08">
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="custom_fixed_masthead_09" parent="@style/fixed_masthead_09">
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="custom_fixed_masthead_10" parent="@style/fixed_masthead_10">
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="custom_fixed_masthead_13" parent="@style/fixed_masthead_13">
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="custom_fixed_masthead_14" parent="@style/fixed_masthead_14">
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="custom_fixed_masthead_20" parent="@style/fixed_masthead_20">
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="custom_fixed_simple_launcher_03" parent="@style/fixed_simple_launcher_03">        
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="custom_fixed_simple_launcher_04" parent="@style/fixed_simple_launcher_04">        
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="custom_fixed_simple_launcher_05" parent="@style/fixed_simple_launcher_05">        
+        <item name="android:textStyle">normal</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/automotive_style_style_fixed_font_table.xml -->
+    <eat-comment/>
+    <style name="fixed_automotive_01">
+        <item name="android:textSize">@dimen/fixed_automotive_01</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+    </style>
+    <style name="fixed_automotive_02">
+        <item name="android:textSize">@dimen/fixed_automotive_02</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+    </style>
+    <style name="fixed_automotive_03">
+        <item name="android:textSize">@dimen/fixed_automotive_03</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_secondaryfont_color</item>
+    </style>
+    <style name="fixed_automotive_04" parent="@style/fixed_automotive_title_primary_m">
+        <item name="android:textColor">#FFed1c24</item>
+    </style>
+    <style name="fixed_automotive_05" parent="@style/fixed_automotive_title_primary_m">
+        <item name="android:textColor">#FF37ad70</item>
+    </style>
+    <style name="fixed_automotive_07">
+        <item name="android:textSize">@dimen/fixed_automotive_07</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#FFfaf7ee</item>
+    </style>
+    <style name="fixed_automotive_08">
+        <item name="android:textSize">@dimen/fixed_automotive_08</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+    </style>
+    <style name="fixed_automotive_09" parent="@style/fixed_automotive_darklist_primary_s">
+        <item name="android:textColor">@color/tabfont_color</item>
+    </style>
+    <style name="fixed_automotive_10" parent="@style/fixed_automotive_darklist_primary_s">
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+    </style>
+    <style name="fixed_automotive_11">
+        <item name="android:textSize">@dimen/fixed_automotive_11</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_secondaryfont_color</item>
+    </style>
+    <style name="fixed_automotive_12" parent="@style/fixed_automotive_title_primary_m">
+        <item name="android:textColor">#FF33b5e5</item>
+    </style>
+    <style name="fixed_automotive_13">
+        <item name="android:textSize">@dimen/fixed_automotive_13</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+    </style>
+    <style name="fixed_automotive_14">
+        <item name="android:textSize">@dimen/fixed_automotive_14</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+    </style>
+    <style name="fixed_automotive_15">
+        <item name="android:textSize">@dimen/fixed_automotive_15</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+    </style>
+    <style name="fixed_automotive_16">
+        <item name="android:textSize">@dimen/fixed_automotive_16</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/dummy_res.xml -->
+    <eat-comment/>
+    <style name="fixed_automotive_darklist_primary_s" parent="@style/automotive_darklist_primary_s">
+        <item name="android:textSize">@dimen/fixed_automotive_darklist_primary_s</item>
+    </style>
+    <style name="fixed_automotive_title_primary_m" parent="@style/automotive_title_primary_m">
+        <item name="android:textSize">@dimen/fixed_automotive_title_primary_m</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_style_fixed_font_table.xml -->
+    <eat-comment/>
+    <style name="fixed_masthead_01">
+        <item name="android:textSize">@dimen/fixed_masthead_01</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_01_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_01_shadowDy</item>
+        <item name="android:shadowColor">#4C000000</item>
+    </style>
+    <style name="fixed_masthead_02">
+        <item name="android:textSize">@dimen/fixed_masthead_02</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_02_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_02_shadowDy</item>
+        <item name="android:shadowColor">#4C000000</item>
+    </style>
+    <style name="fixed_masthead_03">
+        <item name="android:textSize">@dimen/fixed_masthead_03</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_03_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_03_shadowDy</item>
+        <item name="android:shadowColor">#4C000000</item>
+    </style>
+    <style name="fixed_masthead_04">
+        <item name="android:textSize">@dimen/fixed_masthead_04</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_04_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_04_shadowDy</item>
+        <item name="android:shadowColor">#4C000000</item>
+    </style>
+    <style name="fixed_masthead_05">
+        <item name="android:textSize">@dimen/fixed_masthead_05</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_05_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_05_shadowDy</item>
+        <item name="android:shadowColor">#4C000000</item>
+    </style>
+    <style name="fixed_masthead_06">
+        <item name="android:textSize">@dimen/fixed_masthead_06</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_06_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_06_shadowDy</item>
+        <item name="android:shadowColor">#4C000000</item>
+    </style>
+    <style name="fixed_masthead_07">
+        <item name="android:textSize">@dimen/fixed_masthead_07</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_07_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_07_shadowDy</item>
+        <item name="android:shadowColor">#4C000000</item>
+    </style>
+    <style name="fixed_masthead_08">
+        <item name="android:textSize">@dimen/fixed_masthead_08</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_08_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_08_shadowDy</item>
+        <item name="android:shadowColor">#4C000000</item>
+    </style>
+    <style name="fixed_masthead_09">
+        <item name="android:textSize">@dimen/fixed_masthead_09</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_09_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_09_shadowDy</item>
+        <item name="android:shadowColor">#4C000000</item>
+    </style>
+    <style name="fixed_masthead_10">
+        <item name="android:textSize">@dimen/fixed_masthead_10</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_10_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_10_shadowDy</item>
+        <item name="android:shadowColor">#4C000000</item>
+    </style>
+    <style name="fixed_masthead_11">
+        <item name="android:textSize">@dimen/fixed_masthead_11</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_11_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_11_shadowDy</item>
+        <item name="android:shadowColor">#4C0d0e0f</item>
+    </style>
+    <style name="fixed_masthead_12">
+        <item name="android:textSize">@dimen/fixed_masthead_12</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_12_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_12_shadowDy</item>
+        <item name="android:shadowColor">#4C0d0e0f</item>
+    </style>
+    <style name="fixed_masthead_13">
+        <item name="android:textSize">@dimen/fixed_masthead_13</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_13_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_13_shadowDy</item>
+        <item name="android:shadowColor">#4C0d0e0f</item>
+    </style>
+    <style name="fixed_masthead_14">
+        <item name="android:textSize">@dimen/fixed_masthead_14</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_14_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_14_shadowDy</item>
+        <item name="android:shadowColor">#4C0d0e0f</item>
+    </style>
+    <style name="fixed_masthead_15">
+        <item name="android:textSize">@dimen/fixed_masthead_15</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_15_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_15_shadowDy</item>
+        <item name="android:shadowColor">#4C0d0e0f</item>
+    </style>
+    <style name="fixed_masthead_16">
+        <item name="android:textSize">@dimen/fixed_masthead_16</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_16_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_16_shadowDy</item>
+        <item name="android:shadowColor">#4C0d0e0f</item>
+    </style>
+    <style name="fixed_masthead_17">
+        <item name="android:textSize">@dimen/fixed_masthead_17</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_17_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_17_shadowDy</item>
+        <item name="android:shadowColor">#4C0d0e0f</item>
+    </style>
+    <style name="fixed_masthead_18">
+        <item name="android:textSize">@dimen/fixed_masthead_18</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_18_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_18_shadowDy</item>
+        <item name="android:shadowColor">#4C000000</item>
+    </style>
+    <style name="fixed_masthead_19">
+        <item name="android:textSize">@dimen/fixed_masthead_19</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_19_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_19_shadowDy</item>
+        <item name="android:shadowColor">#4C000000</item>
+    </style>
+    <style name="fixed_masthead_20">
+        <item name="android:textSize">@dimen/fixed_masthead_20</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_20_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_20_shadowDy</item>
+        <item name="android:shadowColor">#4C000000</item>
+    </style>
+    <style name="fixed_masthead_21">
+        <item name="android:textSize">@dimen/fixed_masthead_21</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_21_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_21_shadowDy</item>
+        <item name="android:shadowColor">#4C000000</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/simple_launcher_style_style_fixed_font_table.xml -->
+    <eat-comment/>
+    <style name="fixed_simple_launcher_01">
+        <item name="android:textSize">@dimen/fixed_simple_launcher_01</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+    </style>
+    <style name="fixed_simple_launcher_02">
+        <item name="android:textSize">@dimen/fixed_simple_launcher_02</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/simple_launcher_02_shadowSize</item>
+        <item name="android:shadowDy">@dimen/simple_launcher_02_shadowDy</item>
+        <item name="android:shadowColor">#26000000</item>
+    </style>
+    <style name="fixed_simple_launcher_03">
+        <item name="android:textSize">@dimen/fixed_simple_launcher_03</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/simple_launcher_03_shadowSize</item>
+        <item name="android:shadowDy">@dimen/simple_launcher_03_shadowDy</item>
+        <item name="android:shadowColor">#26000000</item>
+    </style>
+    <style name="fixed_simple_launcher_04">
+        <item name="android:textSize">@dimen/fixed_simple_launcher_04</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/simple_launcher_04_shadowSize</item>
+        <item name="android:shadowDy">@dimen/simple_launcher_04_shadowDy</item>
+        <item name="android:shadowColor">#26000000</item>
+    </style>
+    <style name="fixed_simple_launcher_05">
+        <item name="android:textSize">@dimen/fixed_simple_launcher_05</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/simple_launcher_05_shadowSize</item>
+        <item name="android:shadowDy">@dimen/simple_launcher_05_shadowDy</item>
+        <item name="android:shadowColor">#26000000</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/masthead_style_style_font_table.xml -->
+    <eat-comment/>
+    <style name="masthead_01">
+        <item name="android:textSize">@dimen/masthead_01</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_01_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_01_shadowDy</item>
+        <item name="android:shadowColor">#4C000000</item>
+    </style>
+    <style name="masthead_02">
+        <item name="android:textSize">@dimen/masthead_02</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_02_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_02_shadowDy</item>
+        <item name="android:shadowColor">#4C000000</item>
+    </style>
+    <style name="masthead_03">
+        <item name="android:textSize">@dimen/masthead_03</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_03_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_03_shadowDy</item>
+        <item name="android:shadowColor">#4C000000</item>
+    </style>
+    <style name="masthead_04">
+        <item name="android:textSize">@dimen/masthead_04</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_04_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_04_shadowDy</item>
+        <item name="android:shadowColor">#4C000000</item>
+    </style>
+    <style name="masthead_05">
+        <item name="android:textSize">@dimen/masthead_05</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_05_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_05_shadowDy</item>
+        <item name="android:shadowColor">#4C000000</item>
+    </style>
+    <style name="masthead_06">
+        <item name="android:textSize">@dimen/masthead_06</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_06_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_06_shadowDy</item>
+        <item name="android:shadowColor">#4C000000</item>
+    </style>
+    <style name="masthead_07">
+        <item name="android:textSize">@dimen/masthead_07</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_07_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_07_shadowDy</item>
+        <item name="android:shadowColor">#4C000000</item>
+    </style>
+    <style name="masthead_08">
+        <item name="android:textSize">@dimen/masthead_08</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_08_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_08_shadowDy</item>
+        <item name="android:shadowColor">#4C000000</item>
+    </style>
+    <style name="masthead_09">
+        <item name="android:textSize">@dimen/masthead_09</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_09_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_09_shadowDy</item>
+        <item name="android:shadowColor">#4C000000</item>
+    </style>
+    <style name="masthead_10">
+        <item name="android:textSize">@dimen/masthead_10</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_10_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_10_shadowDy</item>
+        <item name="android:shadowColor">#4C000000</item>
+    </style>
+    <style name="masthead_11">
+        <item name="android:textSize">@dimen/masthead_11</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_11_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_11_shadowDy</item>
+        <item name="android:shadowColor">#4C0d0e0f</item>
+    </style>
+    <style name="masthead_12">
+        <item name="android:textSize">@dimen/masthead_12</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_12_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_12_shadowDy</item>
+        <item name="android:shadowColor">#4C0d0e0f</item>
+    </style>
+    <style name="masthead_13">
+        <item name="android:textSize">@dimen/masthead_13</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_13_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_13_shadowDy</item>
+        <item name="android:shadowColor">#4C0d0e0f</item>
+    </style>
+    <style name="masthead_14">
+        <item name="android:textSize">@dimen/masthead_14</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_14_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_14_shadowDy</item>
+        <item name="android:shadowColor">#4C0d0e0f</item>
+    </style>
+    <style name="masthead_15">
+        <item name="android:textSize">@dimen/masthead_15</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_15_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_15_shadowDy</item>
+        <item name="android:shadowColor">#4C0d0e0f</item>
+    </style>
+    <style name="masthead_16">
+        <item name="android:textSize">@dimen/masthead_16</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_16_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_16_shadowDy</item>
+        <item name="android:shadowColor">#4C0d0e0f</item>
+    </style>
+    <style name="masthead_17">
+        <item name="android:textSize">@dimen/masthead_17</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_17_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_17_shadowDy</item>
+        <item name="android:shadowColor">#4C0d0e0f</item>
+    </style>
+    <style name="masthead_18">
+        <item name="android:textSize">@dimen/masthead_18</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_18_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_18_shadowDy</item>
+        <item name="android:shadowColor">#4C000000</item>
+    </style>
+    <style name="masthead_19">
+        <item name="android:textSize">@dimen/masthead_19</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_19_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_19_shadowDy</item>
+        <item name="android:shadowColor">#4C000000</item>
+    </style>
+    <style name="masthead_20">
+        <item name="android:textSize">@dimen/masthead_20</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_20_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_20_shadowDy</item>
+        <item name="android:shadowColor">#4C000000</item>
+    </style>
+    <style name="masthead_21">
+        <item name="android:textSize">@dimen/masthead_21</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/masthead_21_shadowSize</item>
+        <item name="android:shadowDy">@dimen/masthead_21_shadowDy</item>
+        <item name="android:shadowColor">#4C000000</item>
+    </style>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values/simple_launcher_style_style_font_table.xml -->
+    <eat-comment/>
+    <style name="simple_launcher_01">
+        <item name="android:textSize">@dimen/simple_launcher_01</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+    </style>
+    <style name="simple_launcher_02">
+        <item name="android:textSize">@dimen/simple_launcher_02</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/simple_launcher_02_shadowSize</item>
+        <item name="android:shadowDy">@dimen/simple_launcher_02_shadowDy</item>
+        <item name="android:shadowColor">#26000000</item>
+    </style>
+    <style name="simple_launcher_03">
+        <item name="android:textSize">@dimen/simple_launcher_03</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/simple_launcher_03_shadowSize</item>
+        <item name="android:shadowDy">@dimen/simple_launcher_03_shadowDy</item>
+        <item name="android:shadowColor">#26000000</item>
+    </style>
+    <style name="simple_launcher_04">
+        <item name="android:textSize">@dimen/simple_launcher_04</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/simple_launcher_04_shadowSize</item>
+        <item name="android:shadowDy">@dimen/simple_launcher_04_shadowDy</item>
+        <item name="android:shadowColor">#26000000</item>
+    </style>
+    <style name="simple_launcher_05">
+        <item name="android:textSize">@dimen/simple_launcher_05</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+        <item name="android:shadowRadius">@dimen/simple_launcher_05_shadowSize</item>
+        <item name="android:shadowDy">@dimen/simple_launcher_05_shadowDy</item>
+        <item name="android:shadowColor">#26000000</item>
+    </style>
+</resources>

@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/androidTest/res/values-nb/arrays.xml -->
+    <eat-comment/>
+    <string-array name="cheese_responses">
+        <item>I\'m afraid we\'re fresh out.</item>
+        <item>I\'m afraid we never have that at the end of the week, sir.  We get it fresh on Monday.</item>
+        <item>Ah. It\'s been on order, sir, for two weeks.  I was expecting it this morning.</item>
+        <item>Normally, sir, yes.  Today the van broke down.</item>
+        <item>No.</item>
+        <item>No.</item>
+        <item>No.</item>
+        <item>Yes, sir.  It\'s, ah ..... it\'s a bit runny.</item>
+        <item>Well, it\'s very runny, actually, sir.</item>
+        <item>I think it\'s a bit runnier than you\'ll like it, sir.</item>
+        <item>Oh... The cat\'s eaten it.</item>
+        <item>No.</item>
+        <item>No.</item>
+        <item>No.</item>
+        <item>Mmm... cheese.</item>
+    </string-array>
+    <string-array name="clip_data_types">
+        <item>No data in clipboard</item>
+        <item>Text clip</item>
+        <item>Intent clip</item>
+        <item>Uri clip</item>
+    </string-array>
+    <string-array name="colors">
+        <item>red</item>
+        <item>orange</item>
+        <item>yellow</item>
+        <item>green</item>
+        <item>blue</item>
+        <item>violet</item>
+    </string-array>
+    <string-array name="entries_list_preference">
+        <item>Alpha Option 01</item>
+        <item>Beta Option 02</item>
+        <item>Charlie Option 03</item>  
+    </string-array>
+    <string-array name="entryvalues_list_preference">
+        <item>alpha</item>
+        <item>beta</item>
+        <item>charlie</item>  
+    </string-array>
+    <string-array name="password_qualities">
+        <item>Unspecified</item>
+        <item>Something</item>
+        <item>Numeric</item>
+        <item>Alphabetic</item>
+        <item>Alphanumeric</item>
+        <item>Complex</item>
+    </string-array>
+    <string-array name="planets">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+        <item>Pluto</item>
+    </string-array>
+    <string-array name="screen_orientations">
+        <item>UNSPECIFIED</item>
+        <item>LANDSCAPE</item>
+        <item>PORTRAIT</item>
+        <item>USER</item>
+        <item>BEHIND</item>
+        <item>SENSOR</item>
+        <item>NOSENSOR</item>
+        <item>SENSOR_LANDSCAPE</item>
+        <item>SENSOR_PORTRAIT</item>
+        <item>REVERSE_LANDSCAPE</item>
+        <item>REVERSE_PORTRAIT</item>
+        <item>FULL_SENSOR</item>
+    </string-array>
+    <string-array name="search_menuModes">
+        <item>Search Key</item>
+        <item>Menu Item</item>
+        <item>Type-To-Search</item>
+        <item>Disabled</item>
+    </string-array>
+    <string-array name="secure_view_clicked">
+        <item>*bzzt*\nTransferred $1,000,000 to J. Phisher.  Thank you!</item>
+        <item>*bzzt*\nSending all life savings to the International Cabal of Evil Penguins.</item>
+        <item>*bzzt*\nOpening portal to R\'lyeh.  Long live Cthulhu!</item>
+        <item>*bzzt*\nYou\'re not very good at this, are you?</item>
+        <item>*bzzt*\nGo away...</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>Command one</item>
+        <item>Command two</item>
+        <item>Command three</item>
+        <item>Command four</item>
+    </string-array>
+    <string-array name="select_dialog_items2">
+        <item>Map</item>
+        <item>Satellite</item>
+        <item>Traffic</item>
+        <item>Street view</item>
+    </string-array>
+    <string-array name="select_dialog_items3">
+        <item>Every Monday</item>
+        <item>Every Tuesday</item>
+        <item>Every Wednesday</item>
+        <item>Every Thursday</item>
+        <item>Every Friday</item>
+        <item>Every Saturday</item>
+        <item>Every Sunday</item>
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>Liten</item><!--Small-->
+        <item>Middels</item><!--Medium-->
+        <item>Stor</item><!--Large-->
+        <item>Ekstra stor</item><!--Extra large-->
+        <item>Kjempestor</item><!--Huge-->
+    </string-array>
+    <string-array name="weeklayout_secondary_text">
+        <item>Sø</item><!--SU-->
+        <item>M</item><!--M-->
+        <item>Ti</item><!--TU-->
+        <item>O</item><!--W-->
+        <item>To</item><!--TH-->
+        <item>F</item><!--F-->
+        <item>Lø</item><!--SA-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Gå til startsiden"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s – %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s – %2$s – %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Gå opp"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Flere alternativer"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Ferdig"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Se alle"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Velg en app"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Søk …"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Slett søket"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Søkeord"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Søk"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Utfør søket"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Talesøk"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Del med"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Del med %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Skjul"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="accessibility_tap_action">Dobbelttrykk for handling</string>
+    <string name="add_comments">Legg til kommentar</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/androidTest/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="advanced_preferences">Preference/6. Advanced preferences</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="am">AM</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/androidTest/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">CommonControlDemo</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="button_hide_caption">Skjul bildetekst</string>
+    <string name="button_hide_description">Skjul beskrivelse</string>
+    <string name="button_show_caption">Vis bildetekst</string>
+    <string name="button_show_description">Vis beskrivelse</string>
+    <string name="carousel_title">Rediger kategorier</string>
+    <string name="common_string_hint_search_people">Søk i Personer</string>
+    <string name="common_string_open_contact">Åpne kontakt</string>
+    <string name="common_string_save_to_existing_contact">Lagre i eksisterende kontakt</string>
+    <string name="common_string_save_to_people">Lagre i Personer</string>
+    <string name="common_string_share_title">Del via</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/androidTest/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="counter_value_is">The counter value is</string>
+    <string name="default_value_edittext_preference">Default value</string>
+    <string name="default_value_list_preference">beta</string>
+    <string name="default_values">Preference/4. Default values</string>
+    <string name="dialog_based_preferences">Dialog-based preferences</string>
+    <string name="dialog_title_edittext_preference">Enter your favorite animal</string>
+    <string name="dialog_title_list_preference">Choose one</string>
+    <string name="dialog_title_yesno_preference">Do you like bananas?</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="done">Fullført</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/androidTest/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="example_preference_dependency">Example preference dependency</string>
+    <string name="fragment_preferences">Preference/7. Fragment</string>
+    <string name="hello">Hello World, CommonControlDemoActivity!</string>
+    <string name="inline_preferences">In-line preferences</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="label_day">Dag</string>
+    <string name="label_hour">Time</string>
+    <string name="label_minute">Minutt</string>
+    <string name="label_month">Måned</string>
+    <string name="label_second">Sekund</string>
+    <string name="label_year">År</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/androidTest/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="launch_preference_activity">Launch PreferenceActivity</string>
+    <string name="launch_preferences">Launch preferences</string>
+    <string name="launching_preferences">Preference/2. Launching preferences</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="license_dialog_content">Enkelte ikoner som brukes på denne telefonen, ble opprinnelig designet av Google og tilpasses av HTC ifølge <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons License BY4.0</a>.</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <string name="ls_doubletap_drag">dobbeltklikk og dra for å justere</string>
+    <string name="ls_edit_number_before_calling">Rediger nummer før du ringer</string>
+    <string name="ls_open_in_map">Åpne i kart</string>
+    <string name="ls_tablet_storage_error">Det oppstod en feil med lagringsstedet for nettbrettet. Start enheten på nytt eller formater lagringsstedet.</string>
+    <string name="menu_crop">Beskjær</string>
+    <string name="menu_delete">Slett</string>
+    <string name="menu_properties">Detaljer</string>
+    <string name="menu_protect_info">Beskyttelsesinfo</string>
+    <string name="menu_save_to_my_favorite">Angi som favoritt</string>
+    <string name="menu_send_photo_link_by_email">Del fotokobling</string>
+    <string name="menu_set_as">Angi som</string>
+    <string name="menu_settings">Innstillinger</string>
+    <string name="menu_share">Del</string>
+    <string name="menu_show_on_map">Vis på kart</string>
+    <string name="menu_slideshow">Lysbildefremvisning</string>
+    <string name="menu_view_full">Vis</string>
+    <string name="menu_view_video">Spill</string>
+    <string name="meun_rotate">Roter</string>
+    <string name="nn_unknown_error">"Ukjent feil"</string>
+    <string name="no">Nei</string>
+    <string name="pm">PM</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/androidTest/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="preference_attributes">Preference attributes</string>
+    <string name="preference_dependencies">Preference/3. Preference dependencies</string>
+    <string name="preference_with_headers">Preference/8. Headers</string>
+    <string name="preferences_from_code">Preference/5. Preferences from code</string>
+    <string name="preferences_from_xml">Preference/1. Preferences from XML</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="quickselection_share">Del via</string>
+    <string name="refresh">Oppdater</string>
+    <string name="reminderview_common_unlock_hint_icon">Trekk ikon opp</string>
+    <string name="reminderview_common_unlock_hint_up">Trekk opp for å låse opp</string>
+    <string name="st_action_bar_pull_down">Slipp for å oppdatere</string>
+    <string name="st_action_bar_updating">Oppdaterer …</string>
+    <string name="st_draggable_item">Flyttbart element</string>
+    <string name="st_loading">Laster...</string>
+    <string name="st_more">Mer</string>
+    <string name="st_pull_down_refresh">Trekk ned for å oppdatere</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/androidTest/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="summary_checkbox_preference">This is a checkbox</string>
+    <string name="summary_child_preference">This is visually a child</string>
+    <string name="summary_edittext_preference">An example that uses an edit text dialog</string>
+    <string name="summary_fragment_preference">Shows another fragment of preferences</string>
+    <string name="summary_intent_preference">Launches an Activity from an Intent</string>
+    <string name="summary_list_preference">An example that uses a list dialog</string>
+    <string name="summary_my_preference">This is a custom counter preference</string>
+    <string name="summary_next_screen_toggle_preference">Preference that is on the next screen but same hierarchy</string>
+    <string name="summary_off_advanced_toggle_preference">I\'m off! :(</string>
+    <string name="summary_on_advanced_toggle_preference">I\'m on! :)</string>
+    <string name="summary_parent_preference">This is visually a parent</string>
+    <string name="summary_screen_preference">Shows another screen of preferences</string>
+    <string name="summary_switch_preference">This is a switch</string>
+    <string name="summary_switch_preference_yes_no">This is a switch with custom text</string>
+    <string name="summary_toggle_preference">This is a toggle button</string>
+    <string name="summary_yesno_preference">An example that uses a yes/no dialog</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="tab_remove_dialog_message">Du har én kategori igjen. Hvis du vil legge flere kategorier til denne appen, velger du Rediger kategorier/Filtere i menyen.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/androidTest/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="title_advanced_toggle_preference">Haunted preference</string>
+    <string name="title_checkbox_preference">Checkbox preference</string>
+    <string name="title_child_preference">Child toggle</string>
+    <string name="title_edittext_preference">Edit text preference</string>
+    <string name="title_fragment_preference">Fragment preference</string>
+    <string name="title_intent_preference">Intent preference</string>
+    <string name="title_list_preference">List preference</string>
+    <string name="title_my_preference">My preference</string>
+    <string name="title_next_screen_toggle_preference">Toggle preference</string>
+    <string name="title_parent_preference">Parent toggle</string>
+    <string name="title_screen_preference">Screen preference</string>
+    <string name="title_switch_preference">Switch preference</string>
+    <string name="title_toggle_preference">Toggle preference</string>
+    <string name="title_wifi">WiFi</string>
+    <string name="title_wifi_settings">WiFi settings</string>
+    <string name="title_yesno_preference">Yes or no preference</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">Kan ikke fjerne denne kategorien</string>
+    <string name="va_back">Tilbake</string>
+    <string name="va_call">Ring</string>
+    <string name="va_cancel">Avbryt</string>
+    <string name="va_clear">"Nullstill"</string>
+    <string name="va_close">Lukk</string>
+    <string name="va_copy">Kopier</string>
+    <string name="va_download">Last ned</string>
+    <string name="va_downloading">Laster ned</string>
+    <string name="va_finish">Fullfør</string>
+    <string name="va_hide">"Skjul"</string>
+    <string name="va_move_above">Flytt over</string>
+    <string name="va_move_below">Flytt under</string>
+    <string name="va_next">Neste</string>
+    <string name="va_ok">OK</string>
+    <string name="va_open">Åpne</string>
+    <string name="va_reset">Tilbakestill</string>
+    <string name="va_send_mail">Send e-post</string>
+    <string name="va_send_message">Send melding</string>
+    <string name="va_show_all">Vis alle</string>
+    <string name="yes">Ja</string>
+</resources>

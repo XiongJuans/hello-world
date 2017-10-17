@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-my/values-my.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>သေးငယ်</item><!--Small-->
+        <item>အလယ်အလတ်</item><!--Medium-->
+        <item>ကြီးမား</item><!--Large-->
+        <item>အလွန်ကြီးမား</item><!--Extra large-->
+        <item>ဧရာမကြီးမား</item><!--Huge-->
+    </string-array>
+    <string-array name="weeklayout_secondary_text">
+        <item>SU</item>
+        <item>M</item>
+        <item>TU</item>
+        <item>W</item>
+        <item>TH</item>
+        <item>F</item>
+        <item>SA</item>
+    </string-array>
+    <string name="accessibility_tap_action">အလုပ်စရန်နှစ်ချက်နှိပ်လိုက်ပါ</string>
+    <string name="add_comments">မှတ်ချက်ထည့်</string>
+    <string name="am">AM</string>
+    <string name="button_hide_caption">ခေါင်းစဉ်ဖျောက်ထား</string>
+    <string name="button_hide_description">ဖော်ပြချက်ကိုဖျောက်ထား</string>
+    <string name="button_show_caption">ခေါင်းစဉ် ဖော်ပြ</string>
+    <string name="button_show_description">ရည်ညွှန်းချက်ဖော်ပြ</string>
+    <string name="carousel_title">ကဏ္ဍ တည်းဖြတ်</string>
+    <string name="common_string_hint_search_people">လူရွာ</string>
+    <string name="common_string_open_contact">အမည်စာရင်းဖွင့်</string>
+    <string name="common_string_save_to_existing_contact">ရှိပြီးသားအမည်စာရင်းသို့သိမ်း</string>
+    <string name="common_string_save_to_people">လူပုဂ္ဂိုလ်သို့သိမ်း</string>
+    <string name="common_string_share_title">မှတဆင့်မျှဝေ</string>
+    <string name="done">ပြီးပြီ</string>
+    <string name="label_day">ရက်</string>
+    <string name="label_hour">နာရီ</string>
+    <string name="label_minute">မိနစ်</string>
+    <string name="label_month">လ</string>
+    <string name="label_second">စက္ကန့်</string>
+    <string name="label_year">နှစ်</string>
+    <string name="license_dialog_content">၅။ ဤဖုန်းတွင်အသုံးပြုထားသော အိုင်ကွန်အချို့သည် Google မှ အစပြု၍ ဖန်တီးထားသော ဒီဇိုင်းများနှင့် <a href="https://creativecommons.org/licenses/by/4.0/legalcode">ပြုပြင်ဖန်တီးနိုင်သော အထွေထွေ လိုင်စင် BY4.0</a> အောက်တွင် HTC မှ မွမ်းမံထားသည့် ဒီဇိုင်းများဖြစ်သည်။</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <string name="ls_doubletap_drag">နှစ်ခါနှိပ်ပြီးချိန်ညှိရန်ဆွဲပါ</string>
+    <string name="ls_edit_number_before_calling">မခေါ်ဆိုမီ နံပါတ်ကို တည်းဖြတ်</string>
+    <string name="ls_open_in_map">မြေပုံတွင်ဖွင့်</string>
+    <string name="ls_tablet_storage_error">သင့်၏ဖုန်းမှတ်ဉာဏ်မှားယွင်းနေ၊ဖုန်းစက်ပြန်ဖွင့်ပြီးမှတ်ဉာဏ်ပုံစံသွင်းပါ</string>
+    <string name="menu_crop">ဘေးသားဖြတ်</string>
+    <string name="menu_delete">ပယ်ဖျက်</string>
+    <string name="menu_properties">အသေးစိတ်</string>
+    <string name="menu_protect_info">ကာကွယ်ခြင်း အချက်အလက်</string>
+    <string name="menu_save_to_my_favorite">စိတ်ကြိုက်သတ်မှတ်</string>
+    <string name="menu_send_photo_link_by_email">ဓာတ်ပုံကွန်ယက်မျှဝေ</string>
+    <string name="menu_set_as">သတ်မှတ်</string>
+    <string name="menu_settings">ချိန်ညှိချက်များ</string>
+    <string name="menu_share">မျှဝေ</string>
+    <string name="menu_show_on_map">မြေပုံပေါ်မှာဖော်ပြ</string>
+    <string name="menu_slideshow">ဆလိုက်ရှိုး</string>
+    <string name="menu_view_full">မြင်ကွင်း</string>
+    <string name="menu_view_video">ဖွင့်</string>
+    <string name="meun_rotate">လှည့်</string>
+    <string name="nn_unknown_error">မသိသော မှားယွင်းမှု</string>
+    <string name="no">မရှိ</string>
+    <string name="pm">PM</string>
+    <string name="quickselection_share">မှတဆင့်မျှဝေ</string>
+    <string name="refresh">အသစ်တင်</string>
+    <string name="reminderview_common_unlock_hint_icon">အိုင်ကွန်ကို ဆွဲ၍ တင်ပါ</string>
+    <string name="reminderview_common_unlock_hint_up">သော့ဖွင့်ရန်အပေါ်သို့ဆွဲပါ။</string>
+    <string name="st_action_bar_pull_down">အသစ်တင်ရန် လွတ်ပေးခြင်း</string>
+    <string name="st_action_bar_updating">အသစ်ပြင်ဆင်တင်ပြခြင်း...</string>
+    <string name="st_draggable_item">ဆွဲယူနိုင်သည့် အရာ</string>
+    <string name="st_loading">လုပ်ဆောင်နေစဉ်</string>
+    <string name="st_more">ပို၍</string>
+    <string name="st_pull_down_refresh">အသစ်တင်ရန် ဆွဲချ</string>
+    <string name="tab_remove_dialog_message">ကဏ္ဍတစ်ခုကျန်နေသည်။ ဤအက်ပ်အတွက် ကဏ္ဍများပို၍ ထည့်ပေါင်းပါ၊ မေနူးပေါ်တွင် ဘောင်ကွက်များတည်းဖြတ်ပါ/စစ်ထုတ်ပါကို ရွေးချယ်ပါ။</string>
+    <string name="unremovable_warning_text">သင်္ကေတ ဖယ်ရှား၍မရ</string>
+    <string name="va_back">နောက်ပြန်</string>
+    <string name="va_call">ဖုန်း</string>
+    <string name="va_cancel">ရုပ်သိမ်း</string>
+    <string name="va_clear">ရှင်းလင်း</string>
+    <string name="va_close">ပိတ်</string>
+    <string name="va_copy">ကူးယူ</string>
+    <string name="va_download">ဒေါင်းလုတ်</string>
+    <string name="va_downloading">ဒေါင်းလုတ်ဆွဲနေစဉ်</string>
+    <string name="va_finish">ပြီးဆုံး</string>
+    <string name="va_hide">ဖျောက်ထား</string>
+    <string name="va_move_above">အပေါ်သို့ရွှေ့</string>
+    <string name="va_move_below">အောက်သို့ရွှေ့</string>
+    <string name="va_next">ရှေ့ဆက်</string>
+    <string name="va_ok">အိုကေ</string>
+    <string name="va_open">ဖွင့်</string>
+    <string name="va_reset">အသစ်ပြန်စ</string>
+    <string name="va_send_mail">မေးလ်ပို့</string>
+    <string name="va_send_message">မက်ဆေ့ခ်ျပို့</string>
+    <string name="va_show_all">အကုန်လုံးပြ</string>
+    <string name="yes">မှန်</string>
+</resources>

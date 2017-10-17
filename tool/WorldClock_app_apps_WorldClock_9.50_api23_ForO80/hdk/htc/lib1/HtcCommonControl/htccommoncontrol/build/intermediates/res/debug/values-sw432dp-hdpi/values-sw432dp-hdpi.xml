@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sw432dp-hdpi/ab_res.xml -->
+    <eat-comment/>
+    <dimen name="ab_height">82px</dimen>
+    <dimen name="ab_photoframe_size">50px</dimen>
+    <dimen name="action_button_min_width">70px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sw432dp-hdpi/dimen_alertdialog.xml -->
+    <eat-comment/>
+    <dimen name="common_dialogbox_header_height">72px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sw432dp-hdpi/integer_listview.xml -->
+    <eat-comment/>
+    <dimen name="expand_divider_height">3px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sw432dp-hdpi/dimen_common_fixed_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="fixed_b_button_primary_l">23px</dimen>
+    <dimen name="fixed_b_button_primary_m">22px</dimen>
+    <dimen name="fixed_b_button_primary_s">20px</dimen>
+    <dimen name="fixed_b_button_primary_xl">25px</dimen>
+    <dimen name="fixed_b_button_primary_xs">19px</dimen>
+    <dimen name="fixed_b_separator_primary_l">17px</dimen>
+    <dimen name="fixed_b_separator_primary_m">16px</dimen>
+    <dimen name="fixed_b_separator_primary_s">14px</dimen>
+    <dimen name="fixed_b_separator_primary_xl">19px</dimen>
+    <dimen name="fixed_b_separator_primary_xs">13px</dimen>
+    <dimen name="fixed_b_separator_secondary_l">23px</dimen>
+    <dimen name="fixed_b_separator_secondary_m">22px</dimen>
+    <dimen name="fixed_b_separator_secondary_s">20px</dimen>
+    <dimen name="fixed_b_separator_secondary_xl">25px</dimen>
+    <dimen name="fixed_b_separator_secondary_xs">20px</dimen>
+    <dimen name="fixed_b_toggle_primary_m">20px</dimen>
+    <dimen name="fixed_button_primary_l">23px</dimen>
+    <dimen name="fixed_button_primary_m">22px</dimen>
+    <dimen name="fixed_button_primary_s">20px</dimen>
+    <dimen name="fixed_button_primary_xl">25px</dimen>
+    <dimen name="fixed_button_primary_xs">19px</dimen>
+    <dimen name="fixed_dark_source_label_m">17px</dimen>
+    <dimen name="fixed_darklist_primary_l">26px</dimen>
+    <dimen name="fixed_darklist_primary_l_bold">26px</dimen>
+    <dimen name="fixed_darklist_primary_m">25px</dimen>
+    <dimen name="fixed_darklist_primary_m_bold">25px</dimen>
+    <dimen name="fixed_darklist_primary_s">23px</dimen>
+    <dimen name="fixed_darklist_primary_s_bold">23px</dimen>
+    <dimen name="fixed_darklist_primary_xl">28px</dimen>
+    <dimen name="fixed_darklist_primary_xl_bold">28px</dimen>
+    <dimen name="fixed_darklist_primary_xs">22px</dimen>
+    <dimen name="fixed_darklist_primary_xs_bold">22px</dimen>
+    <dimen name="fixed_darklist_primary_xxs">20px</dimen>
+    <dimen name="fixed_darklist_primary_xxs_bold">20px</dimen>
+    <dimen name="fixed_darklist_secondary">15px</dimen>
+    <dimen name="fixed_darklist_secondary_l">23px</dimen>
+    <dimen name="fixed_darklist_secondary_m">22px</dimen>
+    <dimen name="fixed_darklist_secondary_s">20px</dimen>
+    <dimen name="fixed_darklist_secondary_xl">25px</dimen>
+    <dimen name="fixed_darklist_secondary_xs">19px</dimen>
+    <dimen name="fixed_darklist_secondary_xxs">17px</dimen>
+    <dimen name="fixed_info_primary_l">25px</dimen>
+    <dimen name="fixed_info_primary_m">22px</dimen>
+    <dimen name="fixed_info_primary_s">22px</dimen>
+    <dimen name="fixed_info_primary_xl">29px</dimen>
+    <dimen name="fixed_info_primary_xs">21px</dimen>
+    <dimen name="fixed_input_default_l">26px</dimen>
+    <dimen name="fixed_input_default_m">25px</dimen>
+    <dimen name="fixed_input_default_s">23px</dimen>
+    <dimen name="fixed_input_default_xl">28px</dimen>
+    <dimen name="fixed_input_default_xs">22px</dimen>
+    <dimen name="fixed_label_off_m">15px</dimen>
+    <dimen name="fixed_label_on_m">15px</dimen>
+    <dimen name="fixed_list_body_l">29px</dimen>
+    <dimen name="fixed_list_body_m">21px</dimen>
+    <dimen name="fixed_list_body_primary_l">26px</dimen>
+    <dimen name="fixed_list_body_primary_m">25px</dimen>
+    <dimen name="fixed_list_body_primary_s">23px</dimen>
+    <dimen name="fixed_list_body_primary_xl">28px</dimen>
+    <dimen name="fixed_list_body_primary_xs">22px</dimen>
+    <dimen name="fixed_list_body_s">25px</dimen>
+    <dimen name="fixed_list_body_secondary_l">26px</dimen>
+    <dimen name="fixed_list_body_secondary_m">25px</dimen>
+    <dimen name="fixed_list_body_secondary_s">23px</dimen>
+    <dimen name="fixed_list_body_secondary_xl">28px</dimen>
+    <dimen name="fixed_list_body_secondary_xs">22px</dimen>
+    <dimen name="fixed_list_body_xl">40px</dimen>
+    <dimen name="fixed_list_body_xs">22px</dimen>
+    <dimen name="fixed_list_primary_l">26px</dimen>
+    <dimen name="fixed_list_primary_l_bold">26px</dimen>
+    <dimen name="fixed_list_primary_m">25px</dimen>
+    <dimen name="fixed_list_primary_m_bold">25px</dimen>
+    <dimen name="fixed_list_primary_s">23px</dimen>
+    <dimen name="fixed_list_primary_s_bold">23px</dimen>
+    <dimen name="fixed_list_primary_xl">28px</dimen>
+    <dimen name="fixed_list_primary_xl_bold">28px</dimen>
+    <dimen name="fixed_list_primary_xs">22px</dimen>
+    <dimen name="fixed_list_primary_xs_bold">22px</dimen>
+    <dimen name="fixed_list_primary_xxs">20px</dimen>
+    <dimen name="fixed_list_primary_xxs_bold">20px</dimen>
+    <dimen name="fixed_list_secondary">16px</dimen>
+    <dimen name="fixed_list_secondary_l">23px</dimen>
+    <dimen name="fixed_list_secondary_m">22px</dimen>
+    <dimen name="fixed_list_secondary_s">20px</dimen>
+    <dimen name="fixed_list_secondary_xl">25px</dimen>
+    <dimen name="fixed_list_secondary_xs">19px</dimen>
+    <dimen name="fixed_list_secondary_xxs">17px</dimen>
+    <dimen name="fixed_notification_info_m">22px</dimen>
+    <dimen name="fixed_notification_info_s">20px</dimen>
+    <dimen name="fixed_notification_info_xs">15px</dimen>
+    <dimen name="fixed_random_access_l">150px</dimen>
+    <dimen name="fixed_random_access_m">45px</dimen>
+    <dimen name="fixed_separator_primary_l">17px</dimen>
+    <dimen name="fixed_separator_primary_m">16px</dimen>
+    <dimen name="fixed_separator_primary_s">14px</dimen>
+    <dimen name="fixed_separator_primary_xl">19px</dimen>
+    <dimen name="fixed_separator_primary_xs">13px</dimen>
+    <dimen name="fixed_separator_secondary_l">23px</dimen>
+    <dimen name="fixed_separator_secondary_m">22px</dimen>
+    <dimen name="fixed_separator_secondary_s">20px</dimen>
+    <dimen name="fixed_separator_secondary_xl">25px</dimen>
+    <dimen name="fixed_separator_secondary_xs">20px</dimen>
+    <dimen name="fixed_shortcut_label_l">24px</dimen>
+    <dimen name="fixed_shortcut_label_m">22px</dimen>
+    <dimen name="fixed_source_label_m">20px</dimen>
+    <dimen name="fixed_time_info_m">16px</dimen>
+    <dimen name="fixed_time_pick_primary_m">83px</dimen>
+    <dimen name="fixed_time_pick_primary_s">75px</dimen>
+    <dimen name="fixed_time_pick_primary_xs">44px</dimen>
+    <dimen name="fixed_title_primary_l">29px</dimen>
+    <dimen name="fixed_title_primary_m">27px</dimen>
+    <dimen name="fixed_title_primary_s">26px</dimen>
+    <dimen name="fixed_title_primary_xl">30px</dimen>
+    <dimen name="fixed_title_primary_xs">24px</dimen>
+    <dimen name="fixed_title_secondary_l">23px</dimen>
+    <dimen name="fixed_title_secondary_m">22px</dimen>
+    <dimen name="fixed_title_secondary_s">20px</dimen>
+    <dimen name="fixed_title_secondary_xl">24px</dimen>
+    <dimen name="fixed_title_secondary_xs">19px</dimen>
+    <dimen name="fixed_toggle_primary_m">20px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sw432dp-hdpi/dimen_gridview.xml -->
+    <eat-comment/>
+    <dimen name="gridview_gap">5px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sw432dp-hdpi/dimen_footerbar.xml -->
+    <eat-comment/>
+    <dimen name="htc_footer_height">90px</dimen>
+    <dimen name="htc_footer_width">98px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sw432dp-hdpi/dimen_common_list_item_components.xml -->
+    <eat-comment/>
+    <dimen name="htc_list_item_color_bar_bold_width">12px</dimen>
+    <dimen name="htc_list_item_color_bar_width">6px</dimen>
+    <dimen name="htc_list_item_color_icon_size">66px</dimen>
+    <dimen name="htc_list_item_height_popup_menu">92px</dimen>
+    <dimen name="htc_list_item_photo_frame_diameter">64px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sw432dp-hdpi/dimen_common_list_item_separator.xml -->
+    <eat-comment/>
+    <dimen name="htc_list_item_separator_automotive_dark_height">60px</dimen>
+    <dimen name="htc_list_item_separator_powerby_text_height">46px</dimen>
+    <dimen name="htc_list_item_separator_with_text_height">60px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sw432dp-hdpi/dimen_common_list_item_components.xml -->
+    <eat-comment/>
+    <dimen name="htc_list_item_vertical_divider_width">1px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sw432dp-hdpi/dimen_progressbar.xml -->
+    <eat-comment/>
+    <dimen name="htc_progressbar_height">8px</dimen>
+    <dimen name="htc_thumbOffset">1px</dimen>
+    <dimen name="htc_thumb_size">24px</dimen>
+    <dimen name="htcprogress_medium_size">32px</dimen>
+    <dimen name="htcprogress_small_size">24px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sw432dp-hdpi/dimen_common_margin.xml -->
+    <eat-comment/>
+    <dimen name="leading">5px</dimen>
+    <dimen name="leading_2">10px</dimen>
+    <dimen name="leading_3">15px</dimen>
+    <dimen name="margin_l">23px</dimen>
+    <dimen name="margin_l_2">46px</dimen>
+    <dimen name="margin_l_3">69px</dimen>
+    <dimen name="margin_m">15px</dimen>
+    <dimen name="margin_m_2">30px</dimen>
+    <dimen name="margin_m_3">45px</dimen>
+    <dimen name="margin_s">11px</dimen>
+    <dimen name="margin_s_2">22px</dimen>
+    <dimen name="margin_s_3">33px</dimen>
+    <dimen name="margin_xs">9px</dimen>
+    <dimen name="margin_xs_2">18px</dimen>
+    <dimen name="margin_xs_3">27px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sw432dp-hdpi/dimen_control_buttons.xml -->
+    <eat-comment/>
+    <dimen name="progress_button_stroke_middle">4px</dimen>
+    <dimen name="progress_button_stroke_small">4px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sw432dp-hdpi/dimen_railinglayout.xml -->
+    <eat-comment/>
+    <dimen name="railing_layout_height">54px</dimen>
+    <dimen name="railing_layout_large_height">84px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sw432dp-hdpi/dimen_common_margin.xml -->
+    <eat-comment/>
+    <dimen name="spacing">7px</dimen>
+    <dimen name="spacing_2">14px</dimen>
+    <dimen name="spacing_3">21px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sw432dp-hdpi/dimen_time_picker.xml -->
+    <eat-comment/>
+    <dimen name="table_view_height">280px</dimen>
+    <dimen name="table_view_slide_offest">60px</dimen>
+    <dimen name="time_pick_border_weight">4px</dimen>
+    <dimen name="time_pick_bottom_margin">@dimen/margin_xs_2</dimen>
+    <dimen name="time_pick_left_margin">@dimen/margin_m_2</dimen>
+    <dimen name="time_pick_picker_height_landscape">236px</dimen>
+    <dimen name="time_pick_picker_height_portrait">280px</dimen>
+    <dimen name="time_pick_picker_width">120px</dimen>
+    <dimen name="time_pick_right_margin">@dimen/margin_m_2</dimen>
+    <dimen name="time_pick_text_view_height">116px</dimen>
+    <dimen name="time_pick_title_margin">@dimen/margin_xs</dimen>
+    <dimen name="time_pick_top_margin">@dimen/margin_l</dimen>
+    <dimen name="time_pick_total_width">420px</dimen>
+</resources>

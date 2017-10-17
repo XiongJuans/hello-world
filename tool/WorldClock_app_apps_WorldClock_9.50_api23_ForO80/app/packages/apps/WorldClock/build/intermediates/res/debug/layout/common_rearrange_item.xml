@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.htc.lib1.cc.widget.HtcListItem 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" 
+    android:layout_height="match_parent">
+    <com.htc.lib1.cc.widget.HtcDeleteButton
+        android:id="@+id/delete_icon"/>
+    <com.htc.lib1.cc.widget.HtcListItem2LineText
+        android:id="@+id/text_city_name" />
+    <com.htc.lib1.cc.widget.HtcImageButton 
+        android:id="@+id/rearrage_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:focusable="false"
+        android:clickable="false"/>
+</com.htc.lib1.cc.widget.HtcListItem><!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/layout/common_rearrange_item.xml -->

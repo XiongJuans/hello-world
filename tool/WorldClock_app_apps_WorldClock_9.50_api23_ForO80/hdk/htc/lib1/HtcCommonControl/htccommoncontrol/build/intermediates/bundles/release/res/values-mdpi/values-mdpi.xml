@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/integer_listview.xml -->
+    <eat-comment/>
+    <bool name="listview_separate_section">false</bool>
+    <color name="expand_list_child_color">#ffdbdbdb</color>
+    <color name="listview_app_background">#f2f2f2</color>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/ab_res.xml -->
+    <eat-comment/>
+    <dimen name="ab_height">54dp</dimen>
+    <dimen name="ab_margin_bottom">6px</dimen>
+    <dimen name="ab_margin_for_footer">108px</dimen>
+    <dimen name="ab_margin_top">4px</dimen>
+    <dimen name="ab_photoframe_size">34dp</dimen>
+    <dimen name="ab_pulldown_margin_bottom">7px</dimen>
+    <dimen name="ab_pulldown_margin_top">8px</dimen>
+    <dimen name="action_button_min_width">48dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimens_reminderview.xml -->
+    <eat-comment/>
+    <dimen name="background_color_status_bar_height">50dip</dimen>
+    <dimen name="background_color_widget_height">190dip</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimen_popupbubble.xml -->
+    <eat-comment/>
+    <dimen name="bubble_herizontal_offset">@dimen/margin_m</dimen>
+    <dimen name="bubble_land_herizontal_offset">@dimen/margin_m</dimen>
+    <dimen name="bubble_land_vertical_offset">@dimen/margin_m</dimen>
+    <dimen name="bubble_max_width">280dip</dimen>
+    <dimen name="bubble_min_width">214dip</dimen>
+    <dimen name="bubble_vertical_offset">@dimen/margin_m</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimens_reminderview.xml -->
+    <eat-comment/>
+    <dimen name="button_panel_button_icon_height">36dip</dimen>
+    <dimen name="button_panel_button_icon_margin_bottom">3.67dip</dimen>
+    <dimen name="button_panel_button_icon_width">36dip</dimen>
+    <dimen name="button_panel_button_title_height">37.33dip</dimen>
+    <dimen name="button_panel_four_button_title_margin_left">@dimen/common_dimen_m2</dimen>
+    <dimen name="button_panel_four_button_title_margin_right">@dimen/common_dimen_m2</dimen>
+    <dimen name="button_panel_four_button_width">90dip</dimen>
+    <dimen name="button_panel_height">92dip</dimen>
+    <dimen name="button_panel_three_button_height">94.33dip</dimen>
+    <dimen name="button_panel_three_button_icon_margin_bottom">5.67dip</dimen>
+    <dimen name="button_panel_three_button_margin_left">11dip</dimen>
+    <dimen name="button_panel_three_button_margin_right">11dip</dimen>
+    <dimen name="button_panel_three_button_title_height">47dip</dimen>
+    <dimen name="button_panel_three_button_title_margin_left">@dimen/common_dimen_m2</dimen>
+    <dimen name="button_panel_three_button_title_margin_right">@dimen/common_dimen_m2</dimen>
+    <dimen name="button_panel_three_button_width">112.67dip</dimen>
+    <dimen name="button_panel_two_button_title_margin_left">@dimen/common_dimen_m1_2</dimen>
+    <dimen name="button_panel_two_button_title_margin_right">@dimen/common_dimen_m1_2</dimen>
+    <dimen name="button_panel_two_button_width">180dip</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimen_control_buttons.xml -->
+    <eat-comment/>
+    <dimen name="color_button_border_width">1px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimen_alertdialog.xml -->
+    <eat-comment/>
+    <dimen name="common_dialogbox_header_height">48dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimens_reminderview.xml -->
+    <eat-comment/>
+    <dimen name="common_dimen_m1">@dimen/margin_l</dimen>
+    <dimen name="common_dimen_m1_2">@dimen/margin_l_2</dimen>
+    <dimen name="common_dimen_m2">@dimen/margin_m</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/integer_listview.xml -->
+    <eat-comment/>
+    <dimen name="expand_divider_height">2dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimen_common_fixed_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="fixed_b_button_primary_l">16sp</dimen>
+    <dimen name="fixed_b_button_primary_m">15sp</dimen>
+    <dimen name="fixed_b_button_primary_s">14sp</dimen>
+    <dimen name="fixed_b_button_primary_xl">17sp</dimen>
+    <dimen name="fixed_b_button_primary_xs">13sp</dimen>
+    <dimen name="fixed_b_separator_primary_l">12sp</dimen>
+    <dimen name="fixed_b_separator_primary_m">11sp</dimen>
+    <dimen name="fixed_b_separator_primary_s">10sp</dimen>
+    <dimen name="fixed_b_separator_primary_xl">13sp</dimen>
+    <dimen name="fixed_b_separator_primary_xs">9sp</dimen>
+    <dimen name="fixed_b_separator_secondary_l">16sp</dimen>
+    <dimen name="fixed_b_separator_secondary_m">15sp</dimen>
+    <dimen name="fixed_b_separator_secondary_s">14sp</dimen>
+    <dimen name="fixed_b_separator_secondary_xl">17sp</dimen>
+    <dimen name="fixed_b_separator_secondary_xs">13sp</dimen>
+    <dimen name="fixed_b_toggle_primary_m">14sp</dimen>
+    <dimen name="fixed_button_primary_l">16sp</dimen>
+    <dimen name="fixed_button_primary_m">15sp</dimen>
+    <dimen name="fixed_button_primary_s">14sp</dimen>
+    <dimen name="fixed_button_primary_xl">17sp</dimen>
+    <dimen name="fixed_button_primary_xs">13sp</dimen>
+    <dimen name="fixed_dark_source_label_m">12sp</dimen>
+    <dimen name="fixed_darklist_primary_l">18sp</dimen>
+    <dimen name="fixed_darklist_primary_l_bold">18sp</dimen>
+    <dimen name="fixed_darklist_primary_m">17sp</dimen>
+    <dimen name="fixed_darklist_primary_m_bold">17sp</dimen>
+    <dimen name="fixed_darklist_primary_s">16sp</dimen>
+    <dimen name="fixed_darklist_primary_s_bold">16sp</dimen>
+    <dimen name="fixed_darklist_primary_xl">19sp</dimen>
+    <dimen name="fixed_darklist_primary_xl_bold">19sp</dimen>
+    <dimen name="fixed_darklist_primary_xs">15sp</dimen>
+    <dimen name="fixed_darklist_primary_xs_bold">15sp</dimen>
+    <dimen name="fixed_darklist_primary_xxs">14sp</dimen>
+    <dimen name="fixed_darklist_primary_xxs_bold">14sp</dimen>
+    <dimen name="fixed_darklist_secondary">10sp</dimen>
+    <dimen name="fixed_darklist_secondary_l">16sp</dimen>
+    <dimen name="fixed_darklist_secondary_m">15sp</dimen>
+    <dimen name="fixed_darklist_secondary_s">14sp</dimen>
+    <dimen name="fixed_darklist_secondary_xl">17sp</dimen>
+    <dimen name="fixed_darklist_secondary_xs">13sp</dimen>
+    <dimen name="fixed_darklist_secondary_xxs">12sp</dimen>
+    <dimen name="fixed_info_primary_l">17sp</dimen>
+    <dimen name="fixed_info_primary_m">15sp</dimen>
+    <dimen name="fixed_info_primary_s">15sp</dimen>
+    <dimen name="fixed_info_primary_xl">20sp</dimen>
+    <dimen name="fixed_info_primary_xs">14sp</dimen>
+    <dimen name="fixed_input_default_l">18sp</dimen>
+    <dimen name="fixed_input_default_m">17sp</dimen>
+    <dimen name="fixed_input_default_s">16sp</dimen>
+    <dimen name="fixed_input_default_xl">19sp</dimen>
+    <dimen name="fixed_input_default_xs">15sp</dimen>
+    <dimen name="fixed_label_off_m">10sp</dimen>
+    <dimen name="fixed_label_on_m">10sp</dimen>
+    <dimen name="fixed_list_body_l">19sp</dimen>
+    <dimen name="fixed_list_body_m">14sp</dimen>
+    <dimen name="fixed_list_body_primary_l">18sp</dimen>
+    <dimen name="fixed_list_body_primary_m">17sp</dimen>
+    <dimen name="fixed_list_body_primary_s">16sp</dimen>
+    <dimen name="fixed_list_body_primary_xl">19sp</dimen>
+    <dimen name="fixed_list_body_primary_xs">15sp</dimen>
+    <dimen name="fixed_list_body_s">17sp</dimen>
+    <dimen name="fixed_list_body_secondary_l">18sp</dimen>
+    <dimen name="fixed_list_body_secondary_m">17sp</dimen>
+    <dimen name="fixed_list_body_secondary_s">16sp</dimen>
+    <dimen name="fixed_list_body_secondary_xl">19sp</dimen>
+    <dimen name="fixed_list_body_secondary_xs">15sp</dimen>
+    <dimen name="fixed_list_body_xl">27sp</dimen>
+    <dimen name="fixed_list_body_xs">15sp</dimen>
+    <dimen name="fixed_list_primary_l">18sp</dimen>
+    <dimen name="fixed_list_primary_l_bold">18sp</dimen>
+    <dimen name="fixed_list_primary_m">17sp</dimen>
+    <dimen name="fixed_list_primary_m_bold">17sp</dimen>
+    <dimen name="fixed_list_primary_s">16sp</dimen>
+    <dimen name="fixed_list_primary_s_bold">16sp</dimen>
+    <dimen name="fixed_list_primary_xl">19sp</dimen>
+    <dimen name="fixed_list_primary_xl_bold">19sp</dimen>
+    <dimen name="fixed_list_primary_xs">15sp</dimen>
+    <dimen name="fixed_list_primary_xs_bold">15sp</dimen>
+    <dimen name="fixed_list_primary_xxs">14sp</dimen>
+    <dimen name="fixed_list_primary_xxs_bold">14sp</dimen>
+    <dimen name="fixed_list_secondary">11sp</dimen>
+    <dimen name="fixed_list_secondary_l">16sp</dimen>
+    <dimen name="fixed_list_secondary_m">15sp</dimen>
+    <dimen name="fixed_list_secondary_s">14sp</dimen>
+    <dimen name="fixed_list_secondary_xl">17sp</dimen>
+    <dimen name="fixed_list_secondary_xs">13sp</dimen>
+    <dimen name="fixed_list_secondary_xxs">12sp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimen_reminderview_fixed_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="fixed_lockscreen_01">14px</dimen>
+    <dimen name="fixed_lockscreen_12">16px</dimen>
+    <dimen name="fixed_lockscreen_21">12px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimen_common_fixed_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="fixed_notification_info_m">15sp</dimen>
+    <dimen name="fixed_notification_info_s">14sp</dimen>
+    <dimen name="fixed_notification_info_xs">10sp</dimen>
+    <dimen name="fixed_random_access_l">100sp</dimen>
+    <dimen name="fixed_random_access_m">30sp</dimen>
+    <dimen name="fixed_separator_primary_l">12sp</dimen>
+    <dimen name="fixed_separator_primary_m">11sp</dimen>
+    <dimen name="fixed_separator_primary_s">10sp</dimen>
+    <dimen name="fixed_separator_primary_xl">13sp</dimen>
+    <dimen name="fixed_separator_primary_xs">9sp</dimen>
+    <dimen name="fixed_separator_secondary_l">16sp</dimen>
+    <dimen name="fixed_separator_secondary_m">15sp</dimen>
+    <dimen name="fixed_separator_secondary_s">14sp</dimen>
+    <dimen name="fixed_separator_secondary_xl">17sp</dimen>
+    <dimen name="fixed_separator_secondary_xs">13sp</dimen>
+    <dimen name="fixed_shortcut_label_l">16sp</dimen>
+    <dimen name="fixed_shortcut_label_m">15sp</dimen>
+    <dimen name="fixed_source_label_m">14sp</dimen>
+    <dimen name="fixed_time_info_m">11sp</dimen>
+    <dimen name="fixed_time_pick_primary_m">55sp</dimen>
+    <dimen name="fixed_time_pick_primary_s">50sp</dimen>
+    <dimen name="fixed_time_pick_primary_xs">29sp</dimen>
+    <dimen name="fixed_title_primary_l">19sp</dimen>
+    <dimen name="fixed_title_primary_m">18sp</dimen>
+    <dimen name="fixed_title_primary_s">17sp</dimen>
+    <dimen name="fixed_title_primary_xl">20sp</dimen>
+    <dimen name="fixed_title_primary_xs">16sp</dimen>
+    <dimen name="fixed_title_secondary_l">16sp</dimen>
+    <dimen name="fixed_title_secondary_m">15sp</dimen>
+    <dimen name="fixed_title_secondary_s">14sp</dimen>
+    <dimen name="fixed_title_secondary_xl">16sp</dimen>
+    <dimen name="fixed_title_secondary_xs">13sp</dimen>
+    <dimen name="fixed_toggle_primary_m">14sp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimen_gridview.xml -->
+    <eat-comment/>
+    <dimen name="gridview_gap">3dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/integer_listview.xml -->
+    <eat-comment/>
+    <dimen name="gridview_min_overfling_gap">3dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimens_reminderview.xml -->
+    <eat-comment/>
+    <dimen name="hint_view_height">19.33dip</dimen>
+    <dimen name="hint_view_margin_bottom">18.33dip</dimen>
+    <dimen name="hint_view_margin_left">@dimen/common_dimen_m1</dimen>
+    <dimen name="hint_view_margin_right">@dimen/common_dimen_m1</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimen_footerbar.xml -->
+    <eat-comment/>
+    <dimen name="htc_footer_height">60dp</dimen>
+    <dimen name="htc_footer_width">64dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimen_common_list_item_components.xml -->
+    <eat-comment/>
+    <dimen name="htc_list_item_color_bar_bold_width">12dp</dimen>
+    <dimen name="htc_list_item_color_bar_width">6dp</dimen>
+    <dimen name="htc_list_item_color_icon_size">44dp</dimen>
+    <dimen name="htc_list_item_height_popup_menu">62dp</dimen>
+    <dimen name="htc_list_item_photo_frame_diameter">42dp</dimen>
+    <dimen name="htc_list_item_photo_frame_stroke">2dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimen_common_list_item_separator.xml -->
+    <eat-comment/>
+    <dimen name="htc_list_item_separator_automotive_dark_height">40dp</dimen>
+    <dimen name="htc_list_item_separator_powerby_text_height">30dp</dimen>
+    <dimen name="htc_list_item_separator_with_actionbutton_height">30px</dimen>
+    <dimen name="htc_list_item_separator_with_text_height">40dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimen_common_list_item_components.xml -->
+    <eat-comment/>
+    <dimen name="htc_list_item_vertical_divider_width">1dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimen_progressbar.xml -->
+    <eat-comment/>
+    <dimen name="htc_progressbar_height">6dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimen_common_resource.xml -->
+    <eat-comment/>
+    <dimen name="htc_seekbar_min_height">24px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimen_setupwizard.xml -->
+    <eat-comment/>
+    <dimen name="htc_setupwizard_subtitle_height">39dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimen_progressbar.xml -->
+    <eat-comment/>
+    <dimen name="htc_thumbOffset">1dp</dimen>
+    <dimen name="htc_thumb_size">16dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimen_common_resource.xml -->
+    <eat-comment/>
+    <dimen name="htcpopupwindow_margin">3px</dimen>
+    <dimen name="htcpopupwindow_shift">5px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimen_progressbar.xml -->
+    <eat-comment/>
+    <dimen name="htcprogress_medium_size">22dp</dimen>
+    <dimen name="htcprogress_small_size">15dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimen_quicktips.xml -->
+    <eat-comment/>
+    <dimen name="indicator_top_margin">@dimen/margin_xs_2</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimen_common_margin.xml -->
+    <eat-comment/>
+    <dimen name="leading">3dp</dimen>
+    <dimen name="leading_2">6dp</dimen>
+    <dimen name="leading_3">9dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/integer_listview.xml -->
+    <eat-comment/>
+    <dimen name="list_item_height">66dp</dimen>
+    <dimen name="listview_max_overfling_gap">8dp</dimen>
+    <dimen name="listview_min_overfling_gap">1dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimen_common_margin.xml -->
+    <eat-comment/>
+    <dimen name="margin_l">15dp</dimen>
+    <dimen name="margin_l_2">30dp</dimen>
+    <dimen name="margin_l_3">45dp</dimen>
+    <dimen name="margin_m">10dp</dimen>
+    <dimen name="margin_m_2">20dp</dimen>
+    <dimen name="margin_m_3">30dp</dimen>
+    <dimen name="margin_s">7dp</dimen>
+    <dimen name="margin_s_2">14dp</dimen>
+    <dimen name="margin_s_3">21dp</dimen>
+    <dimen name="margin_xs">6dp</dimen>
+    <dimen name="margin_xs_2">12dp</dimen>
+    <dimen name="margin_xs_3">18dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimen_control_buttons.xml -->
+    <eat-comment/>
+    <dimen name="progress_button_stroke_middle">2dp</dimen>
+    <dimen name="progress_button_stroke_small">2dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimen_cellpager.xml -->
+    <eat-comment/>
+    <dimen name="pull_down_offset">27px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimen_railinglayout.xml -->
+    <eat-comment/>
+    <dimen name="railing_layout_height">36dp</dimen>
+    <dimen name="railing_layout_large_height">56dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimen_popupbubble.xml -->
+    <eat-comment/>
+    <dimen name="screen_margin_bottom">0dip</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimen_common_margin.xml -->
+    <eat-comment/>
+    <dimen name="spacing">5dp</dimen>
+    <dimen name="spacing_2">10dp</dimen>
+    <dimen name="spacing_3">15dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimens_reminderview.xml -->
+    <eat-comment/>
+    <dimen name="status_bar_height">25dip</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimen_tabbar.xml -->
+    <eat-comment/>
+    <dimen name="tab_indicator_height">4dp</dimen>
+    <dimen name="tabbar_height">34dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimen_time_picker.xml -->
+    <eat-comment/>
+    <dimen name="table_view_height">186dp</dimen>
+    <dimen name="table_view_slide_offest">46dp</dimen>
+    <dimen name="time_pick_border_weight">2dp</dimen>
+    <dimen name="time_pick_bottom_margin">@dimen/margin_xs_2</dimen>
+    <dimen name="time_pick_left_margin">@dimen/margin_m_2</dimen>
+    <dimen name="time_pick_picker_height_landscape">156dp</dimen>
+    <dimen name="time_pick_picker_height_portrait">186dp</dimen>
+    <dimen name="time_pick_picker_width">80dp</dimen>
+    <dimen name="time_pick_right_margin">@dimen/margin_m_2</dimen>
+    <dimen name="time_pick_text_view_height">78dp</dimen>
+    <dimen name="time_pick_title_margin">@dimen/margin_xs</dimen>
+    <dimen name="time_pick_top_margin">@dimen/margin_l</dimen>
+    <dimen name="time_pick_total_width">300dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimen_quicktips.xml -->
+    <eat-comment/>
+    <dimen name="tips_align_margin_l">55px</dimen>
+    <dimen name="tips_align_margin_m">33px</dimen>
+    <dimen name="tips_align_margin_s">@dimen/margin_m</dimen>
+    <dimen name="tips_closebutton_width">40px</dimen>
+    <dimen name="tips_text_Droid_Sans_font_size">18px</dimen>
+    <dimen name="tips_text_HTC_Scrip_font_size">22px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimen_common_resource.xml -->
+    <eat-comment/>
+    <dimen name="title_text_size">18px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimen_popupbubble.xml -->
+    <eat-comment/>
+    <dimen name="triangle_edge_limit">16px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimens_reminderview.xml -->
+    <eat-comment/>
+    <dimen name="two_tile_middle_gap_height">310.33dip</dimen>
+    <dimen name="two_tile_middle_gap_width">1dip</dimen>
+    <dimen name="unlock_distance">0dip</dimen>
+    <dimen name="unlock_minY">30dip</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/integer_listview.xml -->
+    <eat-comment/>
+    <drawable name="listview_listbackground">#00000000</drawable>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/ab_res.xml -->
+    <eat-comment/>
+    <integer name="actionBar_activeItemLMax">3</integer>
+    <integer name="actionBar_activeItemPMax">3</integer>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/integer_headerbar.xml -->
+    <eat-comment/>
+    <integer name="header_bar_bubble_offset">8</integer>
+    <integer name="header_bar_bubble_size">24</integer>
+    <integer name="header_bar_dropdown_bubble_size">24</integer>
+    <integer name="header_bar_dropdown_indicator_offset">8</integer>
+    <integer name="header_bar_dropdown_progress_offset">8</integer>
+    <integer name="header_bar_dropdown_progress_size">16</integer>
+    <integer name="header_bar_dropdown_text_lpadding">8</integer>
+    <integer name="header_bar_dropdown_text_rpadding">8</integer>
+    <integer name="header_bar_image_button_size">48</integer>
+    <integer name="header_bar_image_frame_button_size">54</integer>
+    <integer name="header_bar_image_frame_ipadding">3</integer>
+    <integer name="header_bar_image_frame_lpadding">8</integer>
+    <integer name="header_bar_image_frame_size">64</integer>
+    <integer name="header_bar_image_label_rmargin">1</integer>
+    <integer name="header_bar_image_label_size">44</integer>
+    <integer name="header_bar_image_label_uoffset">5</integer>
+    <integer name="header_bar_image_select_height">64</integer>
+    <integer name="header_bar_image_select_width">70</integer>
+    <integer name="header_bar_input_close_size">30</integer>
+    <integer name="header_bar_input_height">48</integer>
+    <integer name="header_bar_input_ipadding">10</integer>
+    <integer name="header_bar_input_lpadding">10</integer>
+    <integer name="header_bar_input_progress_size">16</integer>
+    <integer name="header_bar_input_rpadding">10</integer>
+    <integer name="header_bar_lpadding">0</integer>
+    <integer name="header_bar_mheight">70</integer>
+    <integer name="header_bar_progress_offset">8</integer>
+    <integer name="header_bar_progress_size">16</integer>
+    <integer name="header_bar_rpadding">0</integer>
+    <integer name="header_bar_sheight">44</integer>
+    <integer name="header_bar_text_2text_gap">6</integer>
+    <integer name="header_bar_text_lpadding">10</integer>
+    <integer name="header_bar_text_rpadding">10</integer>
+    <integer name="header_bar_theight">74</integer>
+    <integer name="header_bar_unit_width">68</integer>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/integer_tabcontrol.xml -->
+    <eat-comment/>
+    <integer name="hvga_width">64</integer>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/integer_listview.xml -->
+    <eat-comment/>
+    <integer name="listview_blade_padding">4</integer>
+    <integer name="listview_border_height">0</integer>
+    <integer name="listview_fastscroller_automotive_big_height">246</integer>
+    <integer name="listview_fastscroller_automotive_big_textsize">226</integer>
+    <integer name="listview_fastscroller_automotive_big_width">246</integer>
+    <integer name="listview_fastscroller_automotive_textsize">45</integer>
+    <integer name="listview_fastscroller_big_height">100</integer>
+    <integer name="listview_fastscroller_big_textmargin">20</integer>
+    <integer name="listview_fastscroller_big_textsize">78</integer>
+    <integer name="listview_fastscroller_big_width">100</integer>
+    <integer name="listview_fastscroller_height">60</integer>
+    <integer name="listview_fastscroller_textmargin">10</integer>
+    <integer name="listview_fastscroller_textsize">26</integer>
+    <integer name="listview_fastscroller_width">270</integer>
+    <integer name="listview_scalex_difference">5</integer>
+    <integer name="listview_scaley_difference">5</integer>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/htcautocompletetextview_res.xml -->
+    <eat-comment/>
+    <integer name="min_dropdown_width">260</integer>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dimen_tab.xml -->
+    <eat-comment/>
+    <integer name="tab_customize_flag">0x05</integer>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/integer_tabcontrol.xml -->
+    <eat-comment/>
+    <integer name="tab_switch_fade_in_duration">300</integer>
+    <integer name="tab_switch_fade_in_duration_move">200</integer>
+    <integer name="tab_switch_fade_out_duration">300</integer>
+    <integer name="tab_switch_item_height">90</integer>
+    <integer name="tab_switch_item_padding_end">7</integer>
+    <integer name="tab_switch_item_padding_start">0</integer>
+    <integer name="tab_switch_item_width">102</integer>
+    <integer name="tab_switch_text_large">36</integer>
+    <integer name="tab_switch_text_small">36</integer>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-mdpi/dummy_res.xml -->
+    <eat-comment/>
+    <string name="zero_dummy_string" translatable="false">mdpi</string>
+</resources>

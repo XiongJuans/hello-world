@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>קטן</item><!--Small-->
+        <item>בינוני</item><!--Medium-->
+        <item>גדול</item><!--Large-->
+        <item>גדול מאוד</item><!--Extra large-->
+        <item>ענק</item><!--Huge-->
+    </string-array>
+    <string-array name="weeklayout_secondary_text">
+        <item>א</item><!--SU-->
+        <item>ב</item><!--M-->
+        <item>ג</item><!--TU-->
+        <item>ד</item><!--W-->
+        <item>ה</item><!--TH-->
+        <item>ו</item><!--F-->
+        <item>ש</item><!--SA-->
+    </string-array>
+    <string name="accessibility_tap_action">הקש פעמיים כדי להפעיל</string>
+    <string name="add_comments">הוסף תגובה</string>
+    <string name="am">AM</string>
+    <string name="button_hide_caption">הסתר כיתוב</string>
+    <string name="button_hide_description">הסתר תיאור</string>
+    <string name="button_show_caption">הצג כיתוב</string>
+    <string name="button_show_description">הצג תיאור</string>
+    <string name="carousel_title">ע.לשוניות</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-iw/htc_strings.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">חיפוש ב\"אנשים\"</string>
+    <string name="common_string_open_contact">פתח איש קשר</string>
+    <string name="common_string_save_to_existing_contact">שמור לאיש קשר קיים</string>
+    <string name="common_string_save_to_people">שמור ב\"אנשים\"</string>
+    <string name="common_string_share_title">שתף באמצעות</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="done">בוצע</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-iw/htc_strings.xml -->
+    <eat-comment/>
+    <string name="label_day">יום</string>
+    <string name="label_hour">שעה</string>
+    <string name="label_minute">דקה</string>
+    <string name="label_month">חודש</string>
+    <string name="label_second">שניה</string>
+    <string name="label_year">שנה</string>
+    <string name="license_dialog_content">חלק מהסמלים המופיעים בטלפון הזה נוצרו במקור על ידי Google ושונו על ידי HTC במסגרת רישיון <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons License BY4.0</a>.</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <string name="ls_doubletap_drag">הקש פעמיים וגרור כדי לכוונן</string>
+    <string name="ls_edit_number_before_calling">לפני שתתקשר, ערוך את המספר</string>
+    <string name="ls_open_in_map">פתח במפה</string>
+    <string name="ls_tablet_storage_error">אירעה שגיאה בזכרון מחשב הלוח. אתחל את המכשיר או אתחל פרמט את הזכרון.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="menu_crop">חתוך</string>
+    <string name="menu_delete">מחק</string>
+    <string name="menu_properties">פרטים</string>
+    <string name="menu_protect_info">נתוני הגנה</string>
+    <string name="menu_save_to_my_favorite">הגדר כמועדף</string>
+    <string name="menu_send_photo_link_by_email">שתף קישור לתמונה</string>
+    <string name="menu_set_as">הגדר כ</string>
+    <string name="menu_settings">הגדרות</string>
+    <string name="menu_share">שתף</string>
+    <string name="menu_show_on_map">הצג במפה</string>
+    <string name="menu_slideshow">מצגת</string>
+    <string name="menu_view_full">הצג</string>
+    <string name="menu_view_video">הפעל</string>
+    <string name="meun_rotate">סובב</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-iw/htc_strings.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">שגיאה לא ידועה</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="no">לא</string>
+    <string name="pm">PM</string>
+    <string name="quickselection_share">שתף באמצעות</string>
+    <string name="refresh">רענן</string>
+    <string name="reminderview_common_unlock_hint_icon">משוך את הסמל למעלה</string>
+    <string name="reminderview_common_unlock_hint_up">משוך למעלה כדי לבטל נעילה</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-iw/htc_strings.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">שחרר כדי לרענן</string>
+    <string name="st_action_bar_updating">מעדכן...</string>
+    <string name="st_draggable_item">פריט ניתן לגרירה</string>
+    <string name="st_loading">טוען...</string>
+    <string name="st_more">עוד</string>
+    <string name="st_pull_down_refresh">משוך למטה כדי לרענן</string>
+    <string name="tab_remove_dialog_message">נותרה לך לשונית אחת. להוספת לשוניות ליישום זה, בחר באפשרות \'ערוך לשוניות/מסננים\' בתפריט.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">לא ניתן להסיר לשונית זו</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-iw/htc_strings.xml -->
+    <eat-comment/>
+    <string name="va_back">הקודם</string>
+    <string name="va_call">התקשר</string>
+    <string name="va_cancel">ביטול</string>
+    <string name="va_clear">נקה</string>
+    <string name="va_close">סגור</string>
+    <string name="va_copy">העתק</string>
+    <string name="va_download">הורד</string>
+    <string name="va_downloading">מוריד</string>
+    <string name="va_finish">סיים</string>
+    <string name="va_hide">הסתר</string>
+    <string name="va_move_above">הזז למעלה</string>
+    <string name="va_move_below">הזז למטה</string>
+    <string name="va_next">הבא</string>
+    <string name="va_ok">אישור</string>
+    <string name="va_open">פתח</string>
+    <string name="va_reset">אתחל</string>
+    <string name="va_send_mail">שלח דואר</string>
+    <string name="va_send_message">שלח הודעה</string>
+    <string name="va_show_all">הצג הכל</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="yes">כן</string>
+</resources>

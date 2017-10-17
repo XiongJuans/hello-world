@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string name="location_unavailable">الموقع غير متوفر</string>
+    <string name="masthead_st_am">ص</string>
+    <string name="masthead_st_auto_sync_off">خدمة المزامنة التلقائية متوقفة، انقر لمعرفة حالة الطقس.</string>
+    <string name="masthead_st_current_location">الموقع الحالي</string>
+    <string name="masthead_st_device_only_off">غيِّر وضع خدمة الموقع لمعرفة حالة الطقس</string>
+    <string name="masthead_st_location_service_off">قم بتشغيل خدمات الموقع لمعرفة الطقس</string>
+    <string name="masthead_st_pm">م</string>
+    <string name="masthead_st_weather_unavailable">خدمة الطقس غير متاحة</string>
+</resources>

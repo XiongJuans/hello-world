@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-hi/strings.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>छोटा</item><!--Small-->
+        <item>मध्यम</item><!--Medium-->
+        <item>बड़ा</item><!--Large-->
+        <item>असाधारण रूप से बड़ा</item><!--Extra large-->
+        <item>बहुत बड़ा</item><!--Huge-->
+    </string-array>
+    <string-array name="weeklayout_secondary_text">
+        <item>रवि</item><!--SU-->
+        <item>M</item><!--M-->
+        <item>मंगल</item><!--TU-->
+        <item>बुध</item><!--W-->
+        <item>गुरू</item><!--TH-->
+        <item>शुक्र</item><!--F-->
+        <item>शनि</item><!--SA-->
+    </string-array>
+    <string name="accessibility_tap_action">कार्य के लिए डबल टैप करें</string>
+    <string name="add_comments">टिप्पणी जोड़ें</string>
+    <string name="am">AM</string>
+    <string name="button_hide_caption">कैप्शन छिपाएं</string>
+    <string name="button_hide_description">विवरण छिपाएं</string>
+    <string name="button_show_caption">कैप्शन दिखाएं</string>
+    <string name="button_show_description">विवरण दिखाएं</string>
+    <string name="carousel_title">टैब संपादित करें</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-hi/htc_strings.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">लोगों को खोजें</string>
+    <string name="common_string_open_contact">संपर्क खोलें</string>
+    <string name="common_string_save_to_existing_contact">मौजूदा संपर्क में सहेजें</string>
+    <string name="common_string_save_to_people">लोग में सहेजें</string>
+    <string name="common_string_share_title">निम्न द्वारा साझा करें</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-hi/strings.xml -->
+    <eat-comment/>
+    <string name="done">संपन्न</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-hi/htc_strings.xml -->
+    <eat-comment/>
+    <string name="label_day">दिन</string>
+    <string name="label_hour">घंटा</string>
+    <string name="label_minute">मिनट</string>
+    <string name="label_month">महीना</string>
+    <string name="label_second">सेकंड</string>
+    <string name="label_year">वर्ष</string>
+    <string name="license_dialog_content">इस फ़ोन में प्रयुक्त कुछ आइकन मूल रूप से Google द्वारा डिज़ाइन किए गए थे और HTC द्वारा <a href="https://creativecommons.org/licenses/by/4.0/legalcode">क्रिएटिव कॉमन्स लाइसेंस BY4.0</a> के अंतर्गत संशोधित किए गए थे.</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <string name="ls_doubletap_drag">समायोजित करने के लिए डबल टैप करें और खींचें</string>
+    <string name="ls_edit_number_before_calling">कॉल करने के पहले नंबर संपादित करें</string>
+    <string name="ls_open_in_map">मैप में खोलें</string>
+    <string name="ls_tablet_storage_error">आपके टेबलेट संग्रहण में एक त्रुटि हुई थी। कृपया अपने उपकरण को रीबूट करें या संग्रहण को फ़ॉर्मेट करें।</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-hi/strings.xml -->
+    <eat-comment/>
+    <string name="menu_crop">क्रॉप करें</string>
+    <string name="menu_delete">हटाएं</string>
+    <string name="menu_properties">विवरण</string>
+    <string name="menu_protect_info">सुरक्षा जानकारी</string>
+    <string name="menu_save_to_my_favorite">पसंदीदा के रूप में सहेजें</string>
+    <string name="menu_send_photo_link_by_email">फ़ोटो लिंक साझा करें</string>
+    <string name="menu_set_as">निम्न के रूप में सेट करें</string>
+    <string name="menu_settings">सेटिंग</string>
+    <string name="menu_share">साझा करें</string>
+    <string name="menu_show_on_map">मैप पर दिखाएं</string>
+    <string name="menu_slideshow">स्लाइडशो</string>
+    <string name="menu_view_full">देखें</string>
+    <string name="menu_view_video">चलाएं</string>
+    <string name="meun_rotate">घुमाएं</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-hi/htc_strings.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">अज्ञात त्रुटि</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-hi/strings.xml -->
+    <eat-comment/>
+    <string name="no">नहीं</string>
+    <string name="pm">PM</string>
+    <string name="quickselection_share">निम्न द्वारा साझा करें</string>
+    <string name="refresh">रीफ़्रेश करें</string>
+    <string name="reminderview_common_unlock_hint_icon">आइकन ऊपर खींचें</string>
+    <string name="reminderview_common_unlock_hint_up">अनलॉक करने के लिए ऊपर खींचें</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-hi/htc_strings.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">रीफ़्रेश करने के लिए छोड़ें</string>
+    <string name="st_action_bar_updating">अपडेट कर रहा है...</string>
+    <string name="st_draggable_item">खींचने योग्य आइटम</string>
+    <string name="st_loading">लोड हो रहा है...</string>
+    <string name="st_more">अधिक</string>
+    <string name="st_pull_down_refresh">रीफ़्रेश करने के लिए नीचे खींचे</string>
+    <string name="tab_remove_dialog_message">आपके पास एक टैब शेष है। इस एप्लिकेशन के लिए और अधिक टैब जोड़ने के लिए, मेनू से टैब संपादित करें/फ़िल्टर चुनें।</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-hi/strings.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">इस टैब को निकालने में असमर्थ</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-hi/htc_strings.xml -->
+    <eat-comment/>
+    <string name="va_back">वापस</string>
+    <string name="va_call">कॉल करें</string>
+    <string name="va_cancel">रद्द करें</string>
+    <string name="va_clear">खाली करें</string>
+    <string name="va_close">बंद करें</string>
+    <string name="va_copy">प्रतिलिपि बनाएं</string>
+    <string name="va_download">डाउनलोड करें</string>
+    <string name="va_downloading">डाउनलोड करना</string>
+    <string name="va_finish">समाप्त</string>
+    <string name="va_hide">छिपाएं</string>
+    <string name="va_move_above">ऊपर ले जाएं</string>
+    <string name="va_move_below">नीचे ले जाएं</string>
+    <string name="va_next">अगला</string>
+    <string name="va_ok">ठीक</string>
+    <string name="va_open">खोलें</string>
+    <string name="va_reset">रीसेट करें</string>
+    <string name="va_send_mail">मेल भेजें</string>
+    <string name="va_send_message">संदेश भेजें</string>
+    <string name="va_show_all">सभी दिखाएं</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-hi/strings.xml -->
+    <eat-comment/>
+    <string name="yes">हाँ</string>
+</resources>

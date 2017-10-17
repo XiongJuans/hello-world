@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>Кіші</item><!--Small-->
+        <item>Орташа</item><!--Medium-->
+        <item>Үлкен</item><!--Large-->
+        <item>Аса үлкен</item><!--Extra large-->
+        <item>Алып</item><!--Huge-->
+    </string-array>
+    <string-array name="weeklayout_secondary_text">
+        <item>Жс</item><!--SU-->
+        <item>Дс</item><!--M-->
+        <item>Сс</item><!--TU-->
+        <item>Ср</item><!--W-->
+        <item>Бс</item><!--TH-->
+        <item>Жм</item><!--F-->
+        <item>Сб</item><!--SA-->
+    </string-array>
+    <string name="accessibility_tap_action">Әрекет жасау үшін екі рет басыңыз</string>
+    <string name="add_comments">Пікір қосу</string>
+    <string name="am">AM</string>
+    <string name="button_hide_caption">Тақырыпты жасыру</string>
+    <string name="button_hide_description">Сипаттаманы жасыру</string>
+    <string name="button_show_caption">Тақырыпты көрсету</string>
+    <string name="button_show_description">Сипаттаманы көрсету</string>
+    <string name="carousel_title">Қойындыларды өңдеу</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-kk/htc_strings.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">Адамдарды іздеу</string>
+    <string name="common_string_open_contact">Контактіні ашу</string>
+    <string name="common_string_save_to_existing_contact">Бар контактіге сақтау</string>
+    <string name="common_string_save_to_people">Адамдар қолданбасына сақтау</string>
+    <string name="common_string_share_title">Ортақтастыру әдісі</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="done">Дайын</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-kk/htc_strings.xml -->
+    <eat-comment/>
+    <string name="label_day">Күн</string>
+    <string name="label_hour">Сағат</string>
+    <string name="label_minute">Минут</string>
+    <string name="label_month">Ай</string>
+    <string name="label_second">Секунд</string>
+    <string name="label_year">Жыл</string>
+    <string name="license_dialog_content">Бұл телефонда қолданылған кейбір белгішелер Google тарапынан жасалған және <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons лицензиясы BY4.0</a> бойынша HTC арқылы өзгертілді.</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <string name="ls_doubletap_drag">реттеу үшін екі рет басып, сүйреңіз</string>
+    <string name="ls_edit_number_before_calling">Нөмірді қоңырау соғудан бұрын өңдеу</string>
+    <string name="ls_open_in_map">Картада ашу</string>
+    <string name="ls_tablet_storage_error">Планшет жадына қатысты қате пайда болды. Құрылғыны қайта қосыңыз немесе жадты пішімдеңіз.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="menu_crop">Қиып алу</string>
+    <string name="menu_delete">Жою</string>
+    <string name="menu_properties">Мәлімет</string>
+    <string name="menu_protect_info">Қорғау туралы ақпарат</string>
+    <string name="menu_save_to_my_favorite">Таңдаулы ретінде орнату</string>
+    <string name="menu_send_photo_link_by_email">Фотосурет сілтемесін ортақтастыру</string>
+    <string name="menu_set_as">Келесі ретінде орнату</string>
+    <string name="menu_settings">Параметрлер</string>
+    <string name="menu_share">Ортақтастыру</string>
+    <string name="menu_show_on_map">Картада көрсету</string>
+    <string name="menu_slideshow">Слайд көрсетілімі</string>
+    <string name="menu_view_full">Көру</string>
+    <string name="menu_view_video">Ойнату</string>
+    <string name="meun_rotate">Бұру</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-kk/htc_strings.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">Белгісіз қате</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="no">Жоқ</string>
+    <string name="pm">PM</string>
+    <string name="quickselection_share">Ортақтастыру әдісі</string>
+    <string name="refresh">Жаңарту</string>
+    <string name="reminderview_common_unlock_hint_icon">Белгішені жоғары тартыңыз</string>
+    <string name="reminderview_common_unlock_hint_up">Құлыпты ашу үшін жоғары тартыңыз</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-kk/htc_strings.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">ЖАҢАРТУ ҮШІН БОСАТЫҢЫЗ</string>
+    <string name="st_action_bar_updating">Жаңартылуда...</string>
+    <string name="st_draggable_item">Сүйрелетін элемент</string>
+    <string name="st_loading">Жүктелуде...</string>
+    <string name="st_more">Басқа</string>
+    <string name="st_pull_down_refresh">Жаңарту үшін төмен қарай тартыңыз</string>
+    <string name="tab_remove_dialog_message">Бір қойынды қалды. Бұл қолданба үшін қосымша қойынды қосу үшін мәзірде "Қойындыларды/сүзгілерді өңдеу" түймешігін таңдаңыз.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">Бұл қойындыны жою мүмкін емес</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-kk/htc_strings.xml -->
+    <eat-comment/>
+    <string name="va_back">Артқа</string>
+    <string name="va_call">Қоңырау</string>
+    <string name="va_cancel">Бас тарту</string>
+    <string name="va_clear">Өшіру</string>
+    <string name="va_close">Жабу</string>
+    <string name="va_copy">Көшіру</string>
+    <string name="va_download">Жүктеу</string>
+    <string name="va_downloading">Жүктелуде</string>
+    <string name="va_finish">Дайын</string>
+    <string name="va_hide">Жасыру</string>
+    <string name="va_move_above">Үстіне жылжу</string>
+    <string name="va_move_below">Астына жылжу</string>
+    <string name="va_next">Келесі</string>
+    <string name="va_ok">ОК</string>
+    <string name="va_open">Ашу</string>
+    <string name="va_reset">Қалпына келтіру</string>
+    <string name="va_send_mail">Хат жіберу</string>
+    <string name="va_send_message">Хабар жіберу</string>
+    <string name="va_show_all">Барлығын көрсету</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-kk/strings.xml -->
+    <eat-comment/>
+    <string name="yes">Иә</string>
+</resources>

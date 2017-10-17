@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>小</item><!--Small-->
+        <item>中</item><!--Medium-->
+        <item>大</item><!--Large-->
+        <item>特大</item><!--Extra large-->
+        <item>極大</item><!--Huge-->
+    </string-array>
+    <string-array name="weeklayout_secondary_text">
+        <item>日</item><!--SU-->
+        <item>月</item><!--M-->
+        <item>火</item><!--TU-->
+        <item>水</item><!--W-->
+        <item>木</item><!--TH-->
+        <item>金</item><!--F-->
+        <item>土</item><!--SA-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ja/dimen_common_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="b_separator_secondary_xs">15sp</dimen>
+    <dimen name="b_toggle_primary_m">16sp</dimen>
+    <dimen name="label_off_m">14sp</dimen>
+    <dimen name="label_on_m">14sp</dimen>
+    <dimen name="list_body_s">19sp</dimen>
+    <dimen name="list_body_xl">31sp</dimen>
+    <dimen name="list_body_xs">16sp</dimen>
+    <dimen name="separator_secondary_xs">16sp</dimen>
+    <dimen name="time_pick_primary_s">35sp</dimen>
+    <dimen name="toggle_primary_m">16sp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="accessibility_tap_action">ダブルタップで実行</string>
+    <string name="add_comments">コメントを追加</string>
+    <string name="am">午前</string>
+    <string name="button_hide_caption">タイトルを表示しない</string>
+    <string name="button_hide_description">説明を非表示</string>
+    <string name="button_show_caption">タイトルを表示</string>
+    <string name="button_show_description">説明を表示</string>
+    <string name="carousel_title">タブを編集</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ja/htc_strings.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">連絡先を検索</string>
+    <string name="common_string_open_contact">連絡先を開く</string>
+    <string name="common_string_save_to_existing_contact">既存の連絡先に保存</string>
+    <string name="common_string_save_to_people">連絡先を保存</string>
+    <string name="common_string_share_title">共有方法</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="done">完了</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ja/htc_strings.xml -->
+    <eat-comment/>
+    <string name="label_day">日</string>
+    <string name="label_hour">時</string>
+    <string name="label_minute">分</string>
+    <string name="label_month">月</string>
+    <string name="label_second">秒</string>
+    <string name="label_year">年</string>
+    <string name="license_dialog_content">この電話で使用される一部のアイコンは、Google がデザインし、<a href="https://creativecommons.org/licenses/by/4.0/legalcode">クリエイティブ コモンズ ライセンス表示 4.0</a> の条件のもとに HTC が改変しました。</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <string name="ls_doubletap_drag">ダブルタップしてドラッグすると調整できます</string>
+    <string name="ls_edit_number_before_calling">通話の前に番号を編集</string>
+    <string name="ls_open_in_map">マップで開く</string>
+    <string name="ls_tablet_storage_error">タブレット PC のメモリでエラーが発生しました。デバイスをリブートするか、メモリをフォーマットしてください。</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="menu_crop">トリミング</string>
+    <string name="menu_delete">削除</string>
+    <string name="menu_properties">詳細</string>
+    <string name="menu_protect_info">保護情報</string>
+    <string name="menu_save_to_my_favorite">お気に入りに設定</string>
+    <string name="menu_send_photo_link_by_email">写真のリンクを共有</string>
+    <string name="menu_set_as">設定内容</string>
+    <string name="menu_settings">設定</string>
+    <string name="menu_share">共有</string>
+    <string name="menu_show_on_map">マップに表示</string>
+    <string name="menu_slideshow">スライドショー</string>
+    <string name="menu_view_full">表示</string>
+    <string name="menu_view_video">再生</string>
+    <string name="meun_rotate">回転</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ja/htc_strings.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">"不明なエラー"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="no">いいえ</string>
+    <string name="pm">午後</string>
+    <string name="quickselection_share">共有方法</string>
+    <string name="refresh">更新</string>
+    <string name="reminderview_common_unlock_hint_icon">アイコンを上にプルします</string>
+    <string name="reminderview_common_unlock_hint_up">上に引いてロックを解除</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ja/htc_strings.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">離すと更新します</string>
+    <string name="st_action_bar_updating">更新中...</string>
+    <string name="st_draggable_item">ドラッグ可能なアイテム</string>
+    <string name="st_loading">読み込んでいます...</string>
+    <string name="st_more">詳細</string>
+    <string name="st_pull_down_refresh">下に引くと更新します</string>
+    <string name="tab_remove_dialog_message">1 個のタブが残っています。このアプリに別のタブを追加するには、メニューから [タブを編集/フィルタ] を選択してください。</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">このタブは削除できません</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ja/htc_strings.xml -->
+    <eat-comment/>
+    <string name="va_back">戻る</string>
+    <string name="va_call">ダイヤル</string>
+    <string name="va_cancel">キャンセル</string>
+    <string name="va_clear">"消去"</string>
+    <string name="va_close">閉じる</string>
+    <string name="va_copy">コピー</string>
+    <string name="va_download">ダウンロード</string>
+    <string name="va_downloading">ダウンロード中</string>
+    <string name="va_finish">完了</string>
+    <string name="va_hide">"表示しない"</string>
+    <string name="va_move_above">上へ移動</string>
+    <string name="va_move_below">下へ移動</string>
+    <string name="va_next">次へ</string>
+    <string name="va_ok">OK</string>
+    <string name="va_open">開く</string>
+    <string name="va_reset">リセット</string>
+    <string name="va_send_mail">メールを送信する</string>
+    <string name="va_send_message">メッセージを送信する</string>
+    <string name="va_show_all">すべて表示</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="yes">はい</string>
+</resources>

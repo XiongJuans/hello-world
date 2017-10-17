@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>Mică</item><!--Small-->
+        <item>Mediu</item><!--Medium-->
+        <item>Mare</item><!--Large-->
+        <item>Extra mare</item><!--Extra large-->
+        <item>Foarte mare</item><!--Huge-->
+    </string-array>
+    <string-array name="weeklayout_secondary_text">
+        <item>Du</item><!--SU-->
+        <item>L</item><!--M-->
+        <item>Ma</item><!--TU-->
+        <item>M</item><!--W-->
+        <item>Jo</item><!--TH-->
+        <item>V</item><!--F-->
+        <item>Sâ</item><!--SA-->
+    </string-array>
+    <string name="accessibility_tap_action">Apăsaţi de două ori pentru acţiune</string>
+    <string name="add_comments">Adăugare comentariu</string>
+    <string name="am">AM</string>
+    <string name="button_hide_caption">Ascundere legendă</string>
+    <string name="button_hide_description">Ascundere descriere</string>
+    <string name="button_show_caption">Afişare legendă</string>
+    <string name="button_show_description">Afişare descriere</string>
+    <string name="carousel_title">Editare file</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ro/htc_strings.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">Căutare persoane</string>
+    <string name="common_string_open_contact">Deschidere contact</string>
+    <string name="common_string_save_to_existing_contact">Salvare în contact existent</string>
+    <string name="common_string_save_to_people">Salvare la Persoane</string>
+    <string name="common_string_share_title">Partajare prin</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="done">Efectuat</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ro/htc_strings.xml -->
+    <eat-comment/>
+    <string name="label_day">Zi</string>
+    <string name="label_hour">Oră</string>
+    <string name="label_minute">Minut</string>
+    <string name="label_month">Lună</string>
+    <string name="label_second">Secundă</string>
+    <string name="label_year">An</string>
+    <string name="license_dialog_content">Unele pictograme utilizate pe acest telefon au fost create iniţial de Google şi modificate de HTC în conformitate cu <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Licenţa Creative Commons Atribuire 4.0</a>.</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <string name="ls_doubletap_drag">apăsaţi de două ori şi glisaţi pentru reglare</string>
+    <string name="ls_edit_number_before_calling">Editare număr înainte de apelare</string>
+    <string name="ls_open_in_map">Deschidere pe hartă</string>
+    <string name="ls_tablet_storage_error">A fost găsită o eroare în spaţiul de stocare al tabletei. Reporniţi dispozitivul sau formataţi spaţiul de stocare.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="menu_crop">Trunchiere</string>
+    <string name="menu_delete">Ştergere</string>
+    <string name="menu_properties">Detalii</string>
+    <string name="menu_protect_info">Informaţii protecţie</string>
+    <string name="menu_save_to_my_favorite">Setare ca preferinţă</string>
+    <string name="menu_send_photo_link_by_email">Partajare legătură fotografie</string>
+    <string name="menu_set_as">Setare ca</string>
+    <string name="menu_settings">Setări</string>
+    <string name="menu_share">Partajare</string>
+    <string name="menu_show_on_map">Indică pe hartă</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_view_full">Vizualizare</string>
+    <string name="menu_view_video">Redare</string>
+    <string name="meun_rotate">Rotire</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ro/htc_strings.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">Eroare necunoscută</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="no">Nu</string>
+    <string name="pm">PM</string>
+    <string name="quickselection_share">Partajare prin</string>
+    <string name="refresh">Refresh</string>
+    <string name="reminderview_common_unlock_hint_icon">Trageţi pictograma în sus</string>
+    <string name="reminderview_common_unlock_hint_up">Trageţi în sus pentru deblocare</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ro/htc_strings.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">Eliberaţi pentru reîmprospătare</string>
+    <string name="st_action_bar_updating">Se actualizează...</string>
+    <string name="st_draggable_item">Element glisabil</string>
+    <string name="st_loading">Se încarcă...</string>
+    <string name="st_more">Mai mult</string>
+    <string name="st_pull_down_refresh">Trageţi în jos pentru reîmprospătare</string>
+    <string name="tab_remove_dialog_message">Mai aveţi o singură filă. Pentru a adăuga mai multe file pentru această aplicaţie, alegeţi Editare file/Filtre din meniu.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">Nu se poate elimina această filă</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ro/htc_strings.xml -->
+    <eat-comment/>
+    <string name="va_back">Înapoi</string>
+    <string name="va_call">Apel</string>
+    <string name="va_cancel">Anulare</string>
+    <string name="va_clear">Golire</string>
+    <string name="va_close">Închidere</string>
+    <string name="va_copy">Copiere</string>
+    <string name="va_download">Descărcare</string>
+    <string name="va_downloading">Se descarcă</string>
+    <string name="va_finish">Terminare</string>
+    <string name="va_hide">Ascundere</string>
+    <string name="va_move_above">Mutare deasupra</string>
+    <string name="va_move_below">Mutare dedesubt</string>
+    <string name="va_next">Următorul</string>
+    <string name="va_ok">OK</string>
+    <string name="va_open">Deschidere</string>
+    <string name="va_reset">Resetare</string>
+    <string name="va_send_mail">Trimitere e-mail</string>
+    <string name="va_send_message">Trimitere mesaj</string>
+    <string name="va_show_all">Afişare toate</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="yes">Da</string>
+</resources>

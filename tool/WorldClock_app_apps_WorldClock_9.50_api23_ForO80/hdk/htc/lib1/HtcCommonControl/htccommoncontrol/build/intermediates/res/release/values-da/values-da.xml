@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-da/strings.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>Lille</item><!--Small-->
+        <item>Medium</item><!--Medium-->
+        <item>Stor</item><!--Large-->
+        <item>Ekstra stor</item><!--Extra large-->
+        <item>Kæmpestor</item><!--Huge-->
+    </string-array>
+    <string-array name="weeklayout_secondary_text">
+        <item>Sø</item><!--SU-->
+        <item>M</item><!--M-->
+        <item>Ti</item><!--TU-->
+        <item>O</item><!--W-->
+        <item>To</item><!--TH-->
+        <item>F</item><!--F-->
+        <item>Lø</item><!--SA-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-da/values-da.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Naviger hjem"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Naviger op"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Flere muligheder"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Luk"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Se alle"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Vælg en app"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Søg…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ryd forespørgslen"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Søgeforespørgsel"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Søg"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Indsend forespørgslen"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Talesøgning"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Del med"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Del med %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Skjul"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-da/strings.xml -->
+    <eat-comment/>
+    <string name="accessibility_tap_action">Dobbelttryk for handling</string>
+    <string name="add_comments">Tilføj kommentar</string>
+    <string name="am">AM</string>
+    <string name="button_hide_caption">Skjul billedtekst</string>
+    <string name="button_hide_description">Skjul beskrivelse</string>
+    <string name="button_show_caption">Vis billedtekst</string>
+    <string name="button_show_description">Vis beskrivelse</string>
+    <string name="carousel_title">Rediger Faner</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-da/htc_strings.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">Søg i kontakter</string>
+    <string name="common_string_open_contact">Åbn kontakt</string>
+    <string name="common_string_save_to_existing_contact">Gem i eksisterende kontakt</string>
+    <string name="common_string_save_to_people">Gem i kontakt</string>
+    <string name="common_string_share_title">Del med</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-da/strings.xml -->
+    <eat-comment/>
+    <string name="done">Udført</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-da/htc_strings.xml -->
+    <eat-comment/>
+    <string name="label_day">Dag</string>
+    <string name="label_hour">Time</string>
+    <string name="label_minute">Minut</string>
+    <string name="label_month">Måned</string>
+    <string name="label_second">Sekund</string>
+    <string name="label_year">År</string>
+    <string name="license_dialog_content">Nogle ikoner på denne telefon er oprindeligt designet af Google og tilpasset af HTC under <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons License Kreditering 4.0</a>.</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <string name="ls_doubletap_drag">dobbelttryk og træk for at justere</string>
+    <string name="ls_edit_number_before_calling">Rediger nummer før opkald</string>
+    <string name="ls_open_in_map">Åbn på kort</string>
+    <string name="ls_tablet_storage_error">Der opstod en fejl i din tablet\'s lager. Genstart enheden eller omformater lageret.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-da/strings.xml -->
+    <eat-comment/>
+    <string name="menu_crop">Beskær</string>
+    <string name="menu_delete">Slet</string>
+    <string name="menu_properties">Detaljer</string>
+    <string name="menu_protect_info">Beskyttelsesinfo</string>
+    <string name="menu_save_to_my_favorite">Gem som favorit</string>
+    <string name="menu_send_photo_link_by_email">Del billedlink</string>
+    <string name="menu_set_as">Indstil som</string>
+    <string name="menu_settings">Indstillinger</string>
+    <string name="menu_share">Del</string>
+    <string name="menu_show_on_map">Vis på kort</string>
+    <string name="menu_slideshow">Diasshow</string>
+    <string name="menu_view_full">Vis</string>
+    <string name="menu_view_video">Afspil</string>
+    <string name="meun_rotate">Rotér</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-da/htc_strings.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">"Ukendt fejl"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-da/strings.xml -->
+    <eat-comment/>
+    <string name="no">Nej</string>
+    <string name="pm">PM</string>
+    <string name="quickselection_share">Del via</string>
+    <string name="refresh">Opdater</string>
+    <string name="reminderview_common_unlock_hint_icon">Træk ikonet op</string>
+    <string name="reminderview_common_unlock_hint_up">Træk op for at låse op</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-da/htc_strings.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">Frigiv til opdatering</string>
+    <string name="st_action_bar_updating">Opdaterer...</string>
+    <string name="st_draggable_item">Element, der kan trækkes</string>
+    <string name="st_loading">Indlæser...</string>
+    <string name="st_more">Mere</string>
+    <string name="st_pull_down_refresh">Træk ned for at opdatere</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-da/values-da.xml -->
+    <eat-comment/>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-da/htc_strings.xml -->
+    <eat-comment/>
+    <string name="tab_remove_dialog_message">Du har én fane tilbage. Hvis du vil tilføje flere faner til dette program, skal du vælge Rediger faner/Filtre på menuen.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-da/strings.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">Kunne ikke fjerne denne </string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-da/htc_strings.xml -->
+    <eat-comment/>
+    <string name="va_back">Tilbage</string>
+    <string name="va_call">Ring op</string>
+    <string name="va_cancel">Annuller</string>
+    <string name="va_clear">"Slet"</string>
+    <string name="va_close">Luk</string>
+    <string name="va_copy">Kopier</string>
+    <string name="va_download">Download</string>
+    <string name="va_downloading">Downloader</string>
+    <string name="va_finish">Udfør</string>
+    <string name="va_hide">"Skjul"</string>
+    <string name="va_move_above">Flyt over</string>
+    <string name="va_move_below">Flyt under</string>
+    <string name="va_next">Næste</string>
+    <string name="va_ok">OK</string>
+    <string name="va_open">Åbn</string>
+    <string name="va_reset">Nulstil</string>
+    <string name="va_send_mail">Send e-mail</string>
+    <string name="va_send_message">Send meddelelse</string>
+    <string name="va_show_all">Vis alle</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-da/strings.xml -->
+    <eat-comment/>
+    <string name="yes">Ja</string>
+</resources>

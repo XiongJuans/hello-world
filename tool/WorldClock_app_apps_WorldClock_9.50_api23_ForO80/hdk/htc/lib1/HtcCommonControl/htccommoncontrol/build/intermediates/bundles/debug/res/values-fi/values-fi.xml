@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>Pieni</item><!--Small-->
+        <item>Normaali</item><!--Medium-->
+        <item>Suuri</item><!--Large-->
+        <item>Ekstra-suuri</item><!--Extra large-->
+        <item>Valtava</item><!--Huge-->
+    </string-array>
+    <string-array name="weeklayout_secondary_text">
+        <item>su</item><!--SU-->
+        <item>ma</item><!--M-->
+        <item>ti</item><!--TU-->
+        <item>ke</item><!--W-->
+        <item>to</item><!--TH-->
+        <item>pe</item><!--F-->
+        <item>la</item><!--SA-->
+    </string-array>
+    <string name="accessibility_tap_action">Suorita kaksoisnapauttamalla</string>
+    <string name="add_comments">Lisää kommentti</string>
+    <string name="am">AM</string>
+    <string name="button_hide_caption">Piilota kuvateksti</string>
+    <string name="button_hide_description">Piilota kuvaus</string>
+    <string name="button_show_caption">Näytä kuvateksti</string>
+    <string name="button_show_description">Näytä kuvaus</string>
+    <string name="carousel_title">Muokkaa välilehtiä</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-fi/htc_strings.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">Etsi henkilöitä</string>
+    <string name="common_string_open_contact">Avaa yhteystieto</string>
+    <string name="common_string_save_to_existing_contact">Tallenna olemassa olevaan yhteystietoon</string>
+    <string name="common_string_save_to_people">Tallenna henkilöihin</string>
+    <string name="common_string_share_title">Jaa</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="done">Valmis</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-fi/htc_strings.xml -->
+    <eat-comment/>
+    <string name="label_day">Päivä</string>
+    <string name="label_hour">Tunti</string>
+    <string name="label_minute">Minuutti</string>
+    <string name="label_month">Kuukausi</string>
+    <string name="label_second">Sekunti</string>
+    <string name="label_year">Vuosi</string>
+    <string name="license_dialog_content">Eräät tässä puhelimessa käytetyt kuvakkeet ovat alun perin Googlen suunnittelemat ja HTC on muokannut niitä <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons License Nimeä 4.0</a>.</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <string name="ls_doubletap_drag">kaksoisnapauta ja vedä asettaaksesi</string>
+    <string name="ls_edit_number_before_calling">Muokkaa numeroa ennen soittamista</string>
+    <string name="ls_open_in_map">Avaa kartalla</string>
+    <string name="ls_tablet_storage_error">Virhe tabletti-tietokoneen tallennustilassa. Käynnistä laite uudelleen tai alusta tallennustila.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="menu_crop">Rajaa</string>
+    <string name="menu_delete">Poista</string>
+    <string name="menu_properties">Tiedot</string>
+    <string name="menu_protect_info">Suojaustiedot</string>
+    <string name="menu_save_to_my_favorite">Aseta suosikiksi</string>
+    <string name="menu_send_photo_link_by_email">Jaa valokuvalinkki</string>
+    <string name="menu_set_as">Aseta</string>
+    <string name="menu_settings">Asetukset</string>
+    <string name="menu_share">Jaa</string>
+    <string name="menu_show_on_map">Näytä kartalla</string>
+    <string name="menu_slideshow">Diaesitys</string>
+    <string name="menu_view_full">Näytä</string>
+    <string name="menu_view_video">Toista</string>
+    <string name="meun_rotate">Kierrä</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-fi/htc_strings.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">Tuntematon virhe</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="no">Ei</string>
+    <string name="pm">PM</string>
+    <string name="quickselection_share">Jaa</string>
+    <string name="refresh">Päivitä</string>
+    <string name="reminderview_common_unlock_hint_icon">Vedä kuvake ylös</string>
+    <string name="reminderview_common_unlock_hint_up">Avaa lukitus vetämällä ylös</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-fi/htc_strings.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">Vapauta virkistääksesi</string>
+    <string name="st_action_bar_updating">Päivitetään...</string>
+    <string name="st_draggable_item">Vedettävissä oleva kohde</string>
+    <string name="st_loading">Ladataan...</string>
+    <string name="st_more">Lisää</string>
+    <string name="st_pull_down_refresh">Virkistä vetämällä alas</string>
+    <string name="tab_remove_dialog_message">Jäljellä on vain yksi välilehti. Voit lisätä tähän sovellukseen lisää välilehtiä valitsemalla valikossa Muokkaa välilehtiä/suodattimia.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">Välilehteä ei voida poistaa</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-fi/htc_strings.xml -->
+    <eat-comment/>
+    <string name="va_back">Edellinen</string>
+    <string name="va_call">Soita</string>
+    <string name="va_cancel">Peruuta</string>
+    <string name="va_clear">Tyhjennä</string>
+    <string name="va_close">Sulje</string>
+    <string name="va_copy">Kopioi</string>
+    <string name="va_download">Lataa</string>
+    <string name="va_downloading">Ladataan</string>
+    <string name="va_finish">Valmis</string>
+    <string name="va_hide">Piilota</string>
+    <string name="va_move_above">Siirrä yläpuolelle</string>
+    <string name="va_move_below">Siirrä alapuolelle</string>
+    <string name="va_next">Seuraava</string>
+    <string name="va_ok">OK</string>
+    <string name="va_open">Avaa</string>
+    <string name="va_reset">Palauta</string>
+    <string name="va_send_mail">Lähetä sähköposti</string>
+    <string name="va_send_message">Lähetä viesti</string>
+    <string name="va_show_all">Näytä kaikki</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="yes">Kyllä</string>
+</resources>

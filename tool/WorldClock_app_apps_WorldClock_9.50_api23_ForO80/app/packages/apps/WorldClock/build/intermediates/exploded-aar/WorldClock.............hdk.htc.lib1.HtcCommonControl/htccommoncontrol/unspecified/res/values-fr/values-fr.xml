@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>Petite</item><!--Small-->
+        <item>Moyenne</item><!--Medium-->
+        <item>Grande</item><!--Large-->
+        <item>Très grande</item><!--Extra large-->
+        <item>Énorme</item><!--Huge-->
+    </string-array>
+    <string-array name="weeklayout_secondary_text">
+        <item>D</item><!--SU-->
+        <item>L</item><!--M-->
+        <item>Ma</item><!--TU-->
+        <item>Me</item><!--W-->
+        <item>Je</item><!--TH-->
+        <item>V</item><!--F-->
+        <item>S</item><!--SA-->
+    </string-array>
+    <string name="accessibility_tap_action">Double-appui pour action</string>
+    <string name="add_comments">Ajouter un commentaire</string>
+    <string name="am">AM</string>
+    <string name="button_hide_caption">Masquer la légende</string>
+    <string name="button_hide_description">Masquer la description</string>
+    <string name="button_show_caption">Afficher la légende</string>
+    <string name="button_show_description">Afficher la description</string>
+    <string name="carousel_title">Modifier les onglets</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-fr/htc_strings.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">Rechercher les contacts</string>
+    <string name="common_string_open_contact">Ouvrir le contact</string>
+    <string name="common_string_save_to_existing_contact">Enregistrer dans contact existant</string>
+    <string name="common_string_save_to_people">Enregistrer dans les Contacts</string>
+    <string name="common_string_share_title">Partager via</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <string name="done">OK</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-fr/htc_strings.xml -->
+    <eat-comment/>
+    <string name="label_day">Jour</string>
+    <string name="label_hour">Heure</string>
+    <string name="label_minute">Minute</string>
+    <string name="label_month">Mois</string>
+    <string name="label_second">Seconde</string>
+    <string name="label_year">Année</string>
+    <string name="license_dialog_content">Certaines icônes utilisées sur ce téléphone ont été initialement conçues par Google et modifiées par HTC sous <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Licence Creative Commons BY4.0</a>.</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <string name="ls_doubletap_drag">appuyer deux fois et faire glisser pour ajuster</string>
+    <string name="ls_edit_number_before_calling">Modif numéro avant appel</string>
+    <string name="ls_open_in_map">Ouvrir dans carte</string>
+    <string name="ls_tablet_storage_error">Une erreur s\'est produite sur la mémoire de votre tablette. Veuillez redémarrer votre appareil ou formatez la mémoire.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <string name="menu_crop">Rogner</string>
+    <string name="menu_delete">Supprimer</string>
+    <string name="menu_properties">Détails</string>
+    <string name="menu_protect_info">Infos de protection</string>
+    <string name="menu_save_to_my_favorite">Définir comme favori</string>
+    <string name="menu_send_photo_link_by_email">Partager le lien de la photo</string>
+    <string name="menu_set_as">Définir comme</string>
+    <string name="menu_settings">Paramètres</string>
+    <string name="menu_share">Partager</string>
+    <string name="menu_show_on_map">Afficher sur le plan</string>
+    <string name="menu_slideshow">Diaporama</string>
+    <string name="menu_view_full">Afficher</string>
+    <string name="menu_view_video">Lecture</string>
+    <string name="meun_rotate">Faire pivoter</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-fr/htc_strings.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">"Erreur inconnue"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <string name="no">Non</string>
+    <string name="pm">PM</string>
+    <string name="quickselection_share">Partager via</string>
+    <string name="refresh">Actualiser</string>
+    <string name="reminderview_common_unlock_hint_icon">Tirer l\'icône vers le haut</string>
+    <string name="reminderview_common_unlock_hint_up">Tirer vers le haut pour déverrouiller</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-fr/htc_strings.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">Relâcher pour actualiser</string>
+    <string name="st_action_bar_updating">Mise à jour en cours...</string>
+    <string name="st_draggable_item">Élément déplaçable</string>
+    <string name="st_loading">Chargement...</string>
+    <string name="st_more">Plus</string>
+    <string name="st_pull_down_refresh">Tirer vers le bas pour actualiser</string>
+    <string name="tab_remove_dialog_message">Il vous reste un onglet. Pour ajouter d\'autres onglets pour cette appli, choisissez Modifier les onglets/Filtres dans le menu.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">Impossible de supprimer cet onglet</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-fr/htc_strings.xml -->
+    <eat-comment/>
+    <string name="va_back">Retour</string>
+    <string name="va_call">Appeler</string>
+    <string name="va_cancel">Annuler</string>
+    <string name="va_clear">"Effacer"</string>
+    <string name="va_close">Fermer</string>
+    <string name="va_copy">Copier</string>
+    <string name="va_download">Télécharger</string>
+    <string name="va_downloading">Téléchargement en cours</string>
+    <string name="va_finish">Terminer</string>
+    <string name="va_hide">"Masquer"</string>
+    <string name="va_move_above">Déplacer au-dessus</string>
+    <string name="va_move_below">Déplacer au-dessous</string>
+    <string name="va_next">Suivant</string>
+    <string name="va_ok">OK</string>
+    <string name="va_open">Ouvrir</string>
+    <string name="va_reset">Réinitialiser</string>
+    <string name="va_send_mail">Envoyer un e-mail</string>
+    <string name="va_send_message">Envoyer un message</string>
+    <string name="va_show_all">Afficher tout</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <string name="yes">Oui</string>
+</resources>

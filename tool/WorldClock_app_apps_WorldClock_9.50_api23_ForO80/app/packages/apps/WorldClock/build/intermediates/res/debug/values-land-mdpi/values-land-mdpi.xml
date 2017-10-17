@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-land-mdpi/values-land-mdpi.xml -->
+    <eat-comment/>
+    <dimen name="tab_indicator_height">4dp</dimen>
+    <dimen name="tabbar_height">28dp</dimen>
+    <integer name="carousel_pool_line_width">4</integer>
+</resources>

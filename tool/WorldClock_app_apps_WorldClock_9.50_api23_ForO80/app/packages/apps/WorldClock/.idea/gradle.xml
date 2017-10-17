@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../../../.." />
+            <option value="$PROJECT_DIR$/../../.." />
+            <option value="$PROJECT_DIR$/../.." />
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/../../../../hdk" />
+            <option value="$PROJECT_DIR$/../../../../hdk/htc" />
+            <option value="$PROJECT_DIR$/../../../../hdk/htc/lib0" />
+            <option value="$PROJECT_DIR$/../../../../hdk/htc/lib0/Customization" />
+            <option value="$PROJECT_DIR$/../../../../hdk/htc/lib0/HDKUtil" />
+            <option value="$PROJECT_DIR$/../../../../hdk/htc/lib0/HtcDebugFlag" />
+            <option value="$PROJECT_DIR$/../../../../hdk/htc/lib1" />
+            <option value="$PROJECT_DIR$/../../../../hdk/htc/lib1/HfmClient" />
+            <option value="$PROJECT_DIR$/../../../../hdk/htc/lib1/HtcCalendarFramwork" />
+            <option value="$PROJECT_DIR$/../../../../hdk/htc/lib1/HtcCommonControl" />
+            <option value="$PROJECT_DIR$/../../../../hdk/htc/lib1/HtcCommonControl/htccommoncontrol" />
+            <option value="$PROJECT_DIR$/../../../../hdk/htc/lib1/HtcTheme" />
+            <option value="$PROJECT_DIR$/../../../../hdk/htc/lib1/LockScreenLib1" />
+            <option value="$PROJECT_DIR$/../../../../hdk/htc/lib1/MastHead" />
+            <option value="$PROJECT_DIR$/../../../../hdk/htc/lib1/ProviderSettings" />
+            <option value="$PROJECT_DIR$/../../../../hdk/htc/lib1/WeatherLib1" />
+            <option value="$PROJECT_DIR$/../../../../hdk/htc/lib2" />
+            <option value="$PROJECT_DIR$/../../../../hdk/htc/lib2/HtcConfiguration" />
+            <option value="$PROJECT_DIR$/../../../../hdk/htc/lib2/LockScreenLib2" />
+            <option value="$PROJECT_DIR$/../../../../hdk/htc/lib2/WeatherLib2" />
+            <option value="$PROJECT_DIR$/../../../../hdk/htc/lib3" />
+            <option value="$PROJECT_DIR$/../../../../hdk/htc/lib3/HtcIntentLib3" />
+            <option value="$PROJECT_DIR$/../../../../hdk/htc/lib3/HtcWrapWindowManager" />
+            <option value="$PROJECT_DIR$/../../../../hdk/htc/lib3/PhoneContacts" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

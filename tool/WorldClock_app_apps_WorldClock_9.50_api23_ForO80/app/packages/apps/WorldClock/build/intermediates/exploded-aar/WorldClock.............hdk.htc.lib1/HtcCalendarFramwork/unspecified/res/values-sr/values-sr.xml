@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-sr/arrays.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>svakog prvog petka u mesecu</item><!--on every first Friday-->
+        <item>svakog drugog petka u mesecu</item><!--on every second Friday-->
+        <item>svakog trećeg petka u mesecu</item><!--on every third Friday-->
+        <item>svakog četvrtog petka u mesecu</item><!--on every fourth Friday-->
+        <item>svakog poslednjeg petka u mesecu</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>svakog prvog poned. u mesecu</item><!--on every first Monday-->
+        <item>svakog drugog ponedeljka u mesecu</item><!--on every second Monday-->
+        <item>svakog trećeg ponedeljka u mesecu</item><!--on every third Monday-->
+        <item>svakog četvrtog ponedeljka u mesecu</item><!--on every fourth Monday-->
+        <item>svakog poslednjeg ponedeljka u mesecu</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>svake prve subote u mesecu</item><!--on every first Saturday-->
+        <item>svake druge subote u mesecu</item><!--on every second Saturday-->
+        <item>svake treće subote u mesecu</item><!--on every third Saturday-->
+        <item>svake četvrte subote u mesecu</item><!--on every fourth Saturday-->
+        <item>svake poslednje subote u mesecu</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>svake prve nedelje u mesecu</item><!--on every first Sunday-->
+        <item>svake druge nedelje u mesecu</item><!--on every second Sunday-->
+        <item>svake treće nedelje u mesecu</item><!--on every third Sunday-->
+        <item>svake četvrte nedelje u mesecu</item><!--on every fourth Sunday-->
+        <item>svake poslednje nedelje u mesecu</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>svakog prvog četvrtka u mesecu</item><!--on every first Thursday-->
+        <item>svakog drugog četvrtka u mesecu</item><!--on every second Thursday-->
+        <item>svakog trećeg četvrtka u mesecu</item><!--on every third Thursday-->
+        <item>svakog četvrtog četvrtka u mesecu</item><!--on every fourth Thursday-->
+        <item>svakog poslednjeg četvrtka u mesecu</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>svakog prvog utorka u mesecu</item><!--on every first Tuesday-->
+        <item>svakog drugog utorka u mesecu</item><!--on every second Tuesday-->
+        <item>svakog trećeg utorka u mesecu</item><!--on every third Tuesday-->
+        <item>svakog četvrtog utorka u mesecu</item><!--on every fourth Tuesday-->
+        <item>svakog poslednjeg utorka u mesecu</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>svake prve srede u mesecu</item><!--on every first Wednesday-->
+        <item>svake druge srede u mesecu</item><!--on every second Wednesday-->
+        <item>svake treće srede u mesecu</item><!--on every third Wednesday-->
+        <item>svake četvrte srede u mesecu</item><!--on every fourth Wednesday-->
+        <item>svake poslednje srede u mesecu</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-sr/strings.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">jednom</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> puta</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Na <ns1:g id="count">%d</ns1:g> dan</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Na <ns1:g id="count">%d</ns1:g> dana</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Na <ns1:g id="count">%d</ns1:g> mesec</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Na <ns1:g id="count">%d</ns1:g> meseca/-i</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Na <ns1:g id="count">%d</ns1:g> nedelju</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Na <ns1:g id="count">%d</ns1:g> nedelje/-a</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Na <ns1:g id="count">%d</ns1:g> godinu</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Na <ns1:g id="count">%d</ns1:g> godine/-a</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">Nedeljno u <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other">Svake <ns1:g id="number">%1$d</ns1:g> nedelje u <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <string name="every_weekday">"Svakog radnog dana (Pon\u2013Pet)"</string>
+    <string name="monthly">Mesečno</string>
+    <string name="monthly_on_day_count">"Mesečno (Svakog <ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g>)"</string>
+    <string name="tm_daily">"Svakodnevno"</string>
+    <string name="yearly_plain">Godišnje</string>
+</resources>

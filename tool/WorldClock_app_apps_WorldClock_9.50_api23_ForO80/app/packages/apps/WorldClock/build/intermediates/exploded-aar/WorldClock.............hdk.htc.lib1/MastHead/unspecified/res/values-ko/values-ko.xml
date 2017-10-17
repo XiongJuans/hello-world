@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values-ko/strings.xml -->
+    <eat-comment/>
+    <string name="location_unavailable">위치를 사용할 수 없음</string>
+    <string name="masthead_st_am">오전</string>
+    <string name="masthead_st_auto_sync_off">자동 동기화 꺼짐. 눌러서 날씨를 봅니다.</string>
+    <string name="masthead_st_current_location">현재 위치</string>
+    <string name="masthead_st_device_only_off">날씨를 가져오기 위해 위치 서비스 모드 변경</string>
+    <string name="masthead_st_location_service_off">날씨를 알려면 위치 서비스를 켭니다</string>
+    <string name="masthead_st_pm">오후</string>
+    <string name="masthead_st_weather_unavailable">날씨를 사용할 수 없음</string>
+</resources>

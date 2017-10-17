@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.htc.lib1.cc.widget.HtcListItem
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.htc.lib1.cc.widget.HtcRimButton
+        android:id="@+id/rim" />
+
+    <com.htc.lib1.cc.widget.HtcCheckBox
+        android:id="@+id/checkbox" />
+
+    <com.htc.lib1.cc.widget.HtcListItemSingleText
+        android:id="@+id/text" />
+
+</com.htc.lib1.cc.widget.HtcListItem>
+<!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/androidTest/res/layout/listitem_11.xml -->

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:htc="http://schemas.android.com/apk/res/com.htc"
+    android:id="@+id/stopwatch_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+    <TextView
+        android:id="@+id/total_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/common_dimen_m1"
+        android:text="@string/total_title"
+        style="@style/fixed_button_primary_s" />
+    
+    <LinearLayout
+        android:id="@+id/led_pannel"
+        android:layout_width="@dimen/led_pannel_width"
+        android:layout_height="@dimen/led_pannel_height"
+        android:layout_marginTop="@dimen/led_pannel_marginTop"
+        android:layout_marginLeft="@dimen/led_pannel_marginLeft"
+        android:focusable="false">
+        <ImageView
+            android:id="@+id/minute_ten"
+            android:layout_width="@dimen/stopwatch_digit_width"
+            android:layout_height="fill_parent"
+            android:background="@drawable/clock_stopwatch_digit_background" />
+        <ImageView
+            android:id="@+id/minute_unit"
+            android:layout_width="@dimen/stopwatch_digit_width"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="@dimen/stopwatch_digit_colon_marginLeft"
+            android:background="@drawable/clock_stopwatch_digit_background" />
+        <ImageView
+            android:id="@+id/digit_colon"
+            android:layout_width="@dimen/stopwatch_colon_width"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="@dimen/stopwatch_digit_colon_marginLeft"/>
+        <ImageView
+            android:id="@+id/second_ten"
+            android:layout_width="@dimen/stopwatch_digit_width"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="@dimen/stopwatch_digit_colon_marginLeft"
+            android:background="@drawable/clock_stopwatch_digit_background" />
+        <ImageView
+            android:id="@+id/second_unit"
+            android:layout_width="@dimen/stopwatch_digit_width"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="@dimen/stopwatch_digit_colon_marginLeft"
+            android:background="@drawable/clock_stopwatch_digit_background" />
+        <ImageView
+            android:id="@+id/dot"
+            android:layout_width="@dimen/stopwatch_dot_width"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="@dimen/stopwatch_digit_colon_marginLeft"/>
+        <ImageView
+            android:id="@+id/millisecond"
+            android:layout_width="@dimen/stopwatch_digit_width"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="@dimen/stopwatch_digit_colon_marginLeft"
+            android:background="@drawable/clock_stopwatch_digit_background" />
+    </LinearLayout>
+    
+    <TextView
+        android:id="@+id/lap_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/common_dimen_m1"
+        android:text="@string/lap_title"
+        style="@style/fixed_button_primary_s" />
+    
+    <LinearLayout
+        android:id="@+id/led_pannel2"
+        android:layout_width="@dimen/led_pannel_width"
+        android:layout_height="@dimen/led_pannel_height"
+        android:layout_marginLeft="@dimen/led_pannel2_marginLeft"
+        android:layout_marginTop="@dimen/led_pannel2_marginTop"
+        >
+        <ImageView
+            android:id="@+id/minute_ten2"
+            android:layout_width="@dimen/stopwatch_digit_width"
+            android:layout_height="fill_parent"
+            android:background="@drawable/clock_stopwatch_digit_background" />
+        <ImageView
+            android:id="@+id/minute_unit2"
+            android:layout_width="@dimen/stopwatch_digit_width"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="@dimen/stopwatch_digit_colon_marginLeft"
+            android:background="@drawable/clock_stopwatch_digit_background" />
+        <ImageView
+            android:id="@+id/digit_colon2"
+            android:layout_width="@dimen/stopwatch_colon_width"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="@dimen/stopwatch_digit_colon_marginLeft"/>
+        <ImageView
+            android:id="@+id/second_ten2"
+            android:layout_width="@dimen/stopwatch_digit_width"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="@dimen/stopwatch_digit_colon_marginLeft"
+            android:background="@drawable/clock_stopwatch_digit_background" />
+        <ImageView
+            android:id="@+id/second_unit2"
+            android:layout_width="@dimen/stopwatch_digit_width"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="@dimen/stopwatch_digit_colon_marginLeft"
+            android:background="@drawable/clock_stopwatch_digit_background" />
+        <ImageView
+            android:id="@+id/dot2"
+            android:layout_width="@dimen/stopwatch_dot_width"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="@dimen/stopwatch_digit_colon_marginLeft"/>
+        <ImageView
+            android:id="@+id/millisecond2"
+            android:layout_width="@dimen/stopwatch_digit_width"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="@dimen/stopwatch_digit_colon_marginLeft"
+            android:background="@drawable/clock_stopwatch_digit_background" />
+    </LinearLayout>
+    
+    <ImageView
+        android:id="@+id/stopwatch_divider"
+        android:layout_width="@dimen/divider_landscape_width"
+        android:layout_height="fill_parent"
+        android:layout_marginLeft="@dimen/stopwatch_divider_marginLeft"
+        android:background="@drawable/common_list_divider"/>
+
+    <com.htc.lib1.cc.widget.HtcListView
+        android:id="@+id/htclist"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginStart="@dimen/stopwatch_list_marginLeft"
+        android:layout_marginTop="@dimen/stopwatch_list_marginTop"
+        android:cacheColorHint="@android:color/transparent"
+        android:fadingEdge="none"
+        style="@style/HtcListView"/>
+
+    <include layout="@layout/common_second_frame_title"
+             android:layout_width="fill_parent"
+             android:layout_marginStart="@dimen/stopwatch_listheader_marginLeft"
+             android:layout_marginTop="@dimen/stopwatch_listheader_marginTop"
+             android:visibility="invisible">
+    </include>
+
+</FrameLayout>
+<!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/layout/main_stopwatch.xml -->

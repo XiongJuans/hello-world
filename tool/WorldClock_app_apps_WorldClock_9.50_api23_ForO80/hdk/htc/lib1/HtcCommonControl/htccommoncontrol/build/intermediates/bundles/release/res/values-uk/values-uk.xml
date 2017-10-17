@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-uk/strings.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>Малий</item><!--Small-->
+        <item>Середній</item><!--Medium-->
+        <item>Великий</item><!--Large-->
+        <item>Надвеликий</item><!--Extra large-->
+        <item>Дуже великий</item><!--Huge-->
+    </string-array>
+    <string-array name="weeklayout_secondary_text">
+        <item>Нд</item><!--SU-->
+        <item>Пн</item><!--M-->
+        <item>Вт</item><!--TU-->
+        <item>Ср</item><!--W-->
+        <item>Чт</item><!--TH-->
+        <item>Пт</item><!--F-->
+        <item>Сб</item><!--SA-->
+    </string-array>
+    <string name="accessibility_tap_action">Двічі натисніть, щоб виконати дію</string>
+    <string name="add_comments">Додати коментар</string>
+    <string name="am">ДП</string>
+    <string name="button_hide_caption">Сховати назву</string>
+    <string name="button_hide_description">Сховати опис</string>
+    <string name="button_show_caption">Показати підпис</string>
+    <string name="button_show_description">Показати опис</string>
+    <string name="carousel_title">Редагувати вкладки</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-uk/htc_strings.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">Пошук контактів</string>
+    <string name="common_string_open_contact">Відкрити контакт</string>
+    <string name="common_string_save_to_existing_contact">Зберегти в існуючий контакт</string>
+    <string name="common_string_save_to_people">Зберегти в програму "Контакти"</string>
+    <string name="common_string_share_title">Відправити через</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-uk/strings.xml -->
+    <eat-comment/>
+    <string name="done">Готово</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-uk/htc_strings.xml -->
+    <eat-comment/>
+    <string name="label_day">День</string>
+    <string name="label_hour">Година</string>
+    <string name="label_minute">Хвилина</string>
+    <string name="label_month">Місяць</string>
+    <string name="label_second">Секунда</string>
+    <string name="label_year">Рік</string>
+    <string name="license_dialog_content">Деякі піктограми, які використовуються на цьому телефоні, були розроблені Google та змінені HTC згідно <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Ліцензії Creative Commons із Зазначенням Авторства 4.0</a>.</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <string name="ls_doubletap_drag">двічі натисніть та перетягніть, щоб налаштувати</string>
+    <string name="ls_edit_number_before_calling">Редагувати номер до здійснення виклику</string>
+    <string name="ls_open_in_map">Відкрити в карті</string>
+    <string name="ls_tablet_storage_error">Сталася помилка пам\'яті планшетного ПК. Перезавантажте пристрій або відформатуйте пам\'ять.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-uk/strings.xml -->
+    <eat-comment/>
+    <string name="menu_crop">Обрізати</string>
+    <string name="menu_delete">Видалити</string>
+    <string name="menu_properties">Деталі</string>
+    <string name="menu_protect_info">Інформація про захист</string>
+    <string name="menu_save_to_my_favorite">Встановити як Улюблене</string>
+    <string name="menu_send_photo_link_by_email">Відправити посилання на фото</string>
+    <string name="menu_set_as">Установити як</string>
+    <string name="menu_settings">Налаштування</string>
+    <string name="menu_share">Відправити</string>
+    <string name="menu_show_on_map">Показати на карті</string>
+    <string name="menu_slideshow">Слайд-шоу</string>
+    <string name="menu_view_full">Переглянути</string>
+    <string name="menu_view_video">Відтворити</string>
+    <string name="meun_rotate">Повернути</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-uk/htc_strings.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">Невідома помилка</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-uk/strings.xml -->
+    <eat-comment/>
+    <string name="no">Ні</string>
+    <string name="pm">ПП</string>
+    <string name="quickselection_share">Відправити через</string>
+    <string name="refresh">Оновити</string>
+    <string name="reminderview_common_unlock_hint_icon">Потягніть піктограму вверх</string>
+    <string name="reminderview_common_unlock_hint_up">Потягніть вверх для розблокування</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-uk/htc_strings.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">Відпустіть, щоб оновити</string>
+    <string name="st_action_bar_updating">Оновлення...</string>
+    <string name="st_draggable_item">Перетягуваний елемент</string>
+    <string name="st_loading">Завантаження...</string>
+    <string name="st_more">Більше</string>
+    <string name="st_pull_down_refresh">Потягніть униз, щоб оновити</string>
+    <string name="tab_remove_dialog_message">У вас залишилася одна вкладка. Щоб додати до цієї програми інші вкладки, виберіть "Змінити вкладки/фільтри" у меню.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-uk/strings.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">Не вдається видалити цю вкладку</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-uk/htc_strings.xml -->
+    <eat-comment/>
+    <string name="va_back">Назад</string>
+    <string name="va_call">Виклик</string>
+    <string name="va_cancel">Скасувати</string>
+    <string name="va_clear">Очищення</string>
+    <string name="va_close">Закрити</string>
+    <string name="va_copy">Копіювати</string>
+    <string name="va_download">Завантаження</string>
+    <string name="va_downloading">Завантаження</string>
+    <string name="va_finish">Завершити</string>
+    <string name="va_hide">Приховати</string>
+    <string name="va_move_above">Перемістити вище</string>
+    <string name="va_move_below">Перемістити нижче</string>
+    <string name="va_next">Далі</string>
+    <string name="va_ok">OK</string>
+    <string name="va_open">Відкрити</string>
+    <string name="va_reset">Відновлення</string>
+    <string name="va_send_mail">Надіслати повідомлення ел. пошти</string>
+    <string name="va_send_message">Надіслати повідомлення</string>
+    <string name="va_show_all">Показати всі</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-uk/strings.xml -->
+    <eat-comment/>
+    <string name="yes">Так</string>
+</resources>

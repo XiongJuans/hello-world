@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values-zh-rHK/config.xml -->
+    <eat-comment/>
+    <bool name="config_flip_animation">true</bool>
+    <bool name="config_full_name_month">false</bool>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values-zh-rHK/dimens_theme3_ext.xml -->
+    <eat-comment/>
+    <dimen name="theme3_digital_gap_width">0dp</dimen>
+    <dimen name="theme3_gap_margin_left_right">@dimen/margin_xs</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values-zh-rHK/strings.xml -->
+    <eat-comment/>
+    <string name="location_unavailable">無法取得位置資訊</string>
+    <string name="masthead_st_am">上午</string>
+    <string name="masthead_st_auto_sync_off">自動同步已關閉。點選以查看氣象。</string>
+    <string name="masthead_st_current_location">目前位置</string>
+    <string name="masthead_st_device_only_off">變更定位服務模式以取得氣象資訊</string>
+    <string name="masthead_st_location_service_off">開啟定位服務以取得氣象資訊</string>
+    <string name="masthead_st_pm">下午</string>
+    <string name="masthead_st_weather_unavailable">無法取得氣象資訊</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values-zh-rHK/dimens_theme3_ext.xml -->
+    <eat-comment/>
+    <string name="theme3_letter_spacing">0.2</string>
+</resources>

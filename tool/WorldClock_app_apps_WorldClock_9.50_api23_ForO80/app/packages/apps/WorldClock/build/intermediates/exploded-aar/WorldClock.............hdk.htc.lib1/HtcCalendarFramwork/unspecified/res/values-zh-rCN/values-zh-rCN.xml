@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-zh-rCN/htc_hoilday_strings.xml -->
+    <eat-comment/>
+    <string-array name="htc_LunarHolidays">
+        <item>"春节""</item>
+        <item>"元宵节" </item>
+        <item>"端午节"</item>
+        <item>"七夕"</item>
+        <item>"中秋节"</item>
+        <item>"重阳节"</item>
+        <item>"腊八节</item> <!-- new for china sense --> 
+    </string-array>
+    <string-array name="htc_SolarHolidays">
+        <item>"元旦"</item>
+        <item>"情人节"</item>
+        <item>"妇女节"</item>
+        <item>"植树节"</item>
+        <item>"愚人节"</item> <!--new for china sense -->
+        <item>"劳动节"</item>
+        <item>"青年节"</item>
+        <item>"儿童节"</item>
+        <item>"建党节"</item>
+        <item>"建军节"</item>
+        <item>"教师节"</item>
+        <item>"国庆节"</item>
+        <item>"平安夜"</item> <!-- new for china sense -->
+        <item>"圣诞节"</item>
+    </string-array>
+    <string-array name="htc_mCnDays">
+        <item>"初一"</item>
+        <item>"初二"</item>
+        <item>"初三"</item>
+        <item>"初四"</item>
+        <item>"初五"</item>
+        <item>"初六"</item>
+        <item>"初七"</item>
+        <item>"初八"</item>
+        <item>"初九"</item>
+        <item>"初十"</item>
+        <item>"十一"</item>
+        <item>"十二"</item>
+        <item>"十三"</item>
+        <item>"十四"</item>
+        <item>"十五"</item>
+        <item>"十六"</item>
+        <item>"十七"</item>
+        <item>"十八"</item>
+        <item>"十九"</item>
+        <item>"二十"</item>
+        <item>"廿一"</item>
+        <item>"廿二"</item>
+        <item>"廿三"</item>
+        <item>"廿四"</item>
+        <item>"廿五"</item>
+        <item>"廿六"</item>
+        <item>"廿七"</item>
+        <item>"廿八"</item>
+        <item>"廿九"</item>
+        <item>"三十"</item>
+    </string-array>
+    <string-array name="htc_mCnDaysSmall">
+        <item>"初一"</item>
+        <item>"初二"</item>
+        <item>"初三"</item>
+        <item>"初四"</item>
+        <item>"初五"</item>
+        <item>"初六"</item>
+        <item>"初七"</item>
+        <item>"初八"</item>
+        <item>"初九"</item>
+        <item>"初十"</item>
+        <item>"十一"</item>
+        <item>"十二"</item>
+        <item>"十三"</item>
+        <item>"十四"</item>
+        <item>"十五"</item>
+        <item>"十六"</item>
+        <item>"十七"</item>
+        <item>"十八"</item>
+        <item>"十九"</item>
+        <item>"二十"</item>
+        <item>"廿一"</item>
+        <item>"廿二"</item>
+        <item>"廿三"</item>
+        <item>"廿四"</item>
+        <item>"廿五"</item>
+        <item>"廿六"</item>
+        <item>"廿七"</item>
+        <item>"廿八"</item>
+        <item>"廿九"</item>
+    </string-array>
+    <string-array name="htc_mCnGans">
+        <item>"甲"</item>
+        <item>"乙"</item>
+        <item>"丙"</item>
+        <item>"丁"</item>
+        <item>"戊"</item>
+        <item>"己"</item>
+        <item>"庚"</item>
+        <item>"辛"</item>
+        <item>"壬"</item>
+        <item>"癸"</item>
+    </string-array>
+    <string-array name="htc_mCnMonths">
+        <item>"正月"</item>
+        <item>"二月"</item>
+        <item>"三月"</item>
+        <item>"四月"</item>
+        <item>"五月"</item>
+        <item>"六月"</item>
+        <item>"七月"</item>
+        <item>"八月"</item>
+        <item>"九月"</item>
+        <item>"十月"</item>
+        <item>"十一月"</item>
+        <item>"十二月"</item>
+    </string-array>
+    <string-array name="htc_mCnZhis">
+        <item>"子"</item>
+        <item>"丑"</item>
+        <item>"寅"</item>
+        <item>"卯"</item>
+        <item>"辰"</item>
+        <item>"巳"</item>
+        <item>"午"</item>
+        <item>"未"</item>
+        <item>"申"</item>
+        <item>"酉"</item>
+        <item>"戌"</item>
+        <item>"亥"</item>
+    </string-array>
+    <string-array name="htc_mCnZodiacs">
+        <item>"鼠"</item>
+        <item>"牛"</item>
+        <item>"虎"</item>
+        <item>"兔"</item>
+        <item>"龙"</item>
+        <item>"蛇"</item>
+        <item>"马"</item>
+        <item>"羊"</item>
+        <item>"猴"</item>
+        <item>"鸡"</item>
+        <item>"狗"</item>
+        <item>"猪"</item>
+    </string-array>
+    <string-array name="htc_mSolarTerms">
+        <item>"小寒"</item>
+        <item>"大寒"</item>
+        <item>"立春"</item>
+        <item>"雨水"</item>
+        <item>"惊蛰"</item>
+        <item>"春分"</item>
+        <item>"清明"</item>
+        <item>"谷雨"</item>
+        <item>"立夏"</item>
+        <item>"小满"</item>
+        <item>"芒种"</item>
+        <item>"夏至"</item>
+        <item>"小暑"</item>
+        <item>"大暑"</item>
+        <item>"立秋"</item>
+        <item>"处暑"</item>
+        <item>"白露"</item>
+        <item>"秋分"</item>
+        <item>"寒露"</item>
+        <item>"霜降"</item>
+        <item>"立冬"</item>
+        <item>"小雪"</item>
+        <item>"大雪"</item>
+        <item>"冬至"</item>
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-zh-rCN/arrays.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>在每月第一个周五</item><!--on every first Friday-->
+        <item>在每月第二个周五</item><!--on every second Friday-->
+        <item>在每月第三个周五</item><!--on every third Friday-->
+        <item>在每月第四个周五</item><!--on every fourth Friday-->
+        <item>在每月最后一个周五</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>在每月第一个周一</item><!--on every first Monday-->
+        <item>在每月第二个周一</item><!--on every second Monday-->
+        <item>在每月第三个周一</item><!--on every third Monday-->
+        <item>在每月第四个周一</item><!--on every fourth Monday-->
+        <item>在每月最后一个周一</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>在每月第一个周六</item><!--on every first Saturday-->
+        <item>在每月第二个周六</item><!--on every second Saturday-->
+        <item>在每月第三个周六</item><!--on every third Saturday-->
+        <item>在每月第四个周六</item><!--on every fourth Saturday-->
+        <item>在每月最后一个周六</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>在每月第一个周日</item><!--on every first Sunday-->
+        <item>在每月第二个周日</item><!--on every second Sunday-->
+        <item>在每月第三个周日</item><!--on every third Sunday-->
+        <item>在每月第四个周日</item><!--on every fourth Sunday-->
+        <item>在每月最后一个周日</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>在每月第一个周四</item><!--on every first Thursday-->
+        <item>在每月第二个周四</item><!--on every second Thursday-->
+        <item>在每月第三个周四</item><!--on every third Thursday-->
+        <item>在每月第四个周四</item><!--on every fourth Thursday-->
+        <item>在每月最后一个周四</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>在每月第一个周二</item><!--on every first Tuesday-->
+        <item>在每月第二个周二</item><!--on every second Tuesday-->
+        <item>在每月第三个周二</item><!--on every third Tuesday-->
+        <item>在每月第四个周二</item><!--on every fourth Tuesday-->
+        <item>在每月最后一个周二</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>在每月第一个周三</item><!--on every first Wednesday-->
+        <item>在每月第二个周三</item><!--on every second Wednesday-->
+        <item>在每月第三个周三</item><!--on every third Wednesday-->
+        <item>在每月第四个周三</item><!--on every fourth Wednesday-->
+        <item>在每月最后一个周三</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">一次</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> 次</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">每 <ns1:g id="count">%d</ns1:g> 天</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">每 <ns1:g id="count">%d</ns1:g> 天</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">每 <ns1:g id="count">%d</ns1:g> 月</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">每 <ns1:g id="count">%d</ns1:g> 月</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">每 <ns1:g id="count">%d</ns1:g> 周</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">每 <ns1:g id="count">%d</ns1:g> 周</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">每 <ns1:g id="count">%d</ns1:g> 年</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">每 <ns1:g id="count">%d</ns1:g> 年</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">每周<ns1:g id="days_of_week">%2$s</ns1:g></item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other">每 <ns1:g id="number">%1$d</ns1:g> 周的<ns1:g id="days_of_week">%2$s</ns1:g></item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <string name="every_weekday">每个工作日（周一至周五）</string>
+    <string name="monthly">每月</string>
+    <string name="monthly_on_day_count">"每月（<ns1:g id="ordinal_number">%1$s</ns1:g><ns1:g id="day_of_week">%2$s</ns1:g>）"</string>
+    <string name="tm_daily">"每日"</string>
+    <string name="yearly_plain">每年</string>
+</resources>

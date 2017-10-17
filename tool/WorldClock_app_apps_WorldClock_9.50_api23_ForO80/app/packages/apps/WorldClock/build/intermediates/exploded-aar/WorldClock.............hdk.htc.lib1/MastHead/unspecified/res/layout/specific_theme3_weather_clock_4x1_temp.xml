@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0"
+                android:orientation="horizontal"
+                android:visibility="gone">
+    <TextView
+        android:id="@+id/separatrix"
+        style="@style/fixed_masthead_19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/theme_italic_padding_shift"
+        android:layout_marginTop="@dimen/theme3_temp_block_margin_top"
+        android:layout_weight="0"
+        android:letterSpacing="@string/theme3_letter_spacing"
+        android:singleLine="true"
+        android:text="@string/bullet"/>
+    <TextView
+        android:id="@+id/temperature"
+        style="@style/fixed_masthead_19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/theme3_temp_block_margin_top"
+        android:layout_toRightOf="@id/separatrix"
+        android:letterSpacing="@string/theme3_letter_spacing"
+        android:paddingRight="@dimen/theme_italic_padding"
+        android:singleLine="true"/>
+
+    <TextView
+        android:id="@+id/temperature_degree_symbol"
+        style="@style/custom_fixed_masthead_03"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/theme_temp_symbol_margin_bottom"
+        android:layout_marginLeft="@dimen/theme_italic_padding_shift"
+        android:layout_marginTop="@dimen/theme3_temp_symbol_margin_top"
+        android:layout_toRightOf="@id/temperature"
+        android:paddingRight="@dimen/theme_italic_padding"
+        android:singleLine="true"
+        android:text="@string/temp_degree"/>
+    <TextView
+        android:id="@+id/temperature_degree_c_f"
+        style="@style/fixed_masthead_21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/temperature"
+        android:layout_marginLeft="@dimen/theme_italic_padding_shift"
+        android:layout_marginTop="@dimen/theme3_temp_c_f_margin_top"
+        android:layout_toRightOf="@id/temperature_degree_symbol"
+        android:paddingRight="@dimen/leading"
+        android:singleLine="true"/>
+</RelativeLayout>
+<!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/layout/specific_theme3_weather_clock_4x1_temp.xml -->

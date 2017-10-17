@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_message"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/menu_message"/>
+    <item
+        android:id="@+id/menu_task"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/menu_task"/>
+    <item
+        android:id="@+id/menu_remove_all"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/menu_remove_all"/>
+
+</menu><!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/androidTest/res/menu/recipient_block_demo.xml -->

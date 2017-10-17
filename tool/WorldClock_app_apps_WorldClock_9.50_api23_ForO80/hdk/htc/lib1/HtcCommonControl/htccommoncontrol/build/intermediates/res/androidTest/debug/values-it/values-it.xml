@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/androidTest/res/values-it/arrays.xml -->
+    <eat-comment/>
+    <string-array name="cheese_responses">
+        <item>I\'m afraid we\'re fresh out.</item>
+        <item>I\'m afraid we never have that at the end of the week, sir.  We get it fresh on Monday.</item>
+        <item>Ah. It\'s been on order, sir, for two weeks.  I was expecting it this morning.</item>
+        <item>Normally, sir, yes.  Today the van broke down.</item>
+        <item>No.</item>
+        <item>No.</item>
+        <item>No.</item>
+        <item>Yes, sir.  It\'s, ah ..... it\'s a bit runny.</item>
+        <item>Well, it\'s very runny, actually, sir.</item>
+        <item>I think it\'s a bit runnier than you\'ll like it, sir.</item>
+        <item>Oh... The cat\'s eaten it.</item>
+        <item>No.</item>
+        <item>No.</item>
+        <item>No.</item>
+        <item>Mmm... cheese.</item>
+    </string-array>
+    <string-array name="clip_data_types">
+        <item>No data in clipboard</item>
+        <item>Text clip</item>
+        <item>Intent clip</item>
+        <item>Uri clip</item>
+    </string-array>
+    <string-array name="colors">
+        <item>red</item>
+        <item>orange</item>
+        <item>yellow</item>
+        <item>green</item>
+        <item>blue</item>
+        <item>violet</item>
+    </string-array>
+    <string-array name="entries_list_preference">
+        <item>Alpha Option 01</item>
+        <item>Beta Option 02</item>
+        <item>Charlie Option 03</item>  
+    </string-array>
+    <string-array name="entryvalues_list_preference">
+        <item>alpha</item>
+        <item>beta</item>
+        <item>charlie</item>  
+    </string-array>
+    <string-array name="password_qualities">
+        <item>Unspecified</item>
+        <item>Something</item>
+        <item>Numeric</item>
+        <item>Alphabetic</item>
+        <item>Alphanumeric</item>
+        <item>Complex</item>
+    </string-array>
+    <string-array name="planets">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+        <item>Pluto</item>
+    </string-array>
+    <string-array name="screen_orientations">
+        <item>UNSPECIFIED</item>
+        <item>LANDSCAPE</item>
+        <item>PORTRAIT</item>
+        <item>USER</item>
+        <item>BEHIND</item>
+        <item>SENSOR</item>
+        <item>NOSENSOR</item>
+        <item>SENSOR_LANDSCAPE</item>
+        <item>SENSOR_PORTRAIT</item>
+        <item>REVERSE_LANDSCAPE</item>
+        <item>REVERSE_PORTRAIT</item>
+        <item>FULL_SENSOR</item>
+    </string-array>
+    <string-array name="search_menuModes">
+        <item>Search Key</item>
+        <item>Menu Item</item>
+        <item>Type-To-Search</item>
+        <item>Disabled</item>
+    </string-array>
+    <string-array name="secure_view_clicked">
+        <item>*bzzt*\nTransferred $1,000,000 to J. Phisher.  Thank you!</item>
+        <item>*bzzt*\nSending all life savings to the International Cabal of Evil Penguins.</item>
+        <item>*bzzt*\nOpening portal to R\'lyeh.  Long live Cthulhu!</item>
+        <item>*bzzt*\nYou\'re not very good at this, are you?</item>
+        <item>*bzzt*\nGo away...</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>Command one</item>
+        <item>Command two</item>
+        <item>Command three</item>
+        <item>Command four</item>
+    </string-array>
+    <string-array name="select_dialog_items2">
+        <item>Map</item>
+        <item>Satellite</item>
+        <item>Traffic</item>
+        <item>Street view</item>
+    </string-array>
+    <string-array name="select_dialog_items3">
+        <item>Every Monday</item>
+        <item>Every Tuesday</item>
+        <item>Every Wednesday</item>
+        <item>Every Thursday</item>
+        <item>Every Friday</item>
+        <item>Every Saturday</item>
+        <item>Every Sunday</item>
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-it/values-it.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>Piccolo</item><!--Small-->
+        <item>Medio</item><!--Medium-->
+        <item>Grande</item><!--Large-->
+        <item>Molto grande</item><!--Extra large-->
+        <item>Enorme</item><!--Huge-->
+    </string-array>
+    <string-array name="weeklayout_secondary_text">
+        <item>D</item><!--SU-->
+        <item>L</item><!--M-->
+        <item>Ma</item><!--TU-->
+        <item>Me</item><!--W-->
+        <item>G</item><!--TH-->
+        <item>V</item><!--F-->
+        <item>S</item><!--SA-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-it/values-it.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Vai alla home page"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Vai in alto"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Altre opzioni"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fine"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Visualizza tutte"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Scegli un\'applicazione"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Cerca…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Cancella query"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Query di ricerca"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Cerca"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Invia query"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Ricerca vocale"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Condividi con"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Condividi con %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Comprimi"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-it/values-it.xml -->
+    <eat-comment/>
+    <string name="accessibility_tap_action">Toccare due volte per l\'azione</string>
+    <string name="add_comments">Aggiungi commento</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/androidTest/res/values-it/strings.xml -->
+    <eat-comment/>
+    <string name="advanced_preferences">Preference/6. Advanced preferences</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-it/values-it.xml -->
+    <eat-comment/>
+    <string name="am">AM</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/androidTest/res/values-it/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">CommonControlDemo</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-it/values-it.xml -->
+    <eat-comment/>
+    <string name="button_hide_caption">Nascondi didascalia</string>
+    <string name="button_hide_description">Nascondi descrizione</string>
+    <string name="button_show_caption">Mostra didascalia</string>
+    <string name="button_show_description">Mostra descrizione</string>
+    <string name="carousel_title">Modifica schede</string>
+    <string name="common_string_hint_search_people">Cerca persone</string>
+    <string name="common_string_open_contact">Apri contatto</string>
+    <string name="common_string_save_to_existing_contact">Salva in contatto esistente</string>
+    <string name="common_string_save_to_people">Salva in Contatti</string>
+    <string name="common_string_share_title">Condividi tramite</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/androidTest/res/values-it/strings.xml -->
+    <eat-comment/>
+    <string name="counter_value_is">The counter value is</string>
+    <string name="default_value_edittext_preference">Default value</string>
+    <string name="default_value_list_preference">beta</string>
+    <string name="default_values">Preference/4. Default values</string>
+    <string name="dialog_based_preferences">Dialog-based preferences</string>
+    <string name="dialog_title_edittext_preference">Enter your favorite animal</string>
+    <string name="dialog_title_list_preference">Choose one</string>
+    <string name="dialog_title_yesno_preference">Do you like bananas?</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-it/values-it.xml -->
+    <eat-comment/>
+    <string name="done">Fine</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/androidTest/res/values-it/strings.xml -->
+    <eat-comment/>
+    <string name="example_preference_dependency">Example preference dependency</string>
+    <string name="fragment_preferences">Preference/7. Fragment</string>
+    <string name="hello">Hello World, CommonControlDemoActivity!</string>
+    <string name="inline_preferences">In-line preferences</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-it/values-it.xml -->
+    <eat-comment/>
+    <string name="label_day">Giorno</string>
+    <string name="label_hour">Ora</string>
+    <string name="label_minute">Minuto</string>
+    <string name="label_month">Mese</string>
+    <string name="label_second">Secondo</string>
+    <string name="label_year">Anno</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/androidTest/res/values-it/strings.xml -->
+    <eat-comment/>
+    <string name="launch_preference_activity">Launch PreferenceActivity</string>
+    <string name="launch_preferences">Launch preferences</string>
+    <string name="launching_preferences">Preference/2. Launching preferences</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-it/values-it.xml -->
+    <eat-comment/>
+    <string name="license_dialog_content">Alcune icone utilizzate su questo telefono sono state studiate originariamente da Google e modificate da HTC secondo la <a href="https://creativecommons.org/licenses/by/4.0/legalcode">licenza di attribuzione Creative Commons 4.0</a>.</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <string name="ls_doubletap_drag">toccare due volte o trascinare per regolare</string>
+    <string name="ls_edit_number_before_calling">Modifica numero prima di chiamare</string>
+    <string name="ls_open_in_map">Apri nella mappa</string>
+    <string name="ls_tablet_storage_error">Si è verificato un errore nella memoria del tablet. Riavviare il dispositivo o formattare la memoria.</string>
+    <string name="menu_crop">Ritaglia</string>
+    <string name="menu_delete">Elimina</string>
+    <string name="menu_properties">Dettagli</string>
+    <string name="menu_protect_info">Info protezione</string>
+    <string name="menu_save_to_my_favorite">Imposta come preferito</string>
+    <string name="menu_send_photo_link_by_email">Condividi collegamento foto</string>
+    <string name="menu_set_as">Imposta come</string>
+    <string name="menu_settings">Impostazioni</string>
+    <string name="menu_share">Condividi</string>
+    <string name="menu_show_on_map">Mostra su mappa</string>
+    <string name="menu_slideshow">Presentazione</string>
+    <string name="menu_view_full">Visualizza</string>
+    <string name="menu_view_video">Riproduci</string>
+    <string name="meun_rotate">Ruota</string>
+    <string name="nn_unknown_error">"Errore sconosciuto"</string>
+    <string name="no">No</string>
+    <string name="pm">PM</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/androidTest/res/values-it/strings.xml -->
+    <eat-comment/>
+    <string name="preference_attributes">Preference attributes</string>
+    <string name="preference_dependencies">Preference/3. Preference dependencies</string>
+    <string name="preference_with_headers">Preference/8. Headers</string>
+    <string name="preferences_from_code">Preference/5. Preferences from code</string>
+    <string name="preferences_from_xml">Preference/1. Preferences from XML</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-it/values-it.xml -->
+    <eat-comment/>
+    <string name="quickselection_share">Condividi tramite</string>
+    <string name="refresh">Aggiorna</string>
+    <string name="reminderview_common_unlock_hint_icon">Trascinare l\'icona in alto</string>
+    <string name="reminderview_common_unlock_hint_up">Spostare verso l\'alto per sbloccare</string>
+    <string name="st_action_bar_pull_down">RILASCIARE PER AGGIORNARE</string>
+    <string name="st_action_bar_updating">AGGIORNAMENTO IN CORSO...</string>
+    <string name="st_draggable_item">Elemento trascinabile</string>
+    <string name="st_loading">Caricamento in corso...</string>
+    <string name="st_more">Altro</string>
+    <string name="st_pull_down_refresh">Scorri in basso per aggiornare</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-it/values-it.xml -->
+    <eat-comment/>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/androidTest/res/values-it/strings.xml -->
+    <eat-comment/>
+    <string name="summary_checkbox_preference">This is a checkbox</string>
+    <string name="summary_child_preference">This is visually a child</string>
+    <string name="summary_edittext_preference">An example that uses an edit text dialog</string>
+    <string name="summary_fragment_preference">Shows another fragment of preferences</string>
+    <string name="summary_intent_preference">Launches an Activity from an Intent</string>
+    <string name="summary_list_preference">An example that uses a list dialog</string>
+    <string name="summary_my_preference">This is a custom counter preference</string>
+    <string name="summary_next_screen_toggle_preference">Preference that is on the next screen but same hierarchy</string>
+    <string name="summary_off_advanced_toggle_preference">I\'m off! :(</string>
+    <string name="summary_on_advanced_toggle_preference">I\'m on! :)</string>
+    <string name="summary_parent_preference">This is visually a parent</string>
+    <string name="summary_screen_preference">Shows another screen of preferences</string>
+    <string name="summary_switch_preference">This is a switch</string>
+    <string name="summary_switch_preference_yes_no">This is a switch with custom text</string>
+    <string name="summary_toggle_preference">This is a toggle button</string>
+    <string name="summary_yesno_preference">An example that uses a yes/no dialog</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-it/values-it.xml -->
+    <eat-comment/>
+    <string name="tab_remove_dialog_message">È rimasta solo una scheda. Per aggiungere altre schede per l\'applicazione, scegliere Modifica schede/Filtri nel menu.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/androidTest/res/values-it/strings.xml -->
+    <eat-comment/>
+    <string name="title_advanced_toggle_preference">Haunted preference</string>
+    <string name="title_checkbox_preference">Checkbox preference</string>
+    <string name="title_child_preference">Child toggle</string>
+    <string name="title_edittext_preference">Edit text preference</string>
+    <string name="title_fragment_preference">Fragment preference</string>
+    <string name="title_intent_preference">Intent preference</string>
+    <string name="title_list_preference">List preference</string>
+    <string name="title_my_preference">My preference</string>
+    <string name="title_next_screen_toggle_preference">Toggle preference</string>
+    <string name="title_parent_preference">Parent toggle</string>
+    <string name="title_screen_preference">Screen preference</string>
+    <string name="title_switch_preference">Switch preference</string>
+    <string name="title_toggle_preference">Toggle preference</string>
+    <string name="title_wifi">WiFi</string>
+    <string name="title_wifi_settings">WiFi settings</string>
+    <string name="title_yesno_preference">Yes or no preference</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/bundles/debug/res/values-it/values-it.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">Impossibile rimuovere questa scheda</string>
+    <string name="va_back">Indietro</string>
+    <string name="va_call">Chiama</string>
+    <string name="va_cancel">Annulla</string>
+    <string name="va_clear">"Cancella"</string>
+    <string name="va_close">Chiudi</string>
+    <string name="va_copy">Copia</string>
+    <string name="va_download">Download</string>
+    <string name="va_downloading">Download in corso</string>
+    <string name="va_finish">Completata</string>
+    <string name="va_hide">"Nascondi"</string>
+    <string name="va_move_above">Sposta sopra</string>
+    <string name="va_move_below">Sposta sotto</string>
+    <string name="va_next">Avanti</string>
+    <string name="va_ok">OK</string>
+    <string name="va_open">Apri</string>
+    <string name="va_reset">Ripristina</string>
+    <string name="va_send_mail">Invia e-mail</string>
+    <string name="va_send_message">Invia messaggio</string>
+    <string name="va_show_all">Mostra tutti</string>
+    <string name="yes">Sì</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item 
+        android:id="@+id/alert_sound"
+        android:title="@string/alert_sound"
+        android:showAsAction="never"/>
+    <item
+        android:id="@+id/edit_tabs"
+        android:title="@string/edit_tabs_menu_item"
+		android:showAsAction="never"/>
+    <item 
+        android:id="@+id/tips"
+        android:title="@string/tips"
+        android:showAsAction="never"/>
+</menu>
+<!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/menu/timer_menuitems.xml -->

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>Kicsi</item><!--Small-->
+        <item>Közepes</item><!--Medium-->
+        <item>Nagy</item><!--Large-->
+        <item>Különösen nagy</item><!--Extra large-->
+        <item>Óriási</item><!--Huge-->
+    </string-array>
+    <string-array name="weeklayout_secondary_text">
+        <item>Vas</item><!--SU-->
+        <item>H</item><!--M-->
+        <item>Ke</item><!--TU-->
+        <item>Sze</item><!--W-->
+        <item>Cs</item><!--TH-->
+        <item>P</item><!--F-->
+        <item>Szo</item><!--SA-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ugrás a főoldalra"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Felfelé mozgatás"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"További lehetőségek"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Kész"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Összes megtekintése"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Válasszon ki egy alkalmazást"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Keresés…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Lekérdezés törlése"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Keresési lekérdezés"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Keresés"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Lekérdezés küldése"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hangalapú keresés"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Megosztás a következővel:"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Megosztás a következővel: %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Összecsukás"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="accessibility_tap_action">Érintse meg duplán a művelet végrehajtásához</string>
+    <string name="add_comments">Hozzászólok</string>
+    <string name="am">AM</string>
+    <string name="button_hide_caption">Képaláírás elrejtése</string>
+    <string name="button_hide_description">Leírás elrejtése</string>
+    <string name="button_show_caption">Képaláírás megjelenítése</string>
+    <string name="button_show_description">Leírás megjelenítése</string>
+    <string name="carousel_title">Fülek szerkesztése</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-hu/htc_strings.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">Emberek keresése</string>
+    <string name="common_string_open_contact">A névjegy megnyitása</string>
+    <string name="common_string_save_to_existing_contact">Mentés már meglévő névjegyhez</string>
+    <string name="common_string_save_to_people">Mentés az Emberek közé</string>
+    <string name="common_string_share_title">Megosztás a következőn keresztül</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="done">Kész</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-hu/htc_strings.xml -->
+    <eat-comment/>
+    <string name="label_day">Nap</string>
+    <string name="label_hour">Óra</string>
+    <string name="label_minute">Perc</string>
+    <string name="label_month">Hónap</string>
+    <string name="label_second">Másodperc</string>
+    <string name="label_year">Év</string>
+    <string name="license_dialog_content">A telefonon használt ikonok egy részét eredetileg a Google tervezte; később a HTC módosította ezeket, a <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons-licencek „Nevezd meg!” 4.0</a> módozatában és verziójában foglalt rendelkezéseknek megfelelően.</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <string name="ls_doubletap_drag">érintse meg duplán, majd húzza a beállításhoz</string>
+    <string name="ls_edit_number_before_calling">Szám szerkesztése hívás előtt</string>
+    <string name="ls_open_in_map">Megnyitás térképen</string>
+    <string name="ls_tablet_storage_error">Hibát észleltünk a táblagép tárolóhelyén. Indítsa újra az eszközt, vagy formázza újra a tárolót.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="menu_crop">Körülvágás</string>
+    <string name="menu_delete">Törlés</string>
+    <string name="menu_properties">Részletek</string>
+    <string name="menu_protect_info">Védelmi Információ</string>
+    <string name="menu_save_to_my_favorite">Beállítás kedvencként</string>
+    <string name="menu_send_photo_link_by_email">Fénykép hivatkozás megosztása</string>
+    <string name="menu_set_as">Beállítás másként</string>
+    <string name="menu_settings">Beállítások</string>
+    <string name="menu_share">Megosztás</string>
+    <string name="menu_show_on_map">Megjelenítés térképen</string>
+    <string name="menu_slideshow">Diavetítés</string>
+    <string name="menu_view_full">Nézet</string>
+    <string name="menu_view_video">Lejátszás</string>
+    <string name="meun_rotate">Elforgatás</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-hu/htc_strings.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">Ismeretlen hiba</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="no">Nem</string>
+    <string name="pm">PM</string>
+    <string name="quickselection_share">Megosztás a következőn keresztül</string>
+    <string name="refresh">Frissítés</string>
+    <string name="reminderview_common_unlock_hint_icon">Húzza az ikont felfelé</string>
+    <string name="reminderview_common_unlock_hint_up">Húzza fel a feloldásához</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-hu/htc_strings.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">Elengedés a frissítéshez</string>
+    <string name="st_action_bar_updating">Frissítés...</string>
+    <string name="st_draggable_item">Húzható elem</string>
+    <string name="st_loading">Betöltés...</string>
+    <string name="st_more">Egyéb</string>
+    <string name="st_pull_down_refresh">Húzza lefelé a frissítéshez</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-hu/htc_strings.xml -->
+    <eat-comment/>
+    <string name="tab_remove_dialog_message">Egy lap maradt. Ha további lapokat kíván hozzáadni az alkalmazáshoz, a menüben válassza a Fülek szerkesztése/Szűrők menüpontot.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">Ez a fül nem távolítható el</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-hu/htc_strings.xml -->
+    <eat-comment/>
+    <string name="va_back">Vissza</string>
+    <string name="va_call">Tárcsázás</string>
+    <string name="va_cancel">Mégse</string>
+    <string name="va_clear">Törlés</string>
+    <string name="va_close">Bezár</string>
+    <string name="va_copy">Másolás</string>
+    <string name="va_download">Letöltés</string>
+    <string name="va_downloading">Letöltés</string>
+    <string name="va_finish">Befejezés</string>
+    <string name="va_hide">Elrejtés</string>
+    <string name="va_move_above">Áthelyezés fel</string>
+    <string name="va_move_below">Áthelyezés le</string>
+    <string name="va_next">Tovább</string>
+    <string name="va_ok">OK</string>
+    <string name="va_open">Megnyitás</string>
+    <string name="va_reset">Visszaállítás</string>
+    <string name="va_send_mail">Levél küldése</string>
+    <string name="va_send_message">Üzenet küldése</string>
+    <string name="va_show_all">Összes megjelenítése</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="yes">Igen</string>
+</resources>

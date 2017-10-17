@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/background_block"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true"
+    android:paddingLeft="@dimen/widget_padding"
+    android:paddingRight="@dimen/widget_padding">
+    <com.htc.lib1.masthead.view.DigitalClock
+        android:id="@+id/digital_clock"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true">
+        <include layout="@layout/specific_theme0_clock_dual_4x1_digital" />
+        <include layout="@layout/specific_theme0_clock_dual_4x1_date" />
+    </com.htc.lib1.masthead.view.DigitalClock>
+</RelativeLayout>
+<!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/layout/specific_theme0_clock_dual_4x1_travel.xml -->

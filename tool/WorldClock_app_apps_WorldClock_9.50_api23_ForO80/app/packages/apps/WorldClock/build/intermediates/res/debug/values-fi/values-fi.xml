@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string-array name="days_of_week">
+        <item>maanantai</item><!--MONDAY-->
+        <item>tiistai</item><!--TUESDAY-->
+        <item>keskiviikko</item><!--WEDNESDAY-->
+        <item>torstai</item><!--THURSDAY-->
+        <item>perjantai</item><!--FRIDAY-->
+        <item>lauantai</item><!--SATURDAY-->
+        <item>sunnuntai</item><!--SUNDAY-->
+    </string-array>
+    <string-array name="days_of_week_abbr">
+        <item>ma</item><!--M-->
+        <item>ti</item><!--TU-->
+        <item>ke</item><!--W-->
+        <item>to</item><!--TH-->
+        <item>pe</item><!--F-->
+        <item>la</item><!--SA-->
+        <item>su</item><!--SU-->
+    </string-array>
+    <string-array name="days_of_week_capital">
+        <item/>
+        <item>Su</item><!--SUN-->
+        <item>Ma</item><!--MON-->
+        <item>Ti</item><!--TUE-->
+        <item>Ke</item><!--WED-->
+        <item>To</item><!--THU-->
+        <item>Pe</item><!--FRI-->
+        <item>La</item><!--SAT-->
+    </string-array>
+    <string-array name="days_of_week_short">
+        <item>@string/tm_mon</item>
+        <item>@string/tm_tue</item>
+        <item>@string/tm_wed</item>
+        <item>@string/tm_thu</item>
+        <item>@string/tm_fri</item>
+        <item>@string/tm_sat</item>
+        <item>@string/tm_sun</item>
+    </string-array>
+    <string-array name="days_of_week_whole_capital">
+        <item/>
+        <item>sunnuntai</item><!--SUNDAY-->
+        <item>maanantai</item><!--MONDAY-->
+        <item>tiistai</item><!--TUESDAY-->
+        <item>keskiviikko</item><!--WEDNESDAY-->
+        <item>torstai</item><!--THURSDAY-->
+        <item>perjantai</item><!--FRIDAY-->
+        <item>lauantai</item><!--SATURDAY-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/WeatherLib1/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string-array name="htc_weather_conditions">
+<!-- weather condition 1 : Sunny -->
+        <item>Aurinkoista</item><!--Sunny-->
+<!-- weather condition 2 : Mostly Sunny -->
+        <item>Enimmäkseen aurinkoista</item><!--Mostly Sunny-->
+<!-- weather condition 3 : Partly Sunny -->
+        <item>Osittain aurinkoista</item><!--Partly Sunny-->
+<!-- weather condition 4 : Intermittent Clouds -->
+        <item>Vaihtelevaa pilvisyyttä</item><!--Intermittent Clouds--><!--Intermittent Clouds-->
+<!-- weather condition 5 : Hazy Sunshine -->
+        <item>Usvaa ja auringonpaistetta</item><!--Hazy Sunshine-->
+<!-- weather condition 6 : Mostly Cloudy -->
+        <item>Enimmäkseen pilvistä</item><!--Mostly Cloudy--><!--Mostly Cloudy-->
+<!-- weather condition 7 : Cloudy -->
+        <item>Pilvistä</item><!--Cloudy-->
+<!-- weather condition 8 : Dreary -->
+        <item>Synkkää</item><!--Dreary-->
+<!-- weather condition 11 : Fog -->
+        <item>Sumua</item><!--Fog-->
+<!-- weather condition 12 : Showers -->
+        <item>Sadekuuroja</item><!--Showers-->
+<!-- weather condition 13 : Mostly Cloudy with Showers -->
+        <item>Enimmäkseen pilvistä ja sadekuuroja</item><!--Mostly Cloudy with Showers--><!--Mostly Cloudy with Showers-->
+<!-- weather condition 14 : Partly Sunny with Showers -->
+        <item>Osittain aurinkoista ja sadekuuroja</item><!--Partly Sunny with Showers-->
+<!-- weather condition 15 : Thunderstorms -->
+        <item>Ukkosta</item><!--Thunderstorms-->
+<!-- weather condition 16 : Mostly Cloudy with Thunder Showers -->
+        <item>Enimmäkseen pilvistä ja ukkoskuuroja</item><!--Mostly Cloudy with Thunder Showers--><!--Mostly Cloudy with Thunder Showers-->
+<!-- weather condition 17 : Partly Sunny with Thunder Showers -->
+        <item>Osittain aurinkoista ja ukkoskuuroja</item><!--Partly Sunny with Thunder Showers-->
+<!-- weather condition 18 : Rain -->
+        <item>Sadetta</item><!--Rain-->
+<!-- weather condition 19 : Flurries -->
+        <item>Lumikuuroja</item><!--Flurries-->
+<!-- weather condition 20 : Mostly Cloudy with Flurries -->
+        <item>Enimmäkseen pilvistä ja lumikuuroja</item><!--Mostly Cloudy with Flurries--><!--Mostly Cloudy with Flurries-->
+<!-- weather condition 21 : Partly Sunny with Flurries -->
+        <item>Osittain aurinkoista ja lumikuuroja</item><!--Partly Sunny with Flurries-->
+<!-- weather condition 22 : Snow -->
+        <item>Lumisadetta</item><!--Snow-->
+<!-- weather condition 23 : Mostly Cloudy with Snow -->
+        <item>Enimmäkseen pilvistä ja lumisadetta</item><!--Mostly Cloudy with Snow-->
+<!-- weather condition 24 : Ice -->
+        <item>Jäätä</item><!--Ice-->
+<!-- weather condition 25 : Sleet -->
+        <item>Räntäsadetta</item><!--Sleet-->
+<!-- weather condition 26 : Freezing Rain -->
+        <item>Jäätävää tihkusadetta</item><!--Freezing Rain-->
+<!-- weather condition 29 : Rain and Snow Mixed -->
+        <item>Vesi- ja lumisadetta</item><!--Rain and Snow Mixed-->
+<!-- weather condition 30 : Hot -->
+        <item>Helteistä</item><!--Hot-->
+<!-- weather condition 31 : Cold -->
+        <item>Kylmää</item><!--Cold-->
+<!-- weather condition 32 : Windy -->
+        <item>Tuulista</item><!--Windy-->
+<!-- weather condition 33 : Clear -->
+        <item>Selkeää</item><!--Clear-->
+<!-- weather condition 34 : Mostly Clear -->
+        <item>Enimmäkseen selkeää</item><!--Mostly Clear-->
+<!-- weather condition 35 : Partly Cloudy -->
+        <item>Osittain pilvistä</item><!--Partly Cloudy-->
+<!-- weather condition 36 : Intermittent Clouds -->
+        <item>Vaihtelevaa pilvisyyttä</item><!--Intermittent Clouds--><!--Intermittent Clouds-->
+<!-- weather condition 37 : Hazy -->
+        <item>Usvaa</item><!--Hazy-->
+<!-- weather condition 38 : Mostly Cloudy -->
+        <item>Enimmäkseen pilvistä</item><!--Mostly Cloudy--><!--Mostly Cloudy-->
+<!-- weather condition 39 : Partly Cloudy with Showers -->
+        <item>Osittain pilvistä ja sadekuuroja</item><!--Partly Cloudy with Showers-->
+<!-- weather condition 40 : Mostly Cloudy with Showers -->
+        <item>Enimmäkseen pilvistä ja sadekuuroja</item><!--Mostly Cloudy with Showers--><!--Mostly Cloudy with Showers-->
+<!-- weather condition 41 : Partly Cloudy with Thunder Showers -->
+        <item>Osittain pilvistä ja ukkoskuuroja</item><!--Partly Cloudy with Thunder Showers-->
+<!-- weather condition 42 : Mostly Cloudy with Thunder Showers -->
+        <item>Enimmäkseen pilvistä ja ukkoskuuroja</item><!--Mostly Cloudy with Thunder Showers--><!--Mostly Cloudy with Thunder Showers-->
+<!-- weather condition 43 : Partly Cloudy with Flurries -->
+        <item>Osittain pilvistä ja lumikuuroja</item><!--Partly Cloudy with Flurries-->
+<!-- weather condition 44 : Mostly Cloudy with Flurries -->
+        <item>Enimmäkseen pilvistä ja lumikuuroja</item><!--Mostly Cloudy with Flurries--><!--Mostly Cloudy with Flurries-->
+<!-- _For Huafeng -->
+<!-- weather condition 51 : -->
+        <item>Ukkosta ja rakeita</item><!--Thunderstorms with sleet-->
+<!-- weather condition 52 : -->
+        <item>Hiekkaa</item><!--Sand-->
+<!-- weather condition 53 : -->
+        <item>Pölyistä</item><!--Dust-->
+<!-- weather condition 54 : -->
+        <item>Tornado</item><!--Tornado-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string-array name="month_of_year">
+    	<item>tammi</item><!--JAN-->
+    	<item>HEL</item><!--FEB-->
+    	<item>maalis</item><!--MAR-->
+    	<item>huhti</item><!--APR-->
+    	<item>touko</item><!--MAY-->
+    	<item>kesä</item><!--JUN-->
+    	<item>heinä</item><!--JUL-->
+    	<item>elo</item><!--AUG-->
+    	<item>syys</item><!--SEP-->
+    	<item>loka</item><!--OCT-->
+    	<item>marras</item><!--NOV-->
+    	<item>joulu</item><!--DEC-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>joka ensimmäinen perjantai</item><!--on every first Friday-->
+        <item>joka toinen perjantai</item><!--on every second Friday-->
+        <item>joka kolmas perjantai</item><!--on every third Friday-->
+        <item>joka neljäs perjantai</item><!--on every fourth Friday-->
+        <item>joka viimeinen perjantai</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>joka ensimmäinen maanantai</item><!--on every first Monday-->
+        <item>joka toinen maanantai</item><!--on every second Monday-->
+        <item>joka kolmas maanantai</item><!--on every third Monday-->
+        <item>joka neljäs maanantai</item><!--on every fourth Monday-->
+        <item>joka viimeinen maanantai</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>joka ensimmäinen lauantai</item><!--on every first Saturday-->
+        <item>joka toinen lauantai</item><!--on every second Saturday-->
+        <item>joka kolmas lauantai</item><!--on every third Saturday-->
+        <item>joka neljäs lauantai</item><!--on every fourth Saturday-->
+        <item>joka viimeinen lauantai</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>joka ensimmäinen sunnuntai</item><!--on every first Sunday-->
+        <item>joka toinen sunnuntai</item><!--on every second Sunday-->
+        <item>joka kolmas sunnuntai</item><!--on every third Sunday-->
+        <item>joka neljäs sunnuntai</item><!--on every fourth Sunday-->
+        <item>joka viimeinen sunnuntai</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>joka ensimmäinen torstai</item><!--on every first Thursday-->
+        <item>joka toinen torstai</item><!--on every second Thursday-->
+        <item>joka kolmas torstai</item><!--on every third Thursday-->
+        <item>joka neljäs torstai</item><!--on every fourth Thursday-->
+        <item>joka viimeinen torstai</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>joka ensimmäinen tiistai</item><!--on every first Tuesday-->
+        <item>joka toinen tiistai</item><!--on every second Tuesday-->
+        <item>joka kolmas tiistai</item><!--on every third Tuesday-->
+        <item>joka neljäs tiistai</item><!--on every fourth Tuesday-->
+        <item>joka viimeinen tiistai</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>joka ensimmäinen keskiviikko</item><!--on every first Wednesday-->
+        <item>joka toinen keskiviikko</item><!--on every second Wednesday-->
+        <item>joka kolmas keskiviikko</item><!--on every third Wednesday-->
+        <item>joka neljäs keskiviikko</item><!--on every fourth Wednesday-->
+        <item>joka viimeinen keskiviikko</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string-array name="repeat_option">
+        <item>Maa-Per</item><!--Mon -/ Fri-->
+        <item>Älä toista</item><!--Do not repeat-->
+        <item>Joka päivä</item><!--Every day-->
+        <item>Ohita lomat</item><!--Skip holidays-->
+        <item>Mukautettu</item><!--Custom-->
+    </string-array>
+    <string-array name="snooze_duration_entries">
+      <item>5 minuuttia</item><!--5 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_10_minutes</item>
+      <item>15 minuuttia</item><!--15 minutes-->
+      <item>20 minuuttia</item><!--20 minutes-->
+      <item>25 minuuttia</item><!--25 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_30_minutes</item>
+    </string-array>
+    <string-array name="sound_selection_setting_entries">
+<!-- Alarm sound -->
+      <item>Hälytysääni</item><!--Alarm sound-->
+<!-- Do not translate. Ringtone -->
+      <item>@string/nn_ringtone</item>
+<!-- Do not translate. Music -->
+      <item>@string/nn_music</item>
+    </string-array>
+    <string-array name="sprint_volume_button_setting_entries">
+      <item>Älä tee mitään</item><!--Do nothing-->
+
+      <item>Siirrä</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+
+      <item>Hiljaisuus</item><!--Silence-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>Pieni</item><!--Small-->
+        <item>Normaali</item><!--Medium-->
+        <item>Suuri</item><!--Large-->
+        <item>Ekstra-suuri</item><!--Extra large-->
+        <item>Valtava</item><!--Huge-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string-array name="volume_button_setting_entries">
+      <item>Älä tee mitään</item><!--Do nothing-->
+
+      <item>Torkku</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string-array name="weeklayout_secondary_text">
+        <item>su</item><!--SU-->
+        <item>ma</item><!--M-->
+        <item>ti</item><!--TU-->
+        <item>ke</item><!--W-->
+        <item>to</item><!--TH-->
+        <item>pe</item><!--F-->
+        <item>la</item><!--SA-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <bool name="config_flip_animation">true</bool>
+    <bool name="config_full_name_month">true</bool>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">yksi kerta</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> kertaa</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Joka <ns1:g id="count">%d</ns1:g> päivä</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Joka <ns1:g id="count">%d</ns1:g> päivä</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Joka <ns1:g id="count">%d</ns1:g> kuukausi</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Joka <ns1:g id="count">%d</ns1:g> kuukausi</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Joka <ns1:g id="count">%d</ns1:g> viikko</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Joka <ns1:g id="count">%d</ns1:g> viikko</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Joka <ns1:g id="count">%d</ns1:g> vuosi</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Joka <ns1:g id="count">%d</ns1:g> vuosi</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">Viikoittain <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other">Joka <ns1:g id="number">%1$d</ns1:g> viikko <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Siirry etusivulle"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Siirry ylös"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Lisää"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Valmis"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Näytä kaikki"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Valitse sovellus"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"POIS KÄYTÖSTÄ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"KÄYTÖSSÄ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Haku…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Tyhjennä kysely"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Hakulauseke"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Haku"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Lähetä kysely"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Puhehaku"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Jakaminen:"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Jakaminen: %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Kutista"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="accessibility_tap_action">Suorita kaksoisnapauttamalla</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="add_alarm">Lisää hälytys</string>
+    <string name="add_alarm_error">Hälytysten enimmäismäärä saavutettu.</string>
+    <string name="add_city">Lisää kaupunki</string>
+    <string name="add_city_error_msg">Sinulla voi olla enintään 15 kaupunkia. Voit lisätä uuden kaupungin poistamalla jonkin aiemmista.</string>
+    <string name="add_city_error_title">Kaupunkia ei voitu lisätä</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="add_comments">Lisää kommentti</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="add_lap_error">Sekuntikello voi tallentaa enintään 300 kierrosta. Napauta Palauta tyhjentääksesi kierroshistorian.</string>
+    <string name="addcity_search">Hae kaupunkeja</string>
+    <string name="alarm_alert_alert_silenced">Hälytys hiljennetään <ns1:g id="minutes">%d</ns1:g> minuutin kuluttua.</string>
+    <string name="alarm_alert_dismissed">Hälytys hylätty.</string>
+    <string name="alarm_alert_snooze_not_set">Torkkuaikaa ei ole määritetty. Seuraavan hälytyksen ajankohta: <ns1:g id="time">%s</ns1:g></string>
+    <string name="alarm_alert_snooze_set">Torkkuaika: <ns1:g id="minutes">%d</ns1:g> minuuttia.</string>
+    <string name="alarm_caption">Hälytykset</string>
+    <string name="alarm_in_volume_increase_mode_summary">Lisää hälytyksen äänenvoimakkuutta vähitellen</string>
+    <string name="alarm_in_volume_increase_mode_title">Varovainen herätys</string>
+    <string name="alarm_notify_snooze_label"><ns1:g id="label">%s</ns1:g> (torkku)</string>
+    <string name="alarm_notify_snooze_text">Hälytys asetettu <ns1:g id="time">%s</ns1:g>. Peruuta napauttamalla.</string>
+    <string name="alarm_off">Hälytys pois</string>
+    <string name="alarm_offalarm">Ääni, kun puhelin on pois päältä</string>
+    <string name="alarm_on">Hälytys päällä</string>
+    <string name="alarm_repeat">Toista</string>
+    <string name="alarm_ringtone">Hälytysääni</string>
+    <string name="alarm_set">Aikaa hälytyksen käynnistymiseen: <ns1:g id="time_delta">%s</ns1:g> </string>
+    <string name="alarm_vibrate">Värinä</string>
+    <string name="alarm_volume_summary">Määritä hälytysten äänenvoimakkuus</string>
+    <string name="alarm_volume_title">Hälytyksen äänenvoimakkuus</string>
+    <string name="alert_sound">Hälytysääni</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="am">AM</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="analog_gadget">Analoginen kello</string>
+    <string name="and">" ja "</string>
+    <string name="bt_cancel_str">Peruuta</string>
+    <string name="bt_done_str">Valmis</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="button_hide_caption">Piilota kuvateksti</string>
+    <string name="button_hide_description">Piilota kuvaus</string>
+    <string name="button_show_caption">Näytä kuvateksti</string>
+    <string name="button_show_description">Näytä kuvaus</string>
+    <string name="carousel_title">Muokkaa välilehtiä</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="city_duplicate">Tämä kaupunki on jo luettelossa</string>
+    <string name="city_not_found">KAUPUNKIA EI LÖYTYNYT</string>
+    <string name="clock_permission_dialog_btn_close">Sulje</string>
+    <string name="clock_permission_dialog_btn_settings">Asetukset</string>
+    <string name="clock_permission_dialog_content">Toimiakseen oikein, tämän sovelluksen on käytettävä tallennustilaasi. Voit hallita Kello-sovelluksen käyttöoikeuksia Asetuksissa.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">Etsi henkilöitä</string>
+    <string name="common_string_open_contact">Avaa yhteystieto</string>
+    <string name="common_string_save_to_existing_contact">Tallenna olemassa olevaan yhteystietoon</string>
+    <string name="common_string_save_to_people">Tallenna henkilöihin</string>
+    <string name="common_string_share_title">Jaa</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="current_settings">Aseta päivämäärä ja aika</string>
+    <string name="day_concat">", "</string>
+    <string name="days">"<ns1:g id="days">%s</ns1:g> päivää"</string>
+    <string name="dberror">Hälytystä ei voitu asettaa</string>
+    <string name="delete_alarm_caption">Poista hälytykset</string>
+    <string name="delete_city_caption">Poista kaupunkeja</string>
+    <string name="desk_clock_caption">Työpöydän kello</string>
+    <string name="dialog_button_ok">OK</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="done">Valmis</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="error">Hälytystä ei voi lisätä</string>
+    <string name="error_title">Tietokantavirhe</string>
+    <string name="every_day">Joka päivä</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="every_weekday">"Arkisin (ma\u2013pe)"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="fit_screen_menu_item">Sovita näyttöön</string>
+    <string name="full_screen_menu_item">Koko näyttö</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/googleplay_strings.xml -->
+    <eat-comment/>
+    <string name="googleplay_description_app">Olit sitten Taiwanin Taipeissa tai Marokon Marrakechissa, HTC-kello voi tarkistaa kellonajan nykyisessä sijainnissasi, kotona ja kaupungeissa ympäri maailman. Sen mukautettavat hälytykset, sekuntikello ja ajastin tarjoavat ajanhallinnan tehon taskuusikin. Aseta niin monta hälytystä kuin haluat, muuta torkun pituutta, valitse hälytysääni ja aseta hälytysääni kuulumaan vaikka silloinkin, kun puhelin on äänettömällä. HTC-kellon sekuntikello on loistava kierrosten mittaamiseen harjoitellessa ja ajastin sopii ruoanlaittoon tai vaikka televisioajan tarkkailuun.</string>
+    <string name="googleplay_description_legal">[googleplay_description_legal_common_1]</string>
+    <string name="googleplay_description_short">Seuraa aikaa HTC:n ajastimella, hälytyksellä, sekunti- ja maailmankellolla.</string>
+    <string name="googleplay_description_supportingScope"/>
+    <string name="googleplay_title">HTC-kello</string>
+    <string name="googleplay_whatsnew">- Hälytykset voimistuvat asteittain\n- Virheenkorjauksia ja suorituskyvyn parannuksia</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="home_settings">Valitse oma aikavyöhyke</string>
+    <string name="hours"><ns1:g id="hours">%s</ns1:g> tuntia</string>
+    <string name="htc_private_app_clock">Kello</string>
+    <string name="internal_memory_low">Puhelimessasi on vähän tallennustilaa. Vapauta tallennustilaa, ennen kuin käytät tätä sovellusta.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="label_day">Päivä</string>
+    <string name="label_hour">Tunti</string>
+    <string name="label_minute">Minuutti</string>
+    <string name="label_month">Kuukausi</string>
+    <string name="label_second">Sekunti</string>
+    <string name="label_year">Vuosi</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="lap">Kierros</string>
+    <string name="lap_error">Kierrosta ei tallennettu</string>
+    <string name="lap_id">Kierros #</string>
+    <string name="lap_time">Tämä krs</string>
+    <string name="lap_title">Kierros</string>
+    <string name="lap_total_time">Yhteensä</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="license_dialog_content">Eräät tässä puhelimessa käytetyt kuvakkeet ovat alun perin Googlen suunnittelemat ja HTC on muokannut niitä <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons License Nimeä 4.0</a>.</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="loading_city">Kaupunkiluetteloa ladataan...</string>
+    <string name="location_dialog_msg">Saadaksesi paikallisen sään, muuta sijaintiasetuksia akun säästö - tai korkea tarkkuus -tilaan.</string>
+    <string name="location_dialog_title">Paikannuspalvelut eivät ole käytössä</string>
+    <string name="location_enable">Saadaksesi näkyviin paikallisen sään käynnistä sijaintipalvelu napauttamalla tästä.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="location_unavailable">Sijainti ei käytettävissä</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="lockscreen_hint_dismiss">Vedä alas ohittaaksesi</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="ls_doubletap_drag">kaksoisnapauta ja vedä asettaaksesi</string>
+    <string name="ls_edit_number_before_calling">Muokkaa numeroa ennen soittamista</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="ls_no_weather_data_available">Säätietoja ei saatavilla</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="ls_open_in_map">Avaa kartalla</string>
+    <string name="ls_tablet_storage_error">Virhe tabletti-tietokoneen tallennustilassa. Käynnistä laite uudelleen tai alusta tallennustila.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="masthead_st_am">AM</string>
+    <string name="masthead_st_auto_sync_off">Automaattinen synkronointi on pois päältä. Napauta katsoaksesi sään.</string>
+    <string name="masthead_st_current_location">Nykyinen sijainti</string>
+    <string name="masthead_st_device_only_off">Muuta sijaintipalvelutilaa saadaksesi sään</string>
+    <string name="masthead_st_location_service_off">Kytke sijaintipalvelut päälle saadaksesi säätietoja</string>
+    <string name="masthead_st_pm">PM</string>
+    <string name="masthead_st_weather_unavailable">Sää ei käytettävissä</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="menu_crop">Rajaa</string>
+    <string name="menu_delete">Poista</string>
+    <string name="menu_properties">Tiedot</string>
+    <string name="menu_protect_info">Suojaustiedot</string>
+    <string name="menu_save_to_my_favorite">Aseta suosikiksi</string>
+    <string name="menu_send_photo_link_by_email">Jaa valokuvalinkki</string>
+    <string name="menu_set_as">Aseta</string>
+    <string name="menu_settings">Asetukset</string>
+    <string name="menu_share">Jaa</string>
+    <string name="menu_show_on_map">Näytä kartalla</string>
+    <string name="menu_slideshow">Diaesitys</string>
+    <string name="menu_view_full">Näytä</string>
+    <string name="menu_view_video">Toista</string>
+    <string name="meun_rotate">Kierrä</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="minutes">"<ns1:g id="minutes">%s</ns1:g> minuuttia"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="monthly">Kuukausittain</string>
+    <string name="monthly_on_day_count">\"Kuukausittain (joka <ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g>)\"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="nextAlarm">Seuraava hälytys: <ns1:g id="next_alarm_time">%s</ns1:g></string>
+    <string name="night_clock">@string/desk_clock_caption</string>
+    <string name="nn_alarm">Hälytys</string>
+    <string name="nn_description">Kuvaus</string>
+    <string name="nn_music">Musiikki</string>
+    <string name="nn_ringtone">Soittoääni</string>
+    <string name="nn_settings">Asetukset</string>
+    <string name="nn_tips_help">Vihjeitä ja Ohjeita</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">Tuntematon virhe</string>
+    <string name="no">Ei</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="pause">Keskeytä</string>
+    <string name="phone_type_home">Koti</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="pm">PM</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="query_fail">Virheitä tietokantaa käytettäessä</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="quickselection_share">Jaa</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="rearrange_city_caption">Muokkaa listaa</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="refresh">Päivitä</string>
+    <string name="reminderview_common_unlock_hint_icon">Vedä kuvake ylös</string>
+    <string name="reminderview_common_unlock_hint_up">Avaa lukitus vetämällä ylös</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="reset">Nollaa</string>
+    <string name="resume">Palauta</string>
+    <string name="ringtone_title">Soittoäänet</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string msgid="146198913615257606" name="search_menu_title">"Haku"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="select_alert">Valitse hälytysääni</string>
+    <string name="select_ringtone">Valitse hälytysääni</string>
+    <string name="set_alarm_caption">Aseta hälytys</string>
+    <string name="snooze">Torkkutila</string>
+    <string name="snooze_duration_title">Torkun kesto</string>
+    <string name="sound_selection_title">Valitse hälytysääni paikasta</string>
+    <string name="space">" "</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">Vapauta virkistääksesi</string>
+    <string name="st_action_bar_updating">Päivitetään...</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="st_default">Oletus</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="st_draggable_item">Vedettävissä oleva kohde</string>
+    <string name="st_loading">Ladataan...</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="st_more">Lisää</string>
+    <string name="st_never">Ei koskaan</string>
+    <string name="st_off">Pois päältä</string>
+    <string name="st_on">Käytössä</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="st_pull_down_refresh">Virkistä vetämällä alas</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="st_silent">Äänetön</string>
+    <string name="st_storage_full">Tallennustila täynnä</string>
+    <string name="start">Käynnistä</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="stop">Pysäytä</string>
+    <string name="stopwatch_caption">Sekuntikello</string>
+    <string name="storage_full_description">Sinulla ei ole tarpeeksi vapaata tilaa jäljellä puhelimesi tallennustilassa. Poista jotain sisältöä tai sovelluksia. Napauta alla \"Asetukset\" hallitaksesi sovelluksiasi.</string>
+    <string name="subminute">"alle 1 minuutti"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="tab_remove_dialog_message">Jäljellä on vain yksi välilehti. Voit lisätä tähän sovellukseen lisää välilehtiä valitsemalla valikossa Muokkaa välilehtiä/suodattimia.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="time_up">Aika loppui!</string>
+    <string name="timer_caption">Ajastin</string>
+    <string name="timer_reminder_tile_setting">Asetukset</string>
+    <string name="timer_reminder_tile_timer_up">Aika on päättynyt</string>
+    <string name="tm_10_minutes">10 minuuttia</string>
+    <string name="tm_1_day">1 päivä</string>
+    <string name="tm_1_hour">1 tunti</string>
+    <string name="tm_1_minute">1 minuutti</string>
+    <string name="tm_30_minutes">30 minuuttia</string>
+    <string name="tm_am">AM</string>
+    <string name="tm_current">Nykyinen</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="tm_daily">\"Päivittäin\"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="tm_fri">pe</string>
+    <string name="tm_mon">ma</string>
+    <string name="tm_pm">PM</string>
+    <string name="tm_sat">la</string>
+    <string name="tm_sun">su</string>
+    <string name="tm_thu">to</string>
+    <string name="tm_today">Tänään</string>
+    <string name="tm_tomorrow">Huomenna</string>
+    <string name="tm_tue">ti</string>
+    <string name="tm_wed">ke</string>
+    <string name="tm_yesterday">Eilen</string>
+    <string name="total_title">Yhteensä</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">Välilehteä ei voida poistaa</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="va_add">Lisää</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="va_back">Edellinen</string>
+    <string name="va_call">Soita</string>
+    <string name="va_cancel">Peruuta</string>
+    <string name="va_clear">Tyhjennä</string>
+    <string name="va_close">Sulje</string>
+    <string name="va_copy">Kopioi</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="va_deselect_all">Poista valinnat</string>
+    <string name="va_dismiss">Hylkää</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="va_download">Lataa</string>
+    <string name="va_downloading">Ladataan</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="va_edit">Muokkaa</string>
+    <string name="va_edit_tabs">Muokkaa välilehtiä</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="va_finish">Valmis</string>
+    <string name="va_hide">Piilota</string>
+    <string name="va_move_above">Siirrä yläpuolelle</string>
+    <string name="va_move_below">Siirrä alapuolelle</string>
+    <string name="va_next">Seuraava</string>
+    <string name="va_ok">OK</string>
+    <string name="va_open">Avaa</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="va_rearrange">Järjestä uudelleen</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="va_reset">Palauta</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="va_select_all">Valitse kaikki</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="va_send_mail">Lähetä sähköposti</string>
+    <string name="va_send_message">Lähetä viesti</string>
+    <string name="va_show_all">Näytä kaikki</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="volume_button_setting_summary">Valitse, mitä äänenvoimakkuuspainikkeet tekevät, kun niitä painetaan hälytyksen aikana.</string>
+    <string name="volume_button_setting_title">Äänenvoimakkuuspainikevalinnat</string>
+    <string name="weather_high_indicator">Y:</string>
+    <string name="weather_low_indicator">A:</string>
+    <string name="world_clock_caption">Maailmankello</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="yearly_plain">Vuosittain</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="yes">Kyllä</string>
+</resources>

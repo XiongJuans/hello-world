@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values-et/strings.xml -->
+    <eat-comment/>
+    <string name="location_unavailable">Asukoht pole saadaval</string>
+    <string name="masthead_st_am">AM</string>
+    <string name="masthead_st_auto_sync_off">Automaatne sünkroonimine on välja lülitatud. Toksake ilmateabe kuvamiseks.</string>
+    <string name="masthead_st_current_location">Praegune asukoht</string>
+    <string name="masthead_st_device_only_off">Ilmateabe hankimiseks muutke asukoharežiimi</string>
+    <string name="masthead_st_location_service_off">Ilmateabe saamiseks lülitage asukohateenused sisse</string>
+    <string name="masthead_st_pm">PM</string>
+    <string name="masthead_st_weather_unavailable">Ilmateade pole saadaval</string>
+</resources>

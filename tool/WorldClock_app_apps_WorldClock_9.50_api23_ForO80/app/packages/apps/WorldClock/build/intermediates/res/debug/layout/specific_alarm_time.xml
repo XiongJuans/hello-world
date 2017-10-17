@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:htc="http://schemas.android.com/apk/res/com.htc"
+    android:layout_width="fill_parent" 
+    android:layout_height="fill_parent"
+    android:orientation="horizontal" 
+    android:gravity="center_vertical">
+
+    <include layout="@layout/specific_digital_clock_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/digital_clock_height"
+        android:layout_marginStart="@dimen/digital_margin_left"
+        android:layout_marginEnd="@dimen/digital_margin_right"
+    />
+
+    <LinearLayout android:id="@+id/alarm_time_description_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:layout_weight="1">
+        <TextView android:id="@+id/description"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:singleLine="true"
+            style="@style/common_style_list_primary_m"/>
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <LinearLayout android:id="@+id/days_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <TextView android:id="@+id/sun"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/common_dimen_m2"
+                    style="@style/fixed_world_clock_10"/>
+                <TextView android:id="@+id/mon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/common_dimen_m2"
+                    style="@style/fixed_world_clock_10"/>
+                <TextView android:id="@+id/tue"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/common_dimen_m2"
+                    style="@style/fixed_world_clock_10"/>
+                <TextView android:id="@+id/wed"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/common_dimen_m2"
+                    style="@style/fixed_world_clock_10"/>
+                <TextView android:id="@+id/thu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/common_dimen_m2"
+                    style="@style/fixed_world_clock_10"/>
+                <TextView android:id="@+id/fri"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/common_dimen_m2"
+                    style="@style/fixed_world_clock_10"/>
+                <TextView android:id="@+id/sat"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    style="@style/fixed_world_clock_10"/>	
+            </LinearLayout>
+            <TextView android:id="@+id/skip_holiday"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/fixed_world_clock_10"/> 
+        </RelativeLayout>
+    </LinearLayout>
+
+    <ImageView 
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/alarm_divider_height"
+        android:background="@drawable/common_list_divider"
+        android:layout_marginLeft="@dimen/common_dimen_m2"/>
+
+    <com.htc.android.worldclock.aiservice.AiHtcDeleteButton
+        android:id="@+id/function_delete"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" 
+        android:paddingLeft="@dimen/increase_touch_area"
+        android:paddingRight="@dimen/increase_touch_area"
+        android:paddingTop="@dimen/increase_touch_area"
+        android:paddingBottom="@dimen/increase_touch_area"
+        android:focusable="false" />
+    <CheckBox
+        android:id="@+id/function_select"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/alarm_time_checkbox_margin"
+        android:layout_marginRight="@dimen/alarm_time_checkbox_margin"
+        android:paddingTop="@dimen/increase_touch_area"
+        android:paddingBottom="@dimen/increase_touch_area"
+        android:focusable="false" />
+</LinearLayout>
+<!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/layout/specific_alarm_time.xml -->

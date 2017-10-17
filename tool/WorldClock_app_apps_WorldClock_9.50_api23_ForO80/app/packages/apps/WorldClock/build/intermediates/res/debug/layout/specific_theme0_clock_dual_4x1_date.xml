@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- AM/PM -->
+    <TextView
+        android:id="@+id/digital_am_pm"
+        style="@style/custom_fixed_masthead_13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_m"
+        android:layout_marginTop="@dimen/theme_dual_ampm_margin_top"
+        android:paddingRight="@dimen/theme_italic_padding"
+        android:layout_toRightOf="@+id/digital_minute_units"
+        android:letterSpacing="0.15"
+        android:ellipsize="marquee"
+        android:includeFontPadding="false"
+        android:singleLine="true" />
+
+    <TextView
+        android:id="@+id/week_date"
+        style="@style/custom_fixed_masthead_13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_m"
+        android:layout_marginTop="@dimen/theme_dual_date_margin_top"
+        android:paddingRight="@dimen/theme_italic_padding"
+        android:layout_toRightOf="@+id/digital_minute_units"
+        android:letterSpacing="0.15"
+        android:ellipsize="marquee"
+        android:includeFontPadding="false"
+        android:singleLine="true" />
+</merge><!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/layout/specific_theme0_clock_dual_4x1_date.xml --><!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/layout/specific_theme0_clock_dual_4x1_date.xml -->

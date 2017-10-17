@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-bg/strings.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>Малък</item><!--Small-->
+        <item>Среден</item><!--Medium-->
+        <item>Голям</item><!--Large-->
+        <item>Свръхголям</item><!--Extra large-->
+        <item>Огромен</item><!--Huge-->
+    </string-array>
+    <string-array name="weeklayout_secondary_text">
+        <item>Нд</item><!--SU-->
+        <item>Пн</item><!--M-->
+        <item>Вт</item><!--TU-->
+        <item>Ср</item><!--W-->
+        <item>Чт</item><!--TH-->
+        <item>Пт</item><!--F-->
+        <item>Сб</item><!--SA-->
+    </string-array>
+    <string name="accessibility_tap_action">Двойно натискане за действие</string>
+    <string name="add_comments">Добавяне на коментар</string>
+    <string name="am">AM</string>
+    <string name="button_hide_caption">Скриване на надпис</string>
+    <string name="button_hide_description">Скриване на описание</string>
+    <string name="button_show_caption">Показване на надпис</string>
+    <string name="button_show_description">Показване на описание</string>
+    <string name="carousel_title">Редактиране на раздели</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-bg/htc_strings.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">Търсене на хора</string>
+    <string name="common_string_open_contact">Отваряне на контакт</string>
+    <string name="common_string_save_to_existing_contact">Записване в съществуващ контакт</string>
+    <string name="common_string_save_to_people">Записване в „Хора“</string>
+    <string name="common_string_share_title">Споделяне чрез</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-bg/strings.xml -->
+    <eat-comment/>
+    <string name="done">Готово</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-bg/htc_strings.xml -->
+    <eat-comment/>
+    <string name="label_day">Ден</string>
+    <string name="label_hour">Час</string>
+    <string name="label_minute">Минута</string>
+    <string name="label_month">Месец</string>
+    <string name="label_second">Секунда</string>
+    <string name="label_year">Година</string>
+    <string name="license_dialog_content">Някои икони на този телефон, първоначално проектирани за Google, са променени от HTC по силата на <a href="https://creativecommons.org/licenses/by/4.0/legalcode">договорите Криейтив Комънс BY4.0</a>.</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <string name="ls_doubletap_drag">натиснете два пъти и плъзнете за настройване</string>
+    <string name="ls_edit_number_before_calling">Редактиране на номера преди набиране</string>
+    <string name="ls_open_in_map">Отвори в карта</string>
+    <string name="ls_tablet_storage_error">Възникна грешка в паметта на вашия таблет. Моля, рестартирайте вашето устройство или форматирайте паметта.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-bg/strings.xml -->
+    <eat-comment/>
+    <string name="menu_crop">Изрязване</string>
+    <string name="menu_delete">Изтриване</string>
+    <string name="menu_properties">Подробни данни</string>
+    <string name="menu_protect_info">Информация за защитата</string>
+    <string name="menu_save_to_my_favorite">Задаване като предпочитан</string>
+    <string name="menu_send_photo_link_by_email">Споделяне на връзки към снимки</string>
+    <string name="menu_set_as">Задаване като</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="menu_share">Споделяне</string>
+    <string name="menu_show_on_map">Показване на картата</string>
+    <string name="menu_slideshow">Слайдшоу</string>
+    <string name="menu_view_full">Изглед</string>
+    <string name="menu_view_video">Изпълнение</string>
+    <string name="meun_rotate">Завъртане</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-bg/htc_strings.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">Непозната грешка</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-bg/strings.xml -->
+    <eat-comment/>
+    <string name="no">Не</string>
+    <string name="pm">PM</string>
+    <string name="quickselection_share">Споделяне чрез</string>
+    <string name="refresh">Обновяване</string>
+    <string name="reminderview_common_unlock_hint_icon">Дръпнете иконата нагоре</string>
+    <string name="reminderview_common_unlock_hint_up">Дръпнете за отключване</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-bg/htc_strings.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">Освободете за обновяване</string>
+    <string name="st_action_bar_updating">Актуализиране...</string>
+    <string name="st_draggable_item">Елемент за плъзгане</string>
+    <string name="st_loading">Зареждане...</string>
+    <string name="st_more">Още</string>
+    <string name="st_pull_down_refresh">Дръпнете надолу за обновяване</string>
+    <string name="tab_remove_dialog_message">Имате останал един раздел. За да добавите още раздели за това приложение, изберете Редактиране на раздели/Филтри от менюто.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-bg/strings.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">Този раздел не може да се премахне</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-bg/htc_strings.xml -->
+    <eat-comment/>
+    <string name="va_back">Назад</string>
+    <string name="va_call">Повикване</string>
+    <string name="va_cancel">Отказ</string>
+    <string name="va_clear">Изчистване</string>
+    <string name="va_close">Затвори</string>
+    <string name="va_copy">Копиране</string>
+    <string name="va_download">Изтегляне</string>
+    <string name="va_downloading">Изтегляне</string>
+    <string name="va_finish">Край</string>
+    <string name="va_hide">Скриване</string>
+    <string name="va_move_above">Премести горе</string>
+    <string name="va_move_below">Премести долу</string>
+    <string name="va_next">Напред</string>
+    <string name="va_ok">OK</string>
+    <string name="va_open">Отваряне</string>
+    <string name="va_reset">Начално състояние</string>
+    <string name="va_send_mail">Изпращане на имейл</string>
+    <string name="va_send_message">Изпращане на съобщение</string>
+    <string name="va_show_all">Показване на всички</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-bg/strings.xml -->
+    <eat-comment/>
+    <string name="yes">Да</string>
+</resources>

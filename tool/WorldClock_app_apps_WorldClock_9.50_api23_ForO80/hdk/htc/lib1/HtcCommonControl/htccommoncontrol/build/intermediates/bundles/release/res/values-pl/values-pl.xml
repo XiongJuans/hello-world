@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-pl/strings.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>Mała</item><!--Small-->
+        <item>Średnia</item><!--Medium-->
+        <item>Duża</item><!--Large-->
+        <item>Niezwykle duża</item><!--Extra large-->
+        <item>Bardzo duża</item><!--Huge-->
+    </string-array>
+    <string-array name="weeklayout_secondary_text">
+        <item>N</item><!--SU-->
+        <item>P</item><!--M-->
+        <item>W</item><!--TU-->
+        <item>Ś</item><!--W-->
+        <item>C</item><!--TH-->
+        <item>P</item><!--F-->
+        <item>S</item><!--SA-->
+    </string-array>
+    <string name="accessibility_tap_action">Dotknij dwukrotnie, aby rozpocząć czynność</string>
+    <string name="add_comments">Dodaj komentarz</string>
+    <string name="am">AM</string>
+    <string name="button_hide_caption">Ukryj podpis</string>
+    <string name="button_hide_description">Ukryj opis</string>
+    <string name="button_show_caption">Pokaż podpis</string>
+    <string name="button_show_description">Pokaż opis</string>
+    <string name="carousel_title">Edytuj karty</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-pl/htc_strings.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">Znajdź kontakt</string>
+    <string name="common_string_open_contact">Otwórz kontakt</string>
+    <string name="common_string_save_to_existing_contact">Zapisz do istniejącego kontaktu</string>
+    <string name="common_string_save_to_people">Zapisz w kontaktach</string>
+    <string name="common_string_share_title">Udostępnij</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-pl/strings.xml -->
+    <eat-comment/>
+    <string name="done">Gotowe</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-pl/htc_strings.xml -->
+    <eat-comment/>
+    <string name="label_day">Dzień</string>
+    <string name="label_hour">Godzina</string>
+    <string name="label_minute">Minuta</string>
+    <string name="label_month">Miesiąc</string>
+    <string name="label_second">Sekunda</string>
+    <string name="label_year">Rok</string>
+    <string name="license_dialog_content">Niektóre użyte w tym telefonie ikony zostały zaprojektowane przez firmę Google i zmodyfikowane przez firmę HTC zgodnie z licencją <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons License Uznanie autorstwa 4.0</a>.</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <string name="ls_doubletap_drag">stuknij dwukrotnie i przeciągnij, aby dostosować</string>
+    <string name="ls_edit_number_before_calling">Edytuj numer przed wykonaniem połączenia</string>
+    <string name="ls_open_in_map">Otwórz na mapie</string>
+    <string name="ls_tablet_storage_error">W pamięci tabletu wystąpił błąd. Uruchom urządzenie ponownie lub sformatuj pamięć.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-pl/strings.xml -->
+    <eat-comment/>
+    <string name="menu_crop">Przytnij</string>
+    <string name="menu_delete">Usuń</string>
+    <string name="menu_properties">Szczegóły</string>
+    <string name="menu_protect_info">Informacje o ochronie</string>
+    <string name="menu_save_to_my_favorite">Ustaw jako ulubiony</string>
+    <string name="menu_send_photo_link_by_email">Udostępnij łącze do zdjęcia</string>
+    <string name="menu_set_as">Ustaw jako</string>
+    <string name="menu_settings">Ustawienia</string>
+    <string name="menu_share">Udostępnij</string>
+    <string name="menu_show_on_map">Wyświetl na mapie</string>
+    <string name="menu_slideshow">Pokaz slajdów</string>
+    <string name="menu_view_full">Widok</string>
+    <string name="menu_view_video">Odtwórz</string>
+    <string name="meun_rotate">Obróć</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-pl/htc_strings.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">"Nieznany błąd"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-pl/strings.xml -->
+    <eat-comment/>
+    <string name="no">Nie</string>
+    <string name="pm">PM</string>
+    <string name="quickselection_share">Udostępnij</string>
+    <string name="refresh">Odśwież</string>
+    <string name="reminderview_common_unlock_hint_icon">Pociągnij ikonę w górę</string>
+    <string name="reminderview_common_unlock_hint_up">Pociągnij w górę, aby odblokować</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-pl/htc_strings.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">Zwolnij, aby odświeżyć</string>
+    <string name="st_action_bar_updating">Aktualizowanie...</string>
+    <string name="st_draggable_item">Element, który można przeciągnąć</string>
+    <string name="st_loading">Ładowanie...</string>
+    <string name="st_more">Więcej</string>
+    <string name="st_pull_down_refresh">Przesuń w dół, aby odświeżyć</string>
+    <string name="tab_remove_dialog_message">Pozostała jedna karta. Aby dodać więcej kart dla tej aplikacji, wybierz w menu opcję Edytuj karty/Filtry.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-pl/strings.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">Nie można usunąć tej karty</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-pl/htc_strings.xml -->
+    <eat-comment/>
+    <string name="va_back">Wstecz</string>
+    <string name="va_call">Zadzwoń</string>
+    <string name="va_cancel">Anuluj</string>
+    <string name="va_clear">"Wyczyść"</string>
+    <string name="va_close">Zamknij</string>
+    <string name="va_copy">Kopiuj</string>
+    <string name="va_download">Pobierz</string>
+    <string name="va_downloading">Pobieranie</string>
+    <string name="va_finish">Zakończ</string>
+    <string name="va_hide">"Ukryj"</string>
+    <string name="va_move_above">Przesuń do góry</string>
+    <string name="va_move_below">Przesuń w dół</string>
+    <string name="va_next">Dalej</string>
+    <string name="va_ok">OK</string>
+    <string name="va_open">Otwórz</string>
+    <string name="va_reset">Resetuj</string>
+    <string name="va_send_mail">Wyślij wiadomość e-mail</string>
+    <string name="va_send_message">Wyślij wiadomość</string>
+    <string name="va_show_all">Pokaż wszystkie</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-pl/strings.xml -->
+    <eat-comment/>
+    <string name="yes">Tak</string>
+</resources>

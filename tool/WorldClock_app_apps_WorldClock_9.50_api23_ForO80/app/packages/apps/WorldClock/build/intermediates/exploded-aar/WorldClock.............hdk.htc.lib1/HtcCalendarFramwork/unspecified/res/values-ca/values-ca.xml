@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-ca/arrays.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>cada primer divendres</item><!--on every first Friday-->
+        <item>cada segon divendres</item><!--on every second Friday-->
+        <item>cada tercer divendres</item><!--on every third Friday-->
+        <item>cada quart divendres</item><!--on every fourth Friday-->
+        <item>cada darrer divendres</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>cada primer dilluns</item><!--on every first Monday-->
+        <item>cada segon dilluns</item><!--on every second Monday-->
+        <item>cada tercer dilluns</item><!--on every third Monday-->
+        <item>cada quart dilluns</item><!--on every fourth Monday-->
+        <item>cada darrer dilluns</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>cada primer dissabte</item><!--on every first Saturday-->
+        <item>cada segon dissabte</item><!--on every second Saturday-->
+        <item>cada tercer dissabte</item><!--on every third Saturday-->
+        <item>cada quart dissabte</item><!--on every fourth Saturday-->
+        <item>cada darrer dissabte</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>cada primer diumenge</item><!--on every first Sunday-->
+        <item>cada segon diumenge</item><!--on every second Sunday-->
+        <item>cada tercer diumenge</item><!--on every third Sunday-->
+        <item>cada quart diumenge</item><!--on every fourth Sunday-->
+        <item>cada darrer diumenge</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>cada primer dijous</item><!--on every first Thursday-->
+        <item>cada segon dijous</item><!--on every second Thursday-->
+        <item>cada tercer dijous</item><!--on every third Thursday-->
+        <item>cada quart dijous</item><!--on every fourth Thursday-->
+        <item>cada darrer dijous</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>cada primer dimarts</item><!--on every first Tuesday-->
+        <item>cada segon dimarts</item><!--on every second Tuesday-->
+        <item>cada tercer dimarts</item><!--on every third Tuesday-->
+        <item>cada quart dimarts</item><!--on every fourth Tuesday-->
+        <item>cada darrer dimarts</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>cada primer dimecres</item><!--on every first Wednesday-->
+        <item>cada segon dimecres</item><!--on every second Wednesday-->
+        <item>cada tercer dimecres</item><!--on every third Wednesday-->
+        <item>cada quart dimecres</item><!--on every fourth Wednesday-->
+        <item>cada darrer dimecres</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-ca/strings.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">una vegada</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> vegades</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Cada <ns1:g id="count">%d</ns1:g> dia</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Cada <ns1:g id="count">%d</ns1:g> dies</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Cada <ns1:g id="count">%d</ns1:g> mes</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Cada <ns1:g id="count">%d</ns1:g> mesos</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Cada <ns1:g id="count">%d</ns1:g> setmana</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Cada <ns1:g id="count">%d</ns1:g> setmanes</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Cada <ns1:g id="count">%d</ns1:g> any</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Cada <ns1:g id="count">%d</ns1:g> anys</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">Setmanalment al <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other">Cada <ns1:g id="number">%1$d</ns1:g> setmanes el <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <string name="every_weekday">"Entre setmana (Dl.-Dv.)"</string>
+    <string name="monthly">"Mensualment"</string>
+    <string name="monthly_on_day_count">"Mensualment (cada <ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g>)"</string>
+    <string name="tm_daily">"Cada dia"</string>
+    <string name="yearly_plain">Anualment</string>
+</resources>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-lt/strings.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>Mažas</item><!--Small-->
+        <item>Vidutinis</item><!--Medium-->
+        <item>Didelis</item><!--Large-->
+        <item>Labai didelis</item><!--Extra large-->
+        <item>Didžiulis</item><!--Huge-->
+    </string-array>
+    <string-array name="weeklayout_secondary_text">
+        <item>Sk</item><!--SU-->
+        <item>Pr</item><!--M-->
+        <item>An</item><!--TU-->
+        <item>Tr</item><!--W-->
+        <item>Kt</item><!--TH-->
+        <item>Pn</item><!--F-->
+        <item>Št</item><!--SA-->
+    </string-array>
+    <string name="accessibility_tap_action">Dukart bakstelėkite veiksmui</string>
+    <string name="add_comments">Pridėti komentarą</string>
+    <string name="am">AM</string>
+    <string name="button_hide_caption">Slėpti antraštę</string>
+    <string name="button_hide_description">Slėpti aprašymą</string>
+    <string name="button_show_caption">Rodyti antraštę</string>
+    <string name="button_show_description">Rodyti aprašymą</string>
+    <string name="carousel_title">Redaguoti skirtukus</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-lt/htc_strings.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">Ieškoti Žmonėse</string>
+    <string name="common_string_open_contact">Atidaryti kontaktą</string>
+    <string name="common_string_save_to_existing_contact">Įrašyti į esamą kontaktą</string>
+    <string name="common_string_save_to_people">Įrašyti į Žmones</string>
+    <string name="common_string_share_title">Dalintis per</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-lt/strings.xml -->
+    <eat-comment/>
+    <string name="done">Atlikta</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-lt/htc_strings.xml -->
+    <eat-comment/>
+    <string name="label_day">Diena</string>
+    <string name="label_hour">Valanda</string>
+    <string name="label_minute">Minutė</string>
+    <string name="label_month">Mėnuo</string>
+    <string name="label_second">Sekundė</string>
+    <string name="label_year">Metai</string>
+    <string name="license_dialog_content">Kai kurias šiame telefone naudojamas piktogramas iš pradžių sukūrė „Google“, o vėliau modifikavo HTC pagal <a href="https://creativecommons.org/licenses/by/4.0/legalcode">„Creative Commons“ licenciją „Priskyrimas“, 4.0 versiją</a>.</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <string name="ls_doubletap_drag">dukart bakstelėkite ir nuvilkite, kad nustatytumėte</string>
+    <string name="ls_edit_number_before_calling">Redaguoti numerį prieš skambinant</string>
+    <string name="ls_open_in_map">Atidaryti žemėlapyje</string>
+    <string name="ls_tablet_storage_error">Įvyko klaida jūsų planšetinio kompiuterio atmintinėje. Paleiskite savo įrenginį iš naujo arba suformatuokite atmintinę.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-lt/strings.xml -->
+    <eat-comment/>
+    <string name="menu_crop">Apkirpti</string>
+    <string name="menu_delete">Panaikinti</string>
+    <string name="menu_properties">Išsami informacija</string>
+    <string name="menu_protect_info">Apsaugos informacija</string>
+    <string name="menu_save_to_my_favorite">Nustatyti kaip parankinį</string>
+    <string name="menu_send_photo_link_by_email">Dalintis nuotraukos nuoroda</string>
+    <string name="menu_set_as">Nustatyti kaip</string>
+    <string name="menu_settings">Nustatymai</string>
+    <string name="menu_share">Dalintis</string>
+    <string name="menu_show_on_map">Rodyti žemėlapyje</string>
+    <string name="menu_slideshow">Skaidrių demonstravimas</string>
+    <string name="menu_view_full">Peržiūra</string>
+    <string name="menu_view_video">Leisti</string>
+    <string name="meun_rotate">Pasukti</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-lt/htc_strings.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">Nežinoma klaida</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-lt/strings.xml -->
+    <eat-comment/>
+    <string name="no">Ne</string>
+    <string name="pm">PM</string>
+    <string name="quickselection_share">Dalintis per</string>
+    <string name="refresh">Atnaujinti</string>
+    <string name="reminderview_common_unlock_hint_icon">Patraukti piktogramą aukštyn</string>
+    <string name="reminderview_common_unlock_hint_up">Patraukite į viršų, kad atrakintumėte</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-lt/htc_strings.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">Atleiskite, kad atnaujintumėte</string>
+    <string name="st_action_bar_updating">Naujinama...</string>
+    <string name="st_draggable_item">Vilktinas elementas</string>
+    <string name="st_loading">Įkeliama...</string>
+    <string name="st_more">Daugiau</string>
+    <string name="st_pull_down_refresh">Patraukite žemyn, kad atnaujintumėte</string>
+    <string name="tab_remove_dialog_message">Jums liko vienas skirtukas. Norėdami šiai programai įtraukti daugiau skirtukų, meniu pasirinkite Redaguoti skirtukus / filtrus.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-lt/strings.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">Neįmanoma pašalinti šį skirtuką</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-lt/htc_strings.xml -->
+    <eat-comment/>
+    <string name="va_back">Atgal</string>
+    <string name="va_call">Skambinti</string>
+    <string name="va_cancel">Atšaukti</string>
+    <string name="va_clear">Išvalyti</string>
+    <string name="va_close">Uždaryti</string>
+    <string name="va_copy">Kopijuoti</string>
+    <string name="va_download">Atsisiųsti</string>
+    <string name="va_downloading">Atsisiunčiama</string>
+    <string name="va_finish">Baigti</string>
+    <string name="va_hide">Slėpti</string>
+    <string name="va_move_above">Perkelti į viršų</string>
+    <string name="va_move_below">Perkelti į apačią</string>
+    <string name="va_next">Kitas</string>
+    <string name="va_ok">Gerai</string>
+    <string name="va_open">Atidaryti</string>
+    <string name="va_reset">Nustatyti iš naujo</string>
+    <string name="va_send_mail">Siųsti laišką</string>
+    <string name="va_send_message">Siųsti pranešimą</string>
+    <string name="va_show_all">Rodyti visus</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-lt/strings.xml -->
+    <eat-comment/>
+    <string name="yes">Taip</string>
+</resources>

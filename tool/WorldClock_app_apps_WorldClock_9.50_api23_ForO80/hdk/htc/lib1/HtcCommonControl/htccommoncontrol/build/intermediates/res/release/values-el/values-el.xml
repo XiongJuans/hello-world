@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>Μικρό</item><!--Small-->
+        <item>Μεσαίο</item><!--Medium-->
+        <item>Μεγάλο</item><!--Large-->
+        <item>Πολύ μεγάλο μέγεθος</item><!--Extra large-->
+        <item>Τεράστιο</item><!--Huge-->
+    </string-array>
+    <string-array name="weeklayout_secondary_text">
+        <item>Κυ</item><!--SU-->
+        <item>Δ</item><!--M-->
+        <item>Τρ</item><!--TU-->
+        <item>Τε</item><!--W-->
+        <item>Π</item><!--TH-->
+        <item>Π</item><!--F-->
+        <item>Σ</item><!--SA-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Πλοήγηση στην αρχική σελίδα"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Πλοήγηση προς τα επάνω"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Περισσότερες επιλογές"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Τέλος"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Προβολή όλων"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Επιλέξτε κάποια εφαρμογή"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Αναζήτηση…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Διαγραφή ερωτήματος"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Ερώτημα αναζήτησης"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Αναζήτηση"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Υποβολή ερωτήματος"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Φωνητική αναζήτηση"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Κοινή χρήση με"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Κοινή χρήση με %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Σύμπτυξη"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="accessibility_tap_action">Διπλό πάτημα για ενέργεια</string>
+    <string name="add_comments">Προσθήκη σχολίου</string>
+    <string name="am">ΠΜ</string>
+    <string name="button_hide_caption">Απόκρυψη λεζάντας</string>
+    <string name="button_hide_description">Απόκρυψη περιγραφής</string>
+    <string name="button_show_caption">Εμφάνιση λεζάντας</string>
+    <string name="button_show_description">Εμφάνιση περιγραφής</string>
+    <string name="carousel_title">Επεξεργασία καρτελών</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-el/htc_strings.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">Αναζήτηση επαφών</string>
+    <string name="common_string_open_contact">Άνοιγμα επαφής</string>
+    <string name="common_string_save_to_existing_contact">Αποθήκευση σε υπάρχουσα επαφή</string>
+    <string name="common_string_save_to_people">Αποθήκευση σε Επαφές</string>
+    <string name="common_string_share_title">Κοινή χρήση μέσω</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="done">Τέλος</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-el/htc_strings.xml -->
+    <eat-comment/>
+    <string name="label_day">Ημέρα</string>
+    <string name="label_hour">Ώρα</string>
+    <string name="label_minute">Λεπτό</string>
+    <string name="label_month">Αυτό το μήνα</string>
+    <string name="label_second">Δευτερ/πτο.</string>
+    <string name="label_year">Έτος</string>
+    <string name="license_dialog_content">Κάποια από τα εικονίδια που χρησιμοποιούνται σε αυτό το τηλέφωνο σχεδιάστηκαν αρχικά από την Google και τροποποιήθηκαν από την HTC στο πλαίσιο της <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Άδειας Creative Commons Αναφορά Δημιουργού 4.0</a>.</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <string name="ls_doubletap_drag">διπλό πάτημα και μεταφορά για ρύθμιση</string>
+    <string name="ls_edit_number_before_calling">Επεξεργασία αριθμού πριν την κλήση</string>
+    <string name="ls_open_in_map">Άνοιγμα σε χάρτη</string>
+    <string name="ls_tablet_storage_error">Παρουσιάστηκε σφάλμα στον αποθηκευτικό χώρο της ταμπλέτας σας. Επανεκκινήστε τη συσκευή σας ή εκτελέστε διαμόρφωση του αποθηκευτικού χώρου.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="menu_crop">Περικοπή</string>
+    <string name="menu_delete">Διαγραφή</string>
+    <string name="menu_properties">Λεπτομέρειες</string>
+    <string name="menu_protect_info">Πληροφορίες προστασίας</string>
+    <string name="menu_save_to_my_favorite">Ορισμός ως αγαπημένο</string>
+    <string name="menu_send_photo_link_by_email">Κοινή χρήση συνδέσμου φωτογραφιών</string>
+    <string name="menu_set_as">Ορισμός ως</string>
+    <string name="menu_settings">Ρυθμίσεις</string>
+    <string name="menu_share">Κοινόχρηστο</string>
+    <string name="menu_show_on_map">Εμφάνιση στο χάρτη</string>
+    <string name="menu_slideshow">Παρουσίαση</string>
+    <string name="menu_view_full">Προβολή</string>
+    <string name="menu_view_video">Αναπαραγωγή</string>
+    <string name="meun_rotate">Περιστροφή</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-el/htc_strings.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">Άγνωστο σφάλμα</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="no">Όχι</string>
+    <string name="pm">ΜΜ</string>
+    <string name="quickselection_share">Κοινή χρήση μέσω</string>
+    <string name="refresh">Ανανέωση</string>
+    <string name="reminderview_common_unlock_hint_icon">Τραβήξτε το εικονίδιο προς τα πάνω</string>
+    <string name="reminderview_common_unlock_hint_up">Τραβήξτε προς τα πάνω για να ξεκλειδώσετε</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-el/htc_strings.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">Αφήστε για ανανέωση</string>
+    <string name="st_action_bar_updating">Ενημέρωση...</string>
+    <string name="st_draggable_item">Στοιχείο με δυνατότητα μεταφοράς</string>
+    <string name="st_loading">Φόρτωση...</string>
+    <string name="st_more">Περισσότερα</string>
+    <string name="st_pull_down_refresh">Τραβήξτε προς τα κάτω για ανανέωση</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-el/htc_strings.xml -->
+    <eat-comment/>
+    <string name="tab_remove_dialog_message">Σας έμεινε μία καρτέλα. Για να προσθέσετε περισσότερες καρτέλες για αυτήν την εφαρμογή, επιλέξτε Επεξεργασία καρτελών/Φίλτρα στο μενού.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">Αδύνατη η κατάργηση αυτής της ετικέτας</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-el/htc_strings.xml -->
+    <eat-comment/>
+    <string name="va_back">Πίσω</string>
+    <string name="va_call">Κλήση</string>
+    <string name="va_cancel">Ακύρωση</string>
+    <string name="va_clear">Απαλοιφή</string>
+    <string name="va_close">Κλείσιμο</string>
+    <string name="va_copy">Αντιγραφή</string>
+    <string name="va_download">Λήψη</string>
+    <string name="va_downloading">Γίνεται λήψη</string>
+    <string name="va_finish">Τέλος</string>
+    <string name="va_hide">Απόκρυψη</string>
+    <string name="va_move_above">Μετακίνηση προς τα επάνω</string>
+    <string name="va_move_below">Μετακίνηση προς τα κάτω</string>
+    <string name="va_next">Επόμενο</string>
+    <string name="va_ok">ΟΚ</string>
+    <string name="va_open">Άνοιγμα</string>
+    <string name="va_reset">Επαναφορά</string>
+    <string name="va_send_mail">Αποστολή e-mail</string>
+    <string name="va_send_message">Αποστολή μηνύματος</string>
+    <string name="va_show_all">Εμφάνιση όλων</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="yes">Ναι</string>
+</resources>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>Majhen</item><!--Small-->
+        <item>Srednji</item><!--Medium-->
+        <item>Velik</item><!--Large-->
+        <item>Zelo velik</item><!--Extra large-->
+        <item>Ogromen</item><!--Huge-->
+    </string-array>
+    <string-array name="weeklayout_secondary_text">
+        <item>Ne</item><!--SU-->
+        <item>Po</item><!--M-->
+        <item>To</item><!--TU-->
+        <item>Sr</item><!--W-->
+        <item>Če</item><!--TH-->
+        <item>Pe</item><!--F-->
+        <item>So</item><!--SA-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Krmarjenje domov"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Krmarjenje navzgor"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Več možnosti"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Končano"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Pokaži vse"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Izbira aplikacije"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Iskanje …"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Izbris poizvedbe"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Iskalna poizvedba"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Iskanje"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Pošiljanje poizvedbe"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Glasovno iskanje"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Deljenje z"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Deljenje z:"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Strni"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="accessibility_tap_action">Dvakrat tapnite za dejanje</string>
+    <string name="add_comments">Dodaj komentar</string>
+    <string name="am">AM</string>
+    <string name="button_hide_caption">Skrij napis</string>
+    <string name="button_hide_description">Skrij opis</string>
+    <string name="button_show_caption">Pokaži napis</string>
+    <string name="button_show_description">Pokaži opis</string>
+    <string name="carousel_title">Uredi zavihke</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sl/htc_strings.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">Išči ljudi</string>
+    <string name="common_string_open_contact">Odpri stik</string>
+    <string name="common_string_save_to_existing_contact">Shrani v obstoječe stike</string>
+    <string name="common_string_save_to_people">Shrani v mapo Ljudje</string>
+    <string name="common_string_share_title">Pošlji preko</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="done">Končano</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sl/htc_strings.xml -->
+    <eat-comment/>
+    <string name="label_day">Dan</string>
+    <string name="label_hour">Ura</string>
+    <string name="label_minute">Minute</string>
+    <string name="label_month">Mesec</string>
+    <string name="label_second">Sekunde</string>
+    <string name="label_year">Leto</string>
+    <string name="license_dialog_content">Nekatere ikone, uporabljene v tem telefonu, so prvotno oblikovali pri Google, pri HTC-ju pa smo jih spremenili na podlagi <a href="https://creativecommons.org/licenses/by/4.0/legalcode">licence Creative Commons BY4.0</a>.</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <string name="ls_doubletap_drag">dvotapnite in povlecite za prilagoditev</string>
+    <string name="ls_edit_number_before_calling">Pred klicanjem uredi številko</string>
+    <string name="ls_open_in_map">Odpri v zemljevidu</string>
+    <string name="ls_tablet_storage_error">V pomnilniku tabličnega računalnika je prišlo do napake. Znova zaženite napravo ali formatirajte pomnilnik.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="menu_crop">Obrezovanje</string>
+    <string name="menu_delete">Izbriši</string>
+    <string name="menu_properties">Podrobnosti</string>
+    <string name="menu_protect_info">Podatki o zaščiti</string>
+    <string name="menu_save_to_my_favorite">Označi kot priljubljeno</string>
+    <string name="menu_send_photo_link_by_email">Omogoči souporabo povezave do fotografije</string>
+    <string name="menu_set_as">Nastavi kot</string>
+    <string name="menu_settings">Nastavitve</string>
+    <string name="menu_share">Omogoči souporabo</string>
+    <string name="menu_show_on_map">Prikaži na zemljevidu</string>
+    <string name="menu_slideshow">Diaprojekcija</string>
+    <string name="menu_view_full">Prikaz</string>
+    <string name="menu_view_video">Predvajaj</string>
+    <string name="meun_rotate">Zasuk</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sl/htc_strings.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">Neznana napaka</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="no">Ne</string>
+    <string name="pm">PM</string>
+    <string name="quickselection_share">Pošlji preko</string>
+    <string name="refresh">Osveži</string>
+    <string name="reminderview_common_unlock_hint_icon">Ikono povlecite navzgor</string>
+    <string name="reminderview_common_unlock_hint_up">Napravo odklenete tako, da povlečete navzgor</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sl/htc_strings.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">Za osvežitev spustite</string>
+    <string name="st_action_bar_updating">Posodabljam ...</string>
+    <string name="st_draggable_item">Element za vlečenje</string>
+    <string name="st_loading">Prenašam ...</string>
+    <string name="st_more">Več</string>
+    <string name="st_pull_down_refresh">Za osvežitev povlecite navzdol</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sl/htc_strings.xml -->
+    <eat-comment/>
+    <string name="tab_remove_dialog_message">Na voljo imate še en zavihek. Če želite dodati več zavihkov za to aplikacijo, v meniju izberite Uredi zavihke/Filtri.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">Tega zavihka ni bilo mogoče odstraniti</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sl/htc_strings.xml -->
+    <eat-comment/>
+    <string name="va_back">Nazaj</string>
+    <string name="va_call">Klic</string>
+    <string name="va_cancel">Prekliči</string>
+    <string name="va_clear">Počisti</string>
+    <string name="va_close">Zapri</string>
+    <string name="va_copy">Kopiraj</string>
+    <string name="va_download">Prenesi</string>
+    <string name="va_downloading">Prenašanje</string>
+    <string name="va_finish">Končaj</string>
+    <string name="va_hide">Skrij</string>
+    <string name="va_move_above">Pomakni navzgor</string>
+    <string name="va_move_below">Pomakni navzdol</string>
+    <string name="va_next">Naprej</string>
+    <string name="va_ok">V redu</string>
+    <string name="va_open">Odpri</string>
+    <string name="va_reset">Ponastavi</string>
+    <string name="va_send_mail">Pošlji e-poštno sporočilo</string>
+    <string name="va_send_message">Pošlji sporočilo</string>
+    <string name="va_show_all">Pokaži vse</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="yes">Da</string>
+</resources>

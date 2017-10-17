@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-zh-rTW-hdpi/dimen_common_fixed_fontsize.xml -->
+    <eat-comment/>
+    <dimen name="fixed_b_separator_secondary_xs">20px</dimen>
+    <dimen name="fixed_b_toggle_primary_m">24px</dimen>
+    <dimen name="fixed_label_off_m">21px</dimen>
+    <dimen name="fixed_label_on_m">21px</dimen>
+    <dimen name="fixed_list_body_s">29px</dimen>
+    <dimen name="fixed_list_body_xl">46px</dimen>
+    <dimen name="fixed_list_body_xs">24px</dimen>
+    <dimen name="fixed_separator_secondary_xs">22px</dimen>
+    <dimen name="fixed_time_pick_primary_s">53px</dimen>
+    <dimen name="fixed_toggle_primary_m">24px</dimen>
+</resources>
