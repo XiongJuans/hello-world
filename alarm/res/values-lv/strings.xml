@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+<!-- Title of DeskClock -->
+	<string name="desk_clock_caption">Galda pulkstenis</string><!--Desk Clock-->
+
+<!-- Desk Clock -->
+    <string name="night_clock">@string/desk_clock_caption</string>
+
+<!-- Title of WorldClock -->
+	<string name="world_clock_caption">Pasaules pulkstenis</string><!--World Clock-->
+    
+<!-- Sublevel title on WorldClock : Add City-->
+    <string name="add_city">Pievienot pilsētu</string><!--Add city-->
+
+<!-- The hint for smart search and menu item -->
+    <string name="addcity_search">Meklēt pilsētas</string><!--Search cities-->
+
+<!-- Error notification when there is no city found -->
+    <string name="city_not_found">Pilsēta nav atrasta</string><!--CITY NOT FOUND-->
+    
+<!-- Title of Delete City -->
+	<string name="delete_city_caption">Dzēst pilsētas</string><!--Delete cities-->
+    
+<!-- Title of Rearrange City -->
+	<string name="rearrange_city_caption">Rediģēt sarakstu</string><!--Edit list-->
+	
+<!-- Menu item on WorldClock : Home Settings -->
+	<string name="home_settings">Iestatīt māju laika zonu</string><!--Set home time zone-->
+	
+<!-- Menu item on WorldClock : Current Location Time Settings -->
+	<string name="current_settings">Iestatīt datumu un laiku</string><!--Set date &amp; time-->
+	
+<!-- Title of Stopwatch -->
+	<string name="stopwatch_caption">Hronometrs</string><!--Stopwatch-->
+	
+<!-- Button : Start stopwatch -->
+	<string name="start">Sākums</string><!--Start-->
+
+<!-- Button : Pause stopwatch -->
+    <string name="pause">Pauze</string><!--Pause-->
+
+<!-- Button : Resume stopwatch -->
+    <string name="resume">Atsākt</string><!--Resume-->
+    
+<!-- Button : Reset stopwatch -->
+    <string name="reset">Atiestatīt</string><!--Reset-->
+    
+<!-- Button : Stop stopwatch -->
+    <string name="stop">Apturēt</string><!--Stop-->   
+
+<!-- Button : Lap stopwatch -->
+    <string name="lap">Attālums</string><!--Lap-->
+
+<!-- Title of AlarmClock -->
+	<string name="alarm_caption">Modinātāji</string><!--Alarms-->
+	
+<!-- Title of AlarmClock Setting -->
+	<string name="set_alarm_caption">Iestatīt modinātāju</string><!--Set alarm-->
+	
+<!-- Title of Delete Alarm -->
+	<string name="delete_alarm_caption">Dzēst modinātājus</string><!--Delete alarms-->
+	
+<!-- Sublevel title on AlarmClock : Add alarm-->
+    <string name="add_alarm">Pievienot modinātāju</string><!--Add alarm-->
+    
+<!-- Alert message of adding too many alarms -->
+    <string name="add_alarm_error">Sasniegts maksimālais trauksmes signālu skaits.</string><!--Maximum number of alarms reached.-->
+
+<!-- Labels for Set Alarm preference : Ringtone -->
+    <string name="alarm_ringtone">Modinātāja skaņas signāls</string><!--Alarm sound-->
+    
+<!-- Labels for Set Alarm preference : Repeat -->
+    <string name="alarm_repeat">Atkārtot</string><!--Repeat-->
+    
+<!-- Labels for Set Alarm preference : Vibrate -->
+    <string name="alarm_vibrate">Vibrācija</string><!--Vibrate-->
+
+<!-- Alarm Alert screen: this message is shown after an alarm rung unattended for a number of minutes.  It tells the user that the alarm has been silenced.-->
+    <string name="alarm_alert_alert_silenced">Modinātājs apklusināts pēc <xliff:g id="minutes">%d</xliff:g> minūtēm.</string><!--Alarm silenced after <xliff:g id="minutes">%d</xliff:g> minutes.-->
+	
+<!-- Notification when user sets snooze successfully -->
+    <string name="alarm_alert_snooze_set">Snauda uz <xliff:g id="minutes">%d</xliff:g> minūtēm.</string><!--Snoozing for <xliff:g id="minutes">%d</xliff:g> minutes.-->
+    
+<!-- Notification when user sets snooze unsuccessfully -->
+    <string name="alarm_alert_snooze_not_set">Snauda nav iestatīta. Nākamais modinātājs iestatīts uz <xliff:g id="time">%s</xliff:g></string><!--Snooze not set. Next alarm set for <xliff:g id="time">%s</xliff:g>-->
+    
+<!-- Notification when alarm is dismissed -->
+    <string name="alarm_alert_dismissed">Modinātājs atcelts.</string><!--Alarm dismissed.-->
+
+<!-- Text for alarm confirmation toast -->
+    <string name="alarm_set">Šis modinātājs ir iestatīts uz <xliff:g id="time_delta">%s</xliff:g> kopš šī brīža.</string><!--This alarm is set for <xliff:g id="time_delta">%s</xliff:g> from now.-->
+
+<!-- Text for alarm confirmation toast : days -->
+    <string name="days">&quot;<xliff:g id="days">%s</xliff:g> dienas"</string><!--"<xliff:g id="days">%s</xliff:g> days"-->
+    
+<!-- Text for alarm confirmation toast : hours -->
+    <string name="hours"><xliff:g id="hours">%s</xliff:g> stundas</string><!--<xliff:g id="hours">%s</xliff:g> hours-->
+    
+<!-- Text for alarm confirmation toast : and -->
+    <string name="and">&quot; un &quot;</string><!--" and "-->
+    
+<!-- Text for alarm confirmation toast : space-->
+    <string name="space">&quot; &quot;</string><!--" "-->
+    
+<!-- Text for alarm confirmation toast : less than 1 minute-->
+    <string name="subminute">&quot;mazāk nekā 1 minūte&quot;</string><!--"less than 1 minute"-->
+
+<!-- Text for alarm confirmation toast : minutes-->
+    <string name="minutes">&quot;<xliff:g id="minutes">%s</xliff:g> minūtes"</string><!--"<xliff:g id="minutes">%s</xliff:g> minutes"-->
+
+<!-- Notification of next alarm time -->
+    <string name="nextAlarm">Nākamais modinātājs: <xliff:g id="next_alarm_time">%s</xliff:g></string><!--Next alarm: <xliff:g id="next_alarm_time">%s</xliff:g>-->
+
+<!-- Repeat frequency of alarms : every day -->
+    <string name="every_day">Katru dienu</string><!--Every day-->
+
+<!-- Day concat of alarm repeat frequency -->
+    <string name="day_concat">&quot;, &quot;</string><!--", "-->
+
+<!-- Error Dialog when alarm is not set -->
+    <string name="error">Nevar pievienot modinātāju</string><!--Unable to add alarm-->
+
+<!-- Error Dialog of database error -->
+    <string name="dberror">Diemžēl modinātāju nevarēja iestatīt.</string><!--Sorry, the alarm could not be set.-->
+	
+<!-- Days of week -->
+    <string-array name="days_of_week">
+        <item>Pirmdiena</item><!--MONDAY-->
+        <item>Otrdiena</item><!--TUESDAY-->
+        <item>Trešdiena</item><!--WEDNESDAY-->
+        <item>Ceturtdiena</item><!--THURSDAY-->
+        <item>Piektdiena</item><!--FRIDAY-->
+        <item>Sestdiena</item><!--SATURDAY-->
+        <item>Svētdiena</item><!--SUNDAY-->
+    </string-array>
+    
+<!-- Month of year : short -->
+    <string-array name="month_of_year">
+    	<item>Jan</item><!--JAN-->
+    	<item>FEBR.</item><!--FEB-->
+    	<item>Mar</item><!--MAR-->
+    	<item>Apr</item><!--APR-->
+    	<item>Maijs</item><!--MAY-->
+    	<item>Jūn</item><!--JUN-->
+    	<item>Jūl</item><!--JUL-->
+    	<item>Aug</item><!--AUG-->
+    	<item>Sep</item><!--SEP-->
+    	<item>Okt</item><!--OCT-->
+    	<item>Nov</item><!--NOV-->
+    	<item>Dec</item><!--DEC-->
+    </string-array>
+    
+<!-- Days of week for WorldClock -->
+    <string-array name="days_of_week_capital">
+        <item></item>
+        <item>Svē</item><!--SUN-->
+        <item>Pirm</item><!--MON-->
+        <item>Otr</item><!--TUE-->
+        <item>Tre</item><!--WED-->
+        <item>Cet</item><!--THU-->
+        <item>Pie</item><!--FRI-->
+        <item>Sest</item><!--SAT-->
+    </string-array> 
+<!-- Whole Days of week for WorldClock -->
+    <string-array name="days_of_week_whole_capital">
+        <item></item>
+        <item>Svētdiena</item><!--SUNDAY-->
+        <item>Pirmdiena</item><!--MONDAY-->
+        <item>Otrdiena</item><!--TUESDAY-->
+        <item>Trešdiena</item><!--WEDNESDAY-->
+        <item>Ceturtdiena</item><!--THURSDAY-->
+        <item>Piektdiena</item><!--FRIDAY-->
+        <item>Sestdiena</item><!--SATURDAY-->
+    </string-array>
+    
+<!-- Repeat Options -->
+    <string-array name="repeat_option">
+        <item>Pi - Pk</item><!--Mon -/ Fri-->
+        <item>Neatkārtot</item><!--Do not repeat-->
+        <item>Katru dienu</item><!--Every day-->
+        <item>Izlaist brīvdienas</item><!--Skip holidays-->
+        <item>Pielāgot</item><!--Custom-->
+    </string-array>
+    
+<!-- Title of Timer -->
+    <string name="timer_caption">Taimeris</string><!--Timer-->
+    
+<!-- Labels for Set Timer preference : Alert Sound -->
+    <string name="alert_sound">Modinātāja skaņas signāls</string><!--Alarm sound-->
+    
+<!-- Title of alert dialog when timer expires -->
+    <string name="time_up">Laiks celties!</string><!--Time\'s up!-->
+    
+<!-- Application name -->
+	<string name="htc_private_app_clock">Pulkstenis</string><!--Clock-->
+
+<!-- Message for user when loading cities -->
+	<string name="loading_city">Ielādē pilsētu sarakstu...</string><!--Loading city list...-->
+	
+<!-- Error title for full internal storage -->
+	<string name="error_title">Datu bāzes kļūda</string><!--Database error-->
+	
+<!-- Error message for failing querying db -->
+	<string name="query_fail">Piekļūstot datu bāzei, radās kļūdas</string><!--Errors occurred while accessing the database-->
+	
+<!-- Title for selecting alarm ringtone -->
+    <string name="select_ringtone">Atlasīt modinātāja signālu</string><!--Select alarm sound-->
+
+<!-- Title of ringtone picker -->
+    <string name="select_alert">Atlasīt brīdinājuma signālu</string><!--Select alert sound-->
+    
+<!-- Days of week : abbreviate -->
+    <string-array name="days_of_week_abbr">
+        <item>Pi</item><!--M-->
+        <item>Ot</item><!--TU-->
+        <item>Tr</item><!--W-->
+        <item>Ce</item><!--TH-->
+        <item>Pk</item><!--F-->
+        <item>Se</item><!--SA-->
+        <item>Sv</item><!--SU-->
+    </string-array>
+    
+<!-- Title in Google Gadget -->
+    <string name="analog_gadget">Analogais pulkstenis</string><!--Analog Clock-->
+    
+<!-- Error Dialog when city is not added -->
+    <string name="add_city_error_title">Nevar pievienot pilsētu</string><!--Unable to add city-->
+    
+<!-- Error Dialog of adding too many cities -->
+    <string name="add_city_error_msg">Jums var būt ne vairāk par 15 pilsētām. Lai pievienotu jaunu, lūdzu, izdzēsiet esošu pilsētu.</string><!--You can have a maximum of 15 cities. To add a new one, please delete an existing city.-->
+    
+<!-- Alert message of adding duplicate city -->
+    <string name="city_duplicate">Šī pilsēta jau ir sarakstā</string><!--This city is already in the list-->
+
+<!-- start: Merge alarm Clock Settings -->
+<!-- alarm_in_volume_increase_mode -->
+    <string name="alarm_in_volume_increase_mode_title">Liegs trauksmes signāls</string><!--Gentle alarm-->
+    
+<!-- Gradually increase alarm volume -->
+    <string name="alarm_in_volume_increase_mode_summary">Pakāpeniski palielina trauksmes signāla skaļumu</string><!--Gradually increase alarm volume-->
+    
+<!-- Alarm volume -->
+    <string name="alarm_volume_title">Modinātāja skaļums</string><!--Alarm volume-->
+
+<!-- Set the volume of alarms -->
+    <string name="alarm_volume_summary">Iestatīt modinātāja skaļumu</string><!--Set the volume of alarms-->
+
+<!-- Snooze duration -->
+    <string name="snooze_duration_title">Snaudas ilgums</string><!--Snooze duration-->
+
+<!-- Entries listed in the ListPreference when invoking the snooze duration preference. -->
+    <string-array name="snooze_duration_entries">
+      <item>5 minūtes</item><!--5 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_10_minutes</item>
+      <item>15 minūtes</item><!--15 minutes-->
+      <item>20 minūtes</item><!--20 minutes-->
+      <item>25 minūtes</item><!--25 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_30_minutes</item>
+    </string-array>
+    
+<!-- Side button behavior -->
+    <string name="volume_button_setting_title">Skaļuma pogu opcijas</string><!--Volume button options-->
+
+<!-- Entries listed in the setting for the side-button action. -->
+    <string-array name="volume_button_setting_entries">
+      <item>Nedarīt neko</item><!--Do nothing-->
+
+      <item>Atlikt</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+    </string-array>
+
+<!-- Entries listed in the setting for the side-button action. -->
+    <string-array name="sprint_volume_button_setting_entries">
+      <item>Nedarīt neko</item><!--Do nothing-->
+
+      <item>Snaust</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+
+      <item>Klusums</item><!--Silence-->
+    </string-array>
+
+<!-- The summary of the side button setting. -->
+    <string name="volume_button_setting_summary">Izvēlieties, ko darīs skaļuma pogas, kad tās nospiestas trauksmes laikā</string><!--Choose what the volume buttons do when pressed during an alarm-->
+<!-- end: Merge alarm Clock Settings -->
+        
+<!-- The indicator for High temperature -->
+    <string name="weather_high_indicator">A:</string><!--H:-->
+    
+<!-- The indicator for Low temperature -->
+    <string name="weather_low_indicator">Z:</string><!--L:-->   
+
+<!-- Text to display in the notification ticker and label -->
+    <string name="alarm_notify_snooze_label"><xliff:g id="label">%s</xliff:g> (atlikts)</string><!--<xliff:g id="label">%s</xliff:g> (snoozed)-->
+
+<!-- Text to display in the notification when the alarm has been snoozed -->
+    <string name="alarm_notify_snooze_text">Modinātājs iestatīts <xliff:g id="time">%s</xliff:g>. Piesitiet, lai atceltu.</string><!--Alarm set for <xliff:g id="time">%s</xliff:g>. Tap to cancel.-->
+
+<!-- Alarm Off -->
+    <string name="alarm_off">Modinātājs izslēgts</string><!--Alarm Off-->
+<!-- Alarm On -->
+    <string name="alarm_on">Modinātājs ieslēgts</string><!--Alarm On-->
+    
+<!-- Select alarm sound from -->
+    <string name="sound_selection_title">Atlasiet modinātāja skaņu no</string><!--Select alarm sound from-->
+<!-- Ringtones -->
+    <string name="ringtone_title">Zvanu signāli</string><!--Ringtones-->
+
+<!-- Entries listed in the setting for the clock sound selection. -->
+    <string-array name="sound_selection_setting_entries">
+<!-- Alarm sound -->
+      <item>Modinātāja skaņas signāls</item><!--Alarm sound-->
+<!-- Do not translate. Ringtone -->
+      <item>@string/nn_ringtone</item>
+<!-- Do not translate. Music -->
+      <item>@string/nn_music</item>
+    </string-array>
+
+<!-- Labels for Stopwatch : Total-->
+    <string name="total_title">Kopā</string><!--Total-->
+    
+<!-- Labels for Stopwatch : Lap-->
+    <string name="lap_title">Attālums</string><!--Lap-->
+
+<!-- Labels for Stopwatch : Lap ID-->
+    <string name="lap_id">Attālums Nr.</string><!--Lap #-->
+    
+<!-- Labels for Stopwatch : Running total-->
+    <string name="lap_total_time">Kopā</string><!--Total-->
+    
+<!-- Labels for Stopwatch : This lap-->
+    <string name="lap_time">Šis attālums</string><!--This lap-->
+    
+<!-- Error Dialog when lap is not set -->
+    <string name="lap_error">Attālums nav saglabāts</string><!--Lap not saved-->
+    
+<!-- Alert message of adding too many laps -->
+    <string name="add_lap_error">Hronometrs var saglabāt ne vairāk kā 300 attālumus. Pieskarieties Atiestatīt, lai notīrītu attālumu vēsturi.</string><!--Stopwatch can save a maximum of 300 laps. Tap Reset to clear lap history.-->
+    
+<!-- Tips for Weather Location : Location Enable -->
+    <string name="location_enable">Lai redzētu vietējos laikapstākļus, piesitiet šeit, lai ieslēgtu Atrašanās vietu pakalpojumu.</string><!--To see local weather,\ntap here to turn on Location Service.-->
+
+<!-- menu item for Full screen -->
+    <string name="full_screen_menu_item">Pilnekrāns</string><!--Full screen-->
+<!-- menu item for Fit screen -->
+    <string name="fit_screen_menu_item">Pielāgot ekrānu</string><!--Fit screen-->
+<!-- Storage low dialog -->
+    <string name="storage_full_description">Tālruņa atmiņā nepietiek brīvas vietas. Lūdzu, izdzēsiet daļu satura vai dažas lietojumprogrammas. Lai pārvaldītu savas lietojumprogrammas, tālāk piesitiet \&quot;Iestatījumi\&quot;.</string><!--You don\'t have enough free space remaining in your phone\'s storage.Please delete some content or applications.Tap \"Settings\" below to manage your apps.-->
+    
+<!-- for timer -->
+    <string name="timer_reminder_tile_timer_up">Laiks celties</string><!--Time is up-->
+    <string name="timer_reminder_tile_setting">Iestatījumi</string><!--Settings-->
+    
+<!-- below is removed by common string, move to local -->
+    <string-array name="days_of_week_short">
+        <item>@string/tm_mon</item>
+        <item>@string/tm_tue</item>
+        <item>@string/tm_wed</item>
+        <item>@string/tm_thu</item>
+        <item>@string/tm_fri</item>
+        <item>@string/tm_sat</item>
+        <item>@string/tm_sun</item>
+    </string-array>
+    
+    <string name="tm_mon">Pirm</string><!--Mon-->
+    <string name="tm_tue">Otr</string><!--Tue-->
+    <string name="tm_wed">Tre</string><!--Wed-->
+    <string name="tm_thu">Cet</string><!--Thu-->
+    <string name="tm_fri">Pie</string><!--Fri-->
+    <string name="tm_sat">Sest</string><!--Sat-->
+    <string name="tm_sun">Svē</string><!--Sun-->
+    <string name="tm_10_minutes">10 minūtes</string><!--10 minutes-->
+    <string name="tm_30_minutes">30 minūtes</string><!--30 minutes-->
+    <string name="va_dismiss">Izbeigt</string><!--Dismiss-->
+    <string name="nn_ringtone">Zvana signāls</string><!--Ringtone-->
+    <string name="nn_music">Mūzika</string><!--Music-->
+<!-- AccountManager: In loginSettings activity: Label for "Done" button item -->
+    <string name="bt_done_str">Gatavs</string><!--Done-->
+    <string name="tm_am">AM</string><!--AM-->
+    <string name="tm_pm">PM</string><!--PM-->
+<!-- Lable for phone number type: Home number -->
+    <string name="phone_type_home">Mājas</string><!--Home-->
+<!-- Dialog Yes button -->
+    <string name="dialog_button_ok">Labi</string><!--OK-->
+<!-- AccountManager: In loginSettings activity: Label for "Cancel" button item -->
+    <string name="bt_cancel_str">Atcelt</string><!--Cancel-->
+<!-- To snooze a notification -->
+    <string name="snooze">Atlikt</string><!--Snooze-->
+<!-- The default hint on lockscreen to indicate what to do. Drag down the arc are to dismiss current reminder. -->
+    <string name="lockscreen_hint_dismiss">Velciet uz leju, lai noraidītu</string><!--Drag down to dismiss-->
+    <string name="nn_alarm">Modinātājs</string><!--Alarm-->
+    <string name="tm_today">Šodiena</string><!--Today-->
+    <string name="tm_yesterday">Vakardiena</string><!--Yesterday-->
+    <string name="tm_tomorrow">Rītdiena</string><!--Tomorrow-->
+    <string name="tm_current">Pašreizējais</string><!--Current-->
+    <string name="va_rearrange">Pārkārtot</string><!--Rearrange-->
+    <string name="va_edit">Rediģēt</string><!--Edit-->
+    <string name="va_select_all">Atlasīt visu</string><!--Select all-->
+    <string name="va_deselect_all">Noņemt atlasi visiem</string><!--Deselect all-->
+    <string name="nn_description">Apraksts</string><!--Description-->
+    <string name="tm_1_day">1 diena</string><!--1 day-->
+    <string name="tm_1_hour">1 stunda</string><!--1 hour-->
+    <string name="tm_1_minute">1 minūte</string><!--1 minute-->
+    <string name="st_on">Ieslēgts</string><!--On-->
+    <string name="st_off">Izslēgts</string><!--Off-->
+    <string name="st_never">Nekad</string><!--Never-->
+    <string name="va_add">Pievienot</string><!--Add-->
+    <string name="va_edit_tabs">Rediģēt cilnes</string><!--Edit tabs-->
+    <string name="ls_no_weather_data_available">Laikapstākļu dati nav pieejami</string><!--No weather data available-->
+    <string name="st_storage_full">Atmiņa ir pilna</string><!--Storage full-->
+    <string name="nn_settings">Iestatījumi</string><!--Settings-->
+<!-- [Add][Start] add "Tips & Help" by Yami Day's request -->
+    <string name="nn_tips_help">Padomi un palīdzība</string><!--Tips &amp; Help-->
+<!-- [Add][End] add "Tips & Help" by Yami Day's request -->
+<!-- [Gallery OpenSense - GA50 Skyer_Tai] Warning message for low internal memory scenario -->
+    <string name="internal_memory_low">Jūsu tālruņa atmiņa ir gandrīz pilna. Pirms izmantot šo lietojumprogrammu, lūdzu, atbrīvojiet vietu.</string><!--Your phone is low on storage space. Please make some free space before using this application.-->
+    <string name="st_default">Noklusējums</string><!--Default-->
+<!-- [Add][Start] Add for ContentUri, called back from soundPicker(Mail/Calendar/Message) -->
+    <string name="st_silent">Klusums</string><!--Silent-->
+<!-- [Add][End] Add for ContentUri, called back from soundPicker(Mail/Calendar/Message) -->
+    <string name="st_more">Vairāk</string><!--More-->
+
+<!-- Labels for Set Alarm preference : OffAlarm -->
+    <string name="alarm_offalarm">Skanēt, kad tālrunis izslēgts</string><!--Sound when phone off-->
+
+<!-- Dialog title for describe that this app needs additional permission -->
+    
+<!-- Do not translate -->
+	<!--<string name="clock_permission_dialog_title">@string/htc_private_app_clock</string>-->
+    
+<!-- Dialog content for describe that this app needs additional permission -->
+    <string name="clock_permission_dialog_content">Lai pareizi darbotos, šai lietojumprogrammai nepieciešams piekļūt jūsu glabātuvei. Jūs varat pārvaldīt Pulksteņa atļaujas Iestatījumos.</string><!--To work properly, this app needs to access your storage. You can manage Clock\'s permissions in Settings.-->
+<!-- [Button] Dialog button to bring user to Settings page -->
+    <string name="clock_permission_dialog_btn_settings">Iestatījumi</string><!--Settings-->
+<!-- [Button] Dialog button to close dialog -->
+    <string name="clock_permission_dialog_btn_close">Aizvērt</string><!--Close-->
+    
+<!-- location setting -->
+<!-- Dialog title to ask user to turn on network location provider -->
+    <string name="location_dialog_title">Atrašanās vietas pakalpojumi ir izslēgti</string><!--Location services are off-->
+<!-- Dialog content to ask user to turn on network location provider -->
+    <string name="location_dialog_msg">Lai saņemtu vietējos laikapstākļus, nomainiet savas atrašanās vietas iestatījumus uz akumulatora ietaupījumu vai augstas precizitātes režīmu.</string><!--To get local weather, change your location settings to battery saving or high accuracy mode.-->
+</resources>
+
+
+

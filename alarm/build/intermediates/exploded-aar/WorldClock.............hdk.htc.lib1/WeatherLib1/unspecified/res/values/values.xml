@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/WeatherLib1/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="htc_weather_conditions">
+        <!-- weather condition 1 : Sunny -->
+        <item>Sunny</item>
+        <!-- weather condition 2 : Mostly Sunny -->
+        <item>Mostly Sunny</item>
+        <!-- weather condition 3 : Partly Sunny -->
+        <item>Partly Sunny</item>
+        <!-- weather condition 4 : Intermittent Clouds -->
+        <item>Intermittent Clouds</item>
+        <!-- weather condition 5 : Hazy Sunshine -->
+        <item>Hazy Sunshine</item>
+        <!-- weather condition 6 : Mostly Cloudy -->
+        <item>Mostly Cloudy</item>
+        <!-- weather condition 7 : Cloudy -->
+        <item>Cloudy</item>
+        <!-- weather condition 8 : Dreary -->
+        <item>Dreary</item>
+        <!-- weather condition 11 : Fog -->
+        <item>Fog</item>
+        <!-- weather condition 12 : Showers -->
+        <item>Showers</item>
+        <!-- weather condition 13 : Mostly Cloudy with Showers -->
+        <item>Mostly Cloudy with Showers</item>
+        <!-- weather condition 14 : Partly Sunny with Showers -->
+        <item>Partly Sunny with Showers</item>
+        <!-- weather condition 15 : Thunderstorms -->
+        <item>Thunderstorms</item>
+        <!-- weather condition 16 : Mostly Cloudy with Thunder Showers -->
+        <item>Mostly Cloudy with Thunder Showers</item>
+        <!-- weather condition 17 : Partly Sunny with Thunder Showers -->
+        <item>Partly Sunny with Thunder Showers</item>
+        <!-- weather condition 18 : Rain -->
+        <item>Rain</item>
+        <!-- weather condition 19 : Flurries -->
+        <item>Flurries</item>
+        <!-- weather condition 20 : Mostly Cloudy with Flurries -->
+        <item>Mostly Cloudy with Flurries</item>
+        <!-- weather condition 21 : Partly Sunny with Flurries -->
+        <item>Partly Sunny with Flurries</item>
+        <!-- weather condition 22 : Snow -->
+        <item>Snow</item>
+        <!-- weather condition 23 : Mostly Cloudy with Snow -->
+        <item>Mostly Cloudy with Snow</item>
+        <!-- weather condition 24 : Ice -->
+        <item>Ice</item>
+        <!-- weather condition 25 : Sleet -->
+        <item>Sleet</item>
+        <!-- weather condition 26 : Freezing Rain -->
+        <item>Freezing Rain</item>
+        <!-- weather condition 29 : Rain and Snow Mixed -->
+        <item>Rain and Snow Mixed</item>
+        <!-- weather condition 30 : Hot -->
+        <item>Hot</item>
+        <!-- weather condition 31 : Cold -->
+        <item>Cold</item>
+        <!-- weather condition 32 : Windy -->
+        <item>Windy</item>
+        <!-- weather condition 33 : Clear -->
+        <item>Clear</item>
+        <!-- weather condition 34 : Mostly Clear -->
+        <item>Mostly Clear</item>
+        <!-- weather condition 35 : Partly Cloudy -->
+        <item>Partly Cloudy</item>
+        <!-- weather condition 36 : Intermittent Clouds -->
+        <item>Intermittent Clouds</item>
+        <!-- weather condition 37 : Hazy -->
+        <item>Hazy</item>
+        <!-- weather condition 38 : Mostly Cloudy -->
+        <item>Mostly Cloudy</item>
+        <!-- weather condition 39 : Partly Cloudy with Showers -->
+        <item>Partly Cloudy with Showers</item>
+        <!-- weather condition 40 : Mostly Cloudy with Showers -->
+        <item>Mostly Cloudy with Showers</item>
+        <!-- weather condition 41 : Partly Cloudy with Thunder Showers -->
+        <item>Partly Cloudy with Thunder Showers</item>
+        <!-- weather condition 42 : Mostly Cloudy with Thunder Showers -->
+        <item>Mostly Cloudy with Thunder Showers</item>
+        <!-- weather condition 43 : Partly Cloudy with Flurries -->
+        <item>Partly Cloudy with Flurries</item>
+        <!-- weather condition 44 : Mostly Cloudy with Flurries -->
+        <item>Mostly Cloudy with Flurries</item>
+        <!-- _For Huafeng -->
+        <!-- weather condition 51 : -->
+        <item>Thunderstorms with sleet</item>
+        <!-- weather condition 52 : -->
+        <item>Sand</item>
+        <!-- weather condition 53 : -->
+        <item>Dust</item>
+        <!-- weather condition 54 : -->
+        <item>Tornado</item>
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/WeatherLib1/res/values/asset_dummy.xml -->
+    <eat-comment/>
+    <drawable name="weather_vectorgraphic_dark_xl_01">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_02">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_03">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_04">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_05">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_06">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_07">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_08">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_11">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_12">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_13">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_14">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_15">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_16">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_17">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_18">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_19">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_20">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_21">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_22">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_23">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_24">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_25">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_26">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_29">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_30">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_31">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_32">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_33">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_34">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_35">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_36">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_37">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_38">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_39">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_40">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_41">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_42">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_43">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_44">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_51">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_52">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_53">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_dark_xl_54">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_01">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_02">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_03">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_04">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_05">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_06">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_07">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_08">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_11">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_12">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_13">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_14">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_15">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_16">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_17">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_18">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_19">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_20">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_21">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_22">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_23">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_24">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_25">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_26">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_29">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_30">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_31">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_32">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_33">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_34">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_35">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_36">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_37">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_38">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_39">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_40">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_41">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_42">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_43">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_44">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_51">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_52">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_53">@android:color/transparent</drawable>
+    <drawable name="weather_vectorgraphic_light_xl_54">@android:color/transparent</drawable>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/WeatherLib1/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="htc_private_app_weather">Weather Resource</string>
+</resources>

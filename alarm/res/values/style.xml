@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Common_Theme_With_Overlay" parent="style/HtcDeviceDefault.CategoryTwo">
+        <item name="android:overScrollMode">never</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+
+    <style name="Common_Theme" parent="style/HtcDeviceDefault.CategoryTwo">
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+
+    <style name="ThemeDialog" parent="style/HtcDeviceDefault.CategoryTwo">
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    
+    <style name="HtcListItem2LineTextStyle" parent="@style/regular">
+        <item name="android:textColor">@color/light_primaryfont</item>
+    </style>
+    
+    <style name="Common_Preference_Theme" parent="@android:style/Theme.Material.Settings">
+        <item name="android:actionBarStyle">@style/Theme.ActionBar</item>
+        <item name="multiply_color">@color/transparent</item>
+    </style>
+    
+    <style name="Theme.ActionBar" parent="@android:style/Widget.Material.ActionBar.Solid">
+        <item name="android:contentInsetStart">@dimen/actionbar_contentInsetStart</item>
+    </style>
+
+    <style name="MyHtcListView" parent="@style/HtcListView">
+        <!--Custom HtcExpandableListView child item's background color -->
+        <item name="android:itemBackground">@null</item>
+        <!--Custom HtcExpandableListView child item's background color END -->
+    </style>
+</resources>

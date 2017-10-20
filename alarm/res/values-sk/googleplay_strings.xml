@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="googleplay_title">HTC Hodiny</string><!--HTC Clock-->
+    <string name="googleplay_whatsnew">– Hlasitosť budíkov sa postupne zvyšuje\n– Opravy chýb a vylepšenia výkonu</string><!---/ Alarms gradually get louder\n-/ Bug fixes and performance improvements-->
+	
+<!-- Description for Clock APP -->
+    <string name="googleplay_description_app">Či už ste v Taipei na Taiwane alebo v Márakéši v Maroku, aplikáciu HTC Hodiny vám umožňuje sledovať čas v súčasnom mieste, doma a v mestách po celom svete. Jej prispôsobiteľné budíky, stopky a časovač tiež prinášajú do vášho vrecka nástroj na riadenie času. Nastavte si budíkov, koľko potrebujete. Zmeňte si dĺžku doloženia, vyberte si zvuk, ktorý sa prehrá pri spustení budíka a môžete si tiež nastaviť, že má zvuk budíka znieť aj vtedy, keď je na telefóne nastavený tichý režim. Stopky aplikácie HTC Hodiny sú výborné na zaznamenávanie času kôl pri cvičení. Časovač je praktický pri varení alebo sledovaní doby strávenej pred televízorom.</string><!--Whether you\'re in Taipei, Taiwan or Marrakech, Morocco, HTC Clock lets you check the time in your current location, at home and in cities around the world. Its customizable alarms, stopwatch and timer put the power of time management in your pocket, too. Set as many alarms as you like, change the snooze duration, choose the sound that plays when alarms go off and even make alarms sound when your phone is on silent. HTC Clock\'s stopwatch is great for recording laps while working out, and the timer is handy for cooking or monitoring time in front of the TV.-->
+<!-- Description for Clock SupportingScope -->
+	<string name="googleplay_description_supportingScope"></string>
+<!-- Description for Clock Legal -->
+    <string name="googleplay_description_legal">[googleplay_description_legal_common_1]</string>
+    <string name="googleplay_description_short">Sledujte čas pomocou stopiek HTC, časovača, budíka a svetového času.</string><!--Keep track of time with HTC\'s sleek stopwatch, timer, alarm and world clock.-->
+</resources>
+

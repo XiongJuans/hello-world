@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="googleplay_title">HTC Ժամացույց</string><!--HTC Clock-->
+    <string name="googleplay_whatsnew">- Զարթուցիչի ձայնի աստիճանաբար ուժեղացում\n- Սխալների շտկումներ և կատարելագործումներ</string><!---/ Alarms gradually get louder\n-/ Bug fixes and performance improvements-->
+	
+<!-- Description for Clock APP -->
+    <string name="googleplay_description_app">Անկախ նրանից, թե գտնվում եք Թայփեյում` Թայլանդում, կամ Մառակեշում` Մարոկոյում, HTC Ժամացույցը տալիս է հնարավորություն դիտելու ժամանակը ընթացիկ գտնվելու վայրում, տանը և շախարհի քաղաքներում: Ժամացույցի անհատականեցվող զարթուցիչը, վայրկյանապչափն ու ժամաչափը օգնում են արդյունավետ կազմակերպել ժամանակը: Սահմանեք որքան ցանկանում եք շատ զարթուցիչներ, փոխեք սպասման տևողությունը, ընտրեք զարթուցիչի ձայներы, որոնք կարող են հնչել, նույնիս եթե հեռախոսը լուռ ռեժիմում է: HTC Ժամացույցի վայրկյանաչափը հիանալի օգնական է մարզվելու ընթացքում, իսկ ժամաչափը` խոհարարության և հեռուստացույցի դիման անց կացված ժամանակը վերահսկելու:</string><!--Whether you\'re in Taipei, Taiwan or Marrakech, Morocco, HTC Clock lets you check the time in your current location, at home and in cities around the world. Its customizable alarms, stopwatch and timer put the power of time management in your pocket, too. Set as many alarms as you like, change the snooze duration, choose the sound that plays when alarms go off and even make alarms sound when your phone is on silent. HTC Clock\'s stopwatch is great for recording laps while working out, and the timer is handy for cooking or monitoring time in front of the TV.-->
+<!-- Description for Clock SupportingScope -->
+	<string name="googleplay_description_supportingScope"></string>
+<!-- Description for Clock Legal -->
+    <string name="googleplay_description_legal">[googleplay_description_legal_common_1]</string>
+    <string name="googleplay_description_short">Ժամանակը` HTC-ի վայրկյանաչափի, ժամաչափի, զարթուցիչի և համաշխ-ն ժամ-ի միջոցով:</string><!--Keep track of time with HTC\'s sleek stopwatch, timer, alarm and world clock.-->
+</resources>
+

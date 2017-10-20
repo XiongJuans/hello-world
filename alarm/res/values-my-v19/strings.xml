@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+<!-- Title of DeskClock -->
+	<string name="desk_clock_caption">စားပြဲတင္နာရီ</string><!--Desk Clock-->
+
+<!-- Desk Clock -->
+    <string name="night_clock">@string/desk_clock_caption</string><!--@string/desk_clock_caption-->
+
+<!-- Title of WorldClock -->
+	<string name="world_clock_caption">ကမၻာ့အခ်ိန္</string><!--World Clock-->
+    
+<!-- Sublevel title on WorldClock : Add City-->
+    <string name="add_city">ျမိဳ႕အမည္ထပ္တိုး</string><!--Add city-->
+
+<!-- The hint for smart search and menu item -->
+    <string name="addcity_search">ၿမိဳ႕မ်ားရွာေဖြ</string><!--Search cities-->
+
+<!-- Error notification when there is no city found -->
+    <string name="city_not_found">ျမိဳ႕ရွာမေတြ႕</string><!--CITY NOT FOUND-->
+    
+<!-- Title of Delete City -->
+	<string name="delete_city_caption">ျမိဳ႕အမည္ပယ္ဖ်က္</string><!--Delete cities-->
+    
+<!-- Title of Rearrange City -->
+	<string name="rearrange_city_caption">စာရင္းတည္းျဖတ္</string><!--Edit list-->
+	
+<!-- Menu item on WorldClock : Home Settings -->
+	<string name="home_settings">မိမိေဒသအခ်ိန္ဇုံသတ္မွတ္ပါ</string><!--Set home time zone-->
+	
+<!-- Menu item on WorldClock : Current Location Time Settings -->
+	<string name="current_settings">ရက္စြဲ ႏွင့္ အခ်ိန္ သတ္မွတ္ပါ</string><!--Set date &amp; time-->
+	
+<!-- Title of Stopwatch -->
+	<string name="stopwatch_caption">အခ်ိန္ကိုက္နာရီ</string><!--Stopwatch-->
+	
+<!-- Button : Start stopwatch -->
+	<string name="start">စတင္</string><!--Start-->
+
+<!-- Button : Pause stopwatch -->
+    <string name="pause">ေခတၱရပ္</string><!--Pause-->
+
+<!-- Button : Resume stopwatch -->
+    <string name="resume">ဆက္လုပ္</string><!--Resume-->
+    
+<!-- Button : Reset stopwatch -->
+    <string name="reset">အသစ္ျပန္စ</string><!--Reset-->
+    
+<!-- Button : Stop stopwatch -->
+    <string name="stop">ရပ္တန္႔</string><!--Stop-->   
+
+<!-- Button : Lap stopwatch -->
+    <string name="lap">ေခါက္ေၾကာင္း</string><!--Lap-->
+
+<!-- Title of AlarmClock -->
+	<string name="alarm_caption">ႏႈိးစက္</string><!--Alarms-->
+	
+<!-- Title of AlarmClock Setting -->
+	<string name="set_alarm_caption">ႏႈိးစက္သတ္မွတ္</string><!--Set alarm-->
+	
+<!-- Title of Delete Alarm -->
+	<string name="delete_alarm_caption">ႏႈိးစက္ပယ္ဖ်က္</string><!--Delete alarms-->
+	
+<!-- Sublevel title on AlarmClock : Add alarm-->
+    <string name="add_alarm">ႏိႈးစက္ထပ္တိုး</string><!--Add alarm-->
+    
+<!-- Alert message of adding too many alarms -->
+    <string name="add_alarm_error">အျမင့္ဆုံး ႏႈိးစက္အေရအတြက္သို႔ ေရာက္ေနၿပီ။</string><!--Maximum number of alarms reached.-->
+
+<!-- Labels for Set Alarm preference : Ringtone -->
+    <string name="alarm_ringtone">ႏႈိးစက္သံစဥ္</string><!--Alarm sound-->
+    
+<!-- Labels for Set Alarm preference : Repeat -->
+    <string name="alarm_repeat">ျပန္ေက်ာ့</string><!--Repeat-->
+    
+<!-- Labels for Set Alarm preference : Vibrate -->
+    <string name="alarm_vibrate">တုန္ခါမႈ</string><!--Vibrate-->
+
+<!-- Alarm Alert screen: this message is shown after an alarm rung unattended for a number of minutes.  It tells the user that the alarm has been silenced.-->
+    <string name="alarm_alert_alert_silenced">ႏႈိးစက္ျမည္ေသာ မိနစ္ေပါင္း<xliff:g id="minutes">%d</xliff:g></string><!--Alarm silenced after <xliff:g id="minutes">%d</xliff:g> minutes.-->
+	
+<!-- Notification when user sets snooze successfully -->
+    <string name="alarm_alert_snooze_set">အိပ္ငိုက္ခ်ိန္ မိနစ္ေပါင္း<xliff:g id="minutes">%d</xliff:g></string><!--Snoozing for <xliff:g id="minutes">%d</xliff:g> minutes.-->
+    
+<!-- Notification when user sets snooze unsuccessfully -->
+    <string name="alarm_alert_snooze_not_set">အိပ္ငိုက္ခ်ိန္မသတ္မွတ္ထား၊ ႏႈိးစက္ျမည္မဲ့အခ်ိန္<xliff:g id="time">%s</xliff:g></string><!--Snooze not set. Next alarm set for <xliff:g id="time">%s</xliff:g>-->
+    
+<!-- Notification when alarm is dismissed -->
+    <string name="alarm_alert_dismissed">ႏႈိးစက္ျဖဳတ္ခ်</string><!--Alarm dismissed.-->
+
+<!-- Text for alarm confirmation toast -->
+    <string name="alarm_set">ႏႈိးစက္ျမည္မဲ့အခ်ိန္ <xliff:g id="time_delta">%s</xliff:g></string><!--This alarm is set for <xliff:g id="time_delta">%s</xliff:g> from now.-->
+
+<!-- Text for alarm confirmation toast : days -->
+    <string name="days">"<xliff:g id="days">%s</xliff:g> ရက္"</string><!--"<xliff:g id="days">%s</xliff:g> days"-->
+    
+<!-- Text for alarm confirmation toast : hours -->
+    <string name="hours"><xliff:g id="hours">%s</xliff:g>နာရီ</string><!--<xliff:g id="hours">%s</xliff:g> hours-->
+    
+<!-- Text for alarm confirmation toast : and -->
+    <string name="and">ႏွင့္</string><!--" and "-->
+    
+<!-- Text for alarm confirmation toast : space-->
+    <string name="space">" "</string><!--" "-->
+    
+<!-- Text for alarm confirmation toast : less than 1 minute-->
+    <string name="subminute">၁ မိနစ္ေအာက္</string><!--"less than 1 minute"-->
+
+<!-- Text for alarm confirmation toast : minutes-->
+    <string name="minutes">"<xliff:g id="minutes">%s</xliff:g>မိနစ္"</string><!--"<xliff:g id="minutes">%s</xliff:g> minutes"-->
+
+<!-- Notification of next alarm time -->
+    <string name="nextAlarm">ေနာက္သတိေပးခ်က္: <xliff:g id="next_alarm_time">%s</xliff:g></string><!--Next alarm: <xliff:g id="next_alarm_time">%s</xliff:g>-->
+
+<!-- Repeat frequency of alarms : every day -->
+    <string name="every_day">ေန႔တိုင္း</string><!--Every day-->
+
+<!-- Day concat of alarm repeat frequency -->
+    <string name="day_concat">", "</string><!--", "-->
+
+<!-- Error Dialog when alarm is not set -->
+    <string name="error">ႏိႈးစက္ သိမ္းဆည္းမရ</string><!--Unable to add alarm-->
+
+<!-- Error Dialog of database error -->
+    <string name="dberror">ေဆာရီး! ႏႈိးစက္မသတ္မွတ္ႏိုင္</string><!--Sorry, the alarm could not be set.-->
+	
+<!-- Days of week -->
+    <string-array name="days_of_week">
+        <item>တနလၤာ</item><!--MONDAY-->
+        <item>အဂၤါ</item><!--TUESDAY-->
+        <item>ဗုဒၶဟူး</item><!--WEDNESDAY-->
+        <item>ၾကာသပေတး</item><!--THURSDAY-->
+        <item>ေသာၾကာ</item><!--FRIDAY-->
+        <item>စေန</item><!--SATURDAY-->
+        <item>တနဂၤေႏြ</item><!--SUNDAY-->
+    </string-array>
+    
+<!-- Month of year : short -->
+    <string-array name="month_of_year">
+    	<item>ဇန္နဝါရီ</item><!--JAN-->
+    	<item>ေဖေဖာ္ဝါရီ</item><!--FEB-->
+    	<item>မတ္</item><!--MAR-->
+    	<item>ဧၿပီ</item><!--APR-->
+    	<item>ေမ</item><!--MAY-->
+    	<item>ဇြန္</item><!--JUN-->
+    	<item>ဇူလိုင္</item><!--JUL-->
+    	<item>ၾသဂုတ္</item><!--AUG-->
+    	<item>စက္တင္ဘာ</item><!--SEP-->
+    	<item>ေအာက္တိုဘာ</item><!--OCT-->
+    	<item>ႏိုဝင္ဘာ</item><!--NOV-->
+    	<item>ဒီဇင္ဘာ</item><!--DEC-->
+    </string-array>
+    
+<!-- Days of week for WorldClock -->
+    <string-array name="days_of_week_capital">
+        <item></item>
+        <item>တနဂၤေႏြ</item><!--SUN-->
+        <item>တနလၤာ</item><!--MON-->
+        <item>အဂၤါ</item><!--TUE-->
+        <item>ဗုဒၶဟူး</item><!--WED-->
+        <item>ၾကာသပေတး</item><!--THU-->
+        <item>ေသာၾကာ</item><!--FRI-->
+        <item>စေန</item><!--SAT-->
+    </string-array> 
+    
+<!-- Repeat Options -->
+    <string-array name="repeat_option">
+        <item>တနလၤာ-ေသာၾကာ</item><!--Mon -/ Fri-->
+        <item>ထပ္မလုပ္ပါႏွင့္</item><!--Do not repeat-->
+        <item>ေန႔တိုင္း</item><!--Every day-->
+        <item>႐ုံးပိတ္ရက္မ်ားကို ေက်ာ္ပါ</item><!--Skip holidays-->
+        <item>စိတ္ႀကိဳက္</item><!--Custom-->
+    </string-array>
+    
+<!-- Title of Timer -->
+    <string name="timer_caption">အခ်ိန္မွတ္</string><!--Timer-->
+    
+<!-- Labels for Set Timer preference : Alert Sound -->
+    <string name="alert_sound">ႏိႈးစက္သံစဥ္</string><!--Alarm sound-->
+    
+<!-- Title of alert dialog when timer expires -->
+    <string name="time_up">အခ်ိန္ေရာက္ၿပီ</string><!--Time\'s up!-->
+    
+<!-- Application name -->
+	<string name="htc_private_app_clock">နာရီ</string><!--Clock-->
+
+<!-- Message for user when loading cities -->
+	<string name="loading_city">ၿမိဳ႕ေတာ္စာရင္းကိုထုတ္ယူေနစဥ္</string><!--Loading city list...-->
+	
+<!-- Error title for full internal storage -->
+	<string name="error_title">ေဒတာမွားယြင္းမႈ</string><!--Database error-->
+	
+<!-- Error message for failing querying db -->
+	<string name="query_fail">ေဒတာအခ်က္အလက္မ်ား ခ်ိတ္ဆက္ေနစဥ္အမွားေတြ႕တယ္</string><!--Errors occurred while accessing the database-->
+	
+<!-- Title for selecting alarm ringtone -->
+    <string name="select_ringtone">သတိေပးသံေရြးခ်ယ္</string><!--Select alarm sound-->
+
+<!-- Title of ringtone picker -->
+    <string name="select_alert">သတိေပးသံေရြးခ်ယ္</string><!--Select alert sound-->
+    
+<!-- Days of week : abbreviate -->
+    <string-array name="days_of_week_abbr">
+        <item>M</item><!--M-->
+        <item>Tu</item><!--TU-->
+        <item>W</item><!--W-->
+        <item>Th</item><!--TH-->
+        <item>F</item><!--F-->
+        <item>Sa</item><!--SA-->
+        <item>Su</item><!--SU-->
+    </string-array>
+    
+<!-- Title in Google Gadget -->
+    <string name="analog_gadget">လက္တံနာရီအပိုင္း</string><!--Analog Clock-->
+    
+<!-- Error Dialog when city is not added -->
+    <string name="add_city_error_title">ၿမိဳ႕ ထပ္တိုးမရ</string><!--Unable to add city-->
+    
+<!-- Error Dialog of adding too many cities -->
+    <string name="add_city_error_msg">အမ်ားဆံုး၁၅ ၿမိဳ႕ ေပါင္းထည့္ႏိုင္သည္ ေနာက္တခုထပ္ထည့္လိုပါက နဂိုလ္ရွိၿပီးသားၿမိဳ႕ကို ပယ္ဖ်က္ေပးပါ</string><!--You can have a maximum of 15 cities. To add a new one, please delete an existing city.-->
+    
+<!-- Alert message of adding duplicate city -->
+    <string name="city_duplicate">စာရင္းထဲတြင္ ဤၿမိဳ႕ရွိၿပီး</string><!--This city is already in the list-->
+
+<!-- start: Merge alarm Clock Settings -->
+<!-- alarm_in_volume_increase_mode -->
+    <string name="alarm_in_volume_increase_mode_title">သိမ္ေမြ႕ေသာႏႈိးစက္</string><!--Gentle alarm-->
+    
+<!-- Gradually increase alarm volume -->
+    <string name="alarm_in_volume_increase_mode_summary">ႏႈိးစက္အသံကို ေျဖးၫွင္းစြာျမႇင့္ပါ</string><!--Gradually increase alarm volume-->
+    
+<!-- Alarm volume -->
+    <string name="alarm_volume_title">ႏိႈးစက္ အသံအတိုးအက်ယ္</string><!--Alarm volume-->
+
+<!-- Set the volume of alarms -->
+    <string name="alarm_volume_summary">ႏႈိးစက္သံအတိုးအက်ယ္သတ္မွတ္</string><!--Set the volume of alarms-->
+
+<!-- Snooze duration -->
+    <string name="snooze_duration_title">အိပ္ငိုက္ၾကာခ်ိန္</string><!--Snooze duration-->
+
+<!-- Entries listed in the ListPreference when invoking the snooze duration preference. -->
+    <string-array name="snooze_duration_entries">
+      <item>၅ မိနစ္</item><!--5 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_10_minutes</item>
+      <item>၁၅ မိနစ္</item><!--15 minutes-->
+      <item>၂၀ မိနစ္</item><!--20 minutes-->
+      <item>၂၅ မိနစ္</item><!--25 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_30_minutes</item>
+    </string-array>
+    
+<!-- Side button behavior -->
+    <string name="volume_button_setting_title">အသံအတိုးအက်ယ္ ခလုတ္ေ႐ြးခ်ယ္ႏိုင္မႈမ်ား</string><!--Volume button options-->
+
+<!-- Entries listed in the setting for the side-button action. -->
+    <string-array name="volume_button_setting_entries">
+      <item>ဘာမွမလုပ္ပါ</item><!--Do nothing-->
+
+      <item>အိပ္ငိုက္</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+    </string-array>
+
+<!-- Entries listed in the setting for the side-button action. -->
+    <string-array name="sprint_volume_button_setting_entries">
+      <item>ဘာမွမလုပ္ပါ</item><!--Do nothing-->
+
+      <item>အိပ္ငုိက္</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+
+      <item>အသံတိတ္</item><!--Silence-->
+    </string-array>
+
+<!-- The summary of the side button setting. -->
+    <string name="volume_button_setting_summary">ႏႈိးစက္မည္စဥ္ ႏွိပ္ပါက မည္သည့္အသံအတိုးအက်ယ္ ခလုတ္လုပ္ေဆာင္မည္ကို ေ႐ြးခ်ယ္ပါ</string><!--Choose what the volume buttons do when pressed during an alarm-->
+<!-- end: Merge alarm Clock Settings -->
+        
+<!-- The indicator for High temperature -->
+    <string name="weather_high_indicator">ျမင့္</string><!--H:-->
+    
+<!-- The indicator for Low temperature -->
+    <string name="weather_low_indicator">နိမ့္</string><!--L:-->   
+
+<!-- Text to display in the notification ticker and label -->
+    <string name="alarm_notify_snooze_label"><xliff:g id="label">%s</xliff:g>(အိပ္ငိုက္)</string><!--<xliff:g id="label">%s</xliff:g> (snoozed)-->
+
+<!-- Text to display in the notification when the alarm has been snoozed -->
+    <string name="alarm_notify_snooze_text">သတိေပးခ်က္ <xliff:g id="time">%s</xliff:g> သတ္မွတ္ထား၊ တစ္ခ်က္ႏွိပ္၍ ႐ုပ္သိမ္းပါ</string><!--Alarm set for <xliff:g id="time">%s</xliff:g>. Tap to cancel.-->
+
+<!-- Alarm Off -->
+    <string name="alarm_off">ႏႈိးစက္ပိတ္</string><!--Alarm Off-->
+<!-- Alarm On -->
+    <string name="alarm_on">ႏႈိးစက္ဖြင့္</string><!--Alarm On-->
+    
+<!-- Select alarm sound from -->
+    <string name="sound_selection_title">သတိေပးသံေရြးခ်ယ္ရန္</string><!--Select alarm sound from-->
+<!-- Ringtones -->
+    <string name="ringtone_title">သံစဥ္</string><!--Ringtones-->
+
+<!-- Entries listed in the setting for the clock sound selection. -->
+    <string-array name="sound_selection_setting_entries">
+<!-- Alarm sound -->
+      <item>ႏႈိးစက္သံစဥ္</item><!--Alarm sound-->
+<!-- Do not translate. Ringtone -->
+      <item>@string/nn_ringtone</item>
+<!-- Do not translate. Music -->
+      <item>@string/nn_music</item>
+    </string-array>
+
+<!-- Labels for Stopwatch : Total-->
+    <string name="total_title">စုစုေပါင္း</string><!--Total-->
+    
+<!-- Labels for Stopwatch : Lap-->
+    <string name="lap_title">ေခါက္ေၾကာင္း</string><!--Lap-->
+
+<!-- Labels for Stopwatch : Lap ID-->
+    <string name="lap_id">ေခါက္ေၾကာင္း#</string><!--Lap #-->
+    
+<!-- Labels for Stopwatch : Running total-->
+    <string name="lap_total_time">စုစုေပါင္း</string><!--Total-->
+    
+<!-- Labels for Stopwatch : This lap-->
+    <string name="lap_time">ဤေခါက္ေၾကာင္း</string><!--This lap-->
+    
+<!-- Error Dialog when lap is not set -->
+    <string name="lap_error">အခ်က္အလက္ မသိမ္းပါ</string><!--Lap not saved-->
+    
+<!-- Alert message of adding too many laps -->
+    <string name="add_lap_error">အခ်ိန္မွတ္စက္သည္ အမ်ားဆံုးအခ်က္လက္မွာ 300 မေက်ာ္ရ၊ စက္ျပန္ခလုတ္ႏွိပ္၍ စာရင္းကိုပယ္ဖ်က္ႏိုင္သည္</string><!--Stopwatch can save a maximum of 300 laps. Tap Reset to clear lap history.-->
+    
+<!-- Tips for Weather Location : Location Enable -->
+    <string name="location_enable">မိုးေလဝသၾကည့္ရန္ ဤေနရာႏွိပ္၍ တည္ေနရာဝန္ေဆာင္မႈဖြင့္ပါ</string><!--To see local weather,\ntap here to turn on Location Service.-->
+
+<!-- menu item for Full screen -->
+    <string name="full_screen_menu_item">ျမင္ကြင္းျပည့္</string><!--Full screen-->
+<!-- menu item for Fit screen -->
+    <string name="fit_screen_menu_item">ျမင္ကြင္းကိုက္</string><!--Fit screen-->
+<!-- Storage low dialog -->
+    <string name="storage_full_description">ဖုန္းမွတ္ဉာဏ္မွာ လက္က်န္ေနရာလြတ္ မလံုေလာက္၊ အခ်ိဳ႕စာရင္းမ်ားႏွင့္ ေဆာ့ဝဲလ္မ်ားကို ပယ္ဖ်က္ပါ၊ သင့္ရဲ႕ေဆာ့ဝဲလ္မ်ားကို စီစဥ္ရန္ခ်ိန္ညႇိခ်က္မ်ားကိုႏွိပ္ပါ</string><!--You don\'t have enough free space remaining in your phone\'s storage.Please delete some content or applications.Tap \"Settings\" below to manage your apps.-->
+    
+<!-- for timer -->
+    <string name="timer_reminder_tile_timer_up">အခ်ိန္ကုန္ၿပီ</string><!--Time is up-->
+    <string name="timer_reminder_tile_setting">ခ်ိန္ညႇိခ်က္မ်ား</string><!--Settings-->
+    
+<!-- below is removed by common string, move to local -->
+    <string-array name="days_of_week_short">
+        <item>@string/tm_mon</item>
+        <item>@string/tm_tue</item>
+        <item>@string/tm_wed</item>
+        <item>@string/tm_thu</item>
+        <item>@string/tm_fri</item>
+        <item>@string/tm_sat</item>
+        <item>@string/tm_sun</item>
+    </string-array>
+    
+    <string name="tm_mon">တနလၤာ</string><!--Mon-->
+    <string name="tm_tue">အဂၤါ</string><!--Tue-->
+    <string name="tm_wed">ဗုဒၶဟူး</string><!--Wed-->
+    <string name="tm_thu">ၾကာသာပေတး</string><!--Thu-->
+    <string name="tm_fri">ေသာၾကာ</string><!--Fri-->
+    <string name="tm_sat">စေန</string><!--Sat-->
+    <string name="tm_sun">တနဂၤေႏြ</string><!--Sun-->
+    <string name="tm_10_minutes">၁၀ မိနစ္</string><!--10 minutes-->
+    <string name="tm_30_minutes">၃၀ မိနစ္</string><!--30 minutes-->
+    <string name="va_dismiss">ျဖဳတ္ခ်</string><!--Dismiss-->
+    <string name="nn_ringtone">သံစဥ္</string><!--Ringtone-->
+    <string name="nn_music">သီခ်င္း</string><!--Music-->
+<!-- AccountManager: In loginSettings activity: Label for "Done" button item -->
+    <string name="bt_done_str">ျပဳလုပ္ၿပီး</string><!--Done-->
+    <string name="tm_am">AM</string><!--AM-->
+    <string name="tm_pm">PM</string><!--PM-->
+<!-- Lable for phone number type: Home number -->
+    <string name="phone_type_home">အိမ္</string><!--Home-->
+<!-- Dialog Yes button -->
+    <string name="dialog_button_ok">အိုေက</string><!--OK-->
+<!-- AccountManager: In loginSettings activity: Label for "Cancel" button item -->
+    <string name="bt_cancel_str">႐ုပ္သိမ္း</string><!--Cancel-->
+<!-- To snooze a notification -->
+    <string name="snooze">အိပ္ငိုက္</string><!--Snooze-->
+<!-- The default hint on lockscreen to indicate what to do. Drag down the arc are to dismiss current reminder. -->
+    <string name="lockscreen_hint_dismiss">ေအာက္ဆြဲခ်၍ျဖတ္ဆက္မႈျဖဳတ္</string><!--Drag down to dismiss-->
+    <string name="nn_alarm">ႏႈိးစက္</string><!--Alarm-->
+    <string name="tm_today">ယေန႔</string><!--Today-->
+    <string name="tm_yesterday">မေန႔က</string><!--Yesterday-->
+    <string name="tm_tomorrow">မနက္ျဖန္</string><!--Tomorrow-->
+    <string name="tm_current">လက္ရွိ</string><!--Current-->
+    <string name="va_rearrange">ျပန္စီစဥ္</string><!--Rearrange-->
+    <string name="va_edit">တည္းျဖတ္</string><!--Edit-->
+    <string name="va_select_all">အားလံုးေရြးခ်ယ္</string><!--Select all-->
+    <string name="va_deselect_all">အားလံုးမေရြးပါ</string><!--Deselect all-->
+    <string name="nn_description">ေဖၚျပခ်က္</string><!--Description-->
+    <string name="tm_1_day">၁ ရက္</string><!--1 day-->
+    <string name="tm_1_hour">၁ နာရီ</string><!--1 hour-->
+    <string name="tm_1_minute">၁ မိနစ္</string><!--1 minute-->
+    <string name="st_on">ဖြင့္</string><!--On-->
+    <string name="st_off">ပိတ္</string><!--Off-->
+    <string name="st_never">ဘယ္ေတာ့မွ</string><!--Never-->
+    <string name="va_add">ထပ္ထည့္</string><!--Add-->
+    <string name="va_edit_tabs">က႑မ်ား တည္းျဖတ္</string><!--Edit tabs-->
+    <string name="ls_no_weather_data_available">မိုးေလဝသ အခ်က္အလက္မရ</string><!--No weather data available-->
+    <string name="st_storage_full">သိုေလွာင္မႈျပည့္ေနသည္</string><!--Storage full-->
+    <string name="nn_settings">ခ်ိန္ညႇိ</string><!--Settings-->
+<!-- [Add][Start] add "Tips & Help" by Yami Day's request -->
+    <string name="nn_tips_help">လမ္းညႊန္</string><!--Tips &amp; Help-->
+<!-- [Add][End] add "Tips & Help" by Yami Day's request -->
+<!-- [Gallery OpenSense - GA50 Skyer_Tai] Warning message for low internal memory scenario -->
+    <string name="internal_memory_low">သင့္ဖုန္းမွတ္ဉာဏ္နည္းေနသည္၊ အခ်ဳိ႕ေသာဖိုင္မ်ားဖ်က္၍ရွင္းလင္းပါ။</string><!--Your phone is low on storage space. Please make some free space before using this application.-->
+    <string name="st_default">နဂို</string><!--Default-->
+<!-- [Add][Start] Add for ContentUri, called back from soundPicker(Mail/Calendar/Message) -->
+    <string name="st_silent">အသံတိတ္</string><!--Silent-->
+<!-- [Add][End] Add for ContentUri, called back from soundPicker(Mail/Calendar/Message) -->
+    <string name="st_more">ပိုၾကည့္လိုပါက</string><!--More-->
+
+<!-- Labels for Set Alarm preference : OffAlarm -->
+    <string name="alarm_offalarm">ပါဝါပိတ္ေသာအခါ အသံ</string><!--Sound when phone off-->
+
+<!-- Dialog title for describe that this app needs additional permission -->
+    
+<!-- Do not translate -->
+	<!--<string name="clock_permission_dialog_title">@string/htc_private_app_clock</string>-->
+    
+<!-- Dialog content for describe that this app needs additional permission -->
+    <string name="clock_permission_dialog_content">သင့္တင့္စြာလုပ္ေဆာင္ရန္၊ ဤအက္ပ္သည္ သင့္သိုေလွာင္ေနရာကို ရယူသုံးစြဲရန္လိုအပ္သည္။ နာရီ၏ ခြင့္ျပဳခ်က္မ်ားကို ခ်ိန္ၫွိခ်က္မ်ားတြင္ စီမံခန္႔ခြဲႏိုင္သည္။</string><!--To work properly, this app needs to access your storage. You can manage Clock\'s permissions in Settings.-->
+<!-- [Button] Dialog button to bring user to Settings page -->
+    <string name="clock_permission_dialog_btn_settings">ခ်ိန္ၫွိခ်က္မ်ား</string><!--Settings-->
+<!-- [Button] Dialog button to close dialog -->
+    <string name="clock_permission_dialog_btn_close">ပိတ္</string><!--Close-->
+    
+<!-- location setting -->
+<!-- Dialog title to ask user to turn on network location provider -->
+    <string name="location_dialog_title">တည္ေနရာဝန္ေဆာင္မႈမ်ားကို ပိတ္ထားသည္</string><!--Location services are off-->
+<!-- Dialog content to ask user to turn on network location provider -->
+    <string name="location_dialog_msg">ေဒသတြင္း မိုးေလဝသသတင္းရယူရန္ သင့္တည္ေနရာခ်ိန္ၫွိခ်က္မ်ားကို ဘက္ထရီေခၽြတာျခင္း သို႔မဟုတ္ ျမင့္မားေသာတိက်မႈမုဒ္သို႔ ေျပာင္းပါ။</string><!--To get local weather, change your location settings to battery saving or high accuracy mode.-->
+</resources>
+
+
+

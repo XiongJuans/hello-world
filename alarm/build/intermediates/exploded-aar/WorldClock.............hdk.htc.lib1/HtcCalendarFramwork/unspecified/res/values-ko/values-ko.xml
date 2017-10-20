@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-ko/arrays.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>첫째 금요일마다</item><!--on every first Friday-->
+        <item>둘째 금요일마다</item><!--on every second Friday-->
+        <item>셋째 금요일마다</item><!--on every third Friday-->
+        <item>넷째 금요일마다</item><!--on every fourth Friday-->
+        <item>마지막 금요일마다</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>첫째 월요일마다</item><!--on every first Monday-->
+        <item>둘째 월요일마다</item><!--on every second Monday-->
+        <item>셋째 월요일마다</item><!--on every third Monday-->
+        <item>넷째 월요일마다</item><!--on every fourth Monday-->
+        <item>마지막 월요일마다</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>첫째 토요일마다</item><!--on every first Saturday-->
+        <item>둘째 토요일마다</item><!--on every second Saturday-->
+        <item>셋째 토요일마다</item><!--on every third Saturday-->
+        <item>넷째 토요일마다</item><!--on every fourth Saturday-->
+        <item>마지막 토요일마다</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>첫째 일요일마다</item><!--on every first Sunday-->
+        <item>둘째 일요일마다</item><!--on every second Sunday-->
+        <item>셋째 일요일마다</item><!--on every third Sunday-->
+        <item>넷째 일요일마다</item><!--on every fourth Sunday-->
+        <item>마지막 일요일마다</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>첫째 목요일마다</item><!--on every first Thursday-->
+        <item>둘째 목요일마다</item><!--on every second Thursday-->
+        <item>셋째 목요일마다</item><!--on every third Thursday-->
+        <item>넷째 목요일마다</item><!--on every fourth Thursday-->
+        <item>마지막 목요일마다</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>첫째 화요일마다</item><!--on every first Tuesday-->
+        <item>둘째 화요일마다</item><!--on every second Tuesday-->
+        <item>셋째 화요일마다</item><!--on every third Tuesday-->
+        <item>넷째 화요일마다</item><!--on every fourth Tuesday-->
+        <item>마지막 화요일마다</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>첫째 수요일마다</item><!--on every first Wednesday-->
+        <item>둘째 수요일마다</item><!--on every second Wednesday-->
+        <item>셋째 수요일마다</item><!--on every third Wednesday-->
+        <item>넷째 수요일마다</item><!--on every fourth Wednesday-->
+        <item>마지막 수요일마다</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-ko/strings.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">한 번</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> 번</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one"><ns1:g id="count">%d</ns1:g> 일마다</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other"><ns1:g id="count">%d</ns1:g> 일마다</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one"><ns1:g id="count">%d</ns1:g> 달마다</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other"><ns1:g id="count">%d</ns1:g> 달마다</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one"><ns1:g id="count">%d</ns1:g> 주마다</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other"><ns1:g id="count">%d</ns1:g> 주마다</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one"><ns1:g id="count">%d</ns1:g> 년마다</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other"><ns1:g id="count">%d</ns1:g> 년마다</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">매주마다 <ns1:g id="days_of_week">%2$s</ns1:g>에서</item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other">매 <ns1:g id="number">%1$d</ns1:g>주마다 <ns1:g id="days_of_week">%2$s</ns1:g>에서</item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <string name="every_weekday">"매주(월-금)"</string>
+    <string name="monthly">"매월"</string>
+    <string name="monthly_on_day_count">"매월(매 <ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g>)"</string>
+    <string name="tm_daily">"매일"</string>
+    <string name="yearly_plain">매년</string>
+</resources>

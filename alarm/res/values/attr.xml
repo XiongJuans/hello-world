@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="list_selector">
+     <attr name="android:listSelector"/>
+  </declare-styleable>
+  
+  <declare-styleable name="myStylable">
+     <attr name="multiply_color"/>
+     <attr name="category_color"/>
+  </declare-styleable>
+  
+  <declare-styleable name="Translucent">
+     <attr name="android:actionBarSize"/>
+  </declare-styleable>
+</resources>

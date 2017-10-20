@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string-array name="days_of_week">
+        <item>周一</item><!--MONDAY-->
+        <item>周二</item><!--TUESDAY-->
+        <item>周三</item><!--WEDNESDAY-->
+        <item>周四</item><!--THURSDAY-->
+        <item>周五</item><!--FRIDAY-->
+        <item>周六</item><!--SATURDAY-->
+        <item>周日</item><!--SUNDAY-->
+    </string-array>
+    <string-array name="days_of_week_abbr">
+        <item>一</item><!--M-->
+        <item>二</item><!--TU-->
+        <item>三</item><!--W-->
+        <item>四</item><!--TH-->
+        <item>五</item><!--F-->
+        <item>六</item><!--SA-->
+        <item>日</item><!--SU-->
+    </string-array>
+    <string-array name="days_of_week_capital">
+        <item/><!---->
+        <item>周日</item><!--SUN-->
+        <item>周一</item><!--MON-->
+        <item>周二</item><!--TUE-->
+        <item>周三</item><!--WED-->
+        <item>周四</item><!--THU-->
+        <item>周五</item><!--FRI-->
+        <item>周六</item><!--SAT-->
+    </string-array>
+    <string-array name="days_of_week_short">
+        <item>@string/tm_mon</item>
+        <item>@string/tm_tue</item>
+        <item>@string/tm_wed</item>
+        <item>@string/tm_thu</item>
+        <item>@string/tm_fri</item>
+        <item>@string/tm_sat</item>
+        <item>@string/tm_sun</item>
+    </string-array>
+    <string-array name="days_of_week_whole_capital">
+        <item/>
+        <item>周日</item><!--SUNDAY-->
+        <item>周一</item><!--MONDAY-->
+        <item>周二</item><!--TUESDAY-->
+        <item>周三</item><!--WEDNESDAY-->
+        <item>周四</item><!--THURSDAY-->
+        <item>周五</item><!--FRIDAY-->
+        <item>周六</item><!--SATURDAY-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string-array name="htc_LunarHolidays">
+        <item>"春节""</item>
+        <item>"元宵节" </item>
+        <item>"端午节"</item>
+        <item>"七夕"</item>
+        <item>"中秋节"</item>
+        <item>"重阳节"</item>
+        <item>"腊八节</item> <!-- new for china sense --> 
+    </string-array>
+    <string-array name="htc_SolarHolidays">
+        <item>"元旦"</item>
+        <item>"情人节"</item>
+        <item>"妇女节"</item>
+        <item>"植树节"</item>
+        <item>"愚人节"</item> <!--new for china sense -->
+        <item>"劳动节"</item>
+        <item>"青年节"</item>
+        <item>"儿童节"</item>
+        <item>"建党节"</item>
+        <item>"建军节"</item>
+        <item>"教师节"</item>
+        <item>"国庆节"</item>
+        <item>"平安夜"</item> <!-- new for china sense -->
+        <item>"圣诞节"</item>
+    </string-array>
+    <string-array name="htc_mCnDays">
+        <item>"初一"</item>
+        <item>"初二"</item>
+        <item>"初三"</item>
+        <item>"初四"</item>
+        <item>"初五"</item>
+        <item>"初六"</item>
+        <item>"初七"</item>
+        <item>"初八"</item>
+        <item>"初九"</item>
+        <item>"初十"</item>
+        <item>"十一"</item>
+        <item>"十二"</item>
+        <item>"十三"</item>
+        <item>"十四"</item>
+        <item>"十五"</item>
+        <item>"十六"</item>
+        <item>"十七"</item>
+        <item>"十八"</item>
+        <item>"十九"</item>
+        <item>"二十"</item>
+        <item>"廿一"</item>
+        <item>"廿二"</item>
+        <item>"廿三"</item>
+        <item>"廿四"</item>
+        <item>"廿五"</item>
+        <item>"廿六"</item>
+        <item>"廿七"</item>
+        <item>"廿八"</item>
+        <item>"廿九"</item>
+        <item>"三十"</item>
+    </string-array>
+    <string-array name="htc_mCnDaysSmall">
+        <item>"初一"</item>
+        <item>"初二"</item>
+        <item>"初三"</item>
+        <item>"初四"</item>
+        <item>"初五"</item>
+        <item>"初六"</item>
+        <item>"初七"</item>
+        <item>"初八"</item>
+        <item>"初九"</item>
+        <item>"初十"</item>
+        <item>"十一"</item>
+        <item>"十二"</item>
+        <item>"十三"</item>
+        <item>"十四"</item>
+        <item>"十五"</item>
+        <item>"十六"</item>
+        <item>"十七"</item>
+        <item>"十八"</item>
+        <item>"十九"</item>
+        <item>"二十"</item>
+        <item>"廿一"</item>
+        <item>"廿二"</item>
+        <item>"廿三"</item>
+        <item>"廿四"</item>
+        <item>"廿五"</item>
+        <item>"廿六"</item>
+        <item>"廿七"</item>
+        <item>"廿八"</item>
+        <item>"廿九"</item>
+    </string-array>
+    <string-array name="htc_mCnGans">
+        <item>"甲"</item>
+        <item>"乙"</item>
+        <item>"丙"</item>
+        <item>"丁"</item>
+        <item>"戊"</item>
+        <item>"己"</item>
+        <item>"庚"</item>
+        <item>"辛"</item>
+        <item>"壬"</item>
+        <item>"癸"</item>
+    </string-array>
+    <string-array name="htc_mCnMonths">
+        <item>"正月"</item>
+        <item>"二月"</item>
+        <item>"三月"</item>
+        <item>"四月"</item>
+        <item>"五月"</item>
+        <item>"六月"</item>
+        <item>"七月"</item>
+        <item>"八月"</item>
+        <item>"九月"</item>
+        <item>"十月"</item>
+        <item>"十一月"</item>
+        <item>"十二月"</item>
+    </string-array>
+    <string-array name="htc_mCnZhis">
+        <item>"子"</item>
+        <item>"丑"</item>
+        <item>"寅"</item>
+        <item>"卯"</item>
+        <item>"辰"</item>
+        <item>"巳"</item>
+        <item>"午"</item>
+        <item>"未"</item>
+        <item>"申"</item>
+        <item>"酉"</item>
+        <item>"戌"</item>
+        <item>"亥"</item>
+    </string-array>
+    <string-array name="htc_mCnZodiacs">
+        <item>"鼠"</item>
+        <item>"牛"</item>
+        <item>"虎"</item>
+        <item>"兔"</item>
+        <item>"龙"</item>
+        <item>"蛇"</item>
+        <item>"马"</item>
+        <item>"羊"</item>
+        <item>"猴"</item>
+        <item>"鸡"</item>
+        <item>"狗"</item>
+        <item>"猪"</item>
+    </string-array>
+    <string-array name="htc_mSolarTerms">
+        <item>"小寒"</item>
+        <item>"大寒"</item>
+        <item>"立春"</item>
+        <item>"雨水"</item>
+        <item>"惊蛰"</item>
+        <item>"春分"</item>
+        <item>"清明"</item>
+        <item>"谷雨"</item>
+        <item>"立夏"</item>
+        <item>"小满"</item>
+        <item>"芒种"</item>
+        <item>"夏至"</item>
+        <item>"小暑"</item>
+        <item>"大暑"</item>
+        <item>"立秋"</item>
+        <item>"处暑"</item>
+        <item>"白露"</item>
+        <item>"秋分"</item>
+        <item>"寒露"</item>
+        <item>"霜降"</item>
+        <item>"立冬"</item>
+        <item>"小雪"</item>
+        <item>"大雪"</item>
+        <item>"冬至"</item>
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/WeatherLib1/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string-array name="htc_weather_conditions">
+<!-- weather condition 1 : Sunny -->
+        <item>晴</item><!--Sunny-->
+<!-- weather condition 2 : Mostly Sunny -->
+        <item>以晴为主</item><!--Mostly Sunny-->
+<!-- weather condition 3 : Partly Sunny -->
+        <item>局部晴</item><!--Partly Sunny-->
+<!-- weather condition 4 : Intermittent Clouds -->
+        <item>间歇多云</item><!--Intermittent Clouds--><!--Intermittent Clouds-->
+<!-- weather condition 5 : Hazy Sunshine -->
+        <item>晴天有霾</item><!--Hazy Sunshine-->
+<!-- weather condition 6 : Mostly Cloudy -->
+        <item>大部多云</item><!--Mostly Cloudy--><!--Mostly Cloudy-->
+<!-- weather condition 7 : Cloudy -->
+        <item>多云</item><!--Cloudy-->
+<!-- weather condition 8 : Dreary -->
+        <item>阴</item><!--Dreary-->
+<!-- weather condition 11 : Fog -->
+        <item>有雾</item><!--Fog-->
+<!-- weather condition 12 : Showers -->
+        <item>阵雨</item><!--Showers-->
+<!-- weather condition 13 : Mostly Cloudy with Showers -->
+        <item>大部多云，有阵雨</item><!--Mostly Cloudy with Showers--><!--Mostly Cloudy with Showers-->
+<!-- weather condition 14 : Partly Sunny with Showers -->
+        <item>局部晴，有阵雨</item><!--Partly Sunny with Showers-->
+<!-- weather condition 15 : Thunderstorms -->
+        <item>雷阵雨</item><!--Thunderstorms-->
+<!-- weather condition 16 : Mostly Cloudy with Thunder Showers -->
+        <item>大部多云，有雷阵雨</item><!--Mostly Cloudy with Thunder Showers--><!--Mostly Cloudy with Thunder Showers-->
+<!-- weather condition 17 : Partly Sunny with Thunder Showers -->
+        <item>局部晴，有雷阵雨</item><!--Partly Sunny with Thunder Showers-->
+<!-- weather condition 18 : Rain -->
+        <item>雨</item><!--Rain-->
+<!-- weather condition 19 : Flurries -->
+        <item>阵雪</item><!--Flurries-->
+<!-- weather condition 20 : Mostly Cloudy with Flurries -->
+        <item>大部多云，有阵雪</item><!--Mostly Cloudy with Flurries--><!--Mostly Cloudy with Flurries-->
+<!-- weather condition 21 : Partly Sunny with Flurries -->
+        <item>局部晴，有阵雪</item><!--Partly Sunny with Flurries-->
+<!-- weather condition 22 : Snow -->
+        <item>雪</item><!--Snow-->
+<!-- weather condition 23 : Mostly Cloudy with Snow -->
+        <item>大部多云，有雪</item><!--Mostly Cloudy with Snow-->
+<!-- weather condition 24 : Ice -->
+        <item>冰冻</item><!--Ice-->
+<!-- weather condition 25 : Sleet -->
+        <item>冰雹</item><!--Sleet-->
+<!-- weather condition 26 : Freezing Rain -->
+        <item>冻雨</item><!--Freezing Rain-->
+<!-- weather condition 29 : Rain and Snow Mixed -->
+        <item>雨夹雪</item><!--Rain and Snow Mixed-->
+<!-- weather condition 30 : Hot -->
+        <item>炎热</item><!--Hot-->
+<!-- weather condition 31 : Cold -->
+        <item>寒冷</item><!--Cold-->
+<!-- weather condition 32 : Windy -->
+        <item>有风</item><!--Windy-->
+<!-- weather condition 33 : Clear -->
+        <item>晴</item><!--Clear-->
+<!-- weather condition 34 : Mostly Clear -->
+        <item>以晴为主</item><!--Mostly Clear-->
+<!-- weather condition 35 : Partly Cloudy -->
+        <item>局部多云</item><!--Partly Cloudy-->
+<!-- weather condition 36 : Intermittent Clouds -->
+        <item>间歇多云</item><!--Intermittent Clouds--><!--Intermittent Clouds-->
+<!-- weather condition 37 : Hazy -->
+        <item>阴霾</item><!--Hazy-->
+<!-- weather condition 38 : Mostly Cloudy -->
+        <item>大部多云</item><!--Mostly Cloudy--><!--Mostly Cloudy-->
+<!-- weather condition 39 : Partly Cloudy with Showers -->
+        <item>局部多云，有阵雨</item><!--Partly Cloudy with Showers-->
+<!-- weather condition 40 : Mostly Cloudy with Showers -->
+        <item>大部多云，有阵雨</item><!--Mostly Cloudy with Showers--><!--Mostly Cloudy with Showers-->
+<!-- weather condition 41 : Partly Cloudy with Thunder Showers -->
+        <item>局部多云，有雷阵雨</item><!--Partly Cloudy with Thunder Showers-->
+<!-- weather condition 42 : Mostly Cloudy with Thunder Showers -->
+        <item>大部多云，有雷阵雨</item><!--Mostly Cloudy with Thunder Showers--><!--Mostly Cloudy with Thunder Showers-->
+<!-- weather condition 43 : Partly Cloudy with Flurries -->
+        <item>局部多云，有阵雪</item><!--Partly Cloudy with Flurries-->
+<!-- weather condition 44 : Mostly Cloudy with Flurries -->
+        <item>大部多云，有阵雪</item><!--Mostly Cloudy with Flurries--><!--Mostly Cloudy with Flurries-->
+<!-- _For Huafeng -->
+<!-- weather condition 51 : -->
+        <item>雷阵雨伴有冰雹</item><!--Thunderstorms with sleet-->
+<!-- weather condition 52 : -->
+        <item>扬沙</item><!--Sand-->
+<!-- weather condition 53 : -->
+        <item>浮尘</item><!--Dust-->
+<!-- weather condition 54 : -->
+        <item>龙卷风</item><!--Tornado-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string-array name="month_of_year">
+    	<item>一月</item><!--JAN-->
+    	<item>二月</item><!--FEB-->
+    	<item>三月</item><!--MAR-->
+    	<item>四月</item><!--APR-->
+    	<item>五月</item><!--MAY-->
+    	<item>六月</item><!--JUN-->
+    	<item>七月</item><!--JUL-->
+    	<item>八月</item><!--AUG-->
+    	<item>九月</item><!--SEP-->
+    	<item>十月</item><!--OCT-->
+    	<item>十一月</item><!--NOV-->
+    	<item>十二月</item><!--DEC-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>在每月第一个周五</item><!--on every first Friday-->
+        <item>在每月第二个周五</item><!--on every second Friday-->
+        <item>在每月第三个周五</item><!--on every third Friday-->
+        <item>在每月第四个周五</item><!--on every fourth Friday-->
+        <item>在每月最后一个周五</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>在每月第一个周一</item><!--on every first Monday-->
+        <item>在每月第二个周一</item><!--on every second Monday-->
+        <item>在每月第三个周一</item><!--on every third Monday-->
+        <item>在每月第四个周一</item><!--on every fourth Monday-->
+        <item>在每月最后一个周一</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>在每月第一个周六</item><!--on every first Saturday-->
+        <item>在每月第二个周六</item><!--on every second Saturday-->
+        <item>在每月第三个周六</item><!--on every third Saturday-->
+        <item>在每月第四个周六</item><!--on every fourth Saturday-->
+        <item>在每月最后一个周六</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>在每月第一个周日</item><!--on every first Sunday-->
+        <item>在每月第二个周日</item><!--on every second Sunday-->
+        <item>在每月第三个周日</item><!--on every third Sunday-->
+        <item>在每月第四个周日</item><!--on every fourth Sunday-->
+        <item>在每月最后一个周日</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>在每月第一个周四</item><!--on every first Thursday-->
+        <item>在每月第二个周四</item><!--on every second Thursday-->
+        <item>在每月第三个周四</item><!--on every third Thursday-->
+        <item>在每月第四个周四</item><!--on every fourth Thursday-->
+        <item>在每月最后一个周四</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>在每月第一个周二</item><!--on every first Tuesday-->
+        <item>在每月第二个周二</item><!--on every second Tuesday-->
+        <item>在每月第三个周二</item><!--on every third Tuesday-->
+        <item>在每月第四个周二</item><!--on every fourth Tuesday-->
+        <item>在每月最后一个周二</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>在每月第一个周三</item><!--on every first Wednesday-->
+        <item>在每月第二个周三</item><!--on every second Wednesday-->
+        <item>在每月第三个周三</item><!--on every third Wednesday-->
+        <item>在每月第四个周三</item><!--on every fourth Wednesday-->
+        <item>在每月最后一个周三</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string-array name="repeat_option">
+        <item>周一到周五</item><!--Mon -/ Fri-->
+        <item>不要重复</item><!--Do not repeat-->
+        <item>每天</item><!--Every day-->
+        <item>跳过假日</item><!--Skip holidays-->
+        <item>自定义</item><!--Custom-->
+    </string-array>
+    <string-array name="snooze_duration_entries">
+      <item>5 分钟</item><!--5 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_10_minutes</item>
+      <item>15 分钟</item><!--15 minutes-->
+      <item>20 分钟</item><!--20 minutes-->
+      <item>25 分钟</item><!--25 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_30_minutes</item>
+    </string-array>
+    <string-array name="sound_selection_setting_entries">
+<!-- Alarm sound -->
+      <item>闹铃声音</item><!--Alarm sound-->
+<!-- Do not translate. Ringtone -->
+      <item>@string/nn_ringtone</item>
+<!-- Do not translate. Music -->
+      <item>@string/nn_music</item>
+    </string-array>
+    <string-array name="sprint_volume_button_setting_entries">
+      <item>不进行任何操作</item><!--Do nothing-->
+
+      <item>延迟</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+
+      <item>静音</item><!--Silence-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>小</item><!--Small-->
+        <item>中</item><!--Medium-->
+        <item>大</item><!--Large-->
+        <item>特大</item><!--Extra large-->
+        <item>超大</item><!--Huge-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string-array name="volume_button_setting_entries">
+      <item>不进行任何操作</item><!--Do nothing-->
+
+      <item>延迟</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string-array name="weeklayout_secondary_text">
+        <item>日</item><!--SU-->
+        <item>一</item><!--M-->
+        <item>二</item><!--TU-->
+        <item>三</item><!--W-->
+        <item>四</item><!--TH-->
+        <item>五</item><!--F-->
+        <item>六</item><!--SA-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <bool name="config_flip_animation">true</bool>
+    <bool name="config_full_name_month">false</bool>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <dimen name="b_separator_secondary_xs">15sp</dimen>
+    <dimen name="b_toggle_primary_m">16sp</dimen>
+    <dimen name="label_off_m">14sp</dimen>
+    <dimen name="label_on_m">14sp</dimen>
+    <dimen name="list_body_s">19sp</dimen>
+    <dimen name="list_body_xl">31sp</dimen>
+    <dimen name="list_body_xs">16sp</dimen>
+    <dimen name="separator_secondary_xs">16sp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <dimen name="theme3_digital_gap_width">0dp</dimen>
+    <dimen name="theme3_gap_margin_left_right">@dimen/margin_xs</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <dimen name="time_pick_primary_s">35sp</dimen>
+    <dimen name="toggle_primary_m">16sp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">一次</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> 次</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">每 <ns1:g id="count">%d</ns1:g> 天</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">每 <ns1:g id="count">%d</ns1:g> 天</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">每 <ns1:g id="count">%d</ns1:g> 月</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">每 <ns1:g id="count">%d</ns1:g> 月</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">每 <ns1:g id="count">%d</ns1:g> 周</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">每 <ns1:g id="count">%d</ns1:g> 周</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">每 <ns1:g id="count">%d</ns1:g> 年</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">每 <ns1:g id="count">%d</ns1:g> 年</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">每周<ns1:g id="days_of_week">%2$s</ns1:g></item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other">每 <ns1:g id="number">%1$d</ns1:g> 周的<ns1:g id="days_of_week">%2$s</ns1:g></item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"转到主屏幕"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s：%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s - %2$s：%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"转到上一层级"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多选项"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"选择应用"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"关闭"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"开启"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查询"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜索查询"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查询"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"语音搜索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"分享方式"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"通过%s分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收起"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="accessibility_tap_action">双击进行操作</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="add_alarm">添加闹钟</string>
+    <string name="add_alarm_error">闹钟数量已达上限。</string>
+    <string name="add_city">添加城市</string>
+    <string name="add_city_error_msg">您最多可选择 15 个城市。要增加新城市，请删除一个现有的。</string>
+    <string name="add_city_error_title">无法添加城市</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="add_comments">添加评论</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="add_lap_error">秒表可以最多保存 300 圈。点击重置，清除圈数历史。</string>
+    <string name="addcity_search">搜索城市</string>
+    <string name="alarm_alert_alert_silenced"><ns1:g id="minutes">%d</ns1:g> 分钟后闹钟停止。</string>
+    <string name="alarm_alert_dismissed">闹钟已关闭。</string>
+    <string name="alarm_alert_snooze_not_set">未设置延迟。下次闹钟设置为 <ns1:g id="time">%s</ns1:g></string>
+    <string name="alarm_alert_snooze_set">推迟 <ns1:g id="minutes">%d</ns1:g> 分钟。</string>
+    <string name="alarm_caption">闹钟</string>
+    <string name="alarm_in_volume_increase_mode_summary">逐渐增加闹钟音量</string>
+    <string name="alarm_in_volume_increase_mode_title">温柔闹钟</string>
+    <string name="alarm_notify_snooze_label"><ns1:g id="label">%s</ns1:g>（延迟）</string>
+    <string name="alarm_notify_snooze_text">闹钟设置为 <ns1:g id="time">%s</ns1:g>。点击可取消。</string>
+    <string name="alarm_off">闹铃关闭</string>
+    <string name="alarm_offalarm">手机关机时响铃</string>
+    <string name="alarm_on">闹铃开启</string>
+    <string name="alarm_repeat">重复</string>
+    <string name="alarm_ringtone">闹铃声音</string>
+    <string name="alarm_set">此闹钟设置为自现在起的 <ns1:g id="time_delta">%s</ns1:g>后。</string>
+    <string name="alarm_vibrate">振动</string>
+    <string name="alarm_volume_summary">设置闹钟音量</string>
+    <string name="alarm_volume_title">闹钟音量</string>
+    <string name="alert_sound">闹铃声音</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="am">上午</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="analog_gadget">模拟时钟</string>
+    <string name="and">" 又 "</string>
+    <string name="bt_cancel_str">取消</string>
+    <string name="bt_done_str">完成</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="button_hide_caption">隐藏图片说明</string>
+    <string name="button_hide_description">隐藏说明</string>
+    <string name="button_show_caption">显示图片说明</string>
+    <string name="button_show_description">显示说明</string>
+    <string name="carousel_title">编辑显示项</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="city_duplicate">列表中已有此城市</string>
+    <string name="city_not_found">未找到城市</string>
+    <string name="clock_permission_dialog_btn_close">关闭</string>
+    <string name="clock_permission_dialog_btn_settings">设置</string>
+    <string name="clock_permission_dialog_content">为了能正常工作，此应用程序需要访问您的存储。您可以在设置中管理时钟的权限。</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">搜索联系人</string>
+    <string name="common_string_open_contact">打开联系人</string>
+    <string name="common_string_save_to_existing_contact">保存至现有联系人</string>
+    <string name="common_string_save_to_people">保存至联系人</string>
+    <string name="common_string_share_title">分享方式</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="current_settings">设置日期和时间</string>
+    <string name="day_concat">", "</string>
+    <string name="days">"<ns1:g id="days">%s</ns1:g> 天"</string>
+    <string name="dberror">抱歉，无法设置闹钟。</string>
+    <string name="delete_alarm_caption">删除闹钟</string>
+    <string name="delete_city_caption">删除城市</string>
+    <string name="desk_clock_caption">桌面时钟</string>
+    <string name="dialog_button_ok">确定</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="done">完成</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="error">无法添加闹钟</string>
+    <string name="error_title">数据库错误</string>
+    <string name="every_day">每天</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="every_weekday">每个工作日（周一至周五）</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="fit_screen_menu_item">适合屏幕</string>
+    <string name="full_screen_menu_item">全屏</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/googleplay_strings.xml -->
+    <eat-comment/>
+    <string name="googleplay_description_app">无论您是在台湾的台北还是在摩洛哥的马拉喀什，HTC 时钟都可以让您查看您所在位置、国内或者是世界各地城市的时间。其自定义的闹钟、秒表和定时器也让您拥有掌控时间的权力。您可以随心意设置多个闹钟、更改贪睡时间、选择闹钟响起时播放的铃声，甚至让手机在静音时也会响起闹钟。HTC 时钟的秒表适合让您在健身时记录圈数，且定时器可以让您在电视机前方便地烹饪或者监控时间。</string>
+    <string name="googleplay_description_legal">[googleplay_description_legal_common_1]</string>
+    <string name="googleplay_description_short">用 HTC 秒表、定时器、闹钟和世界时钟随时掌握时间。</string>
+    <string name="googleplay_description_supportingScope"/>
+    <string name="googleplay_title">HTC 时钟</string>
+    <string name="googleplay_whatsnew">- 闹钟的声音逐渐增大\n- 错误修复和性能强化</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="home_settings">设置居住地时区</string>
+    <string name="hours"><ns1:g id="hours">%s</ns1:g> 小时</string>
+    <string name="htc_private_app_clock">时钟</string>
+    <string name="internal_memory_low">手机存储空间不足。请释放部分空间，再使用此应用程序。</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="label_day">日</string>
+    <string name="label_hour">小时</string>
+    <string name="label_minute">分钟</string>
+    <string name="label_month">月</string>
+    <string name="label_second">秒</string>
+    <string name="label_year">年</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="lap">圈</string>
+    <string name="lap_error">未保存圈数</string>
+    <string name="lap_id">圈数</string>
+    <string name="lap_time">此圈</string>
+    <string name="lap_title">圈</string>
+    <string name="lap_total_time">总计</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="license_dialog_content">此手机上的部分图标最初是由 Google 设计，并由 HTC 根据<a href="https://creativecommons.org/licenses/by/4.0/legalcode">知识共享署名 4.0 许可协议</a>进行修改。</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="loading_city">正在加载城市列表...</string>
+    <string name="location_dialog_msg">要获得本地天气，请更改您的位置设置至节省电池电量或高准确率模式。</string>
+    <string name="location_dialog_title">位置服务已关闭</string>
+    <string name="location_enable">要查看本地天气情况，点击此处可开启定位服务。</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="location_unavailable">无法获取位置信息</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="lockscreen_hint_dismiss">向下拖动可关闭</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="ls_doubletap_drag">双击并拖动以进行调整</string>
+    <string name="ls_edit_number_before_calling">拨号前编辑号码</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="ls_no_weather_data_available">无可用天气数据</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="ls_open_in_map">在地图中打开</string>
+    <string name="ls_tablet_storage_error">平板电脑存储出现错误。请重启设备或格式化存储。</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="masthead_st_am">上午</string>
+    <string name="masthead_st_auto_sync_off">自动同步已关闭。点击查看天气。</string>
+    <string name="masthead_st_current_location">当前位置</string>
+    <string name="masthead_st_device_only_off">更改位置服务模式以获得天气信息</string>
+    <string name="masthead_st_location_service_off">开启位置服务以获得天气信息</string>
+    <string name="masthead_st_pm">下午</string>
+    <string name="masthead_st_weather_unavailable">天气不可用</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="menu_crop">裁剪</string>
+    <string name="menu_delete">删除</string>
+    <string name="menu_properties">详情</string>
+    <string name="menu_protect_info">保护信息</string>
+    <string name="menu_save_to_my_favorite">设置为收藏</string>
+    <string name="menu_send_photo_link_by_email">分享照片链接</string>
+    <string name="menu_set_as">设为</string>
+    <string name="menu_settings">设置</string>
+    <string name="menu_share">分享</string>
+    <string name="menu_show_on_map">在地图上显示</string>
+    <string name="menu_slideshow">幻灯片</string>
+    <string name="menu_view_full">查看</string>
+    <string name="menu_view_video">播放</string>
+    <string name="meun_rotate">旋转</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="minutes">"<ns1:g id="minutes">%s</ns1:g> 分钟"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="monthly">每月</string>
+    <string name="monthly_on_day_count">"每月（<ns1:g id="ordinal_number">%1$s</ns1:g><ns1:g id="day_of_week">%2$s</ns1:g>）"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="nextAlarm">下次闹钟：<ns1:g id="next_alarm_time">%s</ns1:g></string>
+    <string name="night_clock">@string/desk_clock_caption</string>
+    <string name="nn_alarm">闹钟</string>
+    <string name="nn_description">描述</string>
+    <string name="nn_music">音乐</string>
+    <string name="nn_ringtone">铃声</string>
+    <string name="nn_settings">"设置"</string>
+    <string name="nn_tips_help">使用攻略</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">"未知错误"</string>
+    <string name="no">否</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="pause">暂停</string>
+    <string name="phone_type_home">住宅</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="pm">下午</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="query_fail">访问数据库时出现错误</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="quickselection_share">分享方式</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="rearrange_city_caption">编辑列表</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="refresh">刷新</string>
+    <string name="reminderview_common_unlock_hint_icon">向上拖动图标</string>
+    <string name="reminderview_common_unlock_hint_up">向上拖动以解锁</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="reset">重置</string>
+    <string name="resume">继续</string>
+    <string name="ringtone_title">铃声</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string msgid="146198913615257606" name="search_menu_title">"搜索"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="select_alert">选择提示音</string>
+    <string name="select_ringtone">选择闹铃声音</string>
+    <string name="set_alarm_caption">设置闹钟</string>
+    <string name="snooze">延迟</string>
+    <string name="snooze_duration_title">推迟时长</string>
+    <string name="sound_selection_title">选择闹铃自</string>
+    <string name="space">" "</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">释放以刷新</string>
+    <string name="st_action_bar_updating">更新中...</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="st_default">默认</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="st_draggable_item">可拖动项目</string>
+    <string name="st_loading">正在加载...</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="st_more">更多</string>
+    <string name="st_never">从不</string>
+    <string name="st_off">关闭</string>
+    <string name="st_on">开启</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="st_pull_down_refresh">下拉以刷新</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="st_silent">静音</string>
+    <string name="st_storage_full">存储空间已满</string>
+    <string name="start">开始</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="stop">停止</string>
+    <string name="stopwatch_caption">秒表</string>
+    <string name="storage_full_description">您的手机存储中没有足够的可用空间。请删除部分内容或应用程序。点击下方的 \"设置\" 以管理应用程序。</string>
+    <string name="subminute">"少于1分钟"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="switch_off">关</string>
+    <string name="switch_on">开</string>
+    <string name="tab_remove_dialog_message">您还剩一个显示项。要对此应用程序添加更多显示项，选择菜单中的编辑显示项/筛选。</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="theme3_letter_spacing">0.2</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="time_up">时间到！</string>
+    <string name="timer_caption">定时器</string>
+    <string name="timer_reminder_tile_setting">设置</string>
+    <string name="timer_reminder_tile_timer_up">时间到</string>
+    <string name="tm_10_minutes">10 分钟</string>
+    <string name="tm_1_day">1 天</string>
+    <string name="tm_1_hour">1 小时</string>
+    <string name="tm_1_minute">1 分钟</string>
+    <string name="tm_30_minutes">30 分钟</string>
+    <string name="tm_am">上午</string>
+    <string name="tm_current">当前</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="tm_daily">"每日"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="tm_fri">周五</string>
+    <string name="tm_mon">周一</string>
+    <string name="tm_pm">下午</string>
+    <string name="tm_sat">周六</string>
+    <string name="tm_sun">周日</string>
+    <string name="tm_thu">周四</string>
+    <string name="tm_today">今天</string>
+    <string name="tm_tomorrow">明天</string>
+    <string name="tm_tue">周二</string>
+    <string name="tm_wed">周三</string>
+    <string name="tm_yesterday">昨天</string>
+    <string name="total_title">总计</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">无法删除此显示项</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="va_add">添加</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="va_back">返回</string>
+    <string name="va_call">呼叫</string>
+    <string name="va_cancel">取消</string>
+    <string name="va_clear">"清除"</string>
+    <string name="va_close">关闭</string>
+    <string name="va_copy">复制</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="va_deselect_all">取消全选</string>
+    <string name="va_dismiss">"关闭"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="va_download">下载</string>
+    <string name="va_downloading">正在下载</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="va_edit">编辑</string>
+    <string name="va_edit_tabs">编辑显示项</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="va_finish">结束</string>
+    <string name="va_hide">"隐藏"</string>
+    <string name="va_move_above">向上移动</string>
+    <string name="va_move_below">向下移动</string>
+    <string name="va_next">下一步</string>
+    <string name="va_ok">确定</string>
+    <string name="va_open">打开</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="va_rearrange">重排</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="va_reset">重置</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="va_select_all">全选</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="va_send_mail">发送邮件</string>
+    <string name="va_send_message">发送信息</string>
+    <string name="va_show_all">全部显示</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="volume_button_setting_summary">选择闹钟响时按下音量键的对应功能</string>
+    <string name="volume_button_setting_title">音量键功能</string>
+    <string name="weather_high_indicator">高:</string>
+    <string name="weather_low_indicator">低:</string>
+    <string name="world_clock_caption">世界时钟</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="yearly_plain">每年</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-zh-rCN/values-zh-rCN.xml -->
+    <eat-comment/>
+    <string name="yes">是</string>
+</resources>

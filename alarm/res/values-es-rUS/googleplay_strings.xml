@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="googleplay_title">Reloj de HTC</string><!--HTC Clock-->
+    <string name="googleplay_whatsnew">- Las alarmas gradualmente suenan más alto\n- Correcciones de errores y mejoras en el rendimiento</string><!---/ Alarms gradually get louder\n-/ Bug fixes and performance improvements-->
+	
+<!-- Description for Clock APP -->
+    <string name="googleplay_description_app">Ya sea que se encuentre en Taipéi, Taiwán o en Marrakech, Marruecos, Reloj de HTC le permite verificar el tiempo en su ubicación actual, en casa y en otras ciudades alrededor del mundo. Además, tenga a su alcance el poder de la gestión del tiempo con sus alarmas, cronómetro y temporizador personalizables. Configure todas las alarmas que guste, cambie la duración de la repetición de alarmas, elija el sonido de reproducción cuando se activan las alarmas e incluso haga sonar las alarmas cuando el teléfono está en silencio. El cronómetro del Reloj de HTC es perfecto para grabar vueltas mientras hace ejercicio y el temporizador resulta muy práctico para cocinar o monitorear el tiempo mientras está frente a la TV.</string><!--Whether you\'re in Taipei, Taiwan or Marrakech, Morocco, HTC Clock lets you check the time in your current location, at home and in cities around the world. Its customizable alarms, stopwatch and timer put the power of time management in your pocket, too. Set as many alarms as you like, change the snooze duration, choose the sound that plays when alarms go off and even make alarms sound when your phone is on silent. HTC Clock\'s stopwatch is great for recording laps while working out, and the timer is handy for cooking or monitoring time in front of the TV.-->
+<!-- Description for Clock SupportingScope -->
+	<string name="googleplay_description_supportingScope"></string>
+<!-- Description for Clock Legal -->
+    <string name="googleplay_description_legal">[googleplay_description_legal_common_1]</string>
+    <string name="googleplay_description_short">Controle el tiempo con cronómetro, temporizador, alarma y reloj mundial de HTC.</string><!--Keep track of time with HTC\'s sleek stopwatch, timer, alarm and world clock.-->
+</resources>
+

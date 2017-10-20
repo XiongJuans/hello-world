@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="googleplay_title">HTC sat</string><!--HTC Clock-->
+    <string name="googleplay_whatsnew">- Alarmi postupno pojačavaju glasnoću\n- Riješeni problemi i poboljšana radna svojstva</string><!---/ Alarms gradually get louder\n-/ Bug fixes and performance improvements-->
+	
+<!-- Description for Clock APP -->
+    <string name="googleplay_description_app">Bilo da ste u Tajpeju u Tajvanu ili Marakešu u Maroko, HTC sat omogućava provjeru koliko je sati na mjestu na kojem se trenutno nalazite, koliko je sati u vašem prebivalištu, kao i u ostalim gradovima na svijetu. Njegovi prilagodljivi alarmi, štoperica i mjerač vremena omogućuju vam jednostavno upravljanje vremenom. Postavite onoliko alarma koliko vam je potrebno, mijenjajte trajanje odgode, odaberite zvuk nakon isključivanja alarma i odaberite oglašavanje alarma i kad je telefon utišan. Štoperica HTC sata izvrsna je za praćenje i snimanje prijeđenog puta tijekom tjelovježbe, a mjerač vremena ili tajmer vrlo je praktičan pri kuhanju ili praćenju ograničenog vremena koje imate za gledanje televizije.</string><!--Whether you\'re in Taipei, Taiwan or Marrakech, Morocco, HTC Clock lets you check the time in your current location, at home and in cities around the world. Its customizable alarms, stopwatch and timer put the power of time management in your pocket, too. Set as many alarms as you like, change the snooze duration, choose the sound that plays when alarms go off and even make alarms sound when your phone is on silent. HTC Clock\'s stopwatch is great for recording laps while working out, and the timer is handy for cooking or monitoring time in front of the TV.-->
+<!-- Description for Clock SupportingScope -->
+	<string name="googleplay_description_supportingScope"></string>
+<!-- Description for Clock Legal -->
+    <string name="googleplay_description_legal">[googleplay_description_legal_common_1]</string>
+    <string name="googleplay_description_short">Pratite vrijeme raznim HTC-ovim satovima, štopericom, alarmom i svjetskim satom.</string><!--Keep track of time with HTC\'s sleek stopwatch, timer, alarm and world clock.-->
+</resources>
+

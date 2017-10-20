@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="googleplay_title">HTC Часы</string><!--HTC Clock-->
+    <string name="googleplay_whatsnew">– Постепенное увеличение громкости сигналов\n– Исправления ошибок и улучшения характеристик</string><!---/ Alarms gradually get louder\n-/ Bug fixes and performance improvements-->
+	
+<!-- Description for Clock APP -->
+    <string name="googleplay_description_app">Где бы вы ни находились — в Тайбэе, Тайвань, или в Марракеше, Марокко, Часы HTC покажут время в вашем текущем местонахождении, дома и в городах по всему миру. С их настраиваемыми сигналами, секундомером и таймером контроль над временем — всегда у вас в кармане. Настройте столько сигналов, сколько вам нужно, измените интервал повтора, выберите звук, который прозвучит по завершении сигнала. Можете даже создать звук сигналов для телефона в режиме "Без звука". Секундомер из приложения HTC "Часы" отлично подходит для фиксации времени прохождения дистанции на тренировках, а таймер удобно использовать при приготовлении пищи или установки времени перед просмотром телепередач.</string><!--Whether you\'re in Taipei, Taiwan or Marrakech, Morocco, HTC Clock lets you check the time in your current location, at home and in cities around the world. Its customizable alarms, stopwatch and timer put the power of time management in your pocket, too. Set as many alarms as you like, change the snooze duration, choose the sound that plays when alarms go off and even make alarms sound when your phone is on silent. HTC Clock\'s stopwatch is great for recording laps while working out, and the timer is handy for cooking or monitoring time in front of the TV.-->
+<!-- Description for Clock SupportingScope -->
+	<string name="googleplay_description_supportingScope"></string>
+<!-- Description for Clock Legal -->
+    <string name="googleplay_description_legal">[googleplay_description_legal_common_1]</string>
+    <string name="googleplay_description_short">Не отставайте от времени: секундомер, таймер, будильник и мировое время от HTC.</string><!--Keep track of time with HTC\'s sleek stopwatch, timer, alarm and world clock.-->
+</resources>
+

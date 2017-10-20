@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-ar/arrays.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>كل أول جمعة</item><!--on every first Friday-->
+        <item>كل ثاني جمعة</item><!--on every second Friday-->
+        <item>كل ثالث جمعة</item><!--on every third Friday-->
+        <item>كل رابع جمعة</item><!--on every fourth Friday-->
+        <item>كل آخر جمعة</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>كل أول اثنين</item><!--on every first Monday-->
+        <item>كل ثاني اثنين</item><!--on every second Monday-->
+        <item>كل ثالث اثنين</item><!--on every third Monday-->
+        <item>كل رابع اثنين</item><!--on every fourth Monday-->
+        <item>كل آخر اثنين</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>كل أول سبت</item><!--on every first Saturday-->
+        <item>كل ثاني سبت</item><!--on every second Saturday-->
+        <item>كل ثالث سبت</item><!--on every third Saturday-->
+        <item>كل رابع سبت</item><!--on every fourth Saturday-->
+        <item>كل آخر سبت</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>كل أول أحد</item><!--on every first Sunday-->
+        <item>كل ثاني أحد</item><!--on every second Sunday-->
+        <item>كل ثالث أحد</item><!--on every third Sunday-->
+        <item>كل رابع أحد</item><!--on every fourth Sunday-->
+        <item>كل آخر أحد</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>كل أول خميس</item><!--on every first Thursday-->
+        <item>كل ثاني خميس</item><!--on every second Thursday-->
+        <item>كل ثالث خميس</item><!--on every third Thursday-->
+        <item>كل رابع خميس</item><!--on every fourth Thursday-->
+        <item>كل آخر خميس</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>كل أول ثلاثاء</item><!--on every first Tuesday-->
+        <item>كل ثاني ثلاثاء</item><!--on every second Tuesday-->
+        <item>كل ثالث ثلاثاء</item><!--on every third Tuesday-->
+        <item>كل رابع ثلاثاء</item><!--on every fourth Tuesday-->
+        <item>كل آخر ثلاثاء</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>كل أول أربعاء</item><!--on every first Wednesday-->
+        <item>كل ثاني أربعاء</item><!--on every second Wednesday-->
+        <item>كل ثالث أربعاء</item><!--on every third Wednesday-->
+        <item>كل رابع أربعاء</item><!--on every fourth Wednesday-->
+        <item>كل آخر أربعاء</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">مرة واحدة</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> مرة</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">كل <ns1:g id="count">%d</ns1:g> يوم</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">كل <ns1:g id="count">%d</ns1:g> يوم</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">كل <ns1:g id="count">%d</ns1:g> شهر</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">كل <ns1:g id="count">%d</ns1:g> شهر</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">كل <ns1:g id="count">%d</ns1:g> أسبوع</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">كل <ns1:g id="count">%d</ns1:g> أسبوع</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">كل <ns1:g id="count">%d</ns1:g> سنة</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">كل <ns1:g id="count">%d</ns1:g> سنة</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">أسبوعيًا في <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other">كل <ns1:g id="number">%1$d</ns1:g> أسبوع في <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <string name="every_weekday">"أيام الأسبوع (الاثنين\u2013الجمعة)"</string>
+    <string name="monthly">شهريًا</string>
+    <string name="monthly_on_day_count">\"شهريًا (كل <ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g>)\"</string>
+    <string name="tm_daily">\"يوميًا\"</string>
+    <string name="yearly_plain">سنويًا</string>
+</resources>

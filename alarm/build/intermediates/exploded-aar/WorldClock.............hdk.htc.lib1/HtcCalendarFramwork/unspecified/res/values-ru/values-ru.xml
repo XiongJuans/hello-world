@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-ru/arrays.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>каждую первую пятницу</item><!--on every first Friday-->
+        <item>каждую вторую пятницу</item><!--on every second Friday-->
+        <item>каждую третью пятницу</item><!--on every third Friday-->
+        <item>каждую четвертую пятницу</item><!--on every fourth Friday-->
+        <item>каждую последнюю пятницу</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>каждый первый понедельник</item><!--on every first Monday-->
+        <item>каждый второй понедельник</item><!--on every second Monday-->
+        <item>каждый третий понедельник</item><!--on every third Monday-->
+        <item>каждый четвертый понедельник</item><!--on every fourth Monday-->
+        <item>каждый последний понедельник</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>каждую первую субботу</item><!--on every first Saturday-->
+        <item>каждую вторую субботу</item><!--on every second Saturday-->
+        <item>каждую третью субботу</item><!--on every third Saturday-->
+        <item>каждую четвертую субботу</item><!--on every fourth Saturday-->
+        <item>каждую последнюю субботу</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>каждое первое воскресенье</item><!--on every first Sunday-->
+        <item>каждое второе воскресенье</item><!--on every second Sunday-->
+        <item>каждое третье воскресенье</item><!--on every third Sunday-->
+        <item>каждое четвертое воскресенье</item><!--on every fourth Sunday-->
+        <item>каждое последнее воскресенье</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>каждый первый четверг</item><!--on every first Thursday-->
+        <item>каждый второй четверг</item><!--on every second Thursday-->
+        <item>каждый третий четверг</item><!--on every third Thursday-->
+        <item>каждый четвертый четверг</item><!--on every fourth Thursday-->
+        <item>каждый последний четверг</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>каждый первый вторник</item><!--on every first Tuesday-->
+        <item>каждый второй вторник</item><!--on every second Tuesday-->
+        <item>каждый третий вторник</item><!--on every third Tuesday-->
+        <item>каждый четвертый вторник</item><!--on every fourth Tuesday-->
+        <item>каждый последний вторник</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>каждую первую среду</item><!--on every first Wednesday-->
+        <item>каждую вторую среду</item><!--on every second Wednesday-->
+        <item>каждую третью среду</item><!--on every third Wednesday-->
+        <item>каждую четвертую среду</item><!--on every fourth Wednesday-->
+        <item>каждую последнюю среду</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-ru/strings.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">один раз</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> раз</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Каждый <ns1:g id="count">%d</ns1:g> день</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Каждые <ns1:g id="count">%d</ns1:g> дней</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Каждый <ns1:g id="count">%d</ns1:g> месяц</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Каждые <ns1:g id="count">%d</ns1:g> месяцев</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Каждую <ns1:g id="count">%d</ns1:g> неделю</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Каждые <ns1:g id="count">%d</ns1:g> недели</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Каждый <ns1:g id="count">%d</ns1:g> год</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Каждые <ns1:g id="count">%d</ns1:g> лет</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">Еженедельно по <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other">Каждую <ns1:g id="number">%1$d</ns1:g> неделю по <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <string name="every_weekday">"По будням (Пн\u2013Пт)"</string>
+    <string name="monthly">"Ежемесячно"</string>
+    <string name="monthly_on_day_count">"Ежемесячно (каждый/ую <ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g>)"</string>
+    <string name="tm_daily">Ежедневно</string>
+    <string name="yearly_plain">Ежегодно</string>
+</resources>

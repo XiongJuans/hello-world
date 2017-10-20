@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/info_temp_area"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true"
+    android:paddingLeft="@dimen/leading"
+    android:layout_marginTop="@dimen/theme_dual_city_margin_top"
+    android:paddingTop="@dimen/theme_dual_clock_padding_top"
+    android:paddingBottom="@dimen/theme_dual_clock_padding_bottom">
+    <com.htc.lib1.masthead.view.WeatherDisplay
+        android:id="@+id/sun_block"
+        android:layout_width="@dimen/theme_dual_sun_small_width"
+        android:layout_height="@dimen/theme_dual_sun_small_width"
+        android:layout_weight="0">
+        <ImageView
+            android:id="@+id/sun"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone" />
+        <TextView
+            android:id="@+id/no_weather_text"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:ellipsize="marquee"
+            android:singleLine="true"
+            android:visibility="invisible" />
+    </com.htc.lib1.masthead.view.WeatherDisplay>
+    <RelativeLayout
+        android:id="@+id/temp_block"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingRight="@dimen/leading"
+        android:layout_weight="0"
+        android:layout_gravity="center_vertical"
+        android:visibility="invisible" >
+        <TextView
+            android:id="@+id/temperature"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:singleLine="true" 
+            style="@style/fixed_masthead_11"/>
+        <TextView
+            android:id="@+id/temperature_degree_symbol"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/temperature"
+            android:text="@string/temp_degree"
+            android:layout_marginTop="@dimen/theme_dual_temp_degree_margin_top"
+            android:singleLine="true"
+            style="@style/fixed_masthead_12" />
+        <TextView
+            android:id="@+id/temperature_degree_c_f"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/temperature_degree_symbol"
+            android:layout_marginTop="@dimen/theme_dual_temp_degree_margin_top"
+            android:singleLine="true"
+            style="@style/fixed_masthead_12"/>
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+        <TextView
+            android:id="@+id/align_base"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:singleLine="true"
+            android:text="@string/comma"
+            android:visibility="invisible"
+            style="@style/fixed_masthead_11"/>
+        <TextView
+            android:id="@+id/city_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@id/align_base"
+            android:visibility="invisible" 
+            android:singleLine="true"
+            android:ellipsize="marquee"
+            style="@style/fixed_masthead_11"/>
+    </RelativeLayout>
+</LinearLayout>
+<!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/layout/specific_theme0_clock_dual_4x1_info.xml -->

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-land-mdpi/dimen_tabbar.xml -->
+    <eat-comment/>
+    <dimen name="tab_indicator_height">4dp</dimen>
+    <dimen name="tabbar_height">28dp</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-land-mdpi/integer_common.xml -->
+    <eat-comment/>
+    <integer name="carousel_pool_line_width">4</integer>
+</resources>

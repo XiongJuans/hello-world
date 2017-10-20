@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-ja/arrays.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>毎月第一金曜日</item><!--on every first Friday-->
+        <item>毎月第二金曜日</item><!--on every second Friday-->
+        <item>毎月第三金曜日</item><!--on every third Friday-->
+        <item>毎月第四金曜日</item><!--on every fourth Friday-->
+        <item>毎月最終金曜日</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>毎月第一月曜日</item><!--on every first Monday-->
+        <item>毎月第二月曜日</item><!--on every second Monday-->
+        <item>毎月第三月曜日</item><!--on every third Monday-->
+        <item>毎月第四月曜日</item><!--on every fourth Monday-->
+        <item>毎月最終月曜日</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>毎月第一土曜日</item><!--on every first Saturday-->
+        <item>毎月第二土曜日</item><!--on every second Saturday-->
+        <item>毎月第三土曜日</item><!--on every third Saturday-->
+        <item>毎月第四土曜日</item><!--on every fourth Saturday-->
+        <item>毎月最終土曜日</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>毎月第一日曜日</item><!--on every first Sunday-->
+        <item>毎月第二日曜日</item><!--on every second Sunday-->
+        <item>毎月第三日曜日</item><!--on every third Sunday-->
+        <item>毎月第四日曜日</item><!--on every fourth Sunday-->
+        <item>毎月最終日曜日</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>毎月第一木曜日</item><!--on every first Thursday-->
+        <item>毎月第二木曜日</item><!--on every second Thursday-->
+        <item>毎月第三木曜日</item><!--on every third Thursday-->
+        <item>毎月第四木曜日</item><!--on every fourth Thursday-->
+        <item>毎月最終木曜日</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>毎月第一火曜日</item><!--on every first Tuesday-->
+        <item>毎月第二火曜日</item><!--on every second Tuesday-->
+        <item>毎月第三火曜日</item><!--on every third Tuesday-->
+        <item>毎月第四火曜日</item><!--on every fourth Tuesday-->
+        <item>毎月最終火曜日</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>毎月第一水曜日</item><!--on every first Wednesday-->
+        <item>毎月第二水曜日</item><!--on every second Wednesday-->
+        <item>毎月第三水曜日</item><!--on every third Wednesday-->
+        <item>毎月第四水曜日</item><!--on every fourth Wednesday-->
+        <item>毎月最終水曜日</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">1 回</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> 回</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one"><ns1:g id="count">%d</ns1:g> 日ごと</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other"><ns1:g id="count">%d</ns1:g> 日ごと</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one"><ns1:g id="count">%d</ns1:g> 月ごと</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other"><ns1:g id="count">%d</ns1:g> 月ごと</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one"><ns1:g id="count">%d</ns1:g> 週間ごと</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other"><ns1:g id="count">%d</ns1:g> 週間ごと</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one"><ns1:g id="count">%d</ns1:g> 年ごと</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other"><ns1:g id="count">%d</ns1:g> 年ごと</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">毎週 <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other"><ns1:g id="number">%1$d</ns1:g> 週間に一度の <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <string name="every_weekday">"平日（月～金）"</string>
+    <string name="monthly">毎月</string>
+    <string name="monthly_on_day_count">"毎月 (<ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g>)"</string>
+    <string name="tm_daily">"毎日"</string>
+    <string name="yearly_plain">毎年</string>
+</resources>

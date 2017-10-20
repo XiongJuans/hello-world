@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="googleplay_title">HTC 시계</string><!--HTC Clock-->
+    <string name="googleplay_whatsnew">- 알람이 점차 소리가 커짐\n- 버그 수정 및 성능 개선</string><!---/ Alarms gradually get louder\n-/ Bug fixes and performance improvements-->
+	
+<!-- Description for Clock APP -->
+    <string name="googleplay_description_app">대만 타이베이에 있든 모로코의 마라케시에 있는 상관없이, HTC 시계를 통해 사용자의 현재 위치, 고향 또는 전 세계 여러 도시의 시간을 확인할 수 있습니다. 사용자 지정 가능한 알람, 스톱워치 및 타이머를 이용하여 손바닥 안에서 시간 관리가 가능합니다. 원하는 만큼 많은 알람을 설정하고, 다시 알림 간격을 변경하고, 알람이 울릴 때 재생될 사운드를 선택하고, 심지어 휴대폰이 무음일 때 알람 사운드를 만들 수 있습니다. HTC 시계의 스톱워치는 운동시 시간을 기록하는 데 좋고, 타이머는 요리할 때나 TV 시청 시간을 모니터하는 데 편리합니다.</string><!--Whether you\'re in Taipei, Taiwan or Marrakech, Morocco, HTC Clock lets you check the time in your current location, at home and in cities around the world. Its customizable alarms, stopwatch and timer put the power of time management in your pocket, too. Set as many alarms as you like, change the snooze duration, choose the sound that plays when alarms go off and even make alarms sound when your phone is on silent. HTC Clock\'s stopwatch is great for recording laps while working out, and the timer is handy for cooking or monitoring time in front of the TV.-->
+<!-- Description for Clock SupportingScope -->
+	<string name="googleplay_description_supportingScope"></string>
+<!-- Description for Clock Legal -->
+    <string name="googleplay_description_legal">[googleplay_description_legal_common_1]</string>
+    <string name="googleplay_description_short">HTC의 맵시있는 스톱워치, 타이머, 알람 및 세계 시계를 사용하여 시간을 추적합니다.</string><!--Keep track of time with HTC\'s sleek stopwatch, timer, alarm and world clock.-->
+</resources>
+

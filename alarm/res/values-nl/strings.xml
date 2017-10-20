@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+<!-- Title of DeskClock -->
+	<string name="desk_clock_caption">Bureauklok</string><!--Desk Clock-->
+
+<!-- Desk Clock -->
+    <string name="night_clock">@string/desk_clock_caption</string>
+
+<!-- Title of WorldClock -->
+	<string name="world_clock_caption">Wereldklok</string><!--World Clock-->
+    
+<!-- Sublevel title on WorldClock : Add City-->
+    <string name="add_city">Plaats toevoegen</string><!--Add city-->
+
+<!-- The hint for smart search and menu item -->
+    <string name="addcity_search">Steden zoeken</string><!--Search cities-->
+
+<!-- Error notification when there is no city found -->
+    <string name="city_not_found">PLAATS NIET GEVONDEN</string><!--CITY NOT FOUND-->
+    
+<!-- Title of Delete City -->
+	<string name="delete_city_caption">Plaatsen verwijderen</string><!--Delete cities-->
+    
+<!-- Title of Rearrange City -->
+	<string name="rearrange_city_caption">Lijst bewerken</string><!--Edit list-->
+	
+<!-- Menu item on WorldClock : Home Settings -->
+	<string name="home_settings">Tijdzone van huis instellen</string><!--Set home time zone-->
+	
+<!-- Menu item on WorldClock : Current Location Time Settings -->
+	<string name="current_settings">Datum en tijd instellen</string><!--Set date &amp; time-->
+	
+<!-- Title of Stopwatch -->
+	<string name="stopwatch_caption">Stopwatch</string><!--Stopwatch-->
+	
+<!-- Button : Start stopwatch -->
+	<string name="start">Starten</string><!--Start-->
+
+<!-- Button : Pause stopwatch -->
+    <string name="pause">Pauze</string><!--Pause-->
+
+<!-- Button : Resume stopwatch -->
+    <string name="resume">Hervatten</string><!--Resume-->
+    
+<!-- Button : Reset stopwatch -->
+    <string name="reset">Opn. inst.</string><!--Reset-->
+    
+<!-- Button : Stop stopwatch -->
+    <string name="stop">Stoppen</string><!--Stop-->   
+
+<!-- Button : Lap stopwatch -->
+    <string name="lap">Ronde</string><!--Lap-->
+
+<!-- Title of AlarmClock -->
+	<string name="alarm_caption">Alarmsignalen</string><!--Alarms-->
+	
+<!-- Title of AlarmClock Setting -->
+	<string name="set_alarm_caption">Alarm instellen</string><!--Set alarm-->
+	
+<!-- Title of Delete Alarm -->
+	<string name="delete_alarm_caption">Alarmsignalen verwijderen</string><!--Delete alarms-->
+	
+<!-- Sublevel title on AlarmClock : Add alarm-->
+    <string name="add_alarm">Alarm toevoegen</string><!--Add alarm-->
+    
+<!-- Alert message of adding too many alarms -->
+    <string name="add_alarm_error">Maximumaantal alarmen bereikt.</string><!--Maximum number of alarms reached.-->
+
+<!-- Labels for Set Alarm preference : Ringtone -->
+    <string name="alarm_ringtone">Alarmgeluid</string><!--Alarm sound-->
+    
+<!-- Labels for Set Alarm preference : Repeat -->
+    <string name="alarm_repeat">Herhalen</string><!--Repeat-->
+    
+<!-- Labels for Set Alarm preference : Vibrate -->
+    <string name="alarm_vibrate">Trillen</string><!--Vibrate-->
+
+<!-- Alarm Alert screen: this message is shown after an alarm rung unattended for a number of minutes.  It tells the user that the alarm has been silenced.-->
+    <string name="alarm_alert_alert_silenced">Alarm uitgezet na <xliff:g id="minutes">%d</xliff:g> minuten.</string><!--Alarm silenced after <xliff:g id="minutes">%d</xliff:g> minutes.-->
+	
+<!-- Notification when user sets snooze successfully -->
+    <string name="alarm_alert_snooze_set">Uitstellen gedurende <xliff:g id="minutes">%d</xliff:g> minuten.</string><!--Snoozing for <xliff:g id="minutes">%d</xliff:g> minutes.-->
+    
+<!-- Notification when user sets snooze unsuccessfully -->
+    <string name="alarm_alert_snooze_not_set">Uitstellen niet ingesteld. Volgend alarm ingesteld voor <xliff:g id="time">%s</xliff:g>.</string><!--Snooze not set. Next alarm set for <xliff:g id="time">%s</xliff:g>-->
+    
+<!-- Notification when alarm is dismissed -->
+    <string name="alarm_alert_dismissed">Alarm genegeerd.</string><!--Alarm dismissed.-->
+
+<!-- Text for alarm confirmation toast -->
+    <string name="alarm_set">Dit alarm is ingesteld voor <xliff:g id="time_delta">%s</xliff:g> van nu.</string><!--This alarm is set for <xliff:g id="time_delta">%s</xliff:g> from now.-->
+
+<!-- Text for alarm confirmation toast : days -->
+    <string name="days">&quot;<xliff:g id="days">%s</xliff:g> dagen"</string><!--"<xliff:g id="days">%s</xliff:g> days"-->
+    
+<!-- Text for alarm confirmation toast : hours -->
+    <string name="hours"><xliff:g id="hours">%s</xliff:g> uur</string><!--<xliff:g id="hours">%s</xliff:g> hours-->
+    
+<!-- Text for alarm confirmation toast : and -->
+    <string name="and">" en "</string><!--" and "-->
+    
+<!-- Text for alarm confirmation toast : space-->
+    <string name="space">&quot; &quot;</string><!--" "-->
+    
+<!-- Text for alarm confirmation toast : less than 1 minute-->
+    <string name="subminute">"minder dan 1 minuut"</string><!--"less than 1 minute"-->
+
+<!-- Text for alarm confirmation toast : minutes-->
+    <string name="minutes">&quot;<xliff:g id="minutes">%s</xliff:g> minuten"</string><!--"<xliff:g id="minutes">%s</xliff:g> minutes"-->
+
+<!-- Notification of next alarm time -->
+    <string name="nextAlarm">Volgende alarm: <xliff:g id="next_alarm_time">%s</xliff:g></string><!--Next alarm: <xliff:g id="next_alarm_time">%s</xliff:g>-->
+
+<!-- Repeat frequency of alarms : every day -->
+    <string name="every_day">Elke dag</string><!--Every day-->
+
+<!-- Day concat of alarm repeat frequency -->
+    <string name="day_concat">&quot;, &quot;</string><!--", "-->
+
+<!-- Error Dialog when alarm is not set -->
+    <string name="error">Kan geen alarm toevoegen</string><!--Unable to add alarm-->
+
+<!-- Error Dialog of database error -->
+    <string name="dberror">Sorry, het alarm kon niet worden ingesteld.</string><!--Sorry, the alarm could not be set.-->
+	
+<!-- Days of week -->
+    <string-array name="days_of_week">
+        <item>Maandag</item><!--MONDAY-->
+        <item>Dinsdag</item><!--TUESDAY-->
+        <item>Woensdag</item><!--WEDNESDAY-->
+        <item>Donderdag</item><!--THURSDAY-->
+        <item>Vrijdag</item><!--FRIDAY-->
+        <item>Zaterdag</item><!--SATURDAY-->
+        <item>Zondag</item><!--SUNDAY-->
+    </string-array>
+    
+<!-- Month of year : short -->
+    <string-array name="month_of_year">
+    	<item>Jan</item><!--JAN-->
+    	<item>FEB</item><!--FEB-->
+    	<item>Mrt</item><!--MAR-->
+    	<item>Apr</item><!--APR-->
+    	<item>Mei</item><!--MAY-->
+    	<item>Jun</item><!--JUN-->
+    	<item>Jul</item><!--JUL-->
+    	<item>Aug</item><!--AUG-->
+    	<item>Sep</item><!--SEP-->
+    	<item>Okt</item><!--OCT-->
+    	<item>Nov</item><!--NOV-->
+    	<item>Dec</item><!--DEC-->
+    </string-array>
+    
+<!-- Days of week for WorldClock -->
+    <string-array name="days_of_week_capital">
+        <item></item><!---->
+        <item>Zon</item><!--SUN-->
+        <item>Maa</item><!--MON-->
+        <item>Din</item><!--TUE-->
+        <item>Woe</item><!--WED-->
+        <item>Don</item><!--THU-->
+        <item>Vri</item><!--FRI-->
+        <item>Zat</item><!--SAT-->
+    </string-array> 
+<!-- Whole Days of week for WorldClock -->
+    <string-array name="days_of_week_whole_capital">
+        <item></item>
+        <item>Zondag</item><!--SUNDAY-->
+        <item>Maandag</item><!--MONDAY-->
+        <item>Dinsdag</item><!--TUESDAY-->
+        <item>Woensdag</item><!--WEDNESDAY-->
+        <item>Donderdag</item><!--THURSDAY-->
+        <item>Vrijdag</item><!--FRIDAY-->
+        <item>Zaterdag</item><!--SATURDAY-->
+    </string-array>
+    
+<!-- Repeat Options -->
+    <string-array name="repeat_option">
+        <item>Ma-Vrij</item><!--Mon -/ Fri-->
+        <item>Niet herhalen</item><!--Do not repeat-->
+        <item>Elke dag</item><!--Every day-->
+        <item>Feestdagen overslaan</item><!--Skip holidays-->
+        <item>Aangepast</item><!--Custom-->
+    </string-array>
+    
+<!-- Title of Timer -->
+    <string name="timer_caption">Timer</string><!--Timer-->
+    
+<!-- Labels for Set Timer preference : Alert Sound -->
+    <string name="alert_sound">Alarmgeluid</string><!--Alarm sound-->
+    
+<!-- Title of alert dialog when timer expires -->
+    <string name="time_up">Tijd is voorbij!</string><!--Time\'s up!-->
+    
+<!-- Application name -->
+	<string name="htc_private_app_clock">Klok</string><!--Clock-->
+
+<!-- Message for user when loading cities -->
+	<string name="loading_city">Stedenlijst wordt geladen...</string><!--Loading city list...-->
+	
+<!-- Error title for full internal storage -->
+	<string name="error_title">Databasefout</string><!--Database error-->
+	
+<!-- Error message for failing querying db -->
+	<string name="query_fail">Fouten opgetreden bij openen van de database</string><!--Errors occurred while accessing the database-->
+	
+<!-- Title for selecting alarm ringtone -->
+    <string name="select_ringtone">Alarmgeluid selecteren</string><!--Select alarm sound-->
+
+<!-- Title of ringtone picker -->
+    <string name="select_alert">Alarmmelding selecteren</string><!--Select alert sound-->
+    
+<!-- Days of week : abbreviate -->
+    <string-array name="days_of_week_abbr">
+        <item>Ma</item><!--M-->
+        <item>Di</item><!--TU-->
+        <item>Wo</item><!--W-->
+        <item>Do</item><!--TH-->
+        <item>Vr</item><!--F-->
+        <item>Za</item><!--SA-->
+        <item>Zo</item><!--SU-->
+    </string-array>
+    
+<!-- Title in Google Gadget -->
+    <string name="analog_gadget">Analoge klok</string><!--Analog Clock-->
+    
+<!-- Error Dialog when city is not added -->
+    <string name="add_city_error_title">Kan stad niet toevoegen</string><!--Unable to add city-->
+    
+<!-- Error Dialog of adding too many cities -->
+    <string name="add_city_error_msg">Je kunt maximaal 15 steden hebben. Verwijder een bestaande stad als je een nieuwe wilt toevoegen.</string><!--You can have a maximum of 15 cities. To add a new one, please delete an existing city.-->
+    
+<!-- Alert message of adding duplicate city -->
+    <string name="city_duplicate">Deze stad staat al in de lijst</string><!--This city is already in the list-->
+
+<!-- start: Merge alarm Clock Settings -->
+<!-- alarm_in_volume_increase_mode -->
+    <string name="alarm_in_volume_increase_mode_title">Zacht alarm</string><!--Gentle alarm-->
+    
+<!-- Gradually increase alarm volume -->
+    <string name="alarm_in_volume_increase_mode_summary">Alarmvolume geleidelijk verhogen</string><!--Gradually increase alarm volume-->
+    
+<!-- Alarm volume -->
+    <string name="alarm_volume_title">Alarm volume</string><!--Alarm volume-->
+
+<!-- Set the volume of alarms -->
+    <string name="alarm_volume_summary">Stel het volume in van alarmsignalen</string><!--Set the volume of alarms-->
+
+<!-- Snooze duration -->
+    <string name="snooze_duration_title">Snooze duur</string><!--Snooze duration-->
+
+<!-- Entries listed in the ListPreference when invoking the snooze duration preference. -->
+    <string-array name="snooze_duration_entries">
+      <item>5 minuten</item><!--5 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_10_minutes</item>
+      <item>15 minuten</item><!--15 minutes-->
+      <item>20 minuten</item><!--20 minutes-->
+      <item>25 minuten</item><!--25 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_30_minutes</item>
+    </string-array>
+    
+<!-- Side button behavior -->
+    <string name="volume_button_setting_title">Opties volumeknop</string><!--Volume button options-->
+
+<!-- Entries listed in the setting for the side-button action. -->
+    <string-array name="volume_button_setting_entries">
+      <item>Niets doen</item><!--Do nothing-->
+
+      <item>Snooze</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+    </string-array>
+
+<!-- Entries listed in the setting for the side-button action. -->
+    <string-array name="sprint_volume_button_setting_entries">
+      <item>Niets doen</item><!--Do nothing-->
+
+      <item>Uitstellen</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+
+      <item>Stil</item><!--Silence-->
+    </string-array>
+
+<!-- The summary of the side button setting. -->
+    <string name="volume_button_setting_summary">Kies wat de volumeknoppen doen wanneer hierop wordt gedrukt tijdens een alarm</string><!--Choose what the volume buttons do when pressed during an alarm-->
+<!-- end: Merge alarm Clock Settings -->
+        
+<!-- The indicator for High temperature -->
+    <string name="weather_high_indicator">H:</string><!--H:-->
+    
+<!-- The indicator for Low temperature -->
+    <string name="weather_low_indicator">L:</string><!--L:-->   
+
+<!-- Text to display in the notification ticker and label -->
+    <string name="alarm_notify_snooze_label"><xliff:g id="label">%s</xliff:g> (uitgesteld)</string><!--<xliff:g id="label">%s</xliff:g> (snoozed)-->
+
+<!-- Text to display in the notification when the alarm has been snoozed -->
+    <string name="alarm_notify_snooze_text">Alarm ingesteld voor <xliff:g id="time">%s</xliff:g>. Tik om te annuleren.</string><!--Alarm set for <xliff:g id="time">%s</xliff:g>. Tap to cancel.-->
+
+<!-- Alarm Off -->
+    <string name="alarm_off">Alarm uit</string><!--Alarm Off-->
+<!-- Alarm On -->
+    <string name="alarm_on">Alarm aan</string><!--Alarm On-->
+    
+<!-- Select alarm sound from -->
+    <string name="sound_selection_title">Alarmgeluid selecteren van</string><!--Select alarm sound from-->
+<!-- Ringtones -->
+    <string name="ringtone_title">Beltonen</string><!--Ringtones-->
+
+<!-- Entries listed in the setting for the clock sound selection. -->
+    <string-array name="sound_selection_setting_entries">
+<!-- Alarm sound -->
+      <item>Alarmgeluid</item><!--Alarm sound-->
+<!-- Do not translate. Ringtone -->
+      <item>@string/nn_ringtone</item>
+<!-- Do not translate. Music -->
+      <item>@string/nn_music</item>
+    </string-array>
+
+<!-- Labels for Stopwatch : Total-->
+    <string name="total_title">Totaal</string><!--Total-->
+    
+<!-- Labels for Stopwatch : Lap-->
+    <string name="lap_title">Ronde</string><!--Lap-->
+
+<!-- Labels for Stopwatch : Lap ID-->
+    <string name="lap_id">Ronde #</string><!--Lap #-->
+    
+<!-- Labels for Stopwatch : Running total-->
+    <string name="lap_total_time">Totaal</string><!--Total-->
+    
+<!-- Labels for Stopwatch : This lap-->
+    <string name="lap_time">Deze ronde</string><!--This lap-->
+    
+<!-- Error Dialog when lap is not set -->
+    <string name="lap_error">Ronde niet opgeslagen</string><!--Lap not saved-->
+    
+<!-- Alert message of adding too many laps -->
+    <string name="add_lap_error">De Stopwatch kan maximaal 300 rondes opslaan. Tik op Opnieuw instellen om de rondegeschiedenis te wissen.</string><!--Stopwatch can save a maximum of 300 laps. Tap Reset to clear lap history.-->
+    
+<!-- Tips for Weather Location : Location Enable -->
+    <string name="location_enable">Voor het plaatselijke weerbericht tik hier om de Locatiedienst in te schakelen.</string><!--To see local weather,\ntap here to turn on Location Service.-->
+
+<!-- menu item for Full screen -->
+    <string name="full_screen_menu_item">Volledig scherm</string><!--Full screen-->
+<!-- menu item for Fit screen -->
+    <string name="fit_screen_menu_item">Passend op scherm</string><!--Fit screen-->
+<!-- Storage low dialog -->
+    <string name="storage_full_description">Er is onvoldoende vrije ruimte in het telefoongeheugen. Verwijder enkele gegevens of applicaties. Tik op \"Instellingen\" hieronder om de applicaties te beheren.</string><!--You don\'t have enough free space remaining in your phone\'s storage.Please delete some content or applications.Tap \"Settings\" below to manage your apps.-->
+    
+<!-- for timer -->
+    <string name="timer_reminder_tile_timer_up">Tijd is verstreken</string><!--Time is up-->
+    <string name="timer_reminder_tile_setting">Instellingen</string><!--Settings-->
+    
+<!-- below is removed by common string, move to local -->
+    <string-array name="days_of_week_short">
+        <item>@string/tm_mon</item>
+        <item>@string/tm_tue</item>
+        <item>@string/tm_wed</item>
+        <item>@string/tm_thu</item>
+        <item>@string/tm_fri</item>
+        <item>@string/tm_sat</item>
+        <item>@string/tm_sun</item>
+    </string-array>
+    
+    <string name="tm_mon">Maa</string><!--Mon-->
+    <string name="tm_tue">Din</string><!--Tue-->
+    <string name="tm_wed">Woe</string><!--Wed-->
+    <string name="tm_thu">Don</string><!--Thu-->
+    <string name="tm_fri">Vrij</string><!--Fri-->
+    <string name="tm_sat">Zat</string><!--Sat-->
+    <string name="tm_sun">Zon</string><!--Sun-->
+    <string name="tm_10_minutes">10 minuten</string><!--10 minutes-->
+    <string name="tm_30_minutes">30 minuten</string><!--30 minutes-->
+    <string name="va_dismiss">Negeren</string><!--Dismiss-->
+    <string name="nn_ringtone">Beltoon</string><!--Ringtone-->
+    <string name="nn_music">Muziek</string><!--Music-->
+<!-- AccountManager: In loginSettings activity: Label for "Done" button item -->
+    <string name="bt_done_str">Gereed</string><!--Done-->
+    <string name="tm_am">AM</string><!--AM-->
+    <string name="tm_pm">PM</string><!--PM-->
+<!-- Lable for phone number type: Home number -->
+    <string name="phone_type_home">Thuis</string><!--Home-->
+<!-- Dialog Yes button -->
+    <string name="dialog_button_ok">OK</string><!--OK-->
+<!-- AccountManager: In loginSettings activity: Label for "Cancel" button item -->
+    <string name="bt_cancel_str">Annuleren</string><!--Cancel-->
+<!-- To snooze a notification -->
+    <string name="snooze">Snooze</string><!--Snooze-->
+<!-- The default hint on lockscreen to indicate what to do. Drag down the arc are to dismiss current reminder. -->
+    <string name="lockscreen_hint_dismiss">Veeg omlaag om af te wijzen</string><!--Drag down to dismiss-->
+    <string name="nn_alarm">Alarm</string><!--Alarm-->
+    <string name="tm_today">Vandaag</string><!--Today-->
+    <string name="tm_yesterday">Gisteren</string><!--Yesterday-->
+    <string name="tm_tomorrow">Morgen</string><!--Tomorrow-->
+    <string name="tm_current">Huidig</string><!--Current-->
+    <string name="va_rearrange">Herordenen</string><!--Rearrange-->
+    <string name="va_edit">Bewerken</string><!--Edit-->
+    <string name="va_select_all">Alles selecteren</string><!--Select all-->
+    <string name="va_deselect_all">Alles deselecteren 
+</string><!--Deselect all-->
+    <string name="nn_description">Beschrijving</string><!--Description-->
+    <string name="tm_1_day">1 dag</string><!--1 day-->
+    <string name="tm_1_hour">1 uur</string><!--1 hour-->
+    <string name="tm_1_minute">1 minuut</string><!--1 minute-->
+    <string name="st_on">Aan</string><!--On-->
+    <string name="st_off">Uit</string><!--Off-->
+    <string name="st_never">Nooit</string><!--Never-->
+    <string name="va_add">Toevoegen</string><!--Add-->
+    <string name="va_edit_tabs">Tabbladen bewerken</string><!--Edit tabs-->
+    <string name="ls_no_weather_data_available">Geen weergegevens beschikbaar</string><!--No weather data available-->
+    <string name="st_storage_full">Opslag vol</string><!--Storage full-->
+    <string name="nn_settings">Instellingen</string><!--Settings-->
+<!-- [Add][Start] add "Tips & Help" by Yami Day's request -->
+    <string name="nn_tips_help">Tips en Help</string><!--Tips &amp; Help-->
+<!-- [Add][End] add "Tips & Help" by Yami Day's request -->
+<!-- [Gallery OpenSense - GA50 Skyer_Tai] Warning message for low internal memory scenario -->
+    <string name="internal_memory_low">Weinig opslagruimte op de telefoon. Maak wat ruimte vrij voordat je deze applicatie gebruikt.</string><!--Your phone is low on storage space. Please make some free space before using this application.-->
+    <string name="st_default">Standaard</string><!--Default-->
+<!-- [Add][Start] Add for ContentUri, called back from soundPicker(Mail/Calendar/Message) -->
+    <string name="st_silent">Stil</string><!--Silent-->
+<!-- [Add][End] Add for ContentUri, called back from soundPicker(Mail/Calendar/Message) -->
+    <string name="st_more">Meer</string><!--More-->
+
+<!-- Labels for Set Alarm preference : OffAlarm -->
+    <string name="alarm_offalarm">Alarm als telefoon uit is</string><!--Sound when phone off-->
+
+<!-- Dialog title for describe that this app needs additional permission -->
+    
+<!-- Do not translate -->
+	<!--<string name="clock_permission_dialog_title">@string/htc_private_app_clock</string>-->
+    
+<!-- Dialog content for describe that this app needs additional permission -->
+    <string name="clock_permission_dialog_content">Voor een goede werking heeft deze app toegang nodig tot je geheugen. Je kunt rechten van Klok beheren in Instellingen.</string><!--To work properly, this app needs to access your storage. You can manage Clock\'s permissions in Settings.-->
+<!-- [Button] Dialog button to bring user to Settings page -->
+    <string name="clock_permission_dialog_btn_settings">Instellingen</string><!--Settings-->
+<!-- [Button] Dialog button to close dialog -->
+    <string name="clock_permission_dialog_btn_close">Sluiten</string><!--Close-->
+    
+<!-- location setting -->
+<!-- Dialog title to ask user to turn on network location provider -->
+    <string name="location_dialog_title">Locatieservices staan uit</string><!--Location services are off-->
+<!-- Dialog content to ask user to turn on network location provider -->
+    <string name="location_dialog_msg">Om lokaal weer op te halen, moet je de locatie-instellingen wijzigen naar batterijbesparing of zeer nauwkeurige modus.</string><!--To get local weather, change your location settings to battery saving or high accuracy mode.-->
+</resources>
+
+
+

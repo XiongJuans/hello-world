@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/* 
+ * Copyright 2008 Google Inc.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License"); 
+ * you may not use this file except in compliance with the License. 
+ * You may obtain a copy of the License at 
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0 
+ *
+ * Unless required by applicable law or agreed to in writing, software 
+ * distributed under the License is distributed on an "AS IS" BASIS, 
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. 
+ * See the License for the specific language governing permissions and 
+ * limitations under the License.
+ */
+-->
+<resources>
+    <color name="white">#ffffff</color>			<!-- RGB (255, 255, 255) -->	
+    <color name="grey">#ff4c4c4c</color>			<!-- RGB (76, 76, 76) -->	
+    <color name="light_grey">#ff333333</color>		<!-- RGB (51, 51, 51) -->
+    <color name="black">#2c2e2f</color>			<!-- RGB (0, 0, 0) -->
+    <color name="transparent">#00000000</color>
+    <color name="red">#ffee0000</color>
+    <color name="shadow1_color">#ff666666</color>			<!-- RGB (102, 102, 102) -->
+    <color name="timer_color">#ffffffff</color>		<!-- RGB (220, 220, 220) -->
+    <color name="alert_uri_color">#ffcccccc</color>	<!-- RGB (130, 130, 130) -->
+    <color name="search_highlight">#ff7fb118</color>
+    <color name="search_highlight_blue">#ff35c4ec</color>
+    <color name="search_highlight_black">#ff7fb118</color>
+    <color name="delete_on_color">#ffffffff</color>   
+    <color name="delete_off_color">#33ffffff</color>
+    <color name="listview_bg_color">#fff2f2f2</color>
+    <color name="text_focus_off_color">#ffffffff</color>
+    <color name="day_color">#ff333333</color>
+    <color name="temp_label_color">#FFF</color>
+    <color name="stopwatch_navbar_button_color">#ffffffff</color>
+    <color name="dark_app_background_color">#161616</color>
+    <!-- add for c.cdummy -->
+    <color name="link_highlight">#ff7fb118</color>
+    <color name="list_primary_font_color">#2c2e2f</color>
+    <color name="list_secondary_font_color">#ff888888</color>
+    <color name="show_tips_background_at_lock_screen">#EE000000</color>
+    <color name="ai_tip_background">#ff00bfff</color>
+
+</resources>

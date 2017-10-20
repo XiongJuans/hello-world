@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+<!-- Title of DeskClock -->
+	<string name="desk_clock_caption">Đồng hồ để bàn</string><!--Desk Clock-->
+
+<!-- Desk Clock -->
+    <string name="night_clock">@string/desk_clock_caption</string>
+
+<!-- Title of WorldClock -->
+	<string name="world_clock_caption">Đồng hồ Thế Giới</string><!--World Clock-->
+    
+<!-- Sublevel title on WorldClock : Add City-->
+    <string name="add_city">Thêm thành phố</string><!--Add city-->
+
+<!-- The hint for smart search and menu item -->
+    <string name="addcity_search">Tìm kiếm thành phố</string><!--Search cities-->
+
+<!-- Error notification when there is no city found -->
+    <string name="city_not_found">Không tìm thấy thành phố</string><!--CITY NOT FOUND-->
+    
+<!-- Title of Delete City -->
+	<string name="delete_city_caption">Xóa thành phố</string><!--Delete cities-->
+    
+<!-- Title of Rearrange City -->
+	<string name="rearrange_city_caption">Sửa danh sách</string><!--Edit list-->
+	
+<!-- Menu item on WorldClock : Home Settings -->
+	<string name="home_settings">Cài múi giờ trong nước</string><!--Set home time zone-->
+	
+<!-- Menu item on WorldClock : Current Location Time Settings -->
+	<string name="current_settings">Đặt ngày và giờ</string><!--Set date &amp; time-->
+	
+<!-- Title of Stopwatch -->
+	<string name="stopwatch_caption">Đồng hồ bấm</string><!--Stopwatch-->
+	
+<!-- Button : Start stopwatch -->
+	<string name="start">Bắt đầu</string><!--Start-->
+
+<!-- Button : Pause stopwatch -->
+    <string name="pause">Tạm dừng</string><!--Pause-->
+
+<!-- Button : Resume stopwatch -->
+    <string name="resume">Tiếp tục lại</string><!--Resume-->
+    
+<!-- Button : Reset stopwatch -->
+    <string name="reset">Cài lại</string><!--Reset-->
+    
+<!-- Button : Stop stopwatch -->
+    <string name="stop">Dừng</string><!--Stop-->   
+
+<!-- Button : Lap stopwatch -->
+    <string name="lap">Vòng lặp</string><!--Lap-->
+
+<!-- Title of AlarmClock -->
+	<string name="alarm_caption">Báo thức</string><!--Alarms-->
+	
+<!-- Title of AlarmClock Setting -->
+	<string name="set_alarm_caption">Cài báo thức</string><!--Set alarm-->
+	
+<!-- Title of Delete Alarm -->
+	<string name="delete_alarm_caption">Xóa báo thức</string><!--Delete alarms-->
+	
+<!-- Sublevel title on AlarmClock : Add alarm-->
+    <string name="add_alarm">Thêm báo thức</string><!--Add alarm-->
+    
+<!-- Alert message of adding too many alarms -->
+    <string name="add_alarm_error">Đã đạt đến số lượng báo thức tối đa.</string><!--Maximum number of alarms reached.-->
+
+<!-- Labels for Set Alarm preference : Ringtone -->
+    <string name="alarm_ringtone">Chuông báo thức</string><!--Alarm sound-->
+    
+<!-- Labels for Set Alarm preference : Repeat -->
+    <string name="alarm_repeat">Lặp lại</string><!--Repeat-->
+    
+<!-- Labels for Set Alarm preference : Vibrate -->
+    <string name="alarm_vibrate">Báo rung</string><!--Vibrate-->
+
+<!-- Alarm Alert screen: this message is shown after an alarm rung unattended for a number of minutes.  It tells the user that the alarm has been silenced.-->
+    <string name="alarm_alert_alert_silenced">Báo thức sẽ yên lặng sau <xliff:g id="minutes">%d</xliff:g> phút.</string><!--Alarm silenced after <xliff:g id="minutes">%d</xliff:g> minutes.-->
+	
+<!-- Notification when user sets snooze successfully -->
+    <string name="alarm_alert_snooze_set">Gia hạn báo thức thêm <xliff:g id="minutes">%d</xliff:g> phút</string><!--Snoozing for <xliff:g id="minutes">%d</xliff:g> minutes.-->
+    
+<!-- Notification when user sets snooze unsuccessfully -->
+    <string name="alarm_alert_snooze_not_set">Chưa cài gia hạn thêm. Báo thức kế tiếp cài vào <xliff:g id="time">%s</xliff:g></string><!--Snooze not set. Next alarm set for <xliff:g id="time">%s</xliff:g>-->
+    
+<!-- Notification when alarm is dismissed -->
+    <string name="alarm_alert_dismissed">Đã tắt báo thức.</string><!--Alarm dismissed.-->
+
+<!-- Text for alarm confirmation toast -->
+    <string name="alarm_set">Báo thức này được cài vào <xliff:g id="time_delta">%s</xliff:g> từ bây giờ.</string><!--This alarm is set for <xliff:g id="time_delta">%s</xliff:g> from now.-->
+
+<!-- Text for alarm confirmation toast : days -->
+    <string name="days">"<xliff:g id="days">%s</xliff:g> ngày"</string><!--"<xliff:g id="days">%s</xliff:g> days"-->
+    
+<!-- Text for alarm confirmation toast : hours -->
+    <string name="hours"><xliff:g id="hours">%s</xliff:g> giờ</string><!--<xliff:g id="hours">%s</xliff:g> hours-->
+    
+<!-- Text for alarm confirmation toast : and -->
+    <string name="and">" và "</string><!--" and "-->
+    
+<!-- Text for alarm confirmation toast : space-->
+    <string name="space">" "</string><!--" "-->
+    
+<!-- Text for alarm confirmation toast : less than 1 minute-->
+    <string name="subminute">"ít hơn 1 phút"</string><!--"less than 1 minute"-->
+
+<!-- Text for alarm confirmation toast : minutes-->
+    <string name="minutes">"<xliff:g id="minutes">%s</xliff:g> phút"</string><!--"<xliff:g id="minutes">%s</xliff:g> minutes"-->
+
+<!-- Notification of next alarm time -->
+    <string name="nextAlarm">Báo thức kế tiếp: <xliff:g id="next_alarm_time">%s</xliff:g></string><!--Next alarm: <xliff:g id="next_alarm_time">%s</xliff:g>-->
+
+<!-- Repeat frequency of alarms : every day -->
+    <string name="every_day">Mỗi ngày</string><!--Every day-->
+
+<!-- Day concat of alarm repeat frequency -->
+    <string name="day_concat">", "</string><!--", "-->
+
+<!-- Error Dialog when alarm is not set -->
+    <string name="error">Không thể thêm báo thức</string><!--Unable to add alarm-->
+
+<!-- Error Dialog of database error -->
+    <string name="dberror">Xin lỗi, báo thức này không thể cài được.</string><!--Sorry, the alarm could not be set.-->
+	
+<!-- Days of week -->
+    <string-array name="days_of_week">
+        <item>Thứ Hai</item><!--MONDAY-->
+        <item>Thứ Ba</item><!--TUESDAY-->
+        <item>Thứ Tư</item><!--WEDNESDAY-->
+        <item>Thứ Năm</item><!--THURSDAY-->
+        <item>Thứ Sáu</item><!--FRIDAY-->
+        <item>Thứ Bảy</item><!--SATURDAY-->
+        <item>Chủ Nhật</item><!--SUNDAY-->
+    </string-array>
+    
+<!-- Month of year : short -->
+    <string-array name="month_of_year">
+    	<item>Thg 1</item><!--JAN-->
+    	<item>THG 2</item><!--FEB-->
+    	<item>Thg 3</item><!--MAR-->
+    	<item>Thg 4</item><!--APR-->
+    	<item>Thg 5</item><!--MAY-->
+    	<item>Thg 6</item><!--JUN-->
+    	<item>Thg 7</item><!--JUL-->
+    	<item>Thg 8</item><!--AUG-->
+    	<item>Thg 9</item><!--SEP-->
+    	<item>Thg 10</item><!--OCT-->
+    	<item>Thg 11</item><!--NOV-->
+    	<item>Thg 12</item><!--DEC-->
+    </string-array>
+    
+<!-- Days of week for WorldClock -->
+    <string-array name="days_of_week_capital">
+        <item></item><!---->
+        <item>CN</item><!--SUN-->
+        <item>T2</item><!--MON-->
+        <item>T3</item><!--TUE-->
+        <item>T4</item><!--WED-->
+        <item>T5</item><!--THU-->
+        <item>T6</item><!--FRI-->
+        <item>T7</item><!--SAT-->
+    </string-array> 
+<!-- Whole Days of week for WorldClock -->
+    <string-array name="days_of_week_whole_capital">
+        <item></item>
+        <item>Chủ Nhật</item><!--SUNDAY-->
+        <item>Thứ Hai</item><!--MONDAY-->
+        <item>Thứ Ba</item><!--TUESDAY-->
+        <item>Thứ Tư</item><!--WEDNESDAY-->
+        <item>Thứ Năm</item><!--THURSDAY-->
+        <item>Thứ Sáu</item><!--FRIDAY-->
+        <item>Thứ Bảy</item><!--SATURDAY-->
+    </string-array>
+    
+<!-- Repeat Options -->
+    <string-array name="repeat_option">
+        <item>Th.Hai-Th.Sáu</item><!--Mon -/ Fri-->
+        <item>Không lặp lại</item><!--Do not repeat-->
+        <item>Mỗi ngày</item><!--Every day-->
+        <item>Bỏ qua ngày nghỉ</item><!--Skip holidays-->
+        <item>Tuỳ chỉnh</item><!--Custom-->
+    </string-array>
+    
+<!-- Title of Timer -->
+    <string name="timer_caption">Đồng hồ đếm ngược</string><!--Timer-->
+    
+<!-- Labels for Set Timer preference : Alert Sound -->
+    <string name="alert_sound">Âm thanh cảnh báo</string><!--Alarm sound-->
+    
+<!-- Title of alert dialog when timer expires -->
+    <string name="time_up">Hết thời gian!</string><!--Time\'s up!-->
+    
+<!-- Application name -->
+	<string name="htc_private_app_clock">Đồng hồ</string><!--Clock-->
+
+<!-- Message for user when loading cities -->
+	<string name="loading_city">Đang tải danh sách thành phố...</string><!--Loading city list...-->
+	
+<!-- Error title for full internal storage -->
+	<string name="error_title">Lỗi cơ sở dữ liệu</string><!--Database error-->
+	
+<!-- Error message for failing querying db -->
+	<string name="query_fail">Có lỗi xảy ra trong khi đang truy xuất cơ sở dữ liệu</string><!--Errors occurred while accessing the database-->
+	
+<!-- Title for selecting alarm ringtone -->
+    <string name="select_ringtone">Chọn chuông báo thức</string><!--Select alarm sound-->
+
+<!-- Title of ringtone picker -->
+    <string name="select_alert">Chọn âm cảnh báo</string><!--Select alert sound-->
+    
+<!-- Days of week : abbreviate -->
+    <string-array name="days_of_week_abbr">
+        <item>T2</item><!--M-->
+        <item>T3</item><!--TU-->
+        <item>T4</item><!--W-->
+        <item>T5</item><!--TH-->
+        <item>T6</item><!--F-->
+        <item>T7</item><!--SA-->
+        <item>CN</item><!--SU-->
+    </string-array>
+    
+<!-- Title in Google Gadget -->
+    <string name="analog_gadget">Đồng hồ Analog</string><!--Analog Clock-->
+    
+<!-- Error Dialog when city is not added -->
+    <string name="add_city_error_title">Không thể thêm thành phố</string><!--Unable to add city-->
+    
+<!-- Error Dialog of adding too many cities -->
+    <string name="add_city_error_msg">Bạn có thể cài tối đa 15 thành phố. Để thêm thành phố mới, xin vui lòng xóa bớt thành phố hiện có.</string><!--You can have a maximum of 15 cities. To add a new one, please delete an existing city.-->
+    
+<!-- Alert message of adding duplicate city -->
+    <string name="city_duplicate">Thành phố này đã có trong danh sách</string><!--This city is already in the list-->
+
+<!-- start: Merge alarm Clock Settings -->
+<!-- alarm_in_volume_increase_mode -->
+    <string name="alarm_in_volume_increase_mode_title">Báo thức nhẹ nhàng</string><!--Gentle alarm-->
+    
+<!-- Gradually increase alarm volume -->
+    <string name="alarm_in_volume_increase_mode_summary">Từ từ tăng âm lượng báo thức</string><!--Gradually increase alarm volume-->
+    
+<!-- Alarm volume -->
+    <string name="alarm_volume_title">Âm lượng báo thức</string><!--Alarm volume-->
+
+<!-- Set the volume of alarms -->
+    <string name="alarm_volume_summary">Cài âm lượng báo thức</string><!--Set the volume of alarms-->
+
+<!-- Snooze duration -->
+    <string name="snooze_duration_title">Thời gian gia hạn báo thức</string><!--Snooze duration-->
+
+<!-- Entries listed in the ListPreference when invoking the snooze duration preference. -->
+    <string-array name="snooze_duration_entries">
+      <item>5 phút</item><!--5 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_10_minutes</item>
+      <item>15 phút</item><!--15 minutes-->
+      <item>20 phút</item><!--20 minutes-->
+      <item>25 phút</item><!--25 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_30_minutes</item>
+    </string-array>
+    
+<!-- Side button behavior -->
+    <string name="volume_button_setting_title">Tùy chọn phím âm lượng</string><!--Volume button options-->
+
+<!-- Entries listed in the setting for the side-button action. -->
+    <string-array name="volume_button_setting_entries">
+      <item>Không làm gì</item><!--Do nothing-->
+
+      <item>Gia hạn thêm</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+    </string-array>
+
+<!-- Entries listed in the setting for the side-button action. -->
+    <string-array name="sprint_volume_button_setting_entries">
+      <item>Không làm gì</item><!--Do nothing-->
+
+      <item>Gia hạn thêm</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+
+      <item>Im lặng</item><!--Silence-->
+    </string-array>
+
+<!-- The summary of the side button setting. -->
+    <string name="volume_button_setting_summary">Chọn chức năng của phím âm lượng khi được nhấn trong khi có báo thức</string><!--Choose what the volume buttons do when pressed during an alarm-->
+<!-- end: Merge alarm Clock Settings -->
+        
+<!-- The indicator for High temperature -->
+    <string name="weather_high_indicator">C:</string><!--H:-->
+    
+<!-- The indicator for Low temperature -->
+    <string name="weather_low_indicator">T:</string><!--L:-->   
+
+<!-- Text to display in the notification ticker and label -->
+    <string name="alarm_notify_snooze_label"><xliff:g id="label">%s</xliff:g> (snoozed)</string><!--<xliff:g id="label">%s</xliff:g> (snoozed)-->
+
+<!-- Text to display in the notification when the alarm has been snoozed -->
+    <string name="alarm_notify_snooze_text">Alarm set for <xliff:g id="time">%s</xliff:g>. Chạm vào để hủy.</string><!--Alarm set for <xliff:g id="time">%s</xliff:g>. Tap to cancel.-->
+
+<!-- Alarm Off -->
+    <string name="alarm_off">Đã tắt</string><!--Alarm Off-->
+<!-- Alarm On -->
+    <string name="alarm_on">Đã mở</string><!--Alarm On-->
+    
+<!-- Select alarm sound from -->
+    <string name="sound_selection_title">Chọn chuông báo thức từ</string><!--Select alarm sound from-->
+<!-- Ringtones -->
+    <string name="ringtone_title">Nhạc chuông</string><!--Ringtones-->
+
+<!-- Entries listed in the setting for the clock sound selection. -->
+    <string-array name="sound_selection_setting_entries">
+<!-- Alarm sound -->
+      <item>Âm báo thức</item><!--Alarm sound-->
+<!-- Do not translate. Ringtone -->
+      <item>@string/nn_ringtone</item>
+<!-- Do not translate. Music -->
+      <item>@string/nn_music</item>
+    </string-array>
+
+<!-- Labels for Stopwatch : Total-->
+    <string name="total_title">Tổng số</string><!--Total-->
+    
+<!-- Labels for Stopwatch : Lap-->
+    <string name="lap_title">Vòng lặp</string><!--Lap-->
+
+<!-- Labels for Stopwatch : Lap ID-->
+    <string name="lap_id">Vòng lặp #</string><!--Lap #-->
+    
+<!-- Labels for Stopwatch : Running total-->
+    <string name="lap_total_time">Tổng số</string><!--Total-->
+    
+<!-- Labels for Stopwatch : This lap-->
+    <string name="lap_time">Vòng này</string><!--This lap-->
+    
+<!-- Error Dialog when lap is not set -->
+    <string name="lap_error">Vòng lặp chưa được lưu</string><!--Lap not saved-->
+    
+<!-- Alert message of adding too many laps -->
+    <string name="add_lap_error">Đồng hồ bấm có thể đạt tối đa 300 vòng lặp. Chạm Thiết lập lại để xóa lịch sử vòng lặp.</string><!--Stopwatch can save a maximum of 300 laps. Tap Reset to clear lap history.-->
+    
+<!-- Tips for Weather Location : Location Enable -->
+    <string name="location_enable">Để xem thời tiết địa phương, Chạm vào đây để bật Dịch vụ Vị Trí.</string><!--To see local weather,\ntap here to turn on Location Service.-->
+
+<!-- menu item for Full screen -->
+    <string name="full_screen_menu_item">Toàn màn hình</string><!--Full screen-->
+<!-- menu item for Fit screen -->
+    <string name="fit_screen_menu_item">Canh vừa màn hình</string><!--Fit screen-->
+<!-- Storage low dialog -->
+    <string name="storage_full_description">Bạn không có đủ bộ nhớ trống còn lại trên máy. Hãy xóa một số nội dung hoặc ứng dụng. Chạm \&quot;Cài đặt\&quot; để mở trình Quản lý ứng dụng của bạn.</string><!--You don\'t have enough free space remaining in your phone\'s storage.Please delete some content or applications.Tap \"Settings\" below to manage your apps.-->
+    
+<!-- for timer -->
+    <string name="timer_reminder_tile_timer_up">Hết thời gian</string><!--Time is up-->
+    <string name="timer_reminder_tile_setting">Cài đặt</string><!--Settings-->
+    
+<!-- below is removed by common string, move to local -->
+    <string-array name="days_of_week_short">
+        <item>@string/tm_mon</item>
+        <item>@string/tm_tue</item>
+        <item>@string/tm_wed</item>
+        <item>@string/tm_thu</item>
+        <item>@string/tm_fri</item>
+        <item>@string/tm_sat</item>
+        <item>@string/tm_sun</item>
+    </string-array>
+    
+    <string name="tm_mon">T2</string><!--Mon-->
+    <string name="tm_tue">T3</string><!--Tue-->
+    <string name="tm_wed">T4</string><!--Wed-->
+    <string name="tm_thu">T5</string><!--Thu-->
+    <string name="tm_fri">T6</string><!--Fri-->
+    <string name="tm_sat">T7</string><!--Sat-->
+    <string name="tm_sun">CN</string><!--Sun-->
+    <string name="tm_10_minutes">10 phút</string><!--10 minutes-->
+    <string name="tm_30_minutes">30 phút</string><!--30 minutes-->
+    <string name="va_dismiss">Bỏ qua</string><!--Dismiss-->
+    <string name="nn_ringtone">Nhạc chuông</string><!--Ringtone-->
+    <string name="nn_music">Âm nhạc</string><!--Music-->
+<!-- AccountManager: In loginSettings activity: Label for "Done" button item -->
+    <string name="bt_done_str">Hoàn tất</string><!--Done-->
+    <string name="tm_am">SA</string><!--AM-->
+    <string name="tm_pm">CH</string><!--PM-->
+<!-- Lable for phone number type: Home number -->
+    <string name="phone_type_home">Nhà</string><!--Home-->
+<!-- Dialog Yes button -->
+    <string name="dialog_button_ok">OK</string><!--OK-->
+<!-- AccountManager: In loginSettings activity: Label for "Cancel" button item -->
+    <string name="bt_cancel_str">Hủy bỏ</string><!--Cancel-->
+<!-- To snooze a notification -->
+    <string name="snooze">Gia hạn</string><!--Snooze-->
+<!-- The default hint on lockscreen to indicate what to do. Drag down the arc are to dismiss current reminder. -->
+    <string name="lockscreen_hint_dismiss">Kéo xuống để tắt</string><!--Drag down to dismiss-->
+    <string name="nn_alarm">Báo thức</string><!--Alarm-->
+    <string name="tm_today">Hôm nay</string><!--Today-->
+    <string name="tm_yesterday">Hôm qua</string><!--Yesterday-->
+    <string name="tm_tomorrow">Ngày mai</string><!--Tomorrow-->
+    <string name="tm_current">Hiện tại</string><!--Current-->
+    <string name="va_rearrange">Sắp xếp lại</string><!--Rearrange-->
+    <string name="va_edit">Chỉnh sửa</string><!--Edit-->
+    <string name="va_select_all">Chọn tất cả</string><!--Select all-->
+    <string name="va_deselect_all">Bỏ chọn tất cả</string><!--Deselect all-->
+    <string name="nn_description">Mô tả</string><!--Description-->
+    <string name="tm_1_day">1 ngày</string><!--1 day-->
+    <string name="tm_1_hour">1 giờ</string><!--1 hour-->
+    <string name="tm_1_minute">1 phút</string><!--1 minute-->
+    <string name="st_on">MỞ</string><!--On-->
+    <string name="st_off">Tắt</string><!--Off-->
+    <string name="st_never">Không bao giờ</string><!--Never-->
+    <string name="va_add">Thêm</string><!--Add-->
+    <string name="va_edit_tabs">Chỉnh sửa các tab</string><!--Edit tabs-->
+    <string name="ls_no_weather_data_available">Chưa có dữ liệu thời tiết sẵn sàng</string><!--No weather data available-->
+    <string name="st_storage_full">Bộ nhớ đầy</string><!--Storage full-->
+    <string name="nn_settings">Cài đặt</string><!--Settings-->
+<!-- [Add][Start] add "Tips & Help" by Yami Day's request -->
+    <string name="nn_tips_help">Gợi ý và Trợ giúp</string><!--Tips &amp; Help-->
+<!-- [Add][End] add "Tips & Help" by Yami Day's request -->
+<!-- [Gallery OpenSense - GA50 Skyer_Tai] Warning message for low internal memory scenario -->
+    <string name="internal_memory_low">Gần hết bộ nhớ trên điện thoại của bạn. Vui lòng tạo thêm bộ nhớ trống trước khi sử dụng ứng dụng này.</string><!--Your phone is low on storage space. Please make some free space before using this application.-->
+    <string name="st_default">Mặc định</string><!--Default-->
+<!-- [Add][Start] Add for ContentUri, called back from soundPicker(Mail/Calendar/Message) -->
+    <string name="st_silent">Yên lặng</string><!--Silent-->
+<!-- [Add][End] Add for ContentUri, called back from soundPicker(Mail/Calendar/Message) -->
+    <string name="st_more">Thêm</string><!--More-->
+
+<!-- Labels for Set Alarm preference : OffAlarm -->
+    <string name="alarm_offalarm">Phát âm thanh khi điện thoại tắt</string><!--Sound when phone off-->
+
+<!-- Dialog title for describe that this app needs additional permission -->
+    
+<!-- Do not translate -->
+	<!--<string name="clock_permission_dialog_title">@string/htc_private_app_clock</string>-->
+    
+<!-- Dialog content for describe that this app needs additional permission -->
+    <string name="clock_permission_dialog_content">Để hoạt động hiệu quả, ứng dụng này cần truy cập bộ nhớ của bạn. Bạn có thể quản lý quyền truy cập của Đồng hồ trong Cài đặt.</string><!--To work properly, this app needs to access your storage. You can manage Clock\'s permissions in Settings.-->
+<!-- [Button] Dialog button to bring user to Settings page -->
+    <string name="clock_permission_dialog_btn_settings">Cài đặt</string><!--Settings-->
+<!-- [Button] Dialog button to close dialog -->
+    <string name="clock_permission_dialog_btn_close">Đóng</string><!--Close-->
+    
+<!-- location setting -->
+<!-- Dialog title to ask user to turn on network location provider -->
+    <string name="location_dialog_title">Dịch vụ vị trí đang tắt</string><!--Location services are off-->
+<!-- Dialog content to ask user to turn on network location provider -->
+    <string name="location_dialog_msg">Để có thông tin thời tiết địa phương, thay đổi cài đặt vị trí của bạn sang tiết kiệm pin hoặc chế độ chính xác cao.</string><!--To get local weather, change your location settings to battery saving or high accuracy mode.-->
+</resources>
+
+
+

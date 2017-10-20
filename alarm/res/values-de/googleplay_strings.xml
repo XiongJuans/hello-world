@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="googleplay_title">HTC Uhr</string><!--HTC Clock-->
+    <string name="googleplay_whatsnew">- Alarme werden ansteigend lauter\n- Fehlerbehebungen und Leistungsverbesserungen</string><!---/ Alarms gradually get louder\n-/ Bug fixes and performance improvements-->
+	
+<!-- Description for Clock APP -->
+    <string name="googleplay_description_app">Egal ob Sie in Taipeh, Taiwan oder Marrakesch, Marakko sind, mit HTC Uhr können Sie die Uhrzeit an Ihrem aktuellen Standort, zu Hause und in Städten auf der ganzen Welt sehen. Der anpassbare Wecker, Stoppuhr und Timer bringen zudem auch alle Möglichkeiten der Zeitverwaltung in Ihre Tasche. Stellen Sie so viele Wecker ein, wie Sie möchten, ändern Sie die Dauer bis zur Wiederholung, wählen Sie den Ton, der beim Klingeln des Weckers ausgegeben werden soll und lassen Sie den Wecker sogar dann klingeln, wenn das Telefon auf Lautlos gestellt ist. Die Stoppuhr von HTC Uhr eignet sich hervorragend für die Aufzeichnung von Runden beim Trainung. Der Timer ist zudem nützlich beim Kochen oder Überwachung der Zeit vor dem Fernseher.</string><!--Whether you\'re in Taipei, Taiwan or Marrakech, Morocco, HTC Clock lets you check the time in your current location, at home and in cities around the world. Its customizable alarms, stopwatch and timer put the power of time management in your pocket, too. Set as many alarms as you like, change the snooze duration, choose the sound that plays when alarms go off and even make alarms sound when your phone is on silent. HTC Clock\'s stopwatch is great for recording laps while working out, and the timer is handy for cooking or monitoring time in front of the TV.-->
+<!-- Description for Clock SupportingScope -->
+	<string name="googleplay_description_supportingScope"></string>
+<!-- Description for Clock Legal -->
+    <string name="googleplay_description_legal">[googleplay_description_legal_common_1]</string>
+    <string name="googleplay_description_short">Die Zeit mit HTC Stoppuhr, Timer, Wecker und Weltzeituhr immer im Blick haben.</string><!--Keep track of time with HTC\'s sleek stopwatch, timer, alarm and world clock.-->
+</resources>
+

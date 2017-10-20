@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item 
+        android:id="@+id/add_alarm"
+        android:title="@string/add_alarm"
+        android:showAsAction="always"
+        android:icon="@drawable/icon_btn_add_dark"/>
+    <item 
+        android:id="@+id/delete_alarm"
+        android:title="@string/delete"
+		android:showAsAction="never"
+        android:enabled="false"/>
+    <item
+        android:id="@+id/sort"
+        android:title="@string/sort_by"
+        android:showAsAction="never"/>
+    <item
+        android:id="@+id/alarm_settings"
+        android:title="@string/alarm_settings"
+		android:showAsAction="never"/>
+    <item
+        android:id="@+id/edit_tabs"
+        android:title="@string/edit_tabs_menu_item"
+		android:showAsAction="never"/>
+    <item 
+        android:id="@+id/tips"
+        android:title="@string/tips"
+        android:showAsAction="never"/>
+</menu>

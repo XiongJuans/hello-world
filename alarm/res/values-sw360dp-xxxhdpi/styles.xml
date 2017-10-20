@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    
+    <style name="ListView" parent="@android:style/Widget.AbsListView">
+    </style>
+
+    <style name="bgAlarmClockDetailList">
+        <item name="android:background">@color/listview_bg_color</item>        
+    </style>
+    
+    <style name="common_style_list_primary_m" parent="@style/fixed_list_primary_m">
+    </style>
+</resources>

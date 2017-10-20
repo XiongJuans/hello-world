@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  HTC Corporation Proprietary Rights Acknowledgment
+
+  Copyright (C) 2009 HTC Corporation
+
+  All Rights Reserved.
+
+  The information contained in this work is the exclusive property of HTC Corporation
+  ("HTC").  Only the user who is legally authorized by HTC ("Authorized User") has
+  right to employ this work within the scope of this statement.  Nevertheless, the
+  Authorized User shall not use this work for any purpose other than the purpose
+  agreed by HTC.  Any and all addition or modification to this work shall be
+  unconditionally granted back to HTC and such addition or modification shall be
+  solely owned by HTC.  No right is granted under this statement, including but not
+  limited to, distribution, reproduction, and transmission, except as otherwise
+  provided in this statement.  Any other usage of this work shall be subject to the
+  further written consent of HTC.
+-->
+<resources>
+    <dimen name="alarm_time_layout_marginLeft">0dp</dimen>
+    <dimen name="base_layout_marginTop">0dp</dimen>
+    <dimen name="alarm_timerPicker_layout_height">254dp</dimen>
+    <dimen name="alarm_time_min_height">50dp</dimen>
+    <dimen name="alarm_time_description_layout_marginLeft">125.5dp</dimen>
+    <dimen name="alarm_time_description_layout_marginTop">0dp</dimen>
+    <dimen name="alarm_divider_height">35dp</dimen>
+    <dimen name="days_layout_marginTop">0dp</dimen>
+    <dimen name="days_marginRight">15dp</dimen>
+    <dimen name="alarm_time_checkbox_margin">10dp</dimen>
+
+    <dimen name="alarm_timerPickerTitle_text_width">95.5dp</dimen>
+
+    <dimen name="alarm_timerPicker_width">300dp</dimen>
+    <dimen name="alarm_timerPicker_no_nevigation_width">300dp</dimen>
+    <dimen name="timePickerContainer_width">300dp</dimen>
+    <dimen name="timePickerContainer_height">-0.5dp</dimen>
+    <dimen name="timePickerContainer_no_nevigation_width">300dp</dimen>
+
+    <dimen name="setAlarm_list_width">-0.25dp</dimen>
+    <dimen name="setAlarm_list_no_nevigation_width">-0.25dp</dimen>
+    <dimen name="delete_icon_marginLeft">0dp</dimen>
+    <dimen name="delete_icon_marginRight">0dp</dimen>
+    <string name="delete_icon_alignParentRight">true</string>
+    <string name="alarm_digital_clock_alignParentRight">false</string>
+</resources>

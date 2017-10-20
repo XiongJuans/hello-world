@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+<!-- Title of DeskClock -->
+	<string name="desk_clock_caption">Настільний годинник</string><!--Desk Clock-->
+
+<!-- Desk Clock -->
+    <string name="night_clock">@string/desk_clock_caption</string><!--@string/desk_clock_caption-->
+
+<!-- Title of WorldClock -->
+	<string name="world_clock_caption">Світовий час</string><!--World Clock-->
+    
+<!-- Sublevel title on WorldClock : Add City-->
+    <string name="add_city">Додати місто</string><!--Add city-->
+
+<!-- The hint for smart search and menu item -->
+    <string name="addcity_search">Пошук міст</string><!--Search cities-->
+
+<!-- Error notification when there is no city found -->
+    <string name="city_not_found">Місто не знайдено</string><!--CITY NOT FOUND-->
+    
+<!-- Title of Delete City -->
+	<string name="delete_city_caption">Видалити міста</string><!--Delete cities-->
+    
+<!-- Title of Rearrange City -->
+	<string name="rearrange_city_caption">Редагувати список</string><!--Edit list-->
+	
+<!-- Menu item on WorldClock : Home Settings -->
+	<string name="home_settings">Встановлення домашнього часового поясу</string><!--Set home time zone-->
+	
+<!-- Menu item on WorldClock : Current Location Time Settings -->
+	<string name="current_settings">Установити дату й час</string><!--Set date &amp; time-->
+	
+<!-- Title of Stopwatch -->
+	<string name="stopwatch_caption">Секундомір</string><!--Stopwatch-->
+	
+<!-- Button : Start stopwatch -->
+	<string name="start">Пуск</string><!--Start-->
+
+<!-- Button : Pause stopwatch -->
+    <string name="pause">Пауза</string><!--Pause-->
+
+<!-- Button : Resume stopwatch -->
+    <string name="resume">Продовжити</string><!--Resume-->
+    
+<!-- Button : Reset stopwatch -->
+    <string name="reset">Скидання</string><!--Reset-->
+    
+<!-- Button : Stop stopwatch -->
+    <string name="stop">Зупинити</string><!--Stop-->   
+
+<!-- Button : Lap stopwatch -->
+    <string name="lap">Коло</string><!--Lap-->
+
+<!-- Title of AlarmClock -->
+	<string name="alarm_caption">Будильники</string><!--Alarms-->
+	
+<!-- Title of AlarmClock Setting -->
+	<string name="set_alarm_caption">Установити будильник</string><!--Set alarm-->
+	
+<!-- Title of Delete Alarm -->
+	<string name="delete_alarm_caption">Видалити будильники</string><!--Delete alarms-->
+	
+<!-- Sublevel title on AlarmClock : Add alarm-->
+    <string name="add_alarm">Додати будильник</string><!--Add alarm-->
+    
+<!-- Alert message of adding too many alarms -->
+    <string name="add_alarm_error">Досягнуто максимальної кількості будильників.</string><!--Maximum number of alarms reached.-->
+
+<!-- Labels for Set Alarm preference : Ringtone -->
+    <string name="alarm_ringtone">Звук будильника</string><!--Alarm sound-->
+    
+<!-- Labels for Set Alarm preference : Repeat -->
+    <string name="alarm_repeat">Повторити</string><!--Repeat-->
+    
+<!-- Labels for Set Alarm preference : Vibrate -->
+    <string name="alarm_vibrate">Вібрація</string><!--Vibrate-->
+
+<!-- Alarm Alert screen: this message is shown after an alarm rung unattended for a number of minutes.  It tells the user that the alarm has been silenced.-->
+    <string name="alarm_alert_alert_silenced">Будильник вимикається через <xliff:g id="minutes">%d</xliff:g> хвилин.</string><!--Alarm silenced after <xliff:g id="minutes">%d</xliff:g> minutes.-->
+	
+<!-- Notification when user sets snooze successfully -->
+    <string name="alarm_alert_snooze_set">Відстрочка на <xliff:g id="minutes">%d</xliff:g> хвилин.</string><!--Snoozing for <xliff:g id="minutes">%d</xliff:g> minutes.-->
+    
+<!-- Notification when user sets snooze unsuccessfully -->
+    <string name="alarm_alert_snooze_not_set">Відстрочку не встановлено. Наступний будильник установлено на <xliff:g id="time">%s</xliff:g></string><!--Snooze not set. Next alarm set for <xliff:g id="time">%s</xliff:g>-->
+    
+<!-- Notification when alarm is dismissed -->
+    <string name="alarm_alert_dismissed">Будильник вимкнено.</string><!--Alarm dismissed.-->
+
+<!-- Text for alarm confirmation toast -->
+    <string name="alarm_set">Цей будильник установлено на <xliff:g id="time_delta">%s</xliff:g> від цього моменту.</string><!--This alarm is set for <xliff:g id="time_delta">%s</xliff:g> from now.-->
+
+<!-- Text for alarm confirmation toast : days -->
+    <string name="days">&quot;<xliff:g id="days">%s</xliff:g> днів&quot;</string><!--"<xliff:g id="days">%s</xliff:g> days"-->
+    
+<!-- Text for alarm confirmation toast : hours -->
+    <string name="hours"><xliff:g id="hours">%s</xliff:g> годин</string><!--<xliff:g id="hours">%s</xliff:g> hours-->
+    
+<!-- Text for alarm confirmation toast : and -->
+    <string name="and">&quot; і &quot;</string><!--" and "-->
+    
+<!-- Text for alarm confirmation toast : space-->
+    <string name="space">&quot; &quot;</string><!--" "-->
+    
+<!-- Text for alarm confirmation toast : less than 1 minute-->
+    <string name="subminute">&quot;менше 1 хвилини&quot;</string><!--"less than 1 minute"-->
+
+<!-- Text for alarm confirmation toast : minutes-->
+    <string name="minutes">&quot;<xliff:g id="minutes">%s</xliff:g> хвилин&quot;</string><!--"<xliff:g id="minutes">%s</xliff:g> minutes"-->
+
+<!-- Notification of next alarm time -->
+    <string name="nextAlarm">Наступний будильник: <xliff:g id="next_alarm_time">%s</xliff:g></string><!--Next alarm: <xliff:g id="next_alarm_time">%s</xliff:g>-->
+
+<!-- Repeat frequency of alarms : every day -->
+    <string name="every_day">Щодня</string><!--Every day-->
+
+<!-- Day concat of alarm repeat frequency -->
+    <string name="day_concat">&quot;, &quot;</string><!--", "-->
+
+<!-- Error Dialog when alarm is not set -->
+    <string name="error">Не вдалося додати будильник</string><!--Unable to add alarm-->
+
+<!-- Error Dialog of database error -->
+    <string name="dberror">На жаль, не вдалося установити будильник.</string><!--Sorry, the alarm could not be set.-->
+	
+<!-- Days of week -->
+    <string-array name="days_of_week">
+        <item>Понеділок</item><!--MONDAY-->
+        <item>Вівторок</item><!--TUESDAY-->
+        <item>Середа</item><!--WEDNESDAY-->
+        <item>Четвер</item><!--THURSDAY-->
+        <item>П\'ятниця</item><!--FRIDAY-->
+        <item>Субота</item><!--SATURDAY-->
+        <item>Неділя</item><!--SUNDAY-->
+    </string-array>
+    
+<!-- Month of year : short -->
+    <string-array name="month_of_year">
+    	<item>Січ</item><!--JAN-->
+    	<item>ЛЮТ</item><!--FEB-->
+    	<item>Бер</item><!--MAR-->
+    	<item>Кві</item><!--APR-->
+    	<item>Тра</item><!--MAY-->
+    	<item>Чер</item><!--JUN-->
+    	<item>Лип</item><!--JUL-->
+    	<item>Сер</item><!--AUG-->
+    	<item>Вер</item><!--SEP-->
+    	<item>Жов</item><!--OCT-->
+    	<item>Лис</item><!--NOV-->
+    	<item>Гру</item><!--DEC-->
+    </string-array>
+    
+<!-- Days of week for WorldClock -->
+    <string-array name="days_of_week_capital">
+        <item></item>
+        <item>Нд</item><!--SUN-->
+        <item>Пн</item><!--MON-->
+        <item>Вт</item><!--TUE-->
+        <item>Ср</item><!--WED-->
+        <item>Чт</item><!--THU-->
+        <item>Пт</item><!--FRI-->
+        <item>Сб</item><!--SAT-->
+    </string-array> 
+<!-- Whole Days of week for WorldClock -->
+    <string-array name="days_of_week_whole_capital">
+        <item></item>
+        <item>Неділя</item><!--SUNDAY-->
+        <item>Понеділок</item><!--MONDAY-->
+        <item>Вівторок</item><!--TUESDAY-->
+        <item>Середа</item><!--WEDNESDAY-->
+        <item>Четвер</item><!--THURSDAY-->
+        <item>П\'ятниця</item><!--FRIDAY-->
+        <item>Субота</item><!--SATURDAY-->
+    </string-array>
+    
+<!-- Repeat Options -->
+    <string-array name="repeat_option">
+        <item>Пн-пт</item><!--Mon -/ Fri-->
+        <item>Не повторювати</item><!--Do not repeat-->
+        <item>Щодня</item><!--Every day-->
+        <item>Пропустити свята</item><!--Skip holidays-->
+        <item>Користувацький</item><!--Custom-->
+    </string-array>
+    
+<!-- Title of Timer -->
+    <string name="timer_caption">Таймер</string><!--Timer-->
+    
+<!-- Labels for Set Timer preference : Alert Sound -->
+    <string name="alert_sound">Звук будильника</string><!--Alarm sound-->
+    
+<!-- Title of alert dialog when timer expires -->
+    <string name="time_up">Час минув!</string><!--Time\'s up!-->
+    
+<!-- Application name -->
+	<string name="htc_private_app_clock">Годинник</string><!--Clock-->
+
+<!-- Message for user when loading cities -->
+	<string name="loading_city">Завантаження списку міст...</string><!--Loading city list...-->
+	
+<!-- Error title for full internal storage -->
+	<string name="error_title">Помилка бази даних</string><!--Database error-->
+	
+<!-- Error message for failing querying db -->
+	<string name="query_fail">Сталися помилки під час доступу до бази даних</string><!--Errors occurred while accessing the database-->
+	
+<!-- Title for selecting alarm ringtone -->
+    <string name="select_ringtone">Вибрати звук будильника</string><!--Select alarm sound-->
+
+<!-- Title of ringtone picker -->
+    <string name="select_alert">Вибрати звук сповіщення</string><!--Select alert sound-->
+    
+<!-- Days of week : abbreviate -->
+    <string-array name="days_of_week_abbr">
+        <item>Пн</item><!--M-->
+        <item>Вт</item><!--TU-->
+        <item>Ср</item><!--W-->
+        <item>Чт</item><!--TH-->
+        <item>Пт</item><!--F-->
+        <item>Сб</item><!--SA-->
+        <item>Нд</item><!--SU-->
+    </string-array>
+    
+<!-- Title in Google Gadget -->
+    <string name="analog_gadget">Аналоговий годинник</string><!--Analog Clock-->
+    
+<!-- Error Dialog when city is not added -->
+    <string name="add_city_error_title">Не вдалося додати місто</string><!--Unable to add city-->
+    
+<!-- Error Dialog of adding too many cities -->
+    <string name="add_city_error_msg">Можна додати не більше 15 міст. Щоб додати нове місто, видаліть існуюче.</string><!--You can have a maximum of 15 cities. To add a new one, please delete an existing city.-->
+    
+<!-- Alert message of adding duplicate city -->
+    <string name="city_duplicate">Це місто вже є у списку</string><!--This city is already in the list-->
+
+<!-- start: Merge alarm Clock Settings -->
+<!-- alarm_in_volume_increase_mode -->
+    <string name="alarm_in_volume_increase_mode_title">Тихий будильник</string><!--Gentle alarm-->
+    
+<!-- Gradually increase alarm volume -->
+    <string name="alarm_in_volume_increase_mode_summary">Поступове збільшення гучності будильника</string><!--Gradually increase alarm volume-->
+    
+<!-- Alarm volume -->
+    <string name="alarm_volume_title">Гучність будильника</string><!--Alarm volume-->
+
+<!-- Set the volume of alarms -->
+    <string name="alarm_volume_summary">Установити гучність будильників</string><!--Set the volume of alarms-->
+
+<!-- Snooze duration -->
+    <string name="snooze_duration_title">Тривалість відстрочки сигналу</string><!--Snooze duration-->
+
+<!-- Entries listed in the ListPreference when invoking the snooze duration preference. -->
+    <string-array name="snooze_duration_entries">
+      <item>5 хвилин</item><!--5 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_10_minutes</item>
+      <item>15 хвилин</item><!--15 minutes-->
+      <item>20 хвилин</item><!--20 minutes-->
+      <item>25 хвилин</item><!--25 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_30_minutes</item>
+    </string-array>
+    
+<!-- Side button behavior -->
+    <string name="volume_button_setting_title">Параметри кнопки гучності</string><!--Volume button options-->
+
+<!-- Entries listed in the setting for the side-button action. -->
+    <string-array name="volume_button_setting_entries">
+      <item>Нічого не робити</item><!--Do nothing-->
+
+      <item>Відкласти</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+    </string-array>
+
+<!-- Entries listed in the setting for the side-button action. -->
+    <string-array name="sprint_volume_button_setting_entries">
+      <item>Нічого не робити</item><!--Do nothing-->
+
+      <item>Відкласти</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+
+      <item>Вимкнути звук</item><!--Silence-->
+    </string-array>
+
+<!-- The summary of the side button setting. -->
+    <string name="volume_button_setting_summary">Виберіть, що кнопки регулювання гучності будуть робити в разі натискання під час роботи будильника</string><!--Choose what the volume buttons do when pressed during an alarm-->
+<!-- end: Merge alarm Clock Settings -->
+        
+<!-- The indicator for High temperature -->
+    <string name="weather_high_indicator">В:</string><!--H:-->
+    
+<!-- The indicator for Low temperature -->
+    <string name="weather_low_indicator">Н:</string><!--L:-->   
+
+<!-- Text to display in the notification ticker and label -->
+    <string name="alarm_notify_snooze_label"><xliff:g id="label">%s</xliff:g> (відстрочка)</string><!--<xliff:g id="label">%s</xliff:g> (snoozed)-->
+
+<!-- Text to display in the notification when the alarm has been snoozed -->
+    <string name="alarm_notify_snooze_text">Будильник установлено на <xliff:g id="time">%s</xliff:g>. Натиснути для скасування.</string><!--Alarm set for <xliff:g id="time">%s</xliff:g>. Tap to cancel.-->
+
+<!-- Alarm Off -->
+    <string name="alarm_off">Будильник вимк.</string><!--Alarm Off-->
+<!-- Alarm On -->
+    <string name="alarm_on">Будильник увімк.</string><!--Alarm On-->
+    
+<!-- Select alarm sound from -->
+    <string name="sound_selection_title">Вибрати звуковий сигнал тривоги з</string><!--Select alarm sound from-->
+<!-- Ringtones -->
+    <string name="ringtone_title">Мелодії</string><!--Ringtones-->
+
+<!-- Entries listed in the setting for the clock sound selection. -->
+    <string-array name="sound_selection_setting_entries">
+<!-- Alarm sound -->
+      <item>Звук будильника</item><!--Alarm sound-->
+<!-- Do not translate. Ringtone -->
+      <item>@string/nn_ringtone</item>
+<!-- Do not translate. Music -->
+      <item>@string/nn_music</item>
+    </string-array>
+
+<!-- Labels for Stopwatch : Total-->
+    <string name="total_title">Підсумок</string><!--Total-->
+    
+<!-- Labels for Stopwatch : Lap-->
+    <string name="lap_title">Коло</string><!--Lap-->
+
+<!-- Labels for Stopwatch : Lap ID-->
+    <string name="lap_id">Коло №</string><!--Lap #-->
+    
+<!-- Labels for Stopwatch : Running total-->
+    <string name="lap_total_time">Усього</string><!--Total-->
+    
+<!-- Labels for Stopwatch : This lap-->
+    <string name="lap_time">Це коло</string><!--This lap-->
+    
+<!-- Error Dialog when lap is not set -->
+    <string name="lap_error">Коло не збережено</string><!--Lap not saved-->
+    
+<!-- Alert message of adding too many laps -->
+    <string name="add_lap_error">Секундомір може зберегти не більш 300 кіл. Натисніть &quot;Скидання&quot;, щоб очистити журнал кіл.</string><!--Stopwatch can save a maximum of 300 laps. Tap Reset to clear lap history.-->
+    
+<!-- Tips for Weather Location : Location Enable -->
+    <string name="location_enable">Щоб переглянути місцеву погоду,натисніть тут для активації Служби.</string><!--To see local weather,\ntap here to turn on Location Service.-->
+
+<!-- menu item for Full screen -->
+    <string name="full_screen_menu_item">На весь екран</string><!--Full screen-->
+<!-- menu item for Fit screen -->
+    <string name="fit_screen_menu_item">Підігнати до екрану</string><!--Fit screen-->
+<!-- Storage low dialog -->
+    <string name="storage_full_description">Недостатньо вільного місця в пам\'яті телефону. Видаліть частину контенту або деякі додатки. Натисніть \&quot;Налаштування\&quot; нижче для керування вашими додатками.</string><!--You don\'t have enough free space remaining in your phone\'s storage.Please delete some content or applications.Tap \"Settings\" below to manage your apps.-->
+    
+<!-- for timer -->
+    <string name="timer_reminder_tile_timer_up">Час минув</string><!--Time is up-->
+    <string name="timer_reminder_tile_setting">Налаштування</string><!--Settings-->
+    
+<!-- below is removed by common string, move to local -->
+    <string-array name="days_of_week_short">
+        <item>@string/tm_mon</item>
+        <item>@string/tm_tue</item>
+        <item>@string/tm_wed</item>
+        <item>@string/tm_thu</item>
+        <item>@string/tm_fri</item>
+        <item>@string/tm_sat</item>
+        <item>@string/tm_sun</item>
+    </string-array>
+    
+    <string name="tm_mon">Пн</string><!--Mon-->
+    <string name="tm_tue">Вт</string><!--Tue-->
+    <string name="tm_wed">Ср</string><!--Wed-->
+    <string name="tm_thu">Чт</string><!--Thu-->
+    <string name="tm_fri">Пт</string><!--Fri-->
+    <string name="tm_sat">Сб</string><!--Sat-->
+    <string name="tm_sun">Нд</string><!--Sun-->
+    <string name="tm_10_minutes">10 хвилин</string><!--10 minutes-->
+    <string name="tm_30_minutes">30 хвилин</string><!--30 minutes-->
+    <string name="va_dismiss">Відхилити</string><!--Dismiss-->
+    <string name="nn_ringtone">Мелодія</string><!--Ringtone-->
+    <string name="nn_music">Музика</string><!--Music-->
+<!-- AccountManager: In loginSettings activity: Label for "Done" button item -->
+    <string name="bt_done_str">Готово</string><!--Done-->
+    <string name="tm_am">ДП</string><!--AM-->
+    <string name="tm_pm">ПП</string><!--PM-->
+<!-- Lable for phone number type: Home number -->
+    <string name="phone_type_home">Домашній</string><!--Home-->
+<!-- Dialog Yes button -->
+    <string name="dialog_button_ok">OK</string><!--OK-->
+<!-- AccountManager: In loginSettings activity: Label for "Cancel" button item -->
+    <string name="bt_cancel_str">Скасувати</string><!--Cancel-->
+<!-- To snooze a notification -->
+    <string name="snooze">Відкласти</string><!--Snooze-->
+<!-- The default hint on lockscreen to indicate what to do. Drag down the arc are to dismiss current reminder. -->
+    <string name="lockscreen_hint_dismiss">Перетягніть униз, щоб вимкнути</string><!--Drag down to dismiss-->
+    <string name="nn_alarm">Будильник</string><!--Alarm-->
+    <string name="tm_today">Сьогодні</string><!--Today-->
+    <string name="tm_yesterday">Вчора</string><!--Yesterday-->
+    <string name="tm_tomorrow">Завтра</string><!--Tomorrow-->
+    <string name="tm_current">Поточний</string><!--Current-->
+    <string name="va_rearrange">Упорядкувати</string><!--Rearrange-->
+    <string name="va_edit">Редагувати</string><!--Edit-->
+    <string name="va_select_all">Вибрати все</string><!--Select all-->
+    <string name="va_deselect_all">Відмінити все</string><!--Deselect all-->
+    <string name="nn_description">Опис</string><!--Description-->
+    <string name="tm_1_day">1 день</string><!--1 day-->
+    <string name="tm_1_hour">1 година</string><!--1 hour-->
+    <string name="tm_1_minute">1 хвилина</string><!--1 minute-->
+    <string name="st_on">Увімк.</string><!--On-->
+    <string name="st_off">Вимк.</string><!--Off-->
+    <string name="st_never">Ніколи</string><!--Never-->
+    <string name="va_add">Додати</string><!--Add-->
+    <string name="va_edit_tabs">Редагувати вкладки</string><!--Edit tabs-->
+    <string name="ls_no_weather_data_available">Немає доступних даних про погоду</string><!--No weather data available-->
+    <string name="st_storage_full">Пам\'ять заповнено</string><!--Storage full-->
+    <string name="nn_settings">Налаштування</string><!--Settings-->
+<!-- [Add][Start] add "Tips & Help" by Yami Day's request -->
+    <string name="nn_tips_help">Підказки та довідка</string><!--Tips &amp; Help-->
+<!-- [Add][End] add "Tips & Help" by Yami Day's request -->
+<!-- [Gallery OpenSense - GA50 Skyer_Tai] Warning message for low internal memory scenario -->
+    <string name="internal_memory_low">У вашому телефоні мало пам\'яті. Перед використанням цієї програми звільніть місце.</string><!--Your phone is low on storage space. Please make some free space before using this application.-->
+    <string name="st_default">За умовчанням</string><!--Default-->
+<!-- [Add][Start] Add for ContentUri, called back from soundPicker(Mail/Calendar/Message) -->
+    <string name="st_silent">Без звуку</string><!--Silent-->
+<!-- [Add][End] Add for ContentUri, called back from soundPicker(Mail/Calendar/Message) -->
+    <string name="st_more">Більше</string><!--More-->
+
+<!-- Labels for Set Alarm preference : OffAlarm -->
+    <string name="alarm_offalarm">Звуковий сигнал при вимиканні телефону</string><!--Sound when phone off-->
+
+<!-- Dialog title for describe that this app needs additional permission -->
+    
+<!-- Do not translate -->
+	<!--<string name="clock_permission_dialog_title">@string/htc_private_app_clock</string>-->
+    
+<!-- Dialog content for describe that this app needs additional permission -->
+    <string name="clock_permission_dialog_content">Для правильної роботи цьому додатку необхідний доступ до вашої пам\'яті. Ви можете керувати дозволами Годинника в Налаштуваннях.</string><!--To work properly, this app needs to access your storage. You can manage Clock\'s permissions in Settings.-->
+<!-- [Button] Dialog button to bring user to Settings page -->
+    <string name="clock_permission_dialog_btn_settings">Налаштування</string><!--Settings-->
+<!-- [Button] Dialog button to close dialog -->
+    <string name="clock_permission_dialog_btn_close">Закрити</string><!--Close-->
+    
+<!-- location setting -->
+<!-- Dialog title to ask user to turn on network location provider -->
+    <string name="location_dialog_title">Служби визначення розташування вимкнені</string><!--Location services are off-->
+<!-- Dialog content to ask user to turn on network location provider -->
+    <string name="location_dialog_msg">Щоб отримати місцевий прогноз погоди, змініть налаштування розташування на режим збереження заряду акумулятора або режим високої точності.</string><!--To get local weather, change your location settings to battery saving or high accuracy mode.-->
+</resources>
+
+
+

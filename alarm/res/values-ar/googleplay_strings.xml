@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="googleplay_title">ساعة HTC</string><!--HTC Clock-->
+    <string name="googleplay_whatsnew">- ارتفاع صوت المنبهات بشكل تدريجي إلى الأعلى\n- إصلاح الأخطاء وتحسينات الأداء</string><!---/ Alarms gradually get louder\n-/ Bug fixes and performance improvements-->
+	
+<!-- Description for Clock APP -->
+    <string name="googleplay_description_app">يتيح لك ساعة HTC تفقد الوقت في مكان تواجدك الحالي وفي المنزل وفي مختلف المدن حول العالم، وذلك سواءً كنت في تايبيه أو تايوان أو مراكش بالمغرب. تعمل المنبهات وساعة التوقيت والمؤقت خاصتها القابلين للتعديل على تمكين خاصية إدارة الوقت أيضا. يمكنك تعيين العديد من المنبهات حسبما ترغب وتغيير مدة الغفوة وتحديد النغمة التي يتم تفعيلها عند إيقاف تشغيل المنبهات وتفعيل نغمة المنبهات عندما يكون الهاتف في الوضع الصامت. تقوم ساعة التوقيت الخاصة بـ ساعة HTC بتسجيل الدورات أثناء التشغيل كما يستخدم المؤقت أثناء الطهي أو لرصد الوقت الذي يتم قضاؤه في مشاهدة التليفزيون.</string><!--Whether you\'re in Taipei, Taiwan or Marrakech, Morocco, HTC Clock lets you check the time in your current location, at home and in cities around the world. Its customizable alarms, stopwatch and timer put the power of time management in your pocket, too. Set as many alarms as you like, change the snooze duration, choose the sound that plays when alarms go off and even make alarms sound when your phone is on silent. HTC Clock\'s stopwatch is great for recording laps while working out, and the timer is handy for cooking or monitoring time in front of the TV.-->
+<!-- Description for Clock SupportingScope -->
+	<string name="googleplay_description_supportingScope"></string>
+<!-- Description for Clock Legal -->
+    <string name="googleplay_description_legal">[googleplay_description_legal_common_1]</string>
+    <string name="googleplay_description_short">تتبع الوقت مع ساعة الإيقاف الملساء والمؤقت والمنبه والساعة العالمية من HTC.</string><!--Keep track of time with HTC\'s sleek stopwatch, timer, alarm and world clock.-->
+</resources>
+

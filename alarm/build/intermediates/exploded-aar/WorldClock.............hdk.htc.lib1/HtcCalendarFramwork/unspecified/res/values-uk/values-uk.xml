@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-uk/arrays.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>кожну першу п\'ятницю</item><!--on every first Friday-->
+        <item>кожну другу п\'ятницю</item><!--on every second Friday-->
+        <item>кожну третю п\'ятницю</item><!--on every third Friday-->
+        <item>кожну четверту п\'ятницю</item><!--on every fourth Friday-->
+        <item>кожну останню п\'ятницю</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>кожен перший понеділок</item><!--on every first Monday-->
+        <item>кожен другий понеділок</item><!--on every second Monday-->
+        <item>кожен третій понеділок</item><!--on every third Monday-->
+        <item>кожен четвертий понеділок</item><!--on every fourth Monday-->
+        <item>кожен останній понеділок</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>кожну першу суботу</item><!--on every first Saturday-->
+        <item>кожну другу суботу</item><!--on every second Saturday-->
+        <item>кожну третю суботу</item><!--on every third Saturday-->
+        <item>кожну четверту суботу</item><!--on every fourth Saturday-->
+        <item>кожну останню суботу</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>кожну першу неділю</item><!--on every first Sunday-->
+        <item>кожну другу неділю</item><!--on every second Sunday-->
+        <item>кожну третю неділю</item><!--on every third Sunday-->
+        <item>кожну четверту неділю</item><!--on every fourth Sunday-->
+        <item>кожну останню неділю</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>кожен перший четвер</item><!--on every first Thursday-->
+        <item>кожен другий четвер</item><!--on every second Thursday-->
+        <item>кожен третій четвер</item><!--on every third Thursday-->
+        <item>кожен четвертий четвер</item><!--on every fourth Thursday-->
+        <item>кожен останній четвер</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>кожен перший вівторок</item><!--on every first Tuesday-->
+        <item>кожен другий вівторок</item><!--on every second Tuesday-->
+        <item>кожен третій вівторок</item><!--on every third Tuesday-->
+        <item>кожен четвертий вівторок</item><!--on every fourth Tuesday-->
+        <item>кожен останній вівторок</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>кожну першу середу</item><!--on every first Wednesday-->
+        <item>кожну другу середу</item><!--on every second Wednesday-->
+        <item>кожну третю середу</item><!--on every third Wednesday-->
+        <item>кожну четверту середу</item><!--on every fourth Wednesday-->
+        <item>кожну останню середу</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-uk/strings.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">один раз</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> раз</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Кожен <ns1:g id="count">%d</ns1:g> день</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Кожні <ns1:g id="count">%d</ns1:g> дні(ів)</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Кожен <ns1:g id="count">%d</ns1:g> місяць</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Кожні <ns1:g id="count">%d</ns1:g> місяці(ів)</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Кожен <ns1:g id="count">%d</ns1:g> тиждень</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Кожні <ns1:g id="count">%d</ns1:g> тижні(ів)</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Кожен <ns1:g id="count">%d</ns1:g> рік</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Кожні <ns1:g id="count">%d</ns1:g> роки(ів)</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">Щотижня у <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other">Кожен <ns1:g id="number">%1$d</ns1:g> тиждень у <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <string name="every_weekday">"Кожного дня тижня (Пн\u2013Пт)"</string>
+    <string name="monthly">Щомісяця</string>
+    <string name="monthly_on_day_count">"Щомісяця (Кожен <ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g>)"</string>
+    <string name="tm_daily">"Щодня"</string>
+    <string name="yearly_plain">Щорічно</string>
+</resources>

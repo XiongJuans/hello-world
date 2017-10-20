@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values-sr/strings.xml -->
+    <eat-comment/>
+    <string name="location_unavailable">Lokacija je nedostupna</string>
+    <string name="masthead_st_am">AM</string>
+    <string name="masthead_st_auto_sync_off">Automatska sinhronizacija je isključena. Dodirnite da vidite vreme.</string>
+    <string name="masthead_st_current_location">Trenutna lokacija</string>
+    <string name="masthead_st_device_only_off">Promenite režim servisa određivanja lokacije da biste nabavili vremensku prognozu</string>
+    <string name="masthead_st_location_service_off">Uključite usluge određivanja lokacije da biste dobili vremensku prognozu</string>
+    <string name="masthead_st_pm">PM</string>
+    <string name="masthead_st_weather_unavailable">Vremenska prognoza nije dostupna</string>
+</resources>

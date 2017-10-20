@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-land-hdpi/dimen_tabbar.xml -->
+    <eat-comment/>
+    <dimen name="tab_indicator_height">6px</dimen>
+    <dimen name="tabbar_height">42px</dimen>
+</resources>

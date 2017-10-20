@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+<!-- Title of DeskClock -->
+	<string name="desk_clock_caption">Työpöydän kello</string><!--Desk Clock-->
+
+<!-- Desk Clock -->
+    <string name="night_clock">@string/desk_clock_caption</string>
+
+<!-- Title of WorldClock -->
+	<string name="world_clock_caption">Maailmankello</string><!--World Clock-->
+    
+<!-- Sublevel title on WorldClock : Add City-->
+    <string name="add_city">Lisää kaupunki</string><!--Add city-->
+
+<!-- The hint for smart search and menu item -->
+    <string name="addcity_search">Hae kaupunkeja</string><!--Search cities-->
+
+<!-- Error notification when there is no city found -->
+    <string name="city_not_found">KAUPUNKIA EI LÖYTYNYT</string><!--CITY NOT FOUND-->
+    
+<!-- Title of Delete City -->
+	<string name="delete_city_caption">Poista kaupunkeja</string><!--Delete cities-->
+    
+<!-- Title of Rearrange City -->
+	<string name="rearrange_city_caption">Muokkaa listaa</string><!--Edit list-->
+	
+<!-- Menu item on WorldClock : Home Settings -->
+	<string name="home_settings">Valitse oma aikavyöhyke</string><!--Set home time zone-->
+	
+<!-- Menu item on WorldClock : Current Location Time Settings -->
+	<string name="current_settings">Aseta päivämäärä ja aika</string><!--Set date &amp; time-->
+	
+<!-- Title of Stopwatch -->
+	<string name="stopwatch_caption">Sekuntikello</string><!--Stopwatch-->
+	
+<!-- Button : Start stopwatch -->
+	<string name="start">Käynnistä</string><!--Start-->
+
+<!-- Button : Pause stopwatch -->
+    <string name="pause">Keskeytä</string><!--Pause-->
+
+<!-- Button : Resume stopwatch -->
+    <string name="resume">Palauta</string><!--Resume-->
+    
+<!-- Button : Reset stopwatch -->
+    <string name="reset">Nollaa</string><!--Reset-->
+    
+<!-- Button : Stop stopwatch -->
+    <string name="stop">Pysäytä</string><!--Stop-->   
+
+<!-- Button : Lap stopwatch -->
+    <string name="lap">Kierros</string><!--Lap-->
+
+<!-- Title of AlarmClock -->
+	<string name="alarm_caption">Hälytykset</string><!--Alarms-->
+	
+<!-- Title of AlarmClock Setting -->
+	<string name="set_alarm_caption">Aseta hälytys</string><!--Set alarm-->
+	
+<!-- Title of Delete Alarm -->
+	<string name="delete_alarm_caption">Poista hälytykset</string><!--Delete alarms-->
+	
+<!-- Sublevel title on AlarmClock : Add alarm-->
+    <string name="add_alarm">Lisää hälytys</string><!--Add alarm-->
+    
+<!-- Alert message of adding too many alarms -->
+    <string name="add_alarm_error">Hälytysten enimmäismäärä saavutettu.</string><!--Maximum number of alarms reached.-->
+
+<!-- Labels for Set Alarm preference : Ringtone -->
+    <string name="alarm_ringtone">Hälytysääni</string><!--Alarm sound-->
+    
+<!-- Labels for Set Alarm preference : Repeat -->
+    <string name="alarm_repeat">Toista</string><!--Repeat-->
+    
+<!-- Labels for Set Alarm preference : Vibrate -->
+    <string name="alarm_vibrate">Värinä</string><!--Vibrate-->
+
+<!-- Alarm Alert screen: this message is shown after an alarm rung unattended for a number of minutes.  It tells the user that the alarm has been silenced.-->
+    <string name="alarm_alert_alert_silenced">Hälytys hiljennetään <xliff:g id="minutes">%d</xliff:g> minuutin kuluttua.</string><!--Alarm silenced after <xliff:g id="minutes">%d</xliff:g> minutes.-->
+	
+<!-- Notification when user sets snooze successfully -->
+    <string name="alarm_alert_snooze_set">Torkkuaika: <xliff:g id="minutes">%d</xliff:g> minuuttia.</string><!--Snoozing for <xliff:g id="minutes">%d</xliff:g> minutes.-->
+    
+<!-- Notification when user sets snooze unsuccessfully -->
+    <string name="alarm_alert_snooze_not_set">Torkkuaikaa ei ole määritetty. Seuraavan hälytyksen ajankohta: <xliff:g id="time">%s</xliff:g></string><!--Snooze not set. Next alarm set for <xliff:g id="time">%s</xliff:g>-->
+    
+<!-- Notification when alarm is dismissed -->
+    <string name="alarm_alert_dismissed">Hälytys hylätty.</string><!--Alarm dismissed.-->
+
+<!-- Text for alarm confirmation toast -->
+    <string name="alarm_set">Aikaa hälytyksen käynnistymiseen: <xliff:g id="time_delta">%s</xliff:g> </string><!--This alarm is set for <xliff:g id="time_delta">%s</xliff:g> from now.-->
+
+<!-- Text for alarm confirmation toast : days -->
+    <string name="days">&quot;<xliff:g id="days">%s</xliff:g> päivää"</string><!--"<xliff:g id="days">%s</xliff:g> days"-->
+    
+<!-- Text for alarm confirmation toast : hours -->
+    <string name="hours"><xliff:g id="hours">%s</xliff:g> tuntia</string><!--<xliff:g id="hours">%s</xliff:g> hours-->
+    
+<!-- Text for alarm confirmation toast : and -->
+    <string name="and">&quot; ja &quot;</string><!--" and "-->
+    
+<!-- Text for alarm confirmation toast : space-->
+    <string name="space">" "</string>
+    
+<!-- Text for alarm confirmation toast : less than 1 minute-->
+    <string name="subminute">&quot;alle 1 minuutti&quot;</string><!--"less than 1 minute"-->
+
+<!-- Text for alarm confirmation toast : minutes-->
+    <string name="minutes">&quot;<xliff:g id="minutes">%s</xliff:g> minuuttia"</string><!--"<xliff:g id="minutes">%s</xliff:g> minutes"-->
+
+<!-- Notification of next alarm time -->
+    <string name="nextAlarm">Seuraava hälytys: <xliff:g id="next_alarm_time">%s</xliff:g></string><!--Next alarm: <xliff:g id="next_alarm_time">%s</xliff:g>-->
+
+<!-- Repeat frequency of alarms : every day -->
+    <string name="every_day">Joka päivä</string><!--Every day-->
+
+<!-- Day concat of alarm repeat frequency -->
+    <string name="day_concat">&quot;, &quot;</string><!--", "-->
+
+<!-- Error Dialog when alarm is not set -->
+    <string name="error">Hälytystä ei voi lisätä</string><!--Unable to add alarm-->
+
+<!-- Error Dialog of database error -->
+    <string name="dberror">Hälytystä ei voitu asettaa</string><!--Sorry, the alarm could not be set.-->
+	
+<!-- Days of week -->
+    <string-array name="days_of_week">
+        <item>maanantai</item><!--MONDAY-->
+        <item>tiistai</item><!--TUESDAY-->
+        <item>keskiviikko</item><!--WEDNESDAY-->
+        <item>torstai</item><!--THURSDAY-->
+        <item>perjantai</item><!--FRIDAY-->
+        <item>lauantai</item><!--SATURDAY-->
+        <item>sunnuntai</item><!--SUNDAY-->
+    </string-array>
+    
+<!-- Month of year : short -->
+    <string-array name="month_of_year">
+    	<item>tammi</item><!--JAN-->
+    	<item>HEL</item><!--FEB-->
+    	<item>maalis</item><!--MAR-->
+    	<item>huhti</item><!--APR-->
+    	<item>touko</item><!--MAY-->
+    	<item>kesä</item><!--JUN-->
+    	<item>heinä</item><!--JUL-->
+    	<item>elo</item><!--AUG-->
+    	<item>syys</item><!--SEP-->
+    	<item>loka</item><!--OCT-->
+    	<item>marras</item><!--NOV-->
+    	<item>joulu</item><!--DEC-->
+    </string-array>
+    
+<!-- Days of week for WorldClock -->
+    <string-array name="days_of_week_capital">
+        <item></item>
+        <item>Su</item><!--SUN-->
+        <item>Ma</item><!--MON-->
+        <item>Ti</item><!--TUE-->
+        <item>Ke</item><!--WED-->
+        <item>To</item><!--THU-->
+        <item>Pe</item><!--FRI-->
+        <item>La</item><!--SAT-->
+    </string-array> 
+<!-- Whole Days of week for WorldClock -->
+    <string-array name="days_of_week_whole_capital">
+        <item></item>
+        <item>sunnuntai</item><!--SUNDAY-->
+        <item>maanantai</item><!--MONDAY-->
+        <item>tiistai</item><!--TUESDAY-->
+        <item>keskiviikko</item><!--WEDNESDAY-->
+        <item>torstai</item><!--THURSDAY-->
+        <item>perjantai</item><!--FRIDAY-->
+        <item>lauantai</item><!--SATURDAY-->
+    </string-array>
+    
+<!-- Repeat Options -->
+    <string-array name="repeat_option">
+        <item>Maa-Per</item><!--Mon -/ Fri-->
+        <item>Älä toista</item><!--Do not repeat-->
+        <item>Joka päivä</item><!--Every day-->
+        <item>Ohita lomat</item><!--Skip holidays-->
+        <item>Mukautettu</item><!--Custom-->
+    </string-array>
+    
+<!-- Title of Timer -->
+    <string name="timer_caption">Ajastin</string><!--Timer-->
+    
+<!-- Labels for Set Timer preference : Alert Sound -->
+    <string name="alert_sound">Hälytysääni</string><!--Alarm sound-->
+    
+<!-- Title of alert dialog when timer expires -->
+    <string name="time_up">Aika loppui!</string><!--Time\'s up!-->
+    
+<!-- Application name -->
+	<string name="htc_private_app_clock">Kello</string><!--Clock-->
+
+<!-- Message for user when loading cities -->
+	<string name="loading_city">Kaupunkiluetteloa ladataan...</string><!--Loading city list...-->
+	
+<!-- Error title for full internal storage -->
+	<string name="error_title">Tietokantavirhe</string><!--Database error-->
+	
+<!-- Error message for failing querying db -->
+	<string name="query_fail">Virheitä tietokantaa käytettäessä</string><!--Errors occurred while accessing the database-->
+	
+<!-- Title for selecting alarm ringtone -->
+    <string name="select_ringtone">Valitse hälytysääni</string><!--Select alarm sound-->
+
+<!-- Title of ringtone picker -->
+    <string name="select_alert">Valitse hälytysääni</string><!--Select alert sound-->
+    
+<!-- Days of week : abbreviate -->
+    <string-array name="days_of_week_abbr">
+        <item>ma</item><!--M-->
+        <item>ti</item><!--TU-->
+        <item>ke</item><!--W-->
+        <item>to</item><!--TH-->
+        <item>pe</item><!--F-->
+        <item>la</item><!--SA-->
+        <item>su</item><!--SU-->
+    </string-array>
+    
+<!-- Title in Google Gadget -->
+    <string name="analog_gadget">Analoginen kello</string><!--Analog Clock-->
+    
+<!-- Error Dialog when city is not added -->
+    <string name="add_city_error_title">Kaupunkia ei voitu lisätä</string><!--Unable to add city-->
+    
+<!-- Error Dialog of adding too many cities -->
+    <string name="add_city_error_msg">Sinulla voi olla enintään 15 kaupunkia. Voit lisätä uuden kaupungin poistamalla jonkin aiemmista.</string><!--You can have a maximum of 15 cities. To add a new one, please delete an existing city.-->
+    
+<!-- Alert message of adding duplicate city -->
+    <string name="city_duplicate">Tämä kaupunki on jo luettelossa</string><!--This city is already in the list-->
+
+<!-- start: Merge alarm Clock Settings -->
+<!-- alarm_in_volume_increase_mode -->
+    <string name="alarm_in_volume_increase_mode_title">Varovainen herätys</string><!--Gentle alarm-->
+    
+<!-- Gradually increase alarm volume -->
+    <string name="alarm_in_volume_increase_mode_summary">Lisää hälytyksen äänenvoimakkuutta vähitellen</string><!--Gradually increase alarm volume-->
+    
+<!-- Alarm volume -->
+    <string name="alarm_volume_title">Hälytyksen äänenvoimakkuus</string><!--Alarm volume-->
+
+<!-- Set the volume of alarms -->
+    <string name="alarm_volume_summary">Määritä hälytysten äänenvoimakkuus</string><!--Set the volume of alarms-->
+
+<!-- Snooze duration -->
+    <string name="snooze_duration_title">Torkun kesto</string><!--Snooze duration-->
+
+<!-- Entries listed in the ListPreference when invoking the snooze duration preference. -->
+    <string-array name="snooze_duration_entries">
+      <item>5 minuuttia</item><!--5 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_10_minutes</item>
+      <item>15 minuuttia</item><!--15 minutes-->
+      <item>20 minuuttia</item><!--20 minutes-->
+      <item>25 minuuttia</item><!--25 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_30_minutes</item>
+    </string-array>
+    
+<!-- Side button behavior -->
+    <string name="volume_button_setting_title">Äänenvoimakkuuspainikevalinnat</string><!--Volume button options-->
+
+<!-- Entries listed in the setting for the side-button action. -->
+    <string-array name="volume_button_setting_entries">
+      <item>Älä tee mitään</item><!--Do nothing-->
+
+      <item>Torkku</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+    </string-array>
+
+<!-- Entries listed in the setting for the side-button action. -->
+    <string-array name="sprint_volume_button_setting_entries">
+      <item>Älä tee mitään</item><!--Do nothing-->
+
+      <item>Siirrä</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+
+      <item>Hiljaisuus</item><!--Silence-->
+    </string-array>
+
+<!-- The summary of the side button setting. -->
+    <string name="volume_button_setting_summary">Valitse, mitä äänenvoimakkuuspainikkeet tekevät, kun niitä painetaan hälytyksen aikana.</string><!--Choose what the volume buttons do when pressed during an alarm-->
+<!-- end: Merge alarm Clock Settings -->
+        
+<!-- The indicator for High temperature -->
+    <string name="weather_high_indicator">Y:</string><!--H:-->
+    
+<!-- The indicator for Low temperature -->
+    <string name="weather_low_indicator">A:</string><!--L:-->   
+
+<!-- Text to display in the notification ticker and label -->
+    <string name="alarm_notify_snooze_label"><xliff:g id="label">%s</xliff:g> (torkku)</string><!--<xliff:g id="label">%s</xliff:g> (snoozed)-->
+
+<!-- Text to display in the notification when the alarm has been snoozed -->
+    <string name="alarm_notify_snooze_text">Hälytys asetettu <xliff:g id="time">%s</xliff:g>. Peruuta napauttamalla.</string><!--Alarm set for <xliff:g id="time">%s</xliff:g>. Tap to cancel.-->
+
+<!-- Alarm Off -->
+    <string name="alarm_off">Hälytys pois</string><!--Alarm Off-->
+<!-- Alarm On -->
+    <string name="alarm_on">Hälytys päällä</string><!--Alarm On-->
+    
+<!-- Select alarm sound from -->
+    <string name="sound_selection_title">Valitse hälytysääni paikasta</string><!--Select alarm sound from-->
+<!-- Ringtones -->
+    <string name="ringtone_title">Soittoäänet</string><!--Ringtones-->
+
+<!-- Entries listed in the setting for the clock sound selection. -->
+    <string-array name="sound_selection_setting_entries">
+<!-- Alarm sound -->
+      <item>Hälytysääni</item><!--Alarm sound-->
+<!-- Do not translate. Ringtone -->
+      <item>@string/nn_ringtone</item>
+<!-- Do not translate. Music -->
+      <item>@string/nn_music</item>
+    </string-array>
+
+<!-- Labels for Stopwatch : Total-->
+    <string name="total_title">Yhteensä</string><!--Total-->
+    
+<!-- Labels for Stopwatch : Lap-->
+    <string name="lap_title">Kierros</string><!--Lap-->
+
+<!-- Labels for Stopwatch : Lap ID-->
+    <string name="lap_id">Kierros #</string><!--Lap #-->
+    
+<!-- Labels for Stopwatch : Running total-->
+    <string name="lap_total_time">Yhteensä</string><!--Total-->
+    
+<!-- Labels for Stopwatch : This lap-->
+    <string name="lap_time">Tämä krs</string><!--This lap-->
+    
+<!-- Error Dialog when lap is not set -->
+    <string name="lap_error">Kierrosta ei tallennettu</string><!--Lap not saved-->
+    
+<!-- Alert message of adding too many laps -->
+    <string name="add_lap_error">Sekuntikello voi tallentaa enintään 300 kierrosta. Napauta Palauta tyhjentääksesi kierroshistorian.</string><!--Stopwatch can save a maximum of 300 laps. Tap Reset to clear lap history.-->
+    
+<!-- Tips for Weather Location : Location Enable -->
+    <string name="location_enable">Saadaksesi näkyviin paikallisen sään käynnistä sijaintipalvelu napauttamalla tästä.</string><!--To see local weather,\ntap here to turn on Location Service.-->
+
+<!-- menu item for Full screen -->
+    <string name="full_screen_menu_item">Koko näyttö</string><!--Full screen-->
+<!-- menu item for Fit screen -->
+    <string name="fit_screen_menu_item">Sovita näyttöön</string><!--Fit screen-->
+<!-- Storage low dialog -->
+    <string name="storage_full_description">Sinulla ei ole tarpeeksi vapaata tilaa jäljellä puhelimesi tallennustilassa. Poista jotain sisältöä tai sovelluksia. Napauta alla \"Asetukset\" hallitaksesi sovelluksiasi.</string><!--You don\'t have enough free space remaining in your phone\'s storage.Please delete some content or applications.Tap \"Settings\" below to manage your apps.-->
+    
+<!-- for timer -->
+    <string name="timer_reminder_tile_timer_up">Aika on päättynyt</string><!--Time is up-->
+    <string name="timer_reminder_tile_setting">Asetukset</string><!--Settings-->
+    
+<!-- below is removed by common string, move to local -->
+    <string-array name="days_of_week_short">
+        <item>@string/tm_mon</item>
+        <item>@string/tm_tue</item>
+        <item>@string/tm_wed</item>
+        <item>@string/tm_thu</item>
+        <item>@string/tm_fri</item>
+        <item>@string/tm_sat</item>
+        <item>@string/tm_sun</item>
+    </string-array>
+    
+    <string name="tm_mon">ma</string><!--Mon-->
+    <string name="tm_tue">ti</string><!--Tue-->
+    <string name="tm_wed">ke</string><!--Wed-->
+    <string name="tm_thu">to</string><!--Thu-->
+    <string name="tm_fri">pe</string><!--Fri-->
+    <string name="tm_sat">la</string><!--Sat-->
+    <string name="tm_sun">su</string><!--Sun-->
+    <string name="tm_10_minutes">10 minuuttia</string><!--10 minutes-->
+    <string name="tm_30_minutes">30 minuuttia</string><!--30 minutes-->
+    <string name="va_dismiss">Hylkää</string><!--Dismiss-->
+    <string name="nn_ringtone">Soittoääni</string><!--Ringtone-->
+    <string name="nn_music">Musiikki</string><!--Music-->
+<!-- AccountManager: In loginSettings activity: Label for "Done" button item -->
+    <string name="bt_done_str">Valmis</string><!--Done-->
+    <string name="tm_am">AM</string><!--AM-->
+    <string name="tm_pm">PM</string><!--PM-->
+<!-- Lable for phone number type: Home number -->
+    <string name="phone_type_home">Koti</string><!--Home-->
+<!-- Dialog Yes button -->
+    <string name="dialog_button_ok">OK</string><!--OK-->
+<!-- AccountManager: In loginSettings activity: Label for "Cancel" button item -->
+    <string name="bt_cancel_str">Peruuta</string><!--Cancel-->
+<!-- To snooze a notification -->
+    <string name="snooze">Torkkutila</string><!--Snooze-->
+<!-- The default hint on lockscreen to indicate what to do. Drag down the arc are to dismiss current reminder. -->
+    <string name="lockscreen_hint_dismiss">Vedä alas ohittaaksesi</string><!--Drag down to dismiss-->
+    <string name="nn_alarm">Hälytys</string><!--Alarm-->
+    <string name="tm_today">Tänään</string><!--Today-->
+    <string name="tm_yesterday">Eilen</string><!--Yesterday-->
+    <string name="tm_tomorrow">Huomenna</string><!--Tomorrow-->
+    <string name="tm_current">Nykyinen</string><!--Current-->
+    <string name="va_rearrange">Järjestä uudelleen</string><!--Rearrange-->
+    <string name="va_edit">Muokkaa</string><!--Edit-->
+    <string name="va_select_all">Valitse kaikki</string><!--Select all-->
+    <string name="va_deselect_all">Poista valinnat</string><!--Deselect all-->
+    <string name="nn_description">Kuvaus</string><!--Description-->
+    <string name="tm_1_day">1 päivä</string><!--1 day-->
+    <string name="tm_1_hour">1 tunti</string><!--1 hour-->
+    <string name="tm_1_minute">1 minuutti</string><!--1 minute-->
+    <string name="st_on">Käytössä</string><!--On-->
+    <string name="st_off">Pois päältä</string><!--Off-->
+    <string name="st_never">Ei koskaan</string><!--Never-->
+    <string name="va_add">Lisää</string><!--Add-->
+    <string name="va_edit_tabs">Muokkaa välilehtiä</string><!--Edit tabs-->
+    <string name="ls_no_weather_data_available">Säätietoja ei saatavilla</string><!--No weather data available-->
+    <string name="st_storage_full">Tallennustila täynnä</string><!--Storage full-->
+    <string name="nn_settings">Asetukset</string><!--Settings-->
+<!-- [Add][Start] add "Tips & Help" by Yami Day's request -->
+    <string name="nn_tips_help">Vihjeitä ja Ohjeita</string><!--Tips &amp; Help-->
+<!-- [Add][End] add "Tips & Help" by Yami Day's request -->
+<!-- [Gallery OpenSense - GA50 Skyer_Tai] Warning message for low internal memory scenario -->
+    <string name="internal_memory_low">Puhelimessasi on vähän tallennustilaa. Vapauta tallennustilaa, ennen kuin käytät tätä sovellusta.</string><!--Your phone is low on storage space. Please make some free space before using this application.-->
+    <string name="st_default">Oletus</string><!--Default-->
+<!-- [Add][Start] Add for ContentUri, called back from soundPicker(Mail/Calendar/Message) -->
+    <string name="st_silent">Äänetön</string><!--Silent-->
+<!-- [Add][End] Add for ContentUri, called back from soundPicker(Mail/Calendar/Message) -->
+    <string name="st_more">Lisää</string><!--More-->
+
+<!-- Labels for Set Alarm preference : OffAlarm -->
+    <string name="alarm_offalarm">Ääni, kun puhelin on pois päältä</string><!--Sound when phone off-->
+
+<!-- Dialog title for describe that this app needs additional permission -->
+    
+<!-- Do not translate -->
+	<!--<string name="clock_permission_dialog_title">@string/htc_private_app_clock</string>-->
+    
+<!-- Dialog content for describe that this app needs additional permission -->
+    <string name="clock_permission_dialog_content">Toimiakseen oikein, tämän sovelluksen on käytettävä tallennustilaasi. Voit hallita Kello-sovelluksen käyttöoikeuksia Asetuksissa.</string><!--To work properly, this app needs to access your storage. You can manage Clock\'s permissions in Settings.-->
+<!-- [Button] Dialog button to bring user to Settings page -->
+    <string name="clock_permission_dialog_btn_settings">Asetukset</string><!--Settings-->
+<!-- [Button] Dialog button to close dialog -->
+    <string name="clock_permission_dialog_btn_close">Sulje</string><!--Close-->
+    
+<!-- location setting -->
+<!-- Dialog title to ask user to turn on network location provider -->
+    <string name="location_dialog_title">Paikannuspalvelut eivät ole käytössä</string><!--Location services are off-->
+<!-- Dialog content to ask user to turn on network location provider -->
+    <string name="location_dialog_msg">Saadaksesi paikallisen sään, muuta sijaintiasetuksia akun säästö - tai korkea tarkkuus -tilaan.</string><!--To get local weather, change your location settings to battery saving or high accuracy mode.-->
+</resources>
+
+
+

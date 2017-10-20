@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string-array name="days_of_week">
+        <item>ponedeljek</item><!--MONDAY-->
+        <item>torek</item><!--TUESDAY-->
+        <item>sreda</item><!--WEDNESDAY-->
+        <item>četrtek</item><!--THURSDAY-->
+        <item>petek</item><!--FRIDAY-->
+        <item>sobota</item><!--SATURDAY-->
+        <item>nedelja</item><!--SUNDAY-->
+    </string-array>
+    <string-array name="days_of_week_abbr">
+        <item>Po</item><!--M-->
+        <item>To</item><!--TU-->
+        <item>Sr</item><!--W-->
+        <item>Če</item><!--TH-->
+        <item>Pe</item><!--F-->
+        <item>So</item><!--SA-->
+        <item>Ne</item><!--SU-->
+    </string-array>
+    <string-array name="days_of_week_capital">
+        <item/>
+        <item>Ned</item><!--SUN-->
+        <item>Pon</item><!--MON-->
+        <item>Tor</item><!--TUE-->
+        <item>Sre</item><!--WED-->
+        <item>Čet</item><!--THU-->
+        <item>Pet</item><!--FRI-->
+        <item>Sob</item><!--SAT-->
+    </string-array>
+    <string-array name="days_of_week_short">
+        <item>@string/tm_mon</item>
+        <item>@string/tm_tue</item>
+        <item>@string/tm_wed</item>
+        <item>@string/tm_thu</item>
+        <item>@string/tm_fri</item>
+        <item>@string/tm_sat</item>
+        <item>@string/tm_sun</item>
+    </string-array>
+    <string-array name="days_of_week_whole_capital">
+        <item/>
+        <item>nedelja</item><!--SUNDAY-->
+        <item>ponedeljek</item><!--MONDAY-->
+        <item>torek</item><!--TUESDAY-->
+        <item>sreda</item><!--WEDNESDAY-->
+        <item>četrtek</item><!--THURSDAY-->
+        <item>petek</item><!--FRIDAY-->
+        <item>sobota</item><!--SATURDAY-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/WeatherLib1/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string-array name="htc_weather_conditions">
+<!-- weather condition 1 : Sunny -->
+        <item>Sončno</item><!--Sunny-->
+<!-- weather condition 2 : Mostly Sunny -->
+        <item>Pretežno sončno</item><!--Mostly Sunny-->
+<!-- weather condition 3 : Partly Sunny -->
+        <item>Delno sončno</item><!--Partly Sunny-->
+<!-- weather condition 4 : Intermittent Clouds -->
+        <item>Zmerno oblačno</item><!--Intermittent Clouds--><!--Intermittent Clouds-->
+<!-- weather condition 5 : Hazy Sunshine -->
+        <item>Megleno sončno</item><!--Hazy Sunshine-->
+<!-- weather condition 6 : Mostly Cloudy -->
+        <item>Pretežno oblačno</item><!--Mostly Cloudy--><!--Mostly Cloudy-->
+<!-- weather condition 7 : Cloudy -->
+        <item>Oblačno</item><!--Cloudy-->
+<!-- weather condition 8 : Dreary -->
+        <item>Sivo</item><!--Dreary-->
+<!-- weather condition 11 : Fog -->
+        <item>Megla</item><!--Fog-->
+<!-- weather condition 12 : Showers -->
+        <item>Plohe</item><!--Showers-->
+<!-- weather condition 13 : Mostly Cloudy with Showers -->
+        <item>Pretežno oblačno s plohami</item><!--Mostly Cloudy with Showers--><!--Mostly Cloudy with Showers-->
+<!-- weather condition 14 : Partly Sunny with Showers -->
+        <item>Delno sončno s plohami</item><!--Partly Sunny with Showers-->
+<!-- weather condition 15 : Thunderstorms -->
+        <item>Nevihte</item><!--Thunderstorms-->
+<!-- weather condition 16 : Mostly Cloudy with Thunder Showers -->
+        <item>Pretežno oblačno z nevihtami</item><!--Mostly Cloudy with Thunder Showers--><!--Mostly Cloudy with Thunder Showers-->
+<!-- weather condition 17 : Partly Sunny with Thunder Showers -->
+        <item>Delno sončno z nevihtami</item><!--Partly Sunny with Thunder Showers-->
+<!-- weather condition 18 : Rain -->
+        <item>Dež</item><!--Rain-->
+<!-- weather condition 19 : Flurries -->
+        <item>Vetrovno</item><!--Flurries-->
+<!-- weather condition 20 : Mostly Cloudy with Flurries -->
+        <item>Pretežno oblačno s sunki vetra</item><!--Mostly Cloudy with Flurries--><!--Mostly Cloudy with Flurries-->
+<!-- weather condition 21 : Partly Sunny with Flurries -->
+        <item>Delno sončno s sunki vetra</item><!--Partly Sunny with Flurries-->
+<!-- weather condition 22 : Snow -->
+        <item>Sneg</item><!--Snow-->
+<!-- weather condition 23 : Mostly Cloudy with Snow -->
+        <item>Pretežno oblačno s sneženjem</item><!--Mostly Cloudy with Snow-->
+<!-- weather condition 24 : Ice -->
+        <item>Led</item><!--Ice-->
+<!-- weather condition 25 : Sleet -->
+        <item>Sodra</item><!--Sleet-->
+<!-- weather condition 26 : Freezing Rain -->
+        <item>Zmrznjen dež</item><!--Freezing Rain-->
+<!-- weather condition 29 : Rain and Snow Mixed -->
+        <item>Dež s snegom</item><!--Rain and Snow Mixed-->
+<!-- weather condition 30 : Hot -->
+        <item>Vroče</item><!--Hot-->
+<!-- weather condition 31 : Cold -->
+        <item>Mrzlo</item><!--Cold-->
+<!-- weather condition 32 : Windy -->
+        <item>Vetrovno</item><!--Windy-->
+<!-- weather condition 33 : Clear -->
+        <item>Jasno</item><!--Clear-->
+<!-- weather condition 34 : Mostly Clear -->
+        <item>Pretežno jasno</item><!--Mostly Clear-->
+<!-- weather condition 35 : Partly Cloudy -->
+        <item>Delno oblačno</item><!--Partly Cloudy-->
+<!-- weather condition 36 : Intermittent Clouds -->
+        <item>Zmerno oblačno</item><!--Intermittent Clouds--><!--Intermittent Clouds-->
+<!-- weather condition 37 : Hazy -->
+        <item>Megleno</item><!--Hazy-->
+<!-- weather condition 38 : Mostly Cloudy -->
+        <item>Pretežno oblačno</item><!--Mostly Cloudy--><!--Mostly Cloudy-->
+<!-- weather condition 39 : Partly Cloudy with Showers -->
+        <item>Delno oblačno s plohami</item><!--Partly Cloudy with Showers-->
+<!-- weather condition 40 : Mostly Cloudy with Showers -->
+        <item>Pretežno oblačno s plohami</item><!--Mostly Cloudy with Showers--><!--Mostly Cloudy with Showers-->
+<!-- weather condition 41 : Partly Cloudy with Thunder Showers -->
+        <item>Delno oblačno z nevihtami</item><!--Partly Cloudy with Thunder Showers-->
+<!-- weather condition 42 : Mostly Cloudy with Thunder Showers -->
+        <item>Pretežno oblačno z nevihtami</item><!--Mostly Cloudy with Thunder Showers--><!--Mostly Cloudy with Thunder Showers-->
+<!-- weather condition 43 : Partly Cloudy with Flurries -->
+        <item>Delno oblačno s sunki vetra</item><!--Partly Cloudy with Flurries-->
+<!-- weather condition 44 : Mostly Cloudy with Flurries -->
+        <item>Pretežno oblačno s sunki vetra</item><!--Mostly Cloudy with Flurries--><!--Mostly Cloudy with Flurries-->
+<!-- _For Huafeng -->
+<!-- weather condition 51 : -->
+        <item>Nevihte s sodro</item><!--Thunderstorms with sleet-->
+<!-- weather condition 52 : -->
+        <item>Pesek</item><!--Sand-->
+<!-- weather condition 53 : -->
+        <item>Prah</item><!--Dust-->
+<!-- weather condition 54 : -->
+        <item>Tornado</item><!--Tornado-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string-array name="month_of_year">
+    	<item>jan</item><!--JAN-->
+    	<item>FEB</item><!--FEB-->
+    	<item>mar</item><!--MAR-->
+    	<item>apr</item><!--APR-->
+    	<item>maj</item><!--MAY-->
+    	<item>jun</item><!--JUN-->
+    	<item>jul</item><!--JUL-->
+    	<item>avg</item><!--AUG-->
+    	<item>sep</item><!--SEP-->
+    	<item>okt</item><!--OCT-->
+    	<item>nov</item><!--NOV-->
+    	<item>dec</item><!--DEC-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>vsak prvi petek</item><!--on every first Friday-->
+        <item>vsak drugi petek</item><!--on every second Friday-->
+        <item>vsak tretji petek</item><!--on every third Friday-->
+        <item>vsak četrti petek</item><!--on every fourth Friday-->
+        <item>vsak zadnji petek</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>vsak prvi ponedeljek</item><!--on every first Monday-->
+        <item>vsak drugi ponedeljek</item><!--on every second Monday-->
+        <item>vsak tretji ponedeljek</item><!--on every third Monday-->
+        <item>vsak četrti ponedeljek</item><!--on every fourth Monday-->
+        <item>vsak zadnji ponedeljek</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>vsako prvo soboto</item><!--on every first Saturday-->
+        <item>vsako drugo soboto</item><!--on every second Saturday-->
+        <item>vsako tretjo soboto</item><!--on every third Saturday-->
+        <item>vsako četrto soboto</item><!--on every fourth Saturday-->
+        <item>vsako zadnjo soboto</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>vsako prvo nedeljo</item><!--on every first Sunday-->
+        <item>vsako drugo nedeljo</item><!--on every second Sunday-->
+        <item>vsako tretjo nedeljo</item><!--on every third Sunday-->
+        <item>vsako četrto nedeljo</item><!--on every fourth Sunday-->
+        <item>vsako zadnjo nedeljo</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>vsak prvi četrtek</item><!--on every first Thursday-->
+        <item>vsak drugi četrtek</item><!--on every second Thursday-->
+        <item>vsak tretji četrtek</item><!--on every third Thursday-->
+        <item>vsak četrti četrtek</item><!--on every fourth Thursday-->
+        <item>vsak zadnji četrtek</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>vsak prvi torek</item><!--on every first Tuesday-->
+        <item>vsak drugi torek</item><!--on every second Tuesday-->
+        <item>vsak tretji torek</item><!--on every third Tuesday-->
+        <item>vsak četrti torek</item><!--on every fourth Tuesday-->
+        <item>vsak zadnji torek</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>vsako prvo sredo</item><!--on every first Wednesday-->
+        <item>vsako drugo sredo</item><!--on every second Wednesday-->
+        <item>vsako tretjo sredo</item><!--on every third Wednesday-->
+        <item>vsako četrto sredo</item><!--on every fourth Wednesday-->
+        <item>vsako zadnjo sredo</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string-array name="repeat_option">
+        <item>Pon – pet</item><!--Mon -/ Fri-->
+        <item>Ne ponovi</item><!--Do not repeat-->
+        <item>Vsak dan</item><!--Every day-->
+        <item>Preskoči praznike</item><!--Skip holidays-->
+        <item>Po meri</item><!--Custom-->
+    </string-array>
+    <string-array name="snooze_duration_entries">
+      <item>5 minut</item><!--5 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_10_minutes</item>
+      <item>15 minut</item><!--15 minutes-->
+      <item>20 minut</item><!--20 minutes-->
+      <item>25 minut</item><!--25 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_30_minutes</item>
+    </string-array>
+    <string-array name="sound_selection_setting_entries">
+<!-- Alarm sound -->
+      <item>Zvok alarma</item><!--Alarm sound-->
+<!-- Do not translate. Ringtone -->
+      <item>@string/nn_ringtone</item>
+<!-- Do not translate. Music -->
+      <item>@string/nn_music</item>
+    </string-array>
+    <string-array name="sprint_volume_button_setting_entries">
+      <item>Ne naredi ničesar</item><!--Do nothing-->
+
+      <item>Dremež</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+
+      <item>Utišaj</item><!--Silence-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>Majhen</item><!--Small-->
+        <item>Srednji</item><!--Medium-->
+        <item>Velik</item><!--Large-->
+        <item>Zelo velik</item><!--Extra large-->
+        <item>Ogromen</item><!--Huge-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string-array name="volume_button_setting_entries">
+      <item>Ne naredi ničesar</item><!--Do nothing-->
+
+      <item>Dremež</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string-array name="weeklayout_secondary_text">
+        <item>Ne</item><!--SU-->
+        <item>Po</item><!--M-->
+        <item>To</item><!--TU-->
+        <item>Sr</item><!--W-->
+        <item>Če</item><!--TH-->
+        <item>Pe</item><!--F-->
+        <item>So</item><!--SA-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">enkrat</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g>-krat</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Vsak <ns1:g id="count">%d</ns1:g> dan</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Vsakih toliko dni: <ns1:g id="count">%d</ns1:g></item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Vsak <ns1:g id="count">%d</ns1:g> mesec</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Vsakih toliko mesecev: <ns1:g id="count">%d</ns1:g></item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Vsak <ns1:g id="count">%d</ns1:g> teden</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Vsakih toliko tednov: <ns1:g id="count">%d</ns1:g></item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Vsako <ns1:g id="count">%d</ns1:g> leto</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Vsakih toliko let: <ns1:g id="count">%d</ns1:g></item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">Tedensko v <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other">Vsake <ns1:g id="number">%1$d</ns1:g> tedne v <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Krmarjenje domov"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Krmarjenje navzgor"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Več možnosti"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Končano"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Pokaži vse"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Izbira aplikacije"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"IZKLOPLJENO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"VKLOPLJENO"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Iskanje …"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Izbris poizvedbe"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Iskalna poizvedba"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Iskanje"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Pošiljanje poizvedbe"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Glasovno iskanje"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Deljenje z"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Deljenje z:"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Strni"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string name="accessibility_tap_action">Dvakrat tapnite za dejanje</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="add_alarm">Dodaj alarm</string>
+    <string name="add_alarm_error">Dosežena je bila omejitev števila alarmov.</string>
+    <string name="add_city">Dodajte mesto</string>
+    <string name="add_city_error_msg">Vnesete lahko največ 15 mest. Če želite dodati novega, izbrišite eno od obstoječih mest.</string>
+    <string name="add_city_error_title">Mesta ni bilo mogoče dodati</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string name="add_comments">Dodaj komentar</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="add_lap_error">Štoparica lahko shrani največ 300 krogov. Tapnite Ponastavi, da počistite zgodovino krogov.</string>
+    <string name="addcity_search">Iskanje mest</string>
+    <string name="alarm_alert_alert_silenced">Alarm bo utišan po <ns1:g id="minutes">%d</ns1:g> minutah.</string>
+    <string name="alarm_alert_dismissed">Alarm izključen.</string>
+    <string name="alarm_alert_snooze_not_set">Dremež ni nastavljen. Naslednji alarm je nastavljen za ob <ns1:g id="time">%s</ns1:g></string>
+    <string name="alarm_alert_snooze_set">Dremež naj traja <ns1:g id="minutes">%d</ns1:g> minut.</string>
+    <string name="alarm_caption">Alarmi</string>
+    <string name="alarm_in_volume_increase_mode_summary">Postopoma povečaj glasnost alarma</string>
+    <string name="alarm_in_volume_increase_mode_title">Rahel alarm</string>
+    <string name="alarm_notify_snooze_label"><ns1:g id="label">%s</ns1:g> (dremež vključen)</string>
+    <string name="alarm_notify_snooze_text">Alarm je nastavljen za ob <ns1:g id="time">%s</ns1:g>. Tapnite za izklop.</string>
+    <string name="alarm_off">Izklop alarma</string>
+    <string name="alarm_offalarm">Zvok ob izklopljenem telefonu</string>
+    <string name="alarm_on">Vklop alarma</string>
+    <string name="alarm_repeat">Ponovi</string>
+    <string name="alarm_ringtone">Zvok alarma</string>
+    <string name="alarm_set">Ta alarm je odslej nastavljen za ob <ns1:g id="time_delta">%s</ns1:g>.</string>
+    <string name="alarm_vibrate">Vibriranje</string>
+    <string name="alarm_volume_summary">Prilagajanje glasnosti alarmov</string>
+    <string name="alarm_volume_title">Glasnost alarma</string>
+    <string name="alert_sound">Zvok alarma</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string name="am">AM</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="analog_gadget">Analogna ura</string>
+    <string name="and">" in "</string>
+    <string name="bt_cancel_str">Prekliči</string>
+    <string name="bt_done_str">Končano</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string name="button_hide_caption">Skrij napis</string>
+    <string name="button_hide_description">Skrij opis</string>
+    <string name="button_show_caption">Pokaži napis</string>
+    <string name="button_show_description">Pokaži opis</string>
+    <string name="carousel_title">Uredi zavihke</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="city_duplicate">To mesto je že na seznamu</string>
+    <string name="city_not_found">Mesta ni bilo mogoče najti</string>
+    <string name="clock_permission_dialog_btn_close">Zapri</string>
+    <string name="clock_permission_dialog_btn_settings">Nastavitve</string>
+    <string name="clock_permission_dialog_content">Ta aplikacija mora za pravilno delovanje dostopati do shrambe. Dovoljenja za uro lahko upravljate v Nastavitvah.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">Išči ljudi</string>
+    <string name="common_string_open_contact">Odpri stik</string>
+    <string name="common_string_save_to_existing_contact">Shrani v obstoječe stike</string>
+    <string name="common_string_save_to_people">Shrani v mapo Ljudje</string>
+    <string name="common_string_share_title">Pošlji preko</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="current_settings">Nastavi datum in čas</string>
+    <string name="day_concat">", "</string>
+    <string name="days">"<ns1:g id="days">%s</ns1:g> dni"</string>
+    <string name="dberror">Alarma žal ni bilo mogoče nastaviti.</string>
+    <string name="delete_alarm_caption">Izbriši alarme</string>
+    <string name="delete_city_caption">Izbriši mesta</string>
+    <string name="desk_clock_caption">Namizna ura</string>
+    <string name="dialog_button_ok">V redu</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string name="done">Končano</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="error">Alarma ni bilo mogoče dodati</string>
+    <string name="error_title">Napaka v podatkovni bazi</string>
+    <string name="every_day">Vsak dan</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string name="every_weekday">"Vsak delovni dan (Pon\u2013Pet)"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="fit_screen_menu_item">Prilagodi velikosti zaslona</string>
+    <string name="full_screen_menu_item">Celoten zaslon</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/googleplay_strings.xml -->
+    <eat-comment/>
+    <string name="googleplay_description_app">Ne glede na to, ali ste v Tajpeju na Tajvanu ali v Marakešu v Maroku, Ura HTC omogoča, da preverite čas na trenutni lokaciji, doma in v mestih po vsem svetu. S prilagodljivimi alarmi, štoparico in časomerom boste imeli možnosti upravljanja časa kar v svojem žepu. Nastavite lahko poljubno število alarmov, spremenite trajanje dremeža, izberete zvok, ki se predvaja ob alarmu in omogočite zvok alarmov celo takrat, ko je telefon utišan. Štoparica Ure HTC je izjemna za beleženje ponovitev med vadbo, časomer pa je priročen za kuhanje in nadzor časa gledanja televizorja.</string>
+    <string name="googleplay_description_legal">[googleplay_description_legal_common_1]</string>
+    <string name="googleplay_description_short">Spremljajte čas z elegantno štoparico, časomerom, alarmom in svetovno uro HTC.</string>
+    <string name="googleplay_description_supportingScope"/>
+    <string name="googleplay_title">Ura HTC</string>
+    <string name="googleplay_whatsnew">- Alarmi so postopoma vse glasnejši\n- Popravki napak in izboljšave zmogljivosti</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="home_settings">Nastavi domači časovni pas</string>
+    <string name="hours"><ns1:g id="hours">%s</ns1:g> ur</string>
+    <string name="htc_private_app_clock">Ura</string>
+    <string name="internal_memory_low">Vašemu telefonu primanjkuje pomnilniškega prostora. Pred zagonom te aplikacije sprostite nekaj prostora.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string name="label_day">Dan</string>
+    <string name="label_hour">Ura</string>
+    <string name="label_minute">Minute</string>
+    <string name="label_month">Mesec</string>
+    <string name="label_second">Sekunde</string>
+    <string name="label_year">Leto</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="lap">Krog</string>
+    <string name="lap_error">Krog ni shranjen</string>
+    <string name="lap_id">Krog #</string>
+    <string name="lap_time">Ta krog</string>
+    <string name="lap_title">Krog</string>
+    <string name="lap_total_time">Skupaj</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string name="license_dialog_content">Nekatere ikone, uporabljene v tem telefonu, so prvotno oblikovali pri Google, pri HTC-ju pa smo jih spremenili na podlagi <a href="https://creativecommons.org/licenses/by/4.0/legalcode">licence Creative Commons BY4.0</a>.</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="loading_city">Nalagam seznam mest ...</string>
+    <string name="location_dialog_msg">Če želite prikazati lokalne vremenske razmere, spremenite nastavitve lokacije na način varčevanja z energijo ali način visoke natančnosti.</string>
+    <string name="location_dialog_title">Lokacijske storitve so izklopljene</string>
+    <string name="location_enable">Za prikaz informacij o lokalnem vremenu tapnite tukaj, da bi vključili lokacijsko storitev.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string name="location_unavailable">Lokacija ni na voljo</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="lockscreen_hint_dismiss">Za izključitev povlecite navzdol</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string name="ls_doubletap_drag">dvotapnite in povlecite za prilagoditev</string>
+    <string name="ls_edit_number_before_calling">Pred klicanjem uredi številko</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="ls_no_weather_data_available">Vremenski podatki niso na voljo</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string name="ls_open_in_map">Odpri v zemljevidu</string>
+    <string name="ls_tablet_storage_error">V pomnilniku tabličnega računalnika je prišlo do napake. Znova zaženite napravo ali formatirajte pomnilnik.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string name="masthead_st_am">AM</string>
+    <string name="masthead_st_auto_sync_off">Samodejno sinhroniziranje je izklopljeno. Tapnite, če želite prikazati vreme.</string>
+    <string name="masthead_st_current_location">Trenutna lokacija</string>
+    <string name="masthead_st_device_only_off">Za prikaz vremena spremenite način lokacijske storitve</string>
+    <string name="masthead_st_location_service_off">Za prikaz vremena vklopite lokacijske storitve</string>
+    <string name="masthead_st_pm">PM</string>
+    <string name="masthead_st_weather_unavailable">Vreme ni na voljo</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string name="menu_crop">Obrezovanje</string>
+    <string name="menu_delete">Izbriši</string>
+    <string name="menu_properties">Podrobnosti</string>
+    <string name="menu_protect_info">Podatki o zaščiti</string>
+    <string name="menu_save_to_my_favorite">Označi kot priljubljeno</string>
+    <string name="menu_send_photo_link_by_email">Omogoči souporabo povezave do fotografije</string>
+    <string name="menu_set_as">Nastavi kot</string>
+    <string name="menu_settings">Nastavitve</string>
+    <string name="menu_share">Omogoči souporabo</string>
+    <string name="menu_show_on_map">Prikaži na zemljevidu</string>
+    <string name="menu_slideshow">Diaprojekcija</string>
+    <string name="menu_view_full">Prikaz</string>
+    <string name="menu_view_video">Predvajaj</string>
+    <string name="meun_rotate">Zasuk</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="minutes">"<ns1:g id="minutes">%s</ns1:g> minut"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string name="monthly">Mesečno</string>
+    <string name="monthly_on_day_count">"Mesečno (vsakih <ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g>)"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="nextAlarm">Naslednji alarm: <ns1:g id="next_alarm_time">%s</ns1:g></string>
+    <string name="night_clock">@string/desk_clock_caption</string>
+    <string name="nn_alarm">Alarm</string>
+    <string name="nn_description">Opis</string>
+    <string name="nn_music">Glasba</string>
+    <string name="nn_ringtone">Melodija zvonjenja</string>
+    <string name="nn_settings">Nastavitve</string>
+    <string name="nn_tips_help">Nasveti in pomoč</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">Neznana napaka</string>
+    <string name="no">Ne</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="pause">Premor</string>
+    <string name="phone_type_home">Domača številka</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string name="pm">PM</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="query_fail">Med dostopanjem do podatkovne baze je prišlo do napak</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string name="quickselection_share">Pošlji preko</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="rearrange_city_caption">Uredi seznam</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string name="refresh">Osveži</string>
+    <string name="reminderview_common_unlock_hint_icon">Ikono povlecite navzgor</string>
+    <string name="reminderview_common_unlock_hint_up">Napravo odklenete tako, da povlečete navzgor</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="reset">Ponastavi</string>
+    <string name="resume">Nadaljuj</string>
+    <string name="ringtone_title">Toni zvonjenja</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string msgid="146198913615257606" name="search_menu_title">"Iskanje"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="select_alert">Izberite zvok opozorila</string>
+    <string name="select_ringtone">Izberite zvok alarma</string>
+    <string name="set_alarm_caption">Nastavit alarm</string>
+    <string name="snooze">Dremež</string>
+    <string name="snooze_duration_title">Trajanje dremeža</string>
+    <string name="sound_selection_title">Izberite zvok alarma iz</string>
+    <string name="space">" "</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">Za osvežitev spustite</string>
+    <string name="st_action_bar_updating">Posodabljam ...</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="st_default">Privzeto</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string name="st_draggable_item">Element za vlečenje</string>
+    <string name="st_loading">Prenašam ...</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="st_more">Več</string>
+    <string name="st_never">Nikoli</string>
+    <string name="st_off">Izklop</string>
+    <string name="st_on">Vklop</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string name="st_pull_down_refresh">Za osvežitev povlecite navzdol</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="st_silent">Tiho</string>
+    <string name="st_storage_full">Pomnilnik je poln</string>
+    <string name="start">Začetek</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="stop">Zaustavi</string>
+    <string name="stopwatch_caption">Štoparica</string>
+    <string name="storage_full_description">V pomnilniku telefona ni na voljo dovolj prostora. Izbrišite nekaj vsebine ali aplikacij. Za upravljanje aplikacij spodaj tapnite možnost \"Nastavitve\".</string>
+    <string name="subminute">"manj kot 1 minuta"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string name="tab_remove_dialog_message">Na voljo imate še en zavihek. Če želite dodati več zavihkov za to aplikacijo, v meniju izberite Uredi zavihke/Filtri.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="time_up">Čas je potekel!</string>
+    <string name="timer_caption">Časovnik</string>
+    <string name="timer_reminder_tile_setting">Nastavitve</string>
+    <string name="timer_reminder_tile_timer_up">Čas je potekel</string>
+    <string name="tm_10_minutes">10 minut</string>
+    <string name="tm_1_day">1 dan</string>
+    <string name="tm_1_hour">1 ura</string>
+    <string name="tm_1_minute">1 minuta</string>
+    <string name="tm_30_minutes">30 minut</string>
+    <string name="tm_am">AM</string>
+    <string name="tm_current">Trenutna</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string name="tm_daily">"Dnevno"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="tm_fri">Pet</string>
+    <string name="tm_mon">Pon</string>
+    <string name="tm_pm">PM</string>
+    <string name="tm_sat">Sob</string>
+    <string name="tm_sun">Ned</string>
+    <string name="tm_thu">Čet</string>
+    <string name="tm_today">Danes</string>
+    <string name="tm_tomorrow">Jutri</string>
+    <string name="tm_tue">Tor</string>
+    <string name="tm_wed">Sre</string>
+    <string name="tm_yesterday">Včeraj</string>
+    <string name="total_title">Skupaj</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">Tega zavihka ni bilo mogoče odstraniti</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="va_add">Dodaj</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string name="va_back">Nazaj</string>
+    <string name="va_call">Klic</string>
+    <string name="va_cancel">Prekliči</string>
+    <string name="va_clear">Počisti</string>
+    <string name="va_close">Zapri</string>
+    <string name="va_copy">Kopiraj</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="va_deselect_all">Prekliči izbiro za vse</string>
+    <string name="va_dismiss">Izključi</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string name="va_download">Prenesi</string>
+    <string name="va_downloading">Prenašanje</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="va_edit">Uredi</string>
+    <string name="va_edit_tabs">Uredi zavihke</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string name="va_finish">Končaj</string>
+    <string name="va_hide">Skrij</string>
+    <string name="va_move_above">Pomakni navzgor</string>
+    <string name="va_move_below">Pomakni navzdol</string>
+    <string name="va_next">Naprej</string>
+    <string name="va_ok">V redu</string>
+    <string name="va_open">Odpri</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="va_rearrange">Prerazporedi</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string name="va_reset">Ponastavi</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="va_select_all">Izberi vse</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string name="va_send_mail">Pošlji e-poštno sporočilo</string>
+    <string name="va_send_message">Pošlji sporočilo</string>
+    <string name="va_show_all">Pokaži vse</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sl/strings.xml -->
+    <eat-comment/>
+    <string name="volume_button_setting_summary">Izberite, kaj naredita gumba za glasnost, če ju pritisnete med alarmom</string>
+    <string name="volume_button_setting_title">Možnosti gumba za glasnost</string>
+    <string name="weather_high_indicator">V:</string>
+    <string name="weather_low_indicator">N:</string>
+    <string name="world_clock_caption">Svetovna ura</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string name="yearly_plain">Letno</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-sl/values-sl.xml -->
+    <eat-comment/>
+    <string name="yes">Da</string>
+</resources>

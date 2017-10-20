@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Do not translate. Home timezone -->
+    <string name="home">@string/phone_type_home</string>
+    
+    <!-- Do not translate. Button : ok-->   
+    <string name="ok">@string/dialog_button_ok</string>
+
+    <!-- Do not translate. Button : action is done -->
+    <string name="done">@string/bt_done_str</string>
+
+    <!-- Do not translate. Button : action is canceled -->
+    <string name="cancel">@string/bt_cancel_str</string>
+
+    <!-- Do not translate. Time format of stopwatch -->
+<!--    <string name="stopwatch_format"><xliff:g id="format">%02d:%02d.%01d</xliff:g></string>-->
+    
+    <!-- Do not translate. Original time of stopwatch -->
+    <string name="stopwatch_original">00:00.0</string>    
+
+    <!-- Do not translate. Menu item on WorldClock : Delete -->
+    <string name="delete">@string/menu_delete</string>
+
+    <!-- Do not translate. Button : Dismiss alarm -->
+    <string name="alarm_alert_dismiss_text">@string/va_dismiss</string>
+    
+    <!-- Do not translate. Button: Snooze alarm -->
+    <string name="alarm_alert_snooze_text">@string/snooze</string>
+
+    <!-- Do not translate. Alarm time : AM -->
+    <string name="am">@string/tm_am</string>
+    
+    <!-- Do not translate. Alarm time : PM -->
+    <string name="pm">@string/tm_pm</string>
+
+    <!-- Do not translate. Label of timer: hour -->
+    <string name="timer_hour">@string/label_hour</string>
+    
+    <!-- Do not translate. Label of timer: minute -->
+    <string name="timer_minute">@string/label_minute</string>
+    
+    <!-- Do not translate. Label of timer: hour -->
+    <string name="timer_second">@string/label_second</string>
+    
+    <!-- Do not translate. Alarm notification -->
+    <string name="drag_to_dismiss">@string/lockscreen_hint_dismiss</string>
+
+    <!-- Do not translate. Settings -->
+    <string name="settings">@string/menu_settings</string>
+
+    <!-- Do not translate. Alarm settings -->
+    <string name="alarm_settings">@string/menu_settings</string>
+    
+    <!-- Do not translate. Title of alert dialog when alarm rings -->
+    <string name="alarm">@string/nn_alarm</string>
+
+    <!-- Do not translate. Default label to display for an alarm -->
+    <string name="default_label">@string/nn_alarm</string>
+    
+        <!-- Do not translate. Day of worldclock :Today -->
+    <string name="today">@string/tm_today</string>
+    
+    <!-- Do not translate. Day of worldclock : Yesterday -->
+    <string name="yesterday">@string/tm_yesterday</string>
+    
+    <!-- Do not translate. Day of worldclock :Tomorrow -->
+    <string name="tomorrow">@string/tm_tomorrow</string>
+            
+    <!-- Do not translate.Current timezone -->
+    <string name="current">@string/tm_current</string>
+            
+    <!-- Do not translate. Menu item on WorldClock : Rearrange -->
+    <string name="rearrange">@string/va_rearrange</string>
+        
+    <!-- Do not translate. Menu item on WorldClock : Rearrange and Delete -->
+    <string name="edit">@string/va_edit</string>
+    
+    <!-- Do not translate. Rearrange List Header Text on WorldClock -->
+    <string name="select_all">@string/va_select_all</string>
+    <string name="deselect_all">@string/va_deselect_all</string>
+        
+    <!-- Do not translate. Labels for Set Alarm preference : Description -->
+    <string name="alarm_description">@string/nn_description</string>
+            
+    <!-- Do not translate. Text for alarm confirmation toast -->
+    <string name="combiner"><xliff:g id="xxx">%1$s</xliff:g><xliff:g id="xxx">%2$s</xliff:g><xliff:g id="xxx">%3$s</xliff:g><xliff:g id="xxx">%4$s</xliff:g><xliff:g id="xxx">%5$s</xliff:g></string>
+    
+    <!-- Do not translate. Text for alarm confirmation toast : 1 day -->
+    <string name="day">@string/tm_1_day</string>
+        
+    <!-- Do not translate.. Text for alarm confirmation toast : 1 hour -->
+    <string name="hour">@string/tm_1_hour</string>
+           
+    <!-- Do not translate. Text for alarm confirmation toast : 1 minute -->
+    <string name="minute">@string/tm_1_minute</string>
+        
+    <!-- Do not translate. RadioButton : Set alarm on -->
+    <string name="on">@string/st_on</string>
+    
+    <!-- Do not translate. RadioButton : Set alarm off -->
+    <string name="off">@string/st_off</string>
+        
+    <!-- Do not translate. Repeat frequency of alarms : never -->
+    <string name="never">@string/st_never</string>
+        <!-- Do not translate. Days of week : short -->
+        
+    <!-- A short representation of charging information, e.g "34%" -->
+    <!-- Do not translate -->
+    <string name="battery_charging_level"><xliff:g id="number">%d</xliff:g><xliff:g id="percent">%%</xliff:g></string>
+
+    <!-- Do not translate. Application Version ID -->
+    <string name="ap_version_id">1.00.0020</string>
+    
+    <!-- Do not translate. alphabet index -->
+    <string name="alphabet">\u0020ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    
+    <!-- Values that are retrieved from the ListPreference. These must match the snooze_duration_entries above. -->
+    <string-array name="snooze_duration_values">
+    <!-- Do not translate-->
+      <item>5</item>
+    <!-- Do not translate-->
+      <item>10</item>
+    <!-- Do not translate-->
+      <item>15</item>
+    <!-- Do not translate-->
+      <item>20</item>
+    <!-- Do not translate-->
+      <item>25</item>
+    <!-- Do not translate-->
+      <item>30</item>
+    </string-array>
+    
+    <!-- Values for the side-button setting. -->
+    <string-array name="volume_button_setting_values">
+      <!-- Do not translate-->
+      <item>0</item>
+      <!-- Do not translate-->
+      <item>1</item>
+      <!-- Do not translate-->
+      <item>2</item>
+    </string-array>
+    
+    <!-- Values for the side-button setting. -->
+    <string-array name="sprint_volume_button_setting_values">
+      <!-- Do not translate-->
+      <item>0</item>
+      <!-- Do not translate-->
+      <item>1</item>
+      <!-- Do not translate-->
+      <item>2</item>
+      <!-- Do not translate-->
+      <item>3</item>
+    </string-array>
+
+    <!-- Temperature degree-->
+	<!-- Do not translate -->
+    <string name="weather_degree">\u00b0</string>   
+            
+    <!-- Do not translate. Add -->
+    <string name="add_title">@string/va_add</string>
+        <!--  Do not translate. menu item for edit tabs -->
+    <string name="edit_tabs_menu_item">@string/va_edit_tabs</string>
+    
+    <!-- Do not translate. Text to display : The text of no weather data in deskclock -->
+    <string name="noweatherdatamsg">@string/ls_no_weather_data_available</string>
+        <!-- Do not translate. Storage low dialog -->
+    <string name="storage_full">@string/st_storage_full</string>
+    
+    <!-- Do not translate. Account Setting: Label for account setting -->
+    <string name="settings_label">@string/nn_settings</string>
+    
+    <!-- Do not translate -->
+    <string name="fast_scroll_alphabet">\u0020ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    
+    <!-- Do not translate -->
+    <string name="tips">@string/nn_tips_help</string>
+    
+    <!-- String that represents that the user doesn't have any alarms firing at the moment.
+    [CHAR LIMIT=NONE]
+    -->
+    <string name="no_firing_alarms">No firing alarms</string>
+    <string name="no_scheduled_alarms">No scheduled alarms</string>
+    <string name="pick_alarm_to_dismiss">Pick which alarm to dismiss</string>
+    
+    <!-- String that represents that invalid time for an alarm was specified, e.g. 23:00am
+     or 27:68pm.
+    First %d represents hour, second %d represents minutes, %s represents am/pm,
+    If no am/pm is passed in (e.g. the locale uses 24h time) only hour and minute are printed.
+    [CHAR LIMIT=NONE]
+    -->
+    <string name="invalid_time">Invalid time <xliff:g id="invalid_hour" example="25">%d</xliff:g>:<xliff:g id="invalid_minutes" example="63">%d</xliff:g> <xliff:g id="invalid_ampm" example="PM">%s</xliff:g></string>
+
+    <!-- String that represents that no alarm has been specified for a requested hour:minutes.
+    This happens when a user sends a voice command 'dismiss my alarm at 3:00pm' but they have no
+    alarms specified for that time. %s represents the time of the alarm.
+    [CHAR LIMIT=NONE]
+    -->
+    <string name="no_alarm_at">No alarm at <xliff:g id="alarm_time_hour" example="14">%d</xliff:g>:<xliff:g id="alarm_time_minutes" example="23">%d</xliff:g></string>
+    
+    <!-- String that represents that the user specified that they want to select an alarm to
+    dismiss by specifying a 'label' but they didn't specify any labels.
+    [CHAR LIMIT=NONE]
+    -->
+    <string name="no_label_specified">No label specified</string>
+    
+    <!-- String that represents that no alarm has been specified for a requested label.
+    This happens when a user sends a voice command 'dismiss my alarm with label pick up kids'
+     but they have no alarms with that label.
+    [CHAR LIMIT=NONE]
+    -->
+    <string name="no_alarms_with_label">No alarms contain the label</string>
+    <string name="timer_alert_dismissed">Timer dismissed.</string>
+</resources>

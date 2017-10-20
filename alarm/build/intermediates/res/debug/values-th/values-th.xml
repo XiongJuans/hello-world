@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string-array name="days_of_week">
+        <item>วันจันทร์</item><!--MONDAY-->
+        <item>วันอังคาร</item><!--TUESDAY-->
+        <item>วันพุธ</item><!--WEDNESDAY-->
+        <item>วันพฤหัสบดี</item><!--THURSDAY-->
+        <item>วันศุกร์</item><!--FRIDAY-->
+        <item>วันเสาร์</item><!--SATURDAY-->
+        <item>วันอาทิตย์</item><!--SUNDAY-->
+    </string-array>
+    <string-array name="days_of_week_abbr">
+        <item>จ.</item><!--M-->
+        <item>อ.</item><!--TU-->
+        <item>พ.</item><!--W-->
+        <item>พฤ.</item><!--TH-->
+        <item>ศ.</item><!--F-->
+        <item>ส.</item><!--SA-->
+        <item>อา.</item><!--SU-->
+    </string-array>
+    <string-array name="days_of_week_capital">
+        <item/>
+        <item>อาทิตย์</item><!--SUN-->
+        <item>จันทร์</item><!--MON-->
+        <item>อังคาร</item><!--TUE-->
+        <item>พุธ</item><!--WED-->
+        <item>พฤหัส</item><!--THU-->
+        <item>ศุกร์</item><!--FRI-->
+        <item>เสาร์</item><!--SAT-->
+    </string-array>
+    <string-array name="days_of_week_short">
+        <item>@string/tm_mon</item>
+        <item>@string/tm_tue</item>
+        <item>@string/tm_wed</item>
+        <item>@string/tm_thu</item>
+        <item>@string/tm_fri</item>
+        <item>@string/tm_sat</item>
+        <item>@string/tm_sun</item>
+    </string-array>
+    <string-array name="days_of_week_whole_capital">
+        <item/>
+        <item>วันอาทิตย์</item><!--SUNDAY-->
+        <item>วันจันทร์</item><!--MONDAY-->
+        <item>วันอังคาร</item><!--TUESDAY-->
+        <item>วันพุธ</item><!--WEDNESDAY-->
+        <item>วันพฤหัสบดี</item><!--THURSDAY-->
+        <item>วันศุกร์</item><!--FRIDAY-->
+        <item>วันเสาร์</item><!--SATURDAY-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/WeatherLib1/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string-array name="htc_weather_conditions">
+<!-- weather condition 1 : Sunny -->
+        <item>มีแสงแดดมาก</item><!--Sunny-->
+<!-- weather condition 2 : Mostly Sunny -->
+        <item>ส่วนใหญ่มีแสงแดด</item><!--Mostly Sunny-->
+<!-- weather condition 3 : Partly Sunny -->
+        <item>มีแสงแดดบางพื้นที่</item><!--Partly Sunny-->
+<!-- weather condition 4 : Intermittent Clouds -->
+        <item>มีเมฆไม่สม่ำเสมอ</item><!--Intermittent Clouds--><!--Intermittent Clouds-->
+<!-- weather condition 5 : Hazy Sunshine -->
+        <item>แสงแดดสลัว</item><!--Hazy Sunshine-->
+<!-- weather condition 6 : Mostly Cloudy -->
+        <item>มีเมฆเป็นส่วนมาก</item><!--Mostly Cloudy--><!--Mostly Cloudy-->
+<!-- weather condition 7 : Cloudy -->
+        <item>มีเมฆมาก</item><!--Cloudy-->
+<!-- weather condition 8 : Dreary -->
+        <item>มืดครึ้ม</item><!--Dreary-->
+<!-- weather condition 11 : Fog -->
+        <item>มีหมอก</item><!--Fog-->
+<!-- weather condition 12 : Showers -->
+        <item>มีฝนตกปรอยๆ</item><!--Showers-->
+<!-- weather condition 13 : Mostly Cloudy with Showers -->
+        <item>มีเมฆเป็นส่วนมากและมีฝนตกปรอยๆ</item><!--Mostly Cloudy with Showers--><!--Mostly Cloudy with Showers-->
+<!-- weather condition 14 : Partly Sunny with Showers -->
+        <item>มีแดดและฝนตกเล็กน้อยบางพื้นที่</item><!--Partly Sunny with Showers-->
+<!-- weather condition 15 : Thunderstorms -->
+        <item>มีพายุ</item><!--Thunderstorms-->
+<!-- weather condition 16 : Mostly Cloudy with Thunder Showers -->
+        <item>มีเมฆเป็นส่วนมากและมีฝนตกปรอยๆ</item><!--Mostly Cloudy with Thunder Showers--><!--Mostly Cloudy with Thunder Showers-->
+<!-- weather condition 17 : Partly Sunny with Thunder Showers -->
+        <item>มีแดดบางส่วนและฝนฟ้าคะนอง</item><!--Partly Sunny with Thunder Showers-->
+<!-- weather condition 18 : Rain -->
+        <item>มีฝนตก</item><!--Rain-->
+<!-- weather condition 19 : Flurries -->
+        <item>มีฝนตกปรอยๆ</item><!--Flurries-->
+<!-- weather condition 20 : Mostly Cloudy with Flurries -->
+        <item>มีเมฆมากและฝนตกปรอยๆ</item><!--Mostly Cloudy with Flurries--><!--Mostly Cloudy with Flurries-->
+<!-- weather condition 21 : Partly Sunny with Flurries -->
+        <item>มีแดดบางส่วนและฝนตกปรอยๆ</item><!--Partly Sunny with Flurries-->
+<!-- weather condition 22 : Snow -->
+        <item>มีหิมะตก</item><!--Snow-->
+<!-- weather condition 23 : Mostly Cloudy with Snow -->
+        <item>มีเมฆมากและหิมะตก</item><!--Mostly Cloudy with Snow-->
+<!-- weather condition 24 : Ice -->
+        <item>มีน้ำแข็งเกาะ</item><!--Ice-->
+<!-- weather condition 25 : Sleet -->
+        <item>มีฝนลูกเห็บ</item><!--Sleet-->
+<!-- weather condition 26 : Freezing Rain -->
+        <item>มีฝนตกเป็นน้ำแข็ง</item><!--Freezing Rain-->
+<!-- weather condition 29 : Rain and Snow Mixed -->
+        <item>มีฝนปนหิมะตก</item><!--Rain and Snow Mixed-->
+<!-- weather condition 30 : Hot -->
+        <item>อากาศร้อน</item><!--Hot-->
+<!-- weather condition 31 : Cold -->
+        <item>อากาศเย็น</item><!--Cold-->
+<!-- weather condition 32 : Windy -->
+        <item>มีลมกระโชกแรง</item><!--Windy-->
+<!-- weather condition 33 : Clear -->
+        <item>อากาศปลอดโปร่ง</item><!--Clear-->
+<!-- weather condition 34 : Mostly Clear -->
+        <item>ท้องฟ้าโปร่ง</item><!--Mostly Clear-->
+<!-- weather condition 35 : Partly Cloudy -->
+        <item>มีเมฆบางส่วน</item><!--Partly Cloudy-->
+<!-- weather condition 36 : Intermittent Clouds -->
+        <item>มีเมฆไม่สม่ำเสมอ</item><!--Intermittent Clouds--><!--Intermittent Clouds-->
+<!-- weather condition 37 : Hazy -->
+        <item>มีหมอกมาก</item><!--Hazy-->
+<!-- weather condition 38 : Mostly Cloudy -->
+        <item>มีเมฆเป็นส่วนมาก</item><!--Mostly Cloudy--><!--Mostly Cloudy-->
+<!-- weather condition 39 : Partly Cloudy with Showers -->
+        <item>มีเมฆบางส่วนและฝนตกโปรยปราย</item><!--Partly Cloudy with Showers-->
+<!-- weather condition 40 : Mostly Cloudy with Showers -->
+        <item>มีเมฆเป็นส่วนมากและมีฝนตกปรอยๆ</item><!--Mostly Cloudy with Showers--><!--Mostly Cloudy with Showers-->
+<!-- weather condition 41 : Partly Cloudy with Thunder Showers -->
+        <item>มีเมฆบางส่วนและฝนฟ้าคะนอง</item><!--Partly Cloudy with Thunder Showers-->
+<!-- weather condition 42 : Mostly Cloudy with Thunder Showers -->
+        <item>มีเมฆเป็นส่วนมากและมีฝนตกปรอยๆ</item><!--Mostly Cloudy with Thunder Showers--><!--Mostly Cloudy with Thunder Showers-->
+<!-- weather condition 43 : Partly Cloudy with Flurries -->
+        <item>มีเมฆบางส่วนและฝนตกปรอยๆ</item><!--Partly Cloudy with Flurries-->
+<!-- weather condition 44 : Mostly Cloudy with Flurries -->
+        <item>มีเมฆมากและฝนตกปรอยๆ</item><!--Mostly Cloudy with Flurries--><!--Mostly Cloudy with Flurries-->
+<!-- _For Huafeng -->
+<!-- weather condition 51 : -->
+        <item>พายุฟ้าคะนองและมีลูกเห็บ</item><!--Thunderstorms with sleet-->
+<!-- weather condition 52 : -->
+        <item>หาดทราย</item><!--Sand-->
+<!-- weather condition 53 : -->
+        <item>ฝุ่นละออง</item><!--Dust-->
+<!-- weather condition 54 : -->
+        <item>พายุทอร์นาโด</item><!--Tornado-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string-array name="month_of_year">
+    	<item>ม.ค.</item><!--JAN-->
+    	<item>ก.พ.</item><!--FEB-->
+    	<item>มี.ค.</item><!--MAR-->
+    	<item>เม.ย.</item><!--APR-->
+    	<item>พ.ค.</item><!--MAY-->
+    	<item>มิ.ย.</item><!--JUN-->
+    	<item>ก.ค.</item><!--JUL-->
+    	<item>ส.ค.</item><!--AUG-->
+    	<item>ก.ย.</item><!--SEP-->
+    	<item>ต.ค.</item><!--OCT-->
+    	<item>พ.ย.</item><!--NOV-->
+    	<item>ธ.ค.</item><!--DEC-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>ทุกวันศุกร์แรก</item><!--on every first Friday-->
+        <item>ทุกวันศุกร์ที่สอง</item><!--on every second Friday-->
+        <item>ทุกวันศุกร์ที่สาม</item><!--on every third Friday-->
+        <item>ทุกวันศุกร์ที่สี่</item><!--on every fourth Friday-->
+        <item>ทุกวันศุกร์สุดท้าย</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>ทุกวันจันทร์แรก</item><!--on every first Monday-->
+        <item>ทุกวันจันทร์ที่สอง</item><!--on every second Monday-->
+        <item>ทุกวันจันทร์ที่สาม</item><!--on every third Monday-->
+        <item>ทุกวันจันทร์ที่สี่</item><!--on every fourth Monday-->
+        <item>ทุกวันจันทร์สุดท้าย</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>ทุกวันเสาร์แรก</item><!--on every first Saturday-->
+        <item>ทุกวันเสาร์ที่สอง</item><!--on every second Saturday-->
+        <item>ทุกวันเสาร์ที่สาม</item><!--on every third Saturday-->
+        <item>ทุกวันเสาร์ที่สี่</item><!--on every fourth Saturday-->
+        <item>ทุกวันเสาร์สุดท้าย</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>ทุกวันอาทิตย์แรก</item><!--on every first Sunday-->
+        <item>ทุกวันอาทิตย์ที่สอง</item><!--on every second Sunday-->
+        <item>ทุกวันอาทิตย์ที่สาม</item><!--on every third Sunday-->
+        <item>ทุกวันอาทิตย์ที่สี่</item><!--on every fourth Sunday-->
+        <item>ทุกวันเสาร์สุดท้าย</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>ทุกวันพฤหัสบดีแรก</item><!--on every first Thursday-->
+        <item>ทุกวันพฤหัสบดีที่สอง</item><!--on every second Thursday-->
+        <item>ทุกวันพฤหัสบดีที่สาม</item><!--on every third Thursday-->
+        <item>ทุกวันพฤหัสบดีที่สี่</item><!--on every fourth Thursday-->
+        <item>ทุกวันพฤหัสบดีสุดท้าย</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>ทุกวันอังคารแรก</item><!--on every first Tuesday-->
+        <item>ทุกวันอังคารที่สอง</item><!--on every second Tuesday-->
+        <item>ทุกวันอังคารที่สาม</item><!--on every third Tuesday-->
+        <item>ทุกวันอังคารที่สี่</item><!--on every fourth Tuesday-->
+        <item>ทุกวันอังคารสุดท้าย</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>ทุกวันพุธแรก</item><!--on every first Wednesday-->
+        <item>ทุกวันพุธที่สอง</item><!--on every second Wednesday-->
+        <item>ทุกวันพุธที่สาม</item><!--on every third Wednesday-->
+        <item>ทุกวันพุธที่สี่</item><!--on every fourth Wednesday-->
+        <item>ทุกวันพุธสุดท้าย</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string-array name="repeat_option">
+        <item>จันทร์-ศุกร์</item><!--Mon -/ Fri-->
+        <item>ไม่ดำเนินการซ้ำ</item><!--Do not repeat-->
+        <item>ทุกวัน</item><!--Every day-->
+        <item>ข้ามวันหยุดพักผ่อน</item><!--Skip holidays-->
+        <item>ปรับแต่งเอง</item><!--Custom-->
+    </string-array>
+    <string-array name="snooze_duration_entries">
+      <item>5 นาที</item><!--5 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_10_minutes</item>
+      <item>15 นาที</item><!--15 minutes-->
+      <item>20 นาที</item><!--20 minutes-->
+      <item>25 นาที</item><!--25 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_30_minutes</item>
+    </string-array>
+    <string-array name="sound_selection_setting_entries">
+<!-- Alarm sound -->
+      <item>เสียงปลุก</item><!--Alarm sound-->
+<!-- Do not translate. Ringtone -->
+      <item>@string/nn_ringtone</item>
+<!-- Do not translate. Music -->
+      <item>@string/nn_music</item>
+    </string-array>
+    <string-array name="sprint_volume_button_setting_entries">
+      <item>ไม่ทำอะไร</item><!--Do nothing-->
+
+      <item>เลื่อน</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+
+      <item>เงียบ</item><!--Silence-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>เล็ก</item><!--Small-->
+        <item>กลาง</item><!--Medium-->
+        <item>ใหญ่</item><!--Large-->
+        <item>ใหญ่พิเศษ</item><!--Extra large-->
+        <item>ขนาดใหญ่</item><!--Huge-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string-array name="volume_button_setting_entries">
+      <item>ไม่ทำอะไร</item><!--Do nothing-->
+
+      <item>เลื่อน</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string-array name="weeklayout_secondary_text">
+        <item>อา.</item><!--SU-->
+        <item>จ.</item><!--M-->
+        <item>อ.</item><!--TU-->
+        <item>พ.</item><!--W-->
+        <item>พฤ.</item><!--TH-->
+        <item>ศ.</item><!--F-->
+        <item>ส.</item><!--SA-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">ครั้งเดียว</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> ครั้ง</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">ทุก <ns1:g id="count">%d</ns1:g> วัน</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">ทุก <ns1:g id="count">%d</ns1:g> วัน</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">ทุก <ns1:g id="count">%d</ns1:g> เดือน</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">ทุก <ns1:g id="count">%d</ns1:g> เดือน</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">ทุก <ns1:g id="count">%d</ns1:g> สัปดาห์</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">ทุก <ns1:g id="count">%d</ns1:g> สัปดาห์</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">ทุก <ns1:g id="count">%d</ns1:g> ปี</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">ทุก <ns1:g id="count">%d</ns1:g> ปี</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">รายสัปดาห์ที่ <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other">ทุก <ns1:g id="number">%1$d</ns1:g> สัปดาห์ที่ <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"นำทางไปหน้าแรก"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"นำทางขึ้น"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"ตัวเลือกอื่น"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"เสร็จสิ้น"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"ดูทั้งหมด"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"เลือกแอป"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ปิด"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"เปิด"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"ค้นหา…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"ล้างข้อความค้นหา"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"ข้อความค้นหา"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"ค้นหา"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"ส่งข้อความค้นหา"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"ค้นหาด้วยเสียง"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"แชร์กับ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"แชร์กับ %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"ยุบ"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string name="accessibility_tap_action">แตะสองครั้งเพื่อทำงาน</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="add_alarm">เพิ่มการปลุก</string>
+    <string name="add_alarm_error">การเตือนถึงขีดจำกัดจำนวนสูงสุดแล้ว</string>
+    <string name="add_city">เพิ่มเมือง</string>
+    <string name="add_city_error_msg">คุณสามารถมีเมืองได้สูงสุด 15 รายการ หากต้องการเพิ่มเมืองใหม่ โปรดลบเมืองที่มีอยู่ก่อนแล้ว</string>
+    <string name="add_city_error_title">ไม่สามารถเพิ่มชื่อเมืองได้</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string name="add_comments">เพิ่มความเห็น</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="add_lap_error">นาฬิกาจับเวลาสำหรับบันทึกรอบได้สูงสุด 300 รอบ แตะที่รีเซ็ตเพื่อลบประวัติรอบ</string>
+    <string name="addcity_search">ค้นหาเมือง</string>
+    <string name="alarm_alert_alert_silenced">เสียงปลุกจะเงียบหลังจาก<ns1:g id="minutes">%d</ns1:g> นาที</string>
+    <string name="alarm_alert_dismissed">ยกเลิกการปลุก</string>
+    <string name="alarm_alert_snooze_not_set">เลื่อนการปลุกไม่ได้ตั้ค่า ปลุกครั้งต่อไปตั้งค่าไว้ <ns1:g id="time">%s</ns1:g></string>
+    <string name="alarm_alert_snooze_set">กำลังเลื่อนการปลุกสำหรับ<ns1:g id="minutes">%d</ns1:g> นาที</string>
+    <string name="alarm_caption">ปลุก</string>
+    <string name="alarm_in_volume_increase_mode_summary">ระดับเสียงปลุกค่อยๆ เพิ่มดังขึ้น</string>
+    <string name="alarm_in_volume_increase_mode_title">การปลุกแบบเบาๆ</string>
+    <string name="alarm_notify_snooze_label"><ns1:g id="label">%s</ns1:g> (เลื่อนการปลุกแล้ว)</string>
+    <string name="alarm_notify_snooze_text">ตั้งปลุกสำหรับ <ns1:g id="time">%s</ns1:g> แตะเพื่อยกเลิก</string>
+    <string name="alarm_off">ปิดการปลุก</string>
+    <string name="alarm_offalarm">เสียงเมื่อปิดโทรศัพท์</string>
+    <string name="alarm_on">เปิดการปลุก</string>
+    <string name="alarm_repeat">ซ้ำ</string>
+    <string name="alarm_ringtone">เสียงปลุก</string>
+    <string name="alarm_set">การเตือนนี้ถูกตั้งค่าสำหรับ<ns1:g id="time_delta">%s</ns1:g>ต่อไปนี้</string>
+    <string name="alarm_vibrate">สั่น</string>
+    <string name="alarm_volume_summary">ตั้งระดับเสียงของนาฬิกาปลุก</string>
+    <string name="alarm_volume_title">ความดังเสียงปลุก</string>
+    <string name="alert_sound">เสียงปลุก</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string name="am">AM</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="analog_gadget">นาฬิกาอนาล็อก</string>
+    <string name="and">"และ"</string>
+    <string name="bt_cancel_str">ยกเลิก</string>
+    <string name="bt_done_str">เสร็จ</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string name="button_hide_caption">ซ่อนคำบรรยายภาพ</string>
+    <string name="button_hide_description">ซ่อนคำอธิบาย</string>
+    <string name="button_show_caption">แสดงคำบรรยายภาพ</string>
+    <string name="button_show_description">แสดงคำอธิบาย</string>
+    <string name="carousel_title">แก้ไขแท็บ</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="city_duplicate">ชื่อเมืองนี้อยู่ในรายการแล้ว</string>
+    <string name="city_not_found">ไม่พบชื่อเมือง</string>
+    <string name="clock_permission_dialog_btn_close">ปิด</string>
+    <string name="clock_permission_dialog_btn_settings">การตั้งค่า</string>
+    <string name="clock_permission_dialog_content">เพื่อให้ทำงานได้อย่างถูกต้อง แอพพลิเคชันนี้ต้องการเข้าถึงที่จัดเก็บข้อมูลของคุณ คุณสามารถจัดการสิทธิอนุญาตสำหรับนาฬิกาได้ในการตั้งค่า</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">ค้นหารายชื่อ</string>
+    <string name="common_string_open_contact">เปิดรายชื่อ</string>
+    <string name="common_string_save_to_existing_contact">บันทึกไปยังรายชื่อที่มีอยู่</string>
+    <string name="common_string_save_to_people">บันทึกไปยังรายชื่อ</string>
+    <string name="common_string_share_title">แบ่งปันผ่าน</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="current_settings">ตั้งค่าวันที่และเวลา</string>
+    <string name="day_concat">","</string>
+    <string name="days">"<ns1:g id="days">%s</ns1:g> วัน"</string>
+    <string name="dberror">ขอภัย,ไม่สามารถตั้งค่าปลุกได้</string>
+    <string name="delete_alarm_caption">ลบการปลุก</string>
+    <string name="delete_city_caption">ลบชื่อเมือง</string>
+    <string name="desk_clock_caption">นาฬิกาตั้งโต๊ะ</string>
+    <string name="dialog_button_ok">ยืนยัน</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string name="done">เสร็จ</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="error">ไม่สามารถเพิ่มการเตือนได้</string>
+    <string name="error_title">ฐานข้อมูลผิดพลาด</string>
+    <string name="every_day">ทุกวัน</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string name="every_weekday">"ทุกวันทำงาน (จ.\u2013ศ)"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="fit_screen_menu_item">พอดีหน้าจอ</string>
+    <string name="full_screen_menu_item">เต็มหน้าจอ</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/googleplay_strings.xml -->
+    <eat-comment/>
+    <string name="googleplay_description_app">ไม่ว่าคุณจะอยู่ที่ไทเป ไต้หวัน หรือมาร์ราเก้ โมร็อคโค นาฬิกา HTC จะช่วยให้คุณสามารถตรวจสอบเวลาของตำแหน่งที่ตั้งที่คุณอยู่ปัจจุบัน เวลาที่บ้านของคุณ และทุกเมืองได้ทั่วโลก พร้อมฟังก์ชันการปลุก นาฬิกาจับเวลา และตัวตั้งเวลาที่สามารถปรับแต่งเองได้ ช่วยให้คุณสามารถจัดการเวลาได้เป็นอย่างดี คุณสามารถตั้งค่าการปลุกมากเท่าที่คุณต้องการ เปลี่ยนระยะเวลาการเลื่อนการปลุก เลือกเสียงที่ต้องการเมื่อปิดการปลุก และแม้กระทั่งทำให้ระบบส่งเสียงปลุกเมื่อโทรศัพท์ของคุณอยู่ในโหมดเงียบ นาฬิกาจับเวลาของนาฬิกา HTC มีรอบการบันทึกเวลาที่ดีเยี่ยมสำหรับการออกกำลังกาย และยังสามารถใช้งานตัวตั้งเวลาได้ง่ายดายสำหรับการทำอาหาร หรือตรวจสอบระยะเวลาที่อยู่หน้าทีวี</string>
+    <string name="googleplay_description_legal">[googleplay_description_legal_common_1]</string>
+    <string name="googleplay_description_short">จับเวลาด้วยนาฬิกาจับเวลาดีไซน์เก๋ของ HTC เครื่องจับเวลา นาฬิกาปลุก และนาฬิกาโลก</string>
+    <string name="googleplay_description_supportingScope"/>
+    <string name="googleplay_title">นาฬิกา HTC</string>
+    <string name="googleplay_whatsnew">- การปลุกจะค่อยๆ ส่งเสียงดังขึ้นเรื่อยๆ\n- การแก้ไขจุดบกพร่องและปรับปรุงประสิทธิภาพให้ดีขึ้น</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="home_settings">ตั้งค่าเขตเวลาที่บ้าน</string>
+    <string name="hours"><ns1:g id="hours">%s</ns1:g> ชั่วโมง</string>
+    <string name="htc_private_app_clock">นาฬิกา</string>
+    <string name="internal_memory_low">พื้นที่ว่างในหน่วยความจำโทรศัพท์ของคุณเหลือน้อยกรุณาจัดการข้อมูลเพื่อให้มีพื้นที่ว่างก่อนใช้แอพพลิเคชั่นนี้</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string name="label_day">วัน</string>
+    <string name="label_hour">ชั่วโมง</string>
+    <string name="label_minute">นาที</string>
+    <string name="label_month">เดือน</string>
+    <string name="label_second">วินาที</string>
+    <string name="label_year">ปี</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="lap">รอบ</string>
+    <string name="lap_error">ไม่มีการบันทึกรอบ</string>
+    <string name="lap_id"># รอบ</string>
+    <string name="lap_time">รอบนี้</string>
+    <string name="lap_title">รอบ</string>
+    <string name="lap_total_time">ทั้งหมด</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string name="license_dialog_content">บางไอคอนที่ใช้บนโทรศัพท์นี้ได้รับการออกแบบดั้งเดิมจาก Google และปรับเปลี่ยนโดย HTC ภายใต้ <a href="https://creativecommons.org/licenses/by/4.0/legalcode">สิทธิการใช้งานครีเอทีฟคอมมอนส์ อ้างอิงแหล่งที่มา 4.0</a></string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="loading_city">กำลังโหลดรายชื่อเมือง...</string>
+    <string name="location_dialog_msg">หากต้องการดูสภาพอากาศท้องถิ่น ให้เปลี่ยนการตั้งค่าตำแหน่งของคุณเป็นการประหยัดแบตเตอรี่ หรือโหมดความแม่นยำสูง</string>
+    <string name="location_dialog_title">มีการปิดระบบการบริการตรวจสอบตำแหน่ง</string>
+    <string name="location_enable">หากต้องการดูสภาพอากาศในท้องถิ่น\nแตะที่นี่เพื่อเปิดบริการสถานที่ตั้ง</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string name="location_unavailable">ไม่มีตำแหน่งให้เลือกใช้งาน</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="lockscreen_hint_dismiss">ลากลงเพื่อยกเลิก</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string name="ls_doubletap_drag">แตะสองครั้งและลากเพื่อปรับค่า</string>
+    <string name="ls_edit_number_before_calling">แก้ไขหมายเลขก่อนโทร</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="ls_no_weather_data_available">ไม่มีข้อมูลสภาพอากาศ</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string name="ls_open_in_map">เปิดในแผนที่</string>
+    <string name="ls_tablet_storage_error">เกิดข้อผิดพลาดขึ้นบนอุปกรณ์เก็บข้อมูลบนแท็บเล็ตของคุณ โปรดรีบูทอุปกรณ์ของคุณหรือฟอร์แมตพื้นที่เก็บข้อมูล</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string name="masthead_st_am">AM</string>
+    <string name="masthead_st_auto_sync_off">ปิดใช้งานการซิงค์โดยอัตโนมัติ แตะเพื่อดูสภาพอากาศ</string>
+    <string name="masthead_st_current_location">สถานที่ปัจจุบัน</string>
+    <string name="masthead_st_device_only_off">เปลี่ยนโหมดบริการระบุตำแหน่งเพื่อสอบถามสภาพอากาศ</string>
+    <string name="masthead_st_location_service_off">เปิดใช้บริการบอกตำแหน่งเพื่อรับสภาพอากาศ</string>
+    <string name="masthead_st_pm">PM</string>
+    <string name="masthead_st_weather_unavailable">สภาพอากาศไม่พร้อมใช้งาน</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string name="menu_crop">ตัดส่วนที่เลือก</string>
+    <string name="menu_delete">ลบ</string>
+    <string name="menu_properties">รายละเอียด</string>
+    <string name="menu_protect_info">การป้องกันข้อมูล</string>
+    <string name="menu_save_to_my_favorite">ตั้งเป็นรายการโปรด</string>
+    <string name="menu_send_photo_link_by_email">แบ่งปันลิงค์รูปภาพ</string>
+    <string name="menu_set_as">ตั้งเป็น</string>
+    <string name="menu_settings">ตั้งค่า</string>
+    <string name="menu_share">แชร์</string>
+    <string name="menu_show_on_map">แสดงบนแผนที่</string>
+    <string name="menu_slideshow">สไลด์โชว์</string>
+    <string name="menu_view_full">ดู</string>
+    <string name="menu_view_video">เล่น</string>
+    <string name="meun_rotate">หมุน</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="minutes">"<ns1:g id="minutes">%s</ns1:g> นาที"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string name="monthly">รายเดือน</string>
+    <string name="monthly_on_day_count">"รายเดือน (ทุก <ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g>)"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="nextAlarm">การเตือนถัดไป: <ns1:g id="next_alarm_time">%s</ns1:g></string>
+    <string name="night_clock">@string/desk_clock_caption</string>
+    <string name="nn_alarm">นาฬิกาปลุก</string>
+    <string name="nn_description">รายละเอียด</string>
+    <string name="nn_music">เพลง</string>
+    <string name="nn_ringtone">เสียงเรียกเข้า</string>
+    <string name="nn_settings">ตั้งค่า</string>
+    <string name="nn_tips_help">วิธีใช้และเคล็ดลับ</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">ความผิดพลาดที่ไม่ทราบสาเหตุ</string>
+    <string name="no">ไม่</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="pause">หยุดพัก</string>
+    <string name="phone_type_home">หน้าหลัก</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string name="pm">PM</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="query_fail">เกิดข้อผิดพลาดในขณะที่เข้าฐานข้อมูล</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string name="quickselection_share">แบ่งปันผ่าน</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="rearrange_city_caption">แก้ไขรายการ</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string name="refresh">รีเฟรช</string>
+    <string name="reminderview_common_unlock_hint_icon">ดึงไอคอนขึ้น</string>
+    <string name="reminderview_common_unlock_hint_up">ดึงขึ้นเพื่อปลดล็อก</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="reset">รีเซ็ต</string>
+    <string name="resume">ทำต่อ</string>
+    <string name="ringtone_title">เสียงเรียกเข้า</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string msgid="146198913615257606" name="search_menu_title">"ค้นหา"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="select_alert">เลือกเสียงเตือน</string>
+    <string name="select_ringtone">เลือกเสียงปลุก</string>
+    <string name="set_alarm_caption">ตั้งปลุก</string>
+    <string name="snooze">เลื่อน</string>
+    <string name="snooze_duration_title">ช่วงระยะเวลาในการปลุกซ้ำ</string>
+    <string name="sound_selection_title">เลือกเสียงปลุกจาก</string>
+    <string name="space">" "</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">ปล่อยเพื่อรีเฟรช</string>
+    <string name="st_action_bar_updating">กำลังอัพเดต...</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="st_default">ค่าปกติ</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string name="st_draggable_item">รายการที่ลากได้</string>
+    <string name="st_loading">กำลังโหลด...</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="st_more">เพิ่มเติม</string>
+    <string name="st_never">ไม่เลย</string>
+    <string name="st_off">ปิด</string>
+    <string name="st_on">เปิด</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string name="st_pull_down_refresh">เลื่อนลงเพื่อรีเฟรช</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="st_silent">เงียบ</string>
+    <string name="st_storage_full">หน่วยความจำเต็ม</string>
+    <string name="start">เริ่ม</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="stop">หยุด</string>
+    <string name="stopwatch_caption">นาฬิกาจับเวลา</string>
+    <string name="storage_full_description">คุณไม่ได้มีพื้นที่ว่างเหลือพอบนอุปกรณ์เก็บข้อมูลของโทรศัพท์ โปรดลบข้อมูลหรือโปรแกรมบางรายการออก แตะ \"การตั้งค่า\" ด้านล่างเพื่อบริหารจัดการแอพพลิเคชั่น</string>
+    <string name="subminute">"น้อยกว่า 1 นาที"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string name="tab_remove_dialog_message">คุณมีแท็บเหลือหนึ่งแท็บ เพื่อเพิ่มแท็บให้แอพพลิเคชั่นนี้ โปรดเลือกแท็บแก้ไข/ตัวกรองบนเมนู</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="time_up">หมดเวลา</string>
+    <string name="timer_caption">ตัวตั้งเวลา</string>
+    <string name="timer_reminder_tile_setting">การตั้งค่า</string>
+    <string name="timer_reminder_tile_timer_up">หมดเวลา</string>
+    <string name="tm_10_minutes">10 นาที</string>
+    <string name="tm_1_day">1 วัน</string>
+    <string name="tm_1_hour">1 ชั่วโมง</string>
+    <string name="tm_1_minute">1 นาที</string>
+    <string name="tm_30_minutes">30 นาที</string>
+    <string name="tm_am">AM</string>
+    <string name="tm_current">ปัจจุบัน</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string name="tm_daily">"ทุกวัน"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="tm_fri">ศ.</string>
+    <string name="tm_mon">จ.</string>
+    <string name="tm_pm">PM</string>
+    <string name="tm_sat">ส.</string>
+    <string name="tm_sun">อา.</string>
+    <string name="tm_thu">พฤ.</string>
+    <string name="tm_today">วันนี้</string>
+    <string name="tm_tomorrow">พรุ่งนี้</string>
+    <string name="tm_tue">อ.</string>
+    <string name="tm_wed">พ.</string>
+    <string name="tm_yesterday">เมื่อวานนี้</string>
+    <string name="total_title">ทั้งหมด</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">ไม่สามารถลบแท็บนี้</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="va_add">เพิ่ม</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string name="va_back">กลับ</string>
+    <string name="va_call">โทร</string>
+    <string name="va_cancel">ยกเลิก</string>
+    <string name="va_clear">ลบ</string>
+    <string name="va_close">ปิด</string>
+    <string name="va_copy">สำเนา</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="va_deselect_all">ยกเลิกการเลือกทั้งหมด</string>
+    <string name="va_dismiss">ยกเลิก</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string name="va_download">ดาวน์โหลด</string>
+    <string name="va_downloading">กำลังดาวน์โหลด</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="va_edit">แก้ไข</string>
+    <string name="va_edit_tabs">แก้ไขแท็บ</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string name="va_finish">เสร็จสิ้น</string>
+    <string name="va_hide">ซ่อน</string>
+    <string name="va_move_above">ย้ายด้านบน</string>
+    <string name="va_move_below">ย้ายด้านล่าง</string>
+    <string name="va_next">ถัดไป</string>
+    <string name="va_ok">ตกลง</string>
+    <string name="va_open">เปิด</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="va_rearrange">จัดใหม่</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string name="va_reset">รีเซ็ต</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="va_select_all">เลือกทั้งหมด</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string name="va_send_mail">ส่งเมล</string>
+    <string name="va_send_message">ส่งข้อความ</string>
+    <string name="va_show_all">แสดงทั้งหมด</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="volume_button_setting_summary">เลือกการทำงานของปุ่มปรับระดับเสียงเมื่อกดปุ่มในขณะส่งเสียงปลุก</string>
+    <string name="volume_button_setting_title">ตัวเลือกปุ่มปรับระดับเสียง</string>
+    <string name="weather_high_indicator">สูง:</string>
+    <string name="weather_low_indicator">ต่ำ:</string>
+    <string name="world_clock_caption">นาฬิกาโลก</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string name="yearly_plain">รายปี</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-th/values-th.xml -->
+    <eat-comment/>
+    <string name="yes">ใช่</string>
+</resources>

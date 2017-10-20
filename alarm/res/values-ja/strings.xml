@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+<!-- Title of DeskClock -->
+	<string name="desk_clock_caption">置き時計</string><!--Desk Clock-->
+
+<!-- Desk Clock -->
+    <string name="night_clock">@string/desk_clock_caption</string>
+
+<!-- Title of WorldClock -->
+	<string name="world_clock_caption">世界時計</string><!--World Clock-->
+    
+<!-- Sublevel title on WorldClock : Add City-->
+    <string name="add_city">都市を追加</string><!--Add city-->
+
+<!-- The hint for smart search and menu item -->
+    <string name="addcity_search">都市を検索</string><!--Search cities-->
+
+<!-- Error notification when there is no city found -->
+    <string name="city_not_found">都市が見つかりません</string><!--CITY NOT FOUND-->
+    
+<!-- Title of Delete City -->
+	<string name="delete_city_caption">都市を削除</string><!--Delete cities-->
+    
+<!-- Title of Rearrange City -->
+	<string name="rearrange_city_caption">リストを編集</string><!--Edit list-->
+	
+<!-- Menu item on WorldClock : Home Settings -->
+	<string name="home_settings">ホーム タイムゾーンの設定</string><!--Set home time zone-->
+	
+<!-- Menu item on WorldClock : Current Location Time Settings -->
+	<string name="current_settings">日時の設定</string><!--Set date &amp; time-->
+	
+<!-- Title of Stopwatch -->
+	<string name="stopwatch_caption">ストップウォッチ</string><!--Stopwatch-->
+	
+<!-- Button : Start stopwatch -->
+	<string name="start">開始</string><!--Start-->
+
+<!-- Button : Pause stopwatch -->
+    <string name="pause">一時停止</string><!--Pause-->
+
+<!-- Button : Resume stopwatch -->
+    <string name="resume">再開</string><!--Resume-->
+    
+<!-- Button : Reset stopwatch -->
+    <string name="reset">リセット</string><!--Reset-->
+    
+<!-- Button : Stop stopwatch -->
+    <string name="stop">停止</string><!--Stop-->   
+
+<!-- Button : Lap stopwatch -->
+    <string name="lap">ラップ</string><!--Lap-->
+
+<!-- Title of AlarmClock -->
+	<string name="alarm_caption">アラーム</string><!--Alarms-->
+	
+<!-- Title of AlarmClock Setting -->
+	<string name="set_alarm_caption">アラーム設定</string><!--Set alarm-->
+	
+<!-- Title of Delete Alarm -->
+	<string name="delete_alarm_caption">アラーム削除</string><!--Delete alarms-->
+	
+<!-- Sublevel title on AlarmClock : Add alarm-->
+    <string name="add_alarm">アラームを追加</string><!--Add alarm-->
+    
+<!-- Alert message of adding too many alarms -->
+    <string name="add_alarm_error">アラームの数が上限に達しました｡</string><!--Maximum number of alarms reached.-->
+
+<!-- Labels for Set Alarm preference : Ringtone -->
+    <string name="alarm_ringtone">アラーム音</string><!--Alarm sound-->
+    
+<!-- Labels for Set Alarm preference : Repeat -->
+    <string name="alarm_repeat">繰り返し</string><!--Repeat-->
+    
+<!-- Labels for Set Alarm preference : Vibrate -->
+    <string name="alarm_vibrate">バイブレーション</string><!--Vibrate-->
+
+<!-- Alarm Alert screen: this message is shown after an alarm rung unattended for a number of minutes.  It tells the user that the alarm has been silenced.-->
+    <string name="alarm_alert_alert_silenced">アラームは <xliff:g id="minutes">%d</xliff:g> 分後に止まります。</string><!--Alarm silenced after <xliff:g id="minutes">%d</xliff:g> minutes.-->
+	
+<!-- Notification when user sets snooze successfully -->
+    <string name="alarm_alert_snooze_set">再通知は <xliff:g id="minutes">%d</xliff:g> 分後に行われます。</string><!--Snoozing for <xliff:g id="minutes">%d</xliff:g> minutes.-->
+    
+<!-- Notification when user sets snooze unsuccessfully -->
+    <string name="alarm_alert_snooze_not_set">スヌーズが設定されていません。次のアラームは <xliff:g id="time">%s</xliff:g> に設定されています</string><!--Snooze not set. Next alarm set for <xliff:g id="time">%s</xliff:g>-->
+    
+<!-- Notification when alarm is dismissed -->
+    <string name="alarm_alert_dismissed">アラームは終了しました。</string><!--Alarm dismissed.-->
+
+<!-- Text for alarm confirmation toast -->
+    <string name="alarm_set">このアラームは今から <xliff:g id="time_delta">%s</xliff:g> 後に設定されています。</string><!--This alarm is set for <xliff:g id="time_delta">%s</xliff:g> from now.-->
+
+<!-- Text for alarm confirmation toast : days -->
+    <string name="days">&quot;<xliff:g id="days">%s</xliff:g> 日"</string><!--"<xliff:g id="days">%s</xliff:g> days"-->
+    
+<!-- Text for alarm confirmation toast : hours -->
+    <string name="hours"><xliff:g id="hours">%s</xliff:g> 時間</string><!--<xliff:g id="hours">%s</xliff:g> hours-->
+    
+<!-- Text for alarm confirmation toast : and -->
+    <string name="and">&quot; と &quot;</string><!--" and "-->
+    
+<!-- Text for alarm confirmation toast : space-->
+    <string name="space">&quot; &quot;</string><!--" "-->
+    
+<!-- Text for alarm confirmation toast : less than 1 minute-->
+    <string name="subminute">&quot;1 分未満&quot;</string><!--"less than 1 minute"-->
+
+<!-- Text for alarm confirmation toast : minutes-->
+    <string name="minutes">&quot;<xliff:g id="minutes">%s</xliff:g> 分"</string><!--"<xliff:g id="minutes">%s</xliff:g> minutes"-->
+
+<!-- Notification of next alarm time -->
+    <string name="nextAlarm">次のアラーム:  <xliff:g id="next_alarm_time">%s</xliff:g></string><!--Next alarm: <xliff:g id="next_alarm_time">%s</xliff:g>-->
+
+<!-- Repeat frequency of alarms : every day -->
+    <string name="every_day">毎日</string><!--Every day-->
+
+<!-- Day concat of alarm repeat frequency -->
+    <string name="day_concat">&quot;, &quot;</string><!--", "-->
+
+<!-- Error Dialog when alarm is not set -->
+    <string name="error">アラームが設定できません</string><!--Unable to add alarm-->
+
+<!-- Error Dialog of database error -->
+    <string name="dberror">申し訳ありませんが、アラームを設定できませんでした。</string><!--Sorry, the alarm could not be set.-->
+	
+<!-- Days of week -->
+    <string-array name="days_of_week">
+        <item>月曜日</item><!--MONDAY-->
+        <item>火曜日</item><!--TUESDAY-->
+        <item>水曜日</item><!--WEDNESDAY-->
+        <item>木曜日</item><!--THURSDAY-->
+        <item>金曜日</item><!--FRIDAY-->
+        <item>土曜日</item><!--SATURDAY-->
+        <item>日曜日</item><!--SUNDAY-->
+    </string-array>
+    
+<!-- Month of year : short -->
+    <string-array name="month_of_year">
+    	<item>1 月</item><!--JAN-->
+    	<item>2 月</item><!--FEB-->
+    	<item>3 月</item><!--MAR-->
+    	<item>4 月</item><!--APR-->
+    	<item>5 月</item><!--MAY-->
+    	<item>6 月</item><!--JUN-->
+    	<item>7 月</item><!--JUL-->
+    	<item>8 月</item><!--AUG-->
+    	<item>9 月</item><!--SEP-->
+    	<item>10 月</item><!--OCT-->
+    	<item>11 月</item><!--NOV-->
+    	<item>12 月</item><!--DEC-->
+    </string-array>
+    
+<!-- Days of week for WorldClock -->
+    <string-array name="days_of_week_capital">
+        <item></item>
+        <item>日</item><!--SUN-->
+        <item>月</item><!--MON-->
+        <item>火</item><!--TUE-->
+        <item>水</item><!--WED-->
+        <item>木</item><!--THU-->
+        <item>金</item><!--FRI-->
+        <item>土</item><!--SAT-->
+    </string-array> 
+<!-- Whole Days of week for WorldClock -->
+    <string-array name="days_of_week_whole_capital">
+        <item></item>
+        <item>日曜日</item><!--SUNDAY-->
+        <item>月曜日</item><!--MONDAY-->
+        <item>火曜日</item><!--TUESDAY-->
+        <item>水曜日</item><!--WEDNESDAY-->
+        <item>木曜日</item><!--THURSDAY-->
+        <item>金曜日</item><!--FRIDAY-->
+        <item>土曜日</item><!--SATURDAY-->
+    </string-array>
+    
+<!-- Repeat Options -->
+    <string-array name="repeat_option">
+        <item>月-金</item><!--Mon -/ Fri-->
+        <item>繰り返さない</item><!--Do not repeat-->
+        <item>毎日</item><!--Every day-->
+        <item>休日をスキップ</item><!--Skip holidays-->
+        <item>ユーザー定義</item><!--Custom-->
+    </string-array>
+    
+<!-- Title of Timer -->
+    <string name="timer_caption">タイマー</string><!--Timer-->
+    
+<!-- Labels for Set Timer preference : Alert Sound -->
+    <string name="alert_sound">アラーム音</string><!--Alarm sound-->
+    
+<!-- Title of alert dialog when timer expires -->
+    <string name="time_up">タイマー終了</string><!--Time\'s up!-->
+    
+<!-- Application name -->
+	<string name="htc_private_app_clock">時計</string><!--Clock-->
+
+<!-- Message for user when loading cities -->
+	<string name="loading_city">都市リストを読み込んでいます...</string><!--Loading city list...-->
+	
+<!-- Error title for full internal storage -->
+	<string name="error_title">データベース エラー</string><!--Database error-->
+	
+<!-- Error message for failing querying db -->
+	<string name="query_fail">データベースにアクセスしようとして、エラーが発生しました</string><!--Errors occurred while accessing the database-->
+	
+<!-- Title for selecting alarm ringtone -->
+    <string name="select_ringtone">アラーム音の選択</string><!--Select alarm sound-->
+
+<!-- Title of ringtone picker -->
+    <string name="select_alert">警告音の選択</string><!--Select alert sound-->
+    
+<!-- Days of week : abbreviate -->
+    <string-array name="days_of_week_abbr">
+        <item>月</item><!--M-->
+        <item>火</item><!--TU-->
+        <item>水</item><!--W-->
+        <item>木</item><!--TH-->
+        <item>金</item><!--F-->
+        <item>土</item><!--SA-->
+        <item>日</item><!--SU-->
+    </string-array>
+    
+<!-- Title in Google Gadget -->
+    <string name="analog_gadget">アナログ時計</string><!--Analog Clock-->
+    
+<!-- Error Dialog when city is not added -->
+    <string name="add_city_error_title">都市を追加できません</string><!--Unable to add city-->
+    
+<!-- Error Dialog of adding too many cities -->
+    <string name="add_city_error_msg">15 都市まで選択できます。新しい都市を追加するには、都市を 1 つ削除してください。</string><!--You can have a maximum of 15 cities. To add a new one, please delete an existing city.-->
+    
+<!-- Alert message of adding duplicate city -->
+    <string name="city_duplicate">この都市はすでにリストされています</string><!--This city is already in the list-->
+
+<!-- start: Merge alarm Clock Settings -->
+<!-- alarm_in_volume_increase_mode -->
+    <string name="alarm_in_volume_increase_mode_title">やさしいアラーム</string><!--Gentle alarm-->
+    
+<!-- Gradually increase alarm volume -->
+    <string name="alarm_in_volume_increase_mode_summary">アラームの音が徐々に高くなります</string><!--Gradually increase alarm volume-->
+    
+<!-- Alarm volume -->
+    <string name="alarm_volume_title">アラームの音量</string><!--Alarm volume-->
+
+<!-- Set the volume of alarms -->
+    <string name="alarm_volume_summary">アラームの音量を設定します</string><!--Set the volume of alarms-->
+
+<!-- Snooze duration -->
+    <string name="snooze_duration_title">スヌーズの長さ</string><!--Snooze duration-->
+
+<!-- Entries listed in the ListPreference when invoking the snooze duration preference. -->
+    <string-array name="snooze_duration_entries">
+      <item>5 分</item><!--5 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_10_minutes</item>
+      <item>15 分</item><!--15 minutes-->
+      <item>20 分</item><!--20 minutes-->
+      <item>25 分</item><!--25 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_30_minutes</item>
+    </string-array>
+    
+<!-- Side button behavior -->
+    <string name="volume_button_setting_title">ボリューム ボタンのオプション</string><!--Volume button options-->
+
+<!-- Entries listed in the setting for the side-button action. -->
+    <string-array name="volume_button_setting_entries">
+      <item>なにもしない</item><!--Do nothing-->
+
+      <item>スヌーズ</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+    </string-array>
+
+<!-- Entries listed in the setting for the side-button action. -->
+    <string-array name="sprint_volume_button_setting_entries">
+      <item>なにもしない</item><!--Do nothing-->
+
+      <item>スヌーズ</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+
+      <item>消音</item><!--Silence-->
+    </string-array>
+
+<!-- The summary of the side button setting. -->
+    <string name="volume_button_setting_summary">アラームが鳴っているときにボリューム ボタンを押すとどうなるかを選択します</string><!--Choose what the volume buttons do when pressed during an alarm-->
+<!-- end: Merge alarm Clock Settings -->
+        
+<!-- The indicator for High temperature -->
+    <string name="weather_high_indicator">高:</string><!--H:-->
+    
+<!-- The indicator for Low temperature -->
+    <string name="weather_low_indicator">低:</string><!--L:-->   
+
+<!-- Text to display in the notification ticker and label -->
+    <string name="alarm_notify_snooze_label"><xliff:g id="label">%s</xliff:g> (スヌーズ済み)</string><!--<xliff:g id="label">%s</xliff:g> (snoozed)-->
+
+<!-- Text to display in the notification when the alarm has been snoozed -->
+    <string name="alarm_notify_snooze_text"><xliff:g id="time">%s</xliff:g> にアラームを設定します。タップするとキャンセルします。</string><!--Alarm set for <xliff:g id="time">%s</xliff:g>. Tap to cancel.-->
+
+<!-- Alarm Off -->
+    <string name="alarm_off">アラーム OFF</string><!--Alarm Off-->
+<!-- Alarm On -->
+    <string name="alarm_on">アラーム ON</string><!--Alarm On-->
+    
+<!-- Select alarm sound from -->
+    <string name="sound_selection_title">アラーム音の選択元</string><!--Select alarm sound from-->
+<!-- Ringtones -->
+    <string name="ringtone_title">着信音</string><!--Ringtones-->
+
+<!-- Entries listed in the setting for the clock sound selection. -->
+    <string-array name="sound_selection_setting_entries">
+<!-- Alarm sound -->
+      <item>アラーム音</item><!--Alarm sound-->
+<!-- Do not translate. Ringtone -->
+      <item>@string/nn_ringtone</item>
+<!-- Do not translate. Music -->
+      <item>@string/nn_music</item>
+    </string-array>
+
+<!-- Labels for Stopwatch : Total-->
+    <string name="total_title">合計</string><!--Total-->
+    
+<!-- Labels for Stopwatch : Lap-->
+    <string name="lap_title">ラップ</string><!--Lap-->
+
+<!-- Labels for Stopwatch : Lap ID-->
+    <string name="lap_id">ラップ #</string><!--Lap #-->
+    
+<!-- Labels for Stopwatch : Running total-->
+    <string name="lap_total_time">合計</string><!--Total-->
+    
+<!-- Labels for Stopwatch : This lap-->
+    <string name="lap_time">今回のラップ</string><!--This lap-->
+    
+<!-- Error Dialog when lap is not set -->
+    <string name="lap_error">ラップタイムが記録できません</string><!--Lap not saved-->
+    
+<!-- Alert message of adding too many laps -->
+    <string name="add_lap_error">ラップタイムの最大記録数(300件)を超えています。ラップタイムの履歴を消去してください。</string><!--Stopwatch can save a maximum of 300 laps. Tap Reset to clear lap history.-->
+    
+<!-- Tips for Weather Location : Location Enable -->
+    <string name="location_enable">現地の天気を確認するには、ここをタップしてロケーション機能をONにします。</string><!--To see local weather,\ntap here to turn on Location Service.-->
+
+<!-- menu item for Full screen -->
+    <string name="full_screen_menu_item">全画面表示</string><!--Full screen-->
+<!-- menu item for Fit screen -->
+    <string name="fit_screen_menu_item">画面に合わせる</string><!--Fit screen-->
+<!-- Storage low dialog -->
+    <string name="storage_full_description">本体メモリの空き領域が少なくなっています。いくつかのコンテンツまたはアプリケーションを削除してください。下の \&quot;設定\&quot; をタップすると、アプリケーションを管理できます。</string><!--You don\'t have enough free space remaining in your phone\'s storage.Please delete some content or applications.Tap \"Settings\" below to manage your apps.-->
+    
+<!-- for timer -->
+    <string name="timer_reminder_tile_timer_up">時間切れ</string><!--Time is up-->
+    <string name="timer_reminder_tile_setting">設定</string><!--Settings-->
+    
+<!-- below is removed by common string, move to local -->
+    <string-array name="days_of_week_short">
+        <item>@string/tm_mon</item>
+        <item>@string/tm_tue</item>
+        <item>@string/tm_wed</item>
+        <item>@string/tm_thu</item>
+        <item>@string/tm_fri</item>
+        <item>@string/tm_sat</item>
+        <item>@string/tm_sun</item>
+    </string-array>
+    
+    <string name="tm_mon">月</string><!--Mon-->
+    <string name="tm_tue">火</string><!--Tue-->
+    <string name="tm_wed">水</string><!--Wed-->
+    <string name="tm_thu">木</string><!--Thu-->
+    <string name="tm_fri">金</string><!--Fri-->
+    <string name="tm_sat">土</string><!--Sat-->
+    <string name="tm_sun">日</string><!--Sun-->
+    <string name="tm_10_minutes">"10分"</string><!--10 minutes-->
+    <string name="tm_30_minutes">"30分"</string><!--30 minutes-->
+    <string name="va_dismiss">"解除"</string><!--Dismiss-->
+    <string name="nn_ringtone">着信音</string><!--Ringtone-->
+    <string name="nn_music">音楽</string><!--Music-->
+<!-- AccountManager: In loginSettings activity: Label for "Done" button item -->
+    <string name="bt_done_str">完了</string><!--Done-->
+    <string name="tm_am">午前</string><!--AM-->
+    <string name="tm_pm">午後</string><!--PM-->
+<!-- Lable for phone number type: Home number -->
+    <string name="phone_type_home">自宅</string><!--Home-->
+<!-- Dialog Yes button -->
+    <string name="dialog_button_ok">OK</string><!--OK-->
+<!-- AccountManager: In loginSettings activity: Label for "Cancel" button item -->
+    <string name="bt_cancel_str">キャンセル</string><!--Cancel-->
+<!-- To snooze a notification -->
+    <string name="snooze">スヌーズ</string><!--Snooze-->
+<!-- The default hint on lockscreen to indicate what to do. Drag down the arc are to dismiss current reminder. -->
+    <string name="lockscreen_hint_dismiss">下へドラッグして消去</string><!--Drag down to dismiss-->
+    <string name="nn_alarm">アラーム</string><!--Alarm-->
+    <string name="tm_today">今日</string><!--Today-->
+    <string name="tm_yesterday">昨日</string><!--Yesterday-->
+    <string name="tm_tomorrow">明日</string><!--Tomorrow-->
+    <string name="tm_current">現在</string><!--Current-->
+    <string name="va_rearrange">再設定</string><!--Rearrange-->
+    <string name="va_edit">編集</string><!--Edit-->
+    <string name="va_select_all">すべて選択</string><!--Select all-->
+    <string name="va_deselect_all">すべての選択を解除する</string><!--Deselect all-->
+    <string name="nn_description">説明</string><!--Description-->
+    <string name="tm_1_day">"1日"</string><!--1 day-->
+    <string name="tm_1_hour">1 時間</string><!--1 hour-->
+    <string name="tm_1_minute">"1分"</string><!--1 minute-->
+    <string name="st_on">オン</string><!--On-->
+    <string name="st_off">オフ</string><!--Off-->
+    <string name="st_never">しない</string><!--Never-->
+    <string name="va_add">追加</string><!--Add-->
+    <string name="va_edit_tabs">タブを編集</string><!--Edit tabs-->
+    <string name="ls_no_weather_data_available">気象情報を取得できません</string><!--No weather data available-->
+    <string name="st_storage_full">メモリがいっぱいです</string><!--Storage full-->
+    <string name="nn_settings">"設定"</string><!--Settings-->
+<!-- [Add][Start] add "Tips & Help" by Yami Day's request -->
+    <string name="nn_tips_help">ヒントとヘルプ</string><!--Tips &amp; Help-->
+<!-- [Add][End] add "Tips & Help" by Yami Day's request -->
+<!-- [Gallery OpenSense - GA50 Skyer_Tai] Warning message for low internal memory scenario -->
+    <string name="internal_memory_low">電話の保存スペースが少なくなっています。このアプリケーションをお使いになる前に、空き領域を増やしてください。</string><!--Your phone is low on storage space. Please make some free space before using this application.-->
+    <string name="st_default">既定</string><!--Default-->
+<!-- [Add][Start] Add for ContentUri, called back from soundPicker(Mail/Calendar/Message) -->
+    <string name="st_silent">サイレント</string><!--Silent-->
+<!-- [Add][End] Add for ContentUri, called back from soundPicker(Mail/Calendar/Message) -->
+    <string name="st_more">その他</string><!--More-->
+
+<!-- Labels for Set Alarm preference : OffAlarm -->
+    <string name="alarm_offalarm">電話オフ時のサウンド</string><!--Sound when phone off-->
+
+<!-- Dialog title for describe that this app needs additional permission -->
+    
+<!-- Do not translate -->
+	<!--<string name="clock_permission_dialog_title">@string/htc_private_app_clock</string>-->
+    
+<!-- Dialog content for describe that this app needs additional permission -->
+    <string name="clock_permission_dialog_content">このアプリが正常に機能するためには、ストレージにアクセスする必要があります。時計の権限は [設定] で管理できます。</string><!--To work properly, this app needs to access your storage. You can manage Clock\'s permissions in Settings.-->
+<!-- [Button] Dialog button to bring user to Settings page -->
+    <string name="clock_permission_dialog_btn_settings">設定</string><!--Settings-->
+<!-- [Button] Dialog button to close dialog -->
+    <string name="clock_permission_dialog_btn_close">閉じる</string><!--Close-->
+    
+<!-- location setting -->
+<!-- Dialog title to ask user to turn on network location provider -->
+    <string name="location_dialog_title">位置情報サービスがオフになっています</string><!--Location services are off-->
+<!-- Dialog content to ask user to turn on network location provider -->
+    <string name="location_dialog_msg">ローカルの天気予報を見るには、位置設定をバッテリー節約または高精度モードに変更してください。</string><!--To get local weather, change your location settings to battery saving or high accuracy mode.-->
+</resources>
+
+
+

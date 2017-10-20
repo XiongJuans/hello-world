@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string-array name="days_of_week">
+        <item>Luni</item><!--MONDAY-->
+        <item>Marţi</item><!--TUESDAY-->
+        <item>Miercuri</item><!--WEDNESDAY-->
+        <item>Joi</item><!--THURSDAY-->
+        <item>Vineri</item><!--FRIDAY-->
+        <item>Sâmbătă</item><!--SATURDAY-->
+        <item>Duminică</item><!--SUNDAY-->
+    </string-array>
+    <string-array name="days_of_week_abbr">
+        <item>L</item><!--M-->
+        <item>Ma</item><!--TU-->
+        <item>M</item><!--W-->
+        <item>Jo</item><!--TH-->
+        <item>V</item><!--F-->
+        <item>Sâ</item><!--SA-->
+        <item>Du</item><!--SU-->
+    </string-array>
+    <string-array name="days_of_week_capital">
+        <item/>
+        <item>Dum</item><!--SUN-->
+        <item>Lun</item><!--MON-->
+        <item>Mar</item><!--TUE-->
+        <item>Mie</item><!--WED-->
+        <item>Joi</item><!--THU-->
+        <item>Vin</item><!--FRI-->
+        <item>Sâm</item><!--SAT-->
+    </string-array>
+    <string-array name="days_of_week_short">
+        <item>@string/tm_mon</item>
+        <item>@string/tm_tue</item>
+        <item>@string/tm_wed</item>
+        <item>@string/tm_thu</item>
+        <item>@string/tm_fri</item>
+        <item>@string/tm_sat</item>
+        <item>@string/tm_sun</item>
+    </string-array>
+    <string-array name="days_of_week_whole_capital">
+        <item/>
+        <item>Duminică</item><!--SUNDAY-->
+        <item>Luni</item><!--MONDAY-->
+        <item>Marţi</item><!--TUESDAY-->
+        <item>Miercuri</item><!--WEDNESDAY-->
+        <item>Joi</item><!--THURSDAY-->
+        <item>Vineri</item><!--FRIDAY-->
+        <item>Sâmbătă</item><!--SATURDAY-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/WeatherLib1/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string-array name="htc_weather_conditions">
+<!-- weather condition 1 : Sunny -->
+        <item>Soare</item><!--Sunny-->
+<!-- weather condition 2 : Mostly Sunny -->
+        <item>Mai mult însorit</item><!--Mostly Sunny-->
+<!-- weather condition 3 : Partly Sunny -->
+        <item>Parţial însorit</item><!--Partly Sunny-->
+<!-- weather condition 4 : Intermittent Clouds -->
+        <item>Nori ocazionali</item><!--Intermittent Clouds--><!--Intermittent Clouds-->
+<!-- weather condition 5 : Hazy Sunshine -->
+        <item>Soare cu ceaţă</item><!--Hazy Sunshine-->
+<!-- weather condition 6 : Mostly Cloudy -->
+        <item>Mai mult noros</item><!--Mostly Cloudy--><!--Mostly Cloudy-->
+<!-- weather condition 7 : Cloudy -->
+        <item>Noros</item><!--Cloudy-->
+<!-- weather condition 8 : Dreary -->
+        <item>Mohorât</item><!--Dreary-->
+<!-- weather condition 11 : Fog -->
+        <item>Ceaţă</item><!--Fog-->
+<!-- weather condition 12 : Showers -->
+        <item>Averse</item><!--Showers-->
+<!-- weather condition 13 : Mostly Cloudy with Showers -->
+        <item>Mai mult noros cu averse</item><!--Mostly Cloudy with Showers--><!--Mostly Cloudy with Showers-->
+<!-- weather condition 14 : Partly Sunny with Showers -->
+        <item>Parţial senin cu averse</item><!--Partly Sunny with Showers-->
+<!-- weather condition 15 : Thunderstorms -->
+        <item>Furtuni</item><!--Thunderstorms-->
+<!-- weather condition 16 : Mostly Cloudy with Thunder Showers -->
+        <item>Mai mult noros cu furtuni</item><!--Mostly Cloudy with Thunder Showers--><!--Mostly Cloudy with Thunder Showers-->
+<!-- weather condition 17 : Partly Sunny with Thunder Showers -->
+        <item>Parţial senin cu furtuni</item><!--Partly Sunny with Thunder Showers-->
+<!-- weather condition 18 : Rain -->
+        <item>Ploaie</item><!--Rain-->
+<!-- weather condition 19 : Flurries -->
+        <item>Ninsori trecătoare</item><!--Flurries-->
+<!-- weather condition 20 : Mostly Cloudy with Flurries -->
+        <item>Mai mult noros cu ninsori trecătoare</item><!--Mostly Cloudy with Flurries--><!--Mostly Cloudy with Flurries-->
+<!-- weather condition 21 : Partly Sunny with Flurries -->
+        <item>Parţial senin cu ninsori trecătoare</item><!--Partly Sunny with Flurries-->
+<!-- weather condition 22 : Snow -->
+        <item>Zăpadă</item><!--Snow-->
+<!-- weather condition 23 : Mostly Cloudy with Snow -->
+        <item>Mai mult noros cu zăpadă</item><!--Mostly Cloudy with Snow-->
+<!-- weather condition 24 : Ice -->
+        <item>Gheaţă</item><!--Ice-->
+<!-- weather condition 25 : Sleet -->
+        <item>Zloată</item><!--Sleet-->
+<!-- weather condition 26 : Freezing Rain -->
+        <item>Lapoviţă</item><!--Freezing Rain-->
+<!-- weather condition 29 : Rain and Snow Mixed -->
+        <item>Ploaie şi ninsoare</item><!--Rain and Snow Mixed-->
+<!-- weather condition 30 : Hot -->
+        <item>Foarte cald</item><!--Hot-->
+<!-- weather condition 31 : Cold -->
+        <item>Frig</item><!--Cold-->
+<!-- weather condition 32 : Windy -->
+        <item>Vântos</item><!--Windy-->
+<!-- weather condition 33 : Clear -->
+        <item>Senin</item><!--Clear-->
+<!-- weather condition 34 : Mostly Clear -->
+        <item>Mai mult senin</item><!--Mostly Clear-->
+<!-- weather condition 35 : Partly Cloudy -->
+        <item>Parţial noros</item><!--Partly Cloudy-->
+<!-- weather condition 36 : Intermittent Clouds -->
+        <item>Nori ocazionali</item><!--Intermittent Clouds--><!--Intermittent Clouds-->
+<!-- weather condition 37 : Hazy -->
+        <item>Ceţos</item><!--Hazy-->
+<!-- weather condition 38 : Mostly Cloudy -->
+        <item>Mai mult noros</item><!--Mostly Cloudy--><!--Mostly Cloudy-->
+<!-- weather condition 39 : Partly Cloudy with Showers -->
+        <item>Parţial noros cu averse</item><!--Partly Cloudy with Showers-->
+<!-- weather condition 40 : Mostly Cloudy with Showers -->
+        <item>Mai mult noros cu averse</item><!--Mostly Cloudy with Showers--><!--Mostly Cloudy with Showers-->
+<!-- weather condition 41 : Partly Cloudy with Thunder Showers -->
+        <item>Parţial noros cu furtuni</item><!--Partly Cloudy with Thunder Showers-->
+<!-- weather condition 42 : Mostly Cloudy with Thunder Showers -->
+        <item>Mai mult noros cu furtuni</item><!--Mostly Cloudy with Thunder Showers--><!--Mostly Cloudy with Thunder Showers-->
+<!-- weather condition 43 : Partly Cloudy with Flurries -->
+        <item>Parţial noros cu ninsori trecătoare</item><!--Partly Cloudy with Flurries-->
+<!-- weather condition 44 : Mostly Cloudy with Flurries -->
+        <item>Mai mult noros cu ninsori trecătoare</item><!--Mostly Cloudy with Flurries--><!--Mostly Cloudy with Flurries-->
+<!-- _For Huafeng -->
+<!-- weather condition 51 : -->
+        <item>Furtuni cu lapoviţă</item><!--Thunderstorms with sleet-->
+<!-- weather condition 52 : -->
+        <item>Nisip</item><!--Sand-->
+<!-- weather condition 53 : -->
+        <item>Praf</item><!--Dust-->
+<!-- weather condition 54 : -->
+        <item>Tornadă</item><!--Tornado-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string-array name="month_of_year">
+    	<item>Ian</item><!--JAN-->
+    	<item>FEB</item><!--FEB-->
+    	<item>Mar</item><!--MAR-->
+    	<item>Apr</item><!--APR-->
+    	<item>Mai</item><!--MAY-->
+    	<item>Iun</item><!--JUN-->
+    	<item>Iul</item><!--JUL-->
+    	<item>Aug</item><!--AUG-->
+    	<item>Sep</item><!--SEP-->
+    	<item>Oct</item><!--OCT-->
+    	<item>Noi</item><!--NOV-->
+    	<item>Dec</item><!--DEC-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>în fiecare primă vineri</item><!--on every first Friday-->
+        <item>în fiecare a doua vineri</item><!--on every second Friday-->
+        <item>în fiecare a treia vineri</item><!--on every third Friday-->
+        <item>în fiecare a patra vineri</item><!--on every fourth Friday-->
+        <item>în fiecare ultimă vineri</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>în fiecare primă luni</item><!--on every first Monday-->
+        <item>în fiecare a doua luni</item><!--on every second Monday-->
+        <item>în fiecare a treia luni</item><!--on every third Monday-->
+        <item>în fiecare a patra luni</item><!--on every fourth Monday-->
+        <item>în fiecare ultimă luni</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>în fiecare primă sâmbătă</item><!--on every first Saturday-->
+        <item>în fiecare a doua sâmbătă</item><!--on every second Saturday-->
+        <item>în fiecare a treia sâmbătă</item><!--on every third Saturday-->
+        <item>în fiecare a patra sâmbătă</item><!--on every fourth Saturday-->
+        <item>în fiecare ultimă sâmbătă</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>în fiecare primă duminică</item><!--on every first Sunday-->
+        <item>în fiecare a doua duminică</item><!--on every second Sunday-->
+        <item>în fiecare a treia duminică</item><!--on every third Sunday-->
+        <item>în fiecare a patra duminică</item><!--on every fourth Sunday-->
+        <item>în fiecare ultimă duminică</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>în fiecare primă joi</item><!--on every first Thursday-->
+        <item>în fiecare a doua joi</item><!--on every second Thursday-->
+        <item>în fiecare a treia joi</item><!--on every third Thursday-->
+        <item>în fiecare a patra joi</item><!--on every fourth Thursday-->
+        <item>în fiecare ultimă joi</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>în fiecare primă marţi</item><!--on every first Tuesday-->
+        <item>în fiecare a doua marţi</item><!--on every second Tuesday-->
+        <item>în fiecare a treia marţi</item><!--on every third Tuesday-->
+        <item>în fiecare a patra marţi</item><!--on every fourth Tuesday-->
+        <item>în fiecare ultimă marţi</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>în fiecare primă miercuri</item><!--on every first Wednesday-->
+        <item>în fiecare a doua miercuri</item><!--on every second Wednesday-->
+        <item>în fiecare a treia miercuri</item><!--on every third Wednesday-->
+        <item>în fiecare a patra miercuri</item><!--on every fourth Wednesday-->
+        <item>în fiecare ultimă miercuri</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string-array name="repeat_option">
+        <item>Lun - Vin</item><!--Mon -/ Fri-->
+        <item>Fără repetare</item><!--Do not repeat-->
+        <item>în fiecare zi</item><!--Every day-->
+        <item>Omitere sărbători</item><!--Skip holidays-->
+        <item>Personalizată</item><!--Custom-->
+    </string-array>
+    <string-array name="snooze_duration_entries">
+      <item>5 minute</item><!--5 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_10_minutes</item>
+      <item>15 minute</item><!--15 minutes-->
+      <item>20 minute</item><!--20 minutes-->
+      <item>25 minute</item><!--25 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_30_minutes</item>
+    </string-array>
+    <string-array name="sound_selection_setting_entries">
+<!-- Alarm sound -->
+      <item>Sunet alarmă</item><!--Alarm sound-->
+<!-- Do not translate. Ringtone -->
+      <item>@string/nn_ringtone</item>
+<!-- Do not translate. Music -->
+      <item>@string/nn_music</item>
+    </string-array>
+    <string-array name="sprint_volume_button_setting_entries">
+      <item>Nicio acțiune</item><!--Do nothing-->
+
+      <item>Amânare</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+
+      <item>Silenţios</item><!--Silence-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>Mică</item><!--Small-->
+        <item>Mediu</item><!--Medium-->
+        <item>Mare</item><!--Large-->
+        <item>Extra mare</item><!--Extra large-->
+        <item>Foarte mare</item><!--Huge-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string-array name="volume_button_setting_entries">
+      <item>Nicio acțiune</item><!--Do nothing-->
+
+      <item>Amânare</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string-array name="weeklayout_secondary_text">
+        <item>Du</item><!--SU-->
+        <item>L</item><!--M-->
+        <item>Ma</item><!--TU-->
+        <item>M</item><!--W-->
+        <item>Jo</item><!--TH-->
+        <item>V</item><!--F-->
+        <item>Sâ</item><!--SA-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">o dată</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> ori</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">În fiecare <ns1:g id="count">%d</ns1:g> zi</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">La fiecare <ns1:g id="count">%d</ns1:g> zile</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">În fiecare <ns1:g id="count">%d</ns1:g> lună</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">La fiecare <ns1:g id="count">%d</ns1:g> luni</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">În fiecare <ns1:g id="count">%d</ns1:g> săptămână</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">La fiecare <ns1:g id="count">%d</ns1:g> săptămâni</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">În fiecare <ns1:g id="count">%d</ns1:g> an</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">La fiecare <ns1:g id="count">%d</ns1:g> ani</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">Săptămânal, <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other">La fiecare <ns1:g id="number">%1$d</ns1:g> săptămâni, <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navigați la ecranul de pornire"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigați în sus"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Mai multe opțiuni"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Terminat"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Afișați-le pe toate"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Alegeți o aplicație"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DEZACTIVAȚI"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ACTIVAȚI"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Căutați…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ștergeți interogarea"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Interogare de căutare"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Căutați"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Trimiteți interogarea"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Căutare vocală"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Trimiteți la"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Trimiteți la %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Restrângeți"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string name="accessibility_tap_action">Apăsaţi de două ori pentru acţiune</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="add_alarm">Adăugare alarmă</string>
+    <string name="add_alarm_error">Număr maxim de alarme a fost atins.</string>
+    <string name="add_city">Adăugare oraş</string>
+    <string name="add_city_error_msg">Puteţi avea maxim 15 oraşe. Pentru a adăuga unul nou, ştergeţi un oraş existent.</string>
+    <string name="add_city_error_title">Imposibil de adăugat oraşul</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string name="add_comments">Adăugare comentariu</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="add_lap_error">Cronometrul poate salva maxim 300 de ture. Apăsaţi Resetare pentru a goli istoricul turelor.</string>
+    <string name="addcity_search">Căutare oraşe</string>
+    <string name="alarm_alert_alert_silenced">Alarmă oprită după <ns1:g id="minutes">%d</ns1:g> minute.</string>
+    <string name="alarm_alert_dismissed">Alarmă respinsă.</string>
+    <string name="alarm_alert_snooze_not_set">Amânarea nu este setată. Următoarea alarmă este setată pentru <ns1:g id="time">%s</ns1:g>.</string>
+    <string name="alarm_alert_snooze_set">Amânare <ns1:g id="minutes">%d</ns1:g> minute.</string>
+    <string name="alarm_caption">Alarme</string>
+    <string name="alarm_in_volume_increase_mode_summary">Creşte treptat volumul alarmei</string>
+    <string name="alarm_in_volume_increase_mode_title">Alarmă delicată</string>
+    <string name="alarm_notify_snooze_label"><ns1:g id="label">%s</ns1:g> (amânată)</string>
+    <string name="alarm_notify_snooze_text">Alarmă setată pentru <ns1:g id="time">%s</ns1:g>. Apasă pentru anulare.</string>
+    <string name="alarm_off">Alarmă oprită</string>
+    <string name="alarm_offalarm">Sună când telefonul este oprit</string>
+    <string name="alarm_on">Alarmă pornită</string>
+    <string name="alarm_repeat">Repetare</string>
+    <string name="alarm_ringtone">Sunet alarmă</string>
+    <string name="alarm_set">Această alarmă este setată pentru <ns1:g id="time_delta">%s</ns1:g> de acum.</string>
+    <string name="alarm_vibrate">Vibrare</string>
+    <string name="alarm_volume_summary">Setează volumul alarmelor</string>
+    <string name="alarm_volume_title">Volum alarmă</string>
+    <string name="alert_sound">Sunet alarmă</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string name="am">AM</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="analog_gadget">Ceas analog</string>
+    <string name="and">" şi "</string>
+    <string name="bt_cancel_str">Anulare</string>
+    <string name="bt_done_str">Efectuat</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string name="button_hide_caption">Ascundere legendă</string>
+    <string name="button_hide_description">Ascundere descriere</string>
+    <string name="button_show_caption">Afişare legendă</string>
+    <string name="button_show_description">Afişare descriere</string>
+    <string name="carousel_title">Editare file</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="city_duplicate">Acest oraş este deja în listă</string>
+    <string name="city_not_found">Oraşul nu a fost găsit</string>
+    <string name="clock_permission_dialog_btn_close">Închidere</string>
+    <string name="clock_permission_dialog_btn_settings">Setări</string>
+    <string name="clock_permission_dialog_content">Pentru a funcţiona corespunzător, această aplicaţie are nevoie de acces la spaţiul de stocare. Puteţi gestiona permisiunile Ceas din Setări.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">Căutare persoane</string>
+    <string name="common_string_open_contact">Deschidere contact</string>
+    <string name="common_string_save_to_existing_contact">Salvare în contact existent</string>
+    <string name="common_string_save_to_people">Salvare la Persoane</string>
+    <string name="common_string_share_title">Partajare prin</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="current_settings">Setaţi data şi ora</string>
+    <string name="day_concat">", "</string>
+    <string name="days">"<ns1:g id="days">%s</ns1:g> zile"</string>
+    <string name="dberror">Alarma nu a putut fi setată.</string>
+    <string name="delete_alarm_caption">Ştergere alarmă</string>
+    <string name="delete_city_caption">Ştergere oraşe</string>
+    <string name="desk_clock_caption">Ceas de birou</string>
+    <string name="dialog_button_ok">OK</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string name="done">Efectuat</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="error">Imposibil de adăugat alarma</string>
+    <string name="error_title">Eroare bază de date</string>
+    <string name="every_day">În fiecare zi</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string name="every_weekday">"În fiecare zi a săptămânii (Lun\u2013Vin)"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="fit_screen_menu_item">Potrivire pe ecran</string>
+    <string name="full_screen_menu_item">Ecran complet</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/googleplay_strings.xml -->
+    <eat-comment/>
+    <string name="googleplay_description_app">Fie că vă aflaţi în Taipei, Taiwan sau Marrakech, Maroc, HTC Ceas vă permite să vedeţi ora în locaţia dvs. curentă, acasă şi în oraşe din jurul lumii. Alarmele sale personalizabile, cronometrul şi temporizatorul vă pun puterea de a gestiona timpul în buzunarul dvs. Setaţi oricâte alarme doriţi, schimbaţi durata amânării, alegeţi sunetul care se aude la declanşarea alarmei şi faceţi chiar să sune alarmele când telefonul dvs. este în modul silenţios. Cronometrul aplicaţiei HTC Ceas este excelent pentru înregistrarea turelor când faceţi sport, iar temporizarea este utilă pentru gătit sau pentru monitorizarea timpului petrecut în faţa televizorului.</string>
+    <string name="googleplay_description_legal">[googleplay_description_legal_common_1]</string>
+    <string name="googleplay_description_short">Urmăriţi timpul cu aplicaţia HTC cronometru, temporizare, alarmă şi ora pe glob.</string>
+    <string name="googleplay_description_supportingScope"/>
+    <string name="googleplay_title">HTC Ceas</string>
+    <string name="googleplay_whatsnew">- Alarmele devin treptat mai puternice\n- Remedieri ale erorilor şi îmbunătăţiri ale performanţelor</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="home_settings">Setare fus orar de domiciliu</string>
+    <string name="hours"><ns1:g id="hours">%s</ns1:g> ore</string>
+    <string name="htc_private_app_clock">Ceas</string>
+    <string name="internal_memory_low">Telefonul tău are insuficient spaţiu de stocare disponibil. Eliberează spaţiu înainte de a folosi această aplicaţie.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string name="label_day">Zi</string>
+    <string name="label_hour">Oră</string>
+    <string name="label_minute">Minut</string>
+    <string name="label_month">Lună</string>
+    <string name="label_second">Secundă</string>
+    <string name="label_year">An</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="lap">Tur</string>
+    <string name="lap_error">Tura nu a fost salvată</string>
+    <string name="lap_id">Nr. tur</string>
+    <string name="lap_time">Turul acesta</string>
+    <string name="lap_title">Tur</string>
+    <string name="lap_total_time">Total</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string name="license_dialog_content">Unele pictograme utilizate pe acest telefon au fost create iniţial de Google şi modificate de HTC în conformitate cu <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Licenţa Creative Commons Atribuire 4.0</a>.</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="loading_city">Se încarcă lista cu oraşe...</string>
+    <string name="location_dialog_msg">Pentru a obţine informaţiile meteo locale, schimbaţi setările de localizare pe economisirea bateriei sau modul cu precizie înaltă.</string>
+    <string name="location_dialog_title">Serviciile de localizare sunt dezactivate</string>
+    <string name="location_enable">Pentru informaţii meteo locale, apăsaţi aici pentru a activa serviciul de localizare.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string name="location_unavailable">Locaţie indisponibilă</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="lockscreen_hint_dismiss">Glisează în jos pentru a respinge</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string name="ls_doubletap_drag">apăsaţi de două ori şi glisaţi pentru reglare</string>
+    <string name="ls_edit_number_before_calling">Editare număr înainte de apelare</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="ls_no_weather_data_available">Nu există informaţii meteo disponibile</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string name="ls_open_in_map">Deschidere pe hartă</string>
+    <string name="ls_tablet_storage_error">A fost găsită o eroare în spaţiul de stocare al tabletei. Reporniţi dispozitivul sau formataţi spaţiul de stocare.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string name="masthead_st_am">AM</string>
+    <string name="masthead_st_auto_sync_off">Sincronizarea automată este oprită. Apăsaţi pentru a vizualiza prognoza meteo.</string>
+    <string name="masthead_st_current_location">Locaţie curentă</string>
+    <string name="masthead_st_device_only_off">Schimbați modul serviciului de localizare pentru informații meteo</string>
+    <string name="masthead_st_location_service_off">Activaţi serviciile de localizare pentru a primi informaţii meteo</string>
+    <string name="masthead_st_pm">PM</string>
+    <string name="masthead_st_weather_unavailable">Meteo indisponibil</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string name="menu_crop">Trunchiere</string>
+    <string name="menu_delete">Ştergere</string>
+    <string name="menu_properties">Detalii</string>
+    <string name="menu_protect_info">Informaţii protecţie</string>
+    <string name="menu_save_to_my_favorite">Setare ca preferinţă</string>
+    <string name="menu_send_photo_link_by_email">Partajare legătură fotografie</string>
+    <string name="menu_set_as">Setare ca</string>
+    <string name="menu_settings">Setări</string>
+    <string name="menu_share">Partajare</string>
+    <string name="menu_show_on_map">Indică pe hartă</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_view_full">Vizualizare</string>
+    <string name="menu_view_video">Redare</string>
+    <string name="meun_rotate">Rotire</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="minutes">"<ns1:g id="minutes">%s</ns1:g> minute"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string name="monthly">Lunar</string>
+    <string name="monthly_on_day_count">"Lunar (în fiecare <ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g>)"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="nextAlarm">Următoarea alarmă: <ns1:g id="next_alarm_time">%s</ns1:g></string>
+    <string name="night_clock">@string/desk_clock_caption</string>
+    <string name="nn_alarm">Alarmă</string>
+    <string name="nn_description">Descriere</string>
+    <string name="nn_music">Muzică</string>
+    <string name="nn_ringtone">Ton de apel</string>
+    <string name="nn_settings">Setări</string>
+    <string name="nn_tips_help">Sfaturi &amp; ajutor</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">Eroare necunoscută</string>
+    <string name="no">Nu</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="pause">Pauză</string>
+    <string name="phone_type_home">Domiciliu</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string name="pm">PM</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="query_fail">Au intervenit erori la accesarea bazei de date</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string name="quickselection_share">Partajare prin</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="rearrange_city_caption">Editare listă</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string name="refresh">Refresh</string>
+    <string name="reminderview_common_unlock_hint_icon">Trageţi pictograma în sus</string>
+    <string name="reminderview_common_unlock_hint_up">Trageţi în sus pentru deblocare</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="reset">Resetare</string>
+    <string name="resume">Reluare</string>
+    <string name="ringtone_title">Tonuri de apel</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string msgid="146198913615257606" name="search_menu_title">"Căutați"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="select_alert">Selectare sunet alertă</string>
+    <string name="select_ringtone">Selectare sunet alarmă</string>
+    <string name="set_alarm_caption">Setare alarmă</string>
+    <string name="snooze">Amânare</string>
+    <string name="snooze_duration_title">Durată amânare</string>
+    <string name="sound_selection_title">Selectare sunet alarmă de la</string>
+    <string name="space">" "</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">Eliberaţi pentru reîmprospătare</string>
+    <string name="st_action_bar_updating">Se actualizează...</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="st_default">Implicit</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string name="st_draggable_item">Element glisabil</string>
+    <string name="st_loading">Se încarcă...</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="st_more">Mai multe</string>
+    <string name="st_never">Niciodată</string>
+    <string name="st_off">Oprit</string>
+    <string name="st_on">Pornit</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string name="st_pull_down_refresh">Trageţi în jos pentru reîmprospătare</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="st_silent">Silenţios</string>
+    <string name="st_storage_full">Memorie plină</string>
+    <string name="start">Începere</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"˃999"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="stop">Oprire</string>
+    <string name="stopwatch_caption">Cronometru</string>
+    <string name="storage_full_description">Nu aveţi suficient spaţiu liber în spaţiul de stocare al telefonului. Ştergeţi conţinut sau aplicaţii. Apăsaţi \"Setări\" mai jos pentru a gestiona aplicaţiile.</string>
+    <string name="subminute">"mai puţin de 1 minut"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string name="tab_remove_dialog_message">Mai aveţi o singură filă. Pentru a adăuga mai multe file pentru această aplicaţie, alegeţi Editare file/Filtre din meniu.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="time_up">Timpul a expirat!</string>
+    <string name="timer_caption">Temporizare</string>
+    <string name="timer_reminder_tile_setting">Setări</string>
+    <string name="timer_reminder_tile_timer_up">Timpul a expirat</string>
+    <string name="tm_10_minutes">10 minute</string>
+    <string name="tm_1_day">1 zi</string>
+    <string name="tm_1_hour">1 oră</string>
+    <string name="tm_1_minute">1 minut</string>
+    <string name="tm_30_minutes">30 minute</string>
+    <string name="tm_am">AM</string>
+    <string name="tm_current">Curent</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string name="tm_daily">"Zilnic"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="tm_fri">Vin</string>
+    <string name="tm_mon">Lun</string>
+    <string name="tm_pm">PM</string>
+    <string name="tm_sat">Sâm</string>
+    <string name="tm_sun">Dum</string>
+    <string name="tm_thu">Joi</string>
+    <string name="tm_today">Azi</string>
+    <string name="tm_tomorrow">Mâine</string>
+    <string name="tm_tue">Mar</string>
+    <string name="tm_wed">Mie</string>
+    <string name="tm_yesterday">Ieri</string>
+    <string name="total_title">Total</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">Nu se poate elimina această filă</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="va_add">Adăugare</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string name="va_back">Înapoi</string>
+    <string name="va_call">Apel</string>
+    <string name="va_cancel">Anulare</string>
+    <string name="va_clear">Golire</string>
+    <string name="va_close">Închidere</string>
+    <string name="va_copy">Copiere</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="va_deselect_all">Deselectare toate</string>
+    <string name="va_dismiss">Respingere</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string name="va_download">Descărcare</string>
+    <string name="va_downloading">Se descarcă</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="va_edit">Editare</string>
+    <string name="va_edit_tabs">Editare file</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string name="va_finish">Terminare</string>
+    <string name="va_hide">Ascundere</string>
+    <string name="va_move_above">Mutare deasupra</string>
+    <string name="va_move_below">Mutare dedesubt</string>
+    <string name="va_next">Următorul</string>
+    <string name="va_ok">OK</string>
+    <string name="va_open">Deschidere</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="va_rearrange">Rearanjare</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string name="va_reset">Resetare</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="va_select_all">Selectare toate</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string name="va_send_mail">Trimitere e-mail</string>
+    <string name="va_send_message">Trimitere mesaj</string>
+    <string name="va_show_all">Afişare toate</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="volume_button_setting_summary">Alegeți acțiunile butoanelor de volum atunci când sunt apăsate în timpul unei alarme</string>
+    <string name="volume_button_setting_title">Opţiuni buton volum</string>
+    <string name="weather_high_indicator">M:</string>
+    <string name="weather_low_indicator">m:</string>
+    <string name="world_clock_caption">Ora pe glob</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string name="yearly_plain">Anual</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-ro/values-ro.xml -->
+    <eat-comment/>
+    <string name="yes">Da</string>
+</resources>

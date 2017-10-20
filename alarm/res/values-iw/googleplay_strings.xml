@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="googleplay_title">שעון HTC</string><!--HTC Clock-->
+    <string name="googleplay_whatsnew">- השעון המעורר הולך ומתעצם\n- תיקון באגים ושיפורי ביצועים</string><!---/ Alarms gradually get louder\n-/ Bug fixes and performance improvements-->
+	
+<!-- Description for Clock APP -->
+    <string name="googleplay_description_app">בין אם אתה בטייפיי, טייואן או מרקש, מרוקו, אפליקציית השעון HTC מאפשרת לך לבדוק מה השעה היכן שאתה נמצא, בבית ובערים שונות בעולם. ניתן להשתמש בפונקציות הניתנות להתאמה אישית של שעון מעורר, סטופר וטיימר אשר שמות את עוצמת ניהול הזמן בכיס הקטן שלך. תוכל להגדיר כמה שעונים מעוררים שתרצה, לשנות את משך הנודניק, לבחור את הצלצול של השעון המעורר ואפילו להגדיר שהשעון המעורר יצלצל גם כשהטלפון במצב שקט. הסטופר של השעון HTC הוא דרך נהדרת למדידת הקפות בזמן אימון והטיימר הוא כלי שימושי כשרוצים לבשל או לפקח על כמות הזמן שמבלים מול הטלוויזיה.</string><!--Whether you\'re in Taipei, Taiwan or Marrakech, Morocco, HTC Clock lets you check the time in your current location, at home and in cities around the world. Its customizable alarms, stopwatch and timer put the power of time management in your pocket, too. Set as many alarms as you like, change the snooze duration, choose the sound that plays when alarms go off and even make alarms sound when your phone is on silent. HTC Clock\'s stopwatch is great for recording laps while working out, and the timer is handy for cooking or monitoring time in front of the TV.-->
+<!-- Description for Clock SupportingScope -->
+	<string name="googleplay_description_supportingScope"></string>
+<!-- Description for Clock Legal -->
+    <string name="googleplay_description_legal">[googleplay_description_legal_common_1]</string>
+    <string name="googleplay_description_short">דע מה השעה בכל רגע עם אפליקציית HTC שמכילה סטופר, טיימר, שעון מעורר ושעון עולמי.</string><!--Keep track of time with HTC\'s sleek stopwatch, timer, alarm and world clock.-->
+</resources>
+

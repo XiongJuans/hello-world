@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+
+    <!-- Common Dimen -->
+    <dimen name="common_dimen_m1">@dimen/margin_l</dimen>
+    <dimen name="common_dimen_m2">@dimen/margin_m</dimen>
+    <dimen name="common_dimen_m3">@dimen/margin_s</dimen>
+    <dimen name="common_dimen_m4">6dp</dimen>
+    <dimen name="common_dimen_m4_2">@dimen/margin_xs_2</dimen>
+    <dimen name="common_dimen_m5">@dimen/spacing</dimen>
+    <dimen name="common_dimen_m5_2">@dimen/spacing_2</dimen>
+    <dimen name="common_dimen_m6">3dp</dimen>
+    <!-- Common Dimen -->
+    
+    <dimen name="divider_landscape_width">1px</dimen>
+    
+    <!-- Reminder View -->
+    <dimen name="reminder_tile_layout_height">120dp</dimen> <!-- 360 px -->
+    <dimen name="reminder_title_marginTop">12.33dp</dimen> <!-- 37px -->
+    <dimen name="reminder_description_marginTop">1.33dp</dimen> <!-- 4px -->
+    <dimen name="reminder_time_marginTop">2.67dp</dimen> <!-- 8px -->
+    <!-- Reminder View -->
+    
+    <dimen name="stopwatch_lap_item_width">180px</dimen>
+    <dimen name="stopwatch_total_item_width">180px</dimen>
+    <dimen name="stopwatch_thisLap_item_width">180px</dimen>
+    
+    <!-- ActionBar contentInsetStart -->
+    <dimen name="actionbar_contentInsetStart">0dp</dimen>
+
+    <dimen name="day_of_week_margin">10dp</dimen>
+    <dimen name="digital_margin_left">15dp</dimen>
+    <dimen name="digital_margin_right">10dp</dimen>
+    <dimen name="ai_tips_margin">25dp</dimen>
+</resources>

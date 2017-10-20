@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="googleplay_title">Годинник HTC</string><!--HTC Clock-->
+    <string name="googleplay_whatsnew">- Поступове збільшення гучності будильників\n- Виправлення помилок і покращення продуктивності</string><!---/ Alarms gradually get louder\n-/ Bug fixes and performance improvements-->
+	
+<!-- Description for Clock APP -->
+    <string name="googleplay_description_app">Де б ви не знаходились, в Тайбеї (Тайвань) або Марракеші (Марокко), HTC Годинник дозволяє перевірити час для вашого поточного розташування, вдома і в містах по всьому світу. Також він дозволяє покласти у карман потужні помічники тайм-менеджменту - будильники, секундомір і таймер, які можна настроювати. Встановлюйте стільки будильників, скільки захочете, змінюйте тривалість відкладення, вибирайте звук, який відтворюється при вимиканні будильника, та навіть встановлюйте звук будильника, коли телефон знаходиться в беззвучному режимі. Секундомір HTC Годинника відмінно підходить для запису кіл під час спортивних занятть та таймер, зручний для приготування їжі або контролю часу перед телевізором.</string><!--Whether you\'re in Taipei, Taiwan or Marrakech, Morocco, HTC Clock lets you check the time in your current location, at home and in cities around the world. Its customizable alarms, stopwatch and timer put the power of time management in your pocket, too. Set as many alarms as you like, change the snooze duration, choose the sound that plays when alarms go off and even make alarms sound when your phone is on silent. HTC Clock\'s stopwatch is great for recording laps while working out, and the timer is handy for cooking or monitoring time in front of the TV.-->
+<!-- Description for Clock SupportingScope -->
+	<string name="googleplay_description_supportingScope"></string>
+<!-- Description for Clock Legal -->
+    <string name="googleplay_description_legal">[googleplay_description_legal_common_1]</string>
+    <string name="googleplay_description_short">Відст. час із елегантним секундом., таймером, будильн. і годинн. світ.часу HTC.</string><!--Keep track of time with HTC\'s sleek stopwatch, timer, alarm and world clock.-->
+</resources>
+

@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+<!-- Title of DeskClock -->
+	<string name="desk_clock_caption">Үстел үстілік сағат</string><!--Desk Clock-->
+
+<!-- Desk Clock -->
+    <string name="night_clock">@string/desk_clock_caption</string>
+
+<!-- Title of WorldClock -->
+	<string name="world_clock_caption">Әлемдік сағат</string><!--World Clock-->
+    
+<!-- Sublevel title on WorldClock : Add City-->
+    <string name="add_city">Қала қосу</string><!--Add city-->
+
+<!-- The hint for smart search and menu item -->
+    <string name="addcity_search">Қалаларды іздеу</string><!--Search cities-->
+
+<!-- Error notification when there is no city found -->
+    <string name="city_not_found">Қала табылмады</string><!--CITY NOT FOUND-->
+    
+<!-- Title of Delete City -->
+	<string name="delete_city_caption">Қалаларды жою</string><!--Delete cities-->
+    
+<!-- Title of Rearrange City -->
+	<string name="rearrange_city_caption">Тізімді өңдеу</string><!--Edit list-->
+	
+<!-- Menu item on WorldClock : Home Settings -->
+	<string name="home_settings">Жергілікті уақыт белдеуін орнату</string><!--Set home time zone-->
+	
+<!-- Menu item on WorldClock : Current Location Time Settings -->
+	<string name="current_settings">Күнді және уақытты орнату</string><!--Set date &amp; time-->
+	
+<!-- Title of Stopwatch -->
+	<string name="stopwatch_caption">Секундомер</string><!--Stopwatch-->
+	
+<!-- Button : Start stopwatch -->
+	<string name="start">Іске қосу</string><!--Start-->
+
+<!-- Button : Pause stopwatch -->
+    <string name="pause">Тоқтатып қою</string><!--Pause-->
+
+<!-- Button : Resume stopwatch -->
+    <string name="resume">Жалғастыру</string><!--Resume-->
+    
+<!-- Button : Reset stopwatch -->
+    <string name="reset">Қалпына келтіру</string><!--Reset-->
+    
+<!-- Button : Stop stopwatch -->
+    <string name="stop">Тоқтату</string><!--Stop-->   
+
+<!-- Button : Lap stopwatch -->
+    <string name="lap">Айналым</string><!--Lap-->
+
+<!-- Title of AlarmClock -->
+	<string name="alarm_caption">Дабылдар</string><!--Alarms-->
+	
+<!-- Title of AlarmClock Setting -->
+	<string name="set_alarm_caption">Дабыл орнату</string><!--Set alarm-->
+	
+<!-- Title of Delete Alarm -->
+	<string name="delete_alarm_caption">Дабылдарды жою</string><!--Delete alarms-->
+	
+<!-- Sublevel title on AlarmClock : Add alarm-->
+    <string name="add_alarm">Дабыл қосу</string><!--Add alarm-->
+    
+<!-- Alert message of adding too many alarms -->
+    <string name="add_alarm_error">Сигналдар ең көп санына жетті.</string><!--Maximum number of alarms reached.-->
+
+<!-- Labels for Set Alarm preference : Ringtone -->
+    <string name="alarm_ringtone">Дабыл дыбысы</string><!--Alarm sound-->
+    
+<!-- Labels for Set Alarm preference : Repeat -->
+    <string name="alarm_repeat">Қайталау</string><!--Repeat-->
+    
+<!-- Labels for Set Alarm preference : Vibrate -->
+    <string name="alarm_vibrate">Дірілдеу</string><!--Vibrate-->
+
+<!-- Alarm Alert screen: this message is shown after an alarm rung unattended for a number of minutes.  It tells the user that the alarm has been silenced.-->
+    <string name="alarm_alert_alert_silenced">Дабылдың дыбысы <xliff:g id="minutes">%d</xliff:g> минуттан кейін өшірілді.</string><!--Alarm silenced after <xliff:g id="minutes">%d</xliff:g> minutes.-->
+	
+<!-- Notification when user sets snooze successfully -->
+    <string name="alarm_alert_snooze_set"><xliff:g id="minutes">%d</xliff:g> минутқа кейінге қалдырылды.</string><!--Snoozing for <xliff:g id="minutes">%d</xliff:g> minutes.-->
+    
+<!-- Notification when user sets snooze unsuccessfully -->
+    <string name="alarm_alert_snooze_not_set">Кейінге қалдыру орнатылған жоқ. Келесі дабыл қойылған уақыт: <xliff:g id="time">%s</xliff:g></string><!--Snooze not set. Next alarm set for <xliff:g id="time">%s</xliff:g>-->
+    
+<!-- Notification when alarm is dismissed -->
+    <string name="alarm_alert_dismissed">Дабыл өткізілді.</string><!--Alarm dismissed.-->
+
+<!-- Text for alarm confirmation toast -->
+    <string name="alarm_set">Бұл дабылға дейін қалған уақыт: <xliff:g id="time_delta">%s</xliff:g>.</string><!--This alarm is set for <xliff:g id="time_delta">%s</xliff:g> from now.-->
+
+<!-- Text for alarm confirmation toast : days -->
+    <string name="days">"<xliff:g id="days">%s</xliff:g> күн"</string><!--"<xliff:g id="days">%s</xliff:g> days"-->
+    
+<!-- Text for alarm confirmation toast : hours -->
+    <string name="hours"><xliff:g id="hours">%s</xliff:g> сағат</string><!--<xliff:g id="hours">%s</xliff:g> hours-->
+    
+<!-- Text for alarm confirmation toast : and -->
+    <string name="and">" және "</string><!--" and "-->
+    
+<!-- Text for alarm confirmation toast : space-->
+    <string name="space">" "</string><!--" "-->
+    
+<!-- Text for alarm confirmation toast : less than 1 minute-->
+    <string name="subminute">"1 минуттан аз"</string><!--"less than 1 minute"-->
+
+<!-- Text for alarm confirmation toast : minutes-->
+    <string name="minutes">"<xliff:g id="minutes">%s</xliff:g> минут"</string><!--"<xliff:g id="minutes">%s</xliff:g> minutes"-->
+
+<!-- Notification of next alarm time -->
+    <string name="nextAlarm">Келесі дабыл: <xliff:g id="next_alarm_time">%s</xliff:g></string><!--Next alarm: <xliff:g id="next_alarm_time">%s</xliff:g>-->
+
+<!-- Repeat frequency of alarms : every day -->
+    <string name="every_day">Күнде</string><!--Every day-->
+
+<!-- Day concat of alarm repeat frequency -->
+    <string name="day_concat">", "</string><!--", "-->
+
+<!-- Error Dialog when alarm is not set -->
+    <string name="error">Дабыл қосу мүмкін емес</string><!--Unable to add alarm-->
+
+<!-- Error Dialog of database error -->
+    <string name="dberror">Кешіріңіз, дабылды орнату мүмкін болмады.</string><!--Sorry, the alarm could not be set.-->
+	
+<!-- Days of week -->
+    <string-array name="days_of_week">
+        <item>Дүйсенбі</item><!--MONDAY-->
+        <item>Сейсенбі</item><!--TUESDAY-->
+        <item>Сәрсенбі</item><!--WEDNESDAY-->
+        <item>Бейсенбі</item><!--THURSDAY-->
+        <item>Жұма</item><!--FRIDAY-->
+        <item>Сенбі</item><!--SATURDAY-->
+        <item>Жексенбі</item><!--SUNDAY-->
+    </string-array>
+    
+<!-- Month of year : short -->
+    <string-array name="month_of_year">
+    	<item>Қаң</item><!--JAN-->
+    	<item>АҚП</item><!--FEB-->
+    	<item>Нау</item><!--MAR-->
+    	<item>Сәу</item><!--APR-->
+    	<item>Мам</item><!--MAY-->
+    	<item>Мау</item><!--JUN-->
+    	<item>Шіл</item><!--JUL-->
+    	<item>Там</item><!--AUG-->
+    	<item>Қыр</item><!--SEP-->
+    	<item>Қаз</item><!--OCT-->
+    	<item>Қар</item><!--NOV-->
+    	<item>Жел</item><!--DEC-->
+    </string-array>
+    
+<!-- Days of week for WorldClock -->
+    <string-array name="days_of_week_capital">
+        <item></item>
+        <item>Жс</item><!--SUN-->
+        <item>Дс</item><!--MON-->
+        <item>Сс</item><!--TUE-->
+        <item>Ср</item><!--WED-->
+        <item>Бс</item><!--THU-->
+        <item>Жм</item><!--FRI-->
+        <item>Сб</item><!--SAT-->
+    </string-array> 
+<!-- Whole Days of week for WorldClock -->
+    <string-array name="days_of_week_whole_capital">
+        <item></item>
+        <item>Жексенбі</item><!--SUNDAY-->
+        <item>Дүйсенбі</item><!--MONDAY-->
+        <item>Сейсенбі</item><!--TUESDAY-->
+        <item>Сәрсенбі</item><!--WEDNESDAY-->
+        <item>Бейсенбі</item><!--THURSDAY-->
+        <item>Жұма</item><!--FRIDAY-->
+        <item>Сенбі</item><!--SATURDAY-->
+    </string-array>
+    
+<!-- Repeat Options -->
+    <string-array name="repeat_option">
+        <item>Дс-Жм</item><!--Mon -/ Fri-->
+        <item>Қайталамау</item><!--Do not repeat-->
+        <item>Күн сайын</item><!--Every day-->
+        <item>Демалыстарды өткізіп жіберу</item><!--Skip holidays-->
+        <item>Реттелмелі</item><!--Custom-->
+    </string-array>
+    
+<!-- Title of Timer -->
+    <string name="timer_caption">Таймер</string><!--Timer-->
+    
+<!-- Labels for Set Timer preference : Alert Sound -->
+    <string name="alert_sound">Дабыл дыбысы</string><!--Alarm sound-->
+    
+<!-- Title of alert dialog when timer expires -->
+    <string name="time_up">Уақыт аяқталды!</string><!--Time\'s up!-->
+    
+<!-- Application name -->
+	<string name="htc_private_app_clock">Сағат</string><!--Clock-->
+
+<!-- Message for user when loading cities -->
+	<string name="loading_city">Қала тізімдері жүктелуде...</string><!--Loading city list...-->
+	
+<!-- Error title for full internal storage -->
+	<string name="error_title">Дерекқор қатесі</string><!--Database error-->
+	
+<!-- Error message for failing querying db -->
+	<string name="query_fail">Дерекқорды ашқан кезде қателер пайда болды</string><!--Errors occurred while accessing the database-->
+	
+<!-- Title for selecting alarm ringtone -->
+    <string name="select_ringtone">Дабыл дыбысын таңдау</string><!--Select alarm sound-->
+
+<!-- Title of ringtone picker -->
+    <string name="select_alert">Ескерту дыбысын таңдау</string><!--Select alert sound-->
+    
+<!-- Days of week : abbreviate -->
+    <string-array name="days_of_week_abbr">
+        <item>Дс</item><!--M-->
+        <item>Сс</item><!--TU-->
+        <item>Ср</item><!--W-->
+        <item>Бс</item><!--TH-->
+        <item>Жм</item><!--F-->
+        <item>Сб</item><!--SA-->
+        <item>Жс</item><!--SU-->
+    </string-array>
+    
+<!-- Title in Google Gadget -->
+    <string name="analog_gadget">Аналогтық сағат</string><!--Analog Clock-->
+    
+<!-- Error Dialog when city is not added -->
+    <string name="add_city_error_title">Қала қосу мүмкін емес</string><!--Unable to add city-->
+    
+<!-- Error Dialog of adding too many cities -->
+    <string name="add_city_error_msg">Ең көбі 15 қала болуы мүмкін. Жаңа қала қосу үшін бұрынғы біреуін жойыңыз.</string><!--You can have a maximum of 15 cities. To add a new one, please delete an existing city.-->
+    
+<!-- Alert message of adding duplicate city -->
+    <string name="city_duplicate">Бұл қала тізімде бұрыннан бар</string><!--This city is already in the list-->
+
+<!-- start: Merge alarm Clock Settings -->
+<!-- alarm_in_volume_increase_mode -->
+    <string name="alarm_in_volume_increase_mode_title">Тыныш сигнал</string><!--Gentle alarm-->
+    
+<!-- Gradually increase alarm volume -->
+    <string name="alarm_in_volume_increase_mode_summary">Сигнал деңгейін біртіндеп көбейту</string><!--Gradually increase alarm volume-->
+    
+<!-- Alarm volume -->
+    <string name="alarm_volume_title">Дабыл дыбысының деңгейі</string><!--Alarm volume-->
+
+<!-- Set the volume of alarms -->
+    <string name="alarm_volume_summary">Дабылдардың дыбыс деңгейін орнату</string><!--Set the volume of alarms-->
+
+<!-- Snooze duration -->
+    <string name="snooze_duration_title">Кейінге қалдыру ұзақтығы</string><!--Snooze duration-->
+
+<!-- Entries listed in the ListPreference when invoking the snooze duration preference. -->
+    <string-array name="snooze_duration_entries">
+      <item>5 минут</item><!--5 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_10_minutes</item>
+      <item>15 минут</item><!--15 minutes-->
+      <item>20 минут</item><!--20 minutes-->
+      <item>25 минут</item><!--25 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_30_minutes</item>
+    </string-array>
+    
+<!-- Side button behavior -->
+    <string name="volume_button_setting_title">Дыбыс деңгейі түймесінің опциялары</string><!--Volume button options-->
+
+<!-- Entries listed in the setting for the side-button action. -->
+    <string-array name="volume_button_setting_entries">
+      <item>Ешнәрсе істемеу</item><!--Do nothing-->
+
+      <item>Кейінге қалдыру</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+    </string-array>
+
+<!-- Entries listed in the setting for the side-button action. -->
+    <string-array name="sprint_volume_button_setting_entries">
+      <item>Ешнәрсе істемеу</item><!--Do nothing-->
+
+      <item>Кейінге қалдыру</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+
+      <item>Дыбысын басу</item><!--Silence-->
+    </string-array>
+
+<!-- The summary of the side button setting. -->
+    <string name="volume_button_setting_summary">Сигнал ойнаған кезде, дыбыс деңгейі түймелері орындайтын әрекеттерді таңдау</string><!--Choose what the volume buttons do when pressed during an alarm-->
+<!-- end: Merge alarm Clock Settings -->
+        
+<!-- The indicator for High temperature -->
+    <string name="weather_high_indicator">Ж:</string><!--H:-->
+    
+<!-- The indicator for Low temperature -->
+    <string name="weather_low_indicator">Т:</string><!--L:-->   
+
+<!-- Text to display in the notification ticker and label -->
+    <string name="alarm_notify_snooze_label"><xliff:g id="label">%s</xliff:g> (кейінге қалдырылды)</string><!--<xliff:g id="label">%s</xliff:g> (snoozed)-->
+
+<!-- Text to display in the notification when the alarm has been snoozed -->
+    <string name="alarm_notify_snooze_text">Дабыл қойылған уақыт: <xliff:g id="time">%s</xliff:g>. Бас тарту үшін басыңыз.</string><!--Alarm set for <xliff:g id="time">%s</xliff:g>. Tap to cancel.-->
+
+<!-- Alarm Off -->
+    <string name="alarm_off">Дабыл өшірулі</string><!--Alarm Off-->
+<!-- Alarm On -->
+    <string name="alarm_on">Дабыл қосулы</string><!--Alarm On-->
+    
+<!-- Select alarm sound from -->
+    <string name="sound_selection_title">Дабыл дыбысын келесінің ішінен таңдаңыз</string><!--Select alarm sound from-->
+<!-- Ringtones -->
+    <string name="ringtone_title">Қоңырау үндері</string><!--Ringtones-->
+
+<!-- Entries listed in the setting for the clock sound selection. -->
+    <string-array name="sound_selection_setting_entries">
+<!-- Alarm sound -->
+      <item>Дабыл дыбысы</item><!--Alarm sound-->
+<!-- Do not translate. Ringtone -->
+      <item>@string/nn_ringtone</item>
+<!-- Do not translate. Music -->
+      <item>@string/nn_music</item>
+    </string-array>
+
+<!-- Labels for Stopwatch : Total-->
+    <string name="total_title">Барлығы</string><!--Total-->
+    
+<!-- Labels for Stopwatch : Lap-->
+    <string name="lap_title">Айналым</string><!--Lap-->
+
+<!-- Labels for Stopwatch : Lap ID-->
+    <string name="lap_id">Айналым №</string><!--Lap #-->
+    
+<!-- Labels for Stopwatch : Running total-->
+    <string name="lap_total_time">Барлығы</string><!--Total-->
+    
+<!-- Labels for Stopwatch : This lap-->
+    <string name="lap_time">Осы айналым</string><!--This lap-->
+    
+<!-- Error Dialog when lap is not set -->
+    <string name="lap_error">Айналым сақталмады</string><!--Lap not saved-->
+    
+<!-- Alert message of adding too many laps -->
+    <string name="add_lap_error">Секундомер ең көбі 300 айналым сақтай алады. Айналымдар журналын өшіру үшін "Қалпына келтіру" түймешігін басыңыз.</string><!--Stopwatch can save a maximum of 300 laps. Tap Reset to clear lap history.-->
+    
+<!-- Tips for Weather Location : Location Enable -->
+    <string name="location_enable">Жергілікті ауа райынкөру үшін осы жерді басып, "Орынды анықтау" қызметін қосыңыз.</string><!--To see local weather,\ntap here to turn on Location Service.-->
+
+<!-- menu item for Full screen -->
+    <string name="full_screen_menu_item">Толық экран</string><!--Full screen-->
+<!-- menu item for Fit screen -->
+    <string name="fit_screen_menu_item">Экран өлшеміне сәйкес</string><!--Fit screen-->
+<!-- Storage low dialog -->
+    <string name="storage_full_description">Телефонның жадында бос орын жеткіліксіз. Кейбір мазмұнды немесе қолданбаларды жойыңыз. Қолданбаларды басқару үшін төмендегі \"Параметрлер\" түймесін басыңыз.</string><!--You don\'t have enough free space remaining in your phone\'s storage.Please delete some content or applications.Tap \"Settings\" below to manage your apps.-->
+    
+<!-- for timer -->
+    <string name="timer_reminder_tile_timer_up">Уақыт бітті</string><!--Time is up-->
+    <string name="timer_reminder_tile_setting">Параметрлер</string><!--Settings-->
+    
+<!-- below is removed by common string, move to local -->
+    <string-array name="days_of_week_short">
+        <item>@string/tm_mon</item>
+        <item>@string/tm_tue</item>
+        <item>@string/tm_wed</item>
+        <item>@string/tm_thu</item>
+        <item>@string/tm_fri</item>
+        <item>@string/tm_sat</item>
+        <item>@string/tm_sun</item>
+    </string-array>
+    
+    <string name="tm_mon">Дс</string><!--Mon-->
+    <string name="tm_tue">Сс</string><!--Tue-->
+    <string name="tm_wed">Ср</string><!--Wed-->
+    <string name="tm_thu">Бс</string><!--Thu-->
+    <string name="tm_fri">Жм</string><!--Fri-->
+    <string name="tm_sat">Сб</string><!--Sat-->
+    <string name="tm_sun">Жс</string><!--Sun-->
+    <string name="tm_10_minutes">10 минут</string><!--10 minutes-->
+    <string name="tm_30_minutes">30 минут</string><!--30 minutes-->
+    <string name="va_dismiss">Өткізу</string><!--Dismiss-->
+    <string name="nn_ringtone">Қоңырау үні</string><!--Ringtone-->
+    <string name="nn_music">Музыка</string><!--Music-->
+<!-- AccountManager: In loginSettings activity: Label for "Done" button item -->
+    <string name="bt_done_str">Дайын</string><!--Done-->
+    <string name="tm_am">AM</string><!--AM-->
+    <string name="tm_pm">PM</string><!--PM-->
+<!-- Lable for phone number type: Home number -->
+    <string name="phone_type_home">Үй</string><!--Home-->
+<!-- Dialog Yes button -->
+    <string name="dialog_button_ok">ОК</string><!--OK-->
+<!-- AccountManager: In loginSettings activity: Label for "Cancel" button item -->
+    <string name="bt_cancel_str">Бас тарту</string><!--Cancel-->
+<!-- To snooze a notification -->
+    <string name="snooze">Кейінге қалдыру</string><!--Snooze-->
+<!-- The default hint on lockscreen to indicate what to do. Drag down the arc are to dismiss current reminder. -->
+    <string name="lockscreen_hint_dismiss">Өткізу үшін төмен сүйреңіз</string><!--Drag down to dismiss-->
+    <string name="nn_alarm">Дабыл</string><!--Alarm-->
+    <string name="tm_today">Бүгін</string><!--Today-->
+    <string name="tm_yesterday">Кеше</string><!--Yesterday-->
+    <string name="tm_tomorrow">Ертең</string><!--Tomorrow-->
+    <string name="tm_current">Ағымдағы</string><!--Current-->
+    <string name="va_rearrange">Қайта реттеу</string><!--Rearrange-->
+    <string name="va_edit">Өңдеу</string><!--Edit-->
+    <string name="va_select_all">Барлығын таңдау</string><!--Select all-->
+    <string name="va_deselect_all">Барлығының белгісін алу</string><!--Deselect all-->
+    <string name="nn_description">Сипаттама</string><!--Description-->
+    <string name="tm_1_day">1 күн</string><!--1 day-->
+    <string name="tm_1_hour">1 сағат</string><!--1 hour-->
+    <string name="tm_1_minute">1 минут</string><!--1 minute-->
+    <string name="st_on">Қосулы</string><!--On-->
+    <string name="st_off">Өшірулі</string><!--Off-->
+    <string name="st_never">Ешқашан</string><!--Never-->
+    <string name="va_add">Қосу</string><!--Add-->
+    <string name="va_edit_tabs">Қойындыларды өңдеу</string><!--Edit tabs-->
+    <string name="ls_no_weather_data_available">Ауа райы деректері жоқ</string><!--No weather data available-->
+    <string name="st_storage_full">Жад толы</string><!--Storage full-->
+    <string name="nn_settings">Параметрлер</string><!--Settings-->
+<!-- [Add][Start] add "Tips & Help" by Yami Day's request -->
+    <string name="nn_tips_help">Кеңестер мен анықтама</string><!--Tips &amp; Help-->
+<!-- [Add][End] add "Tips & Help" by Yami Day's request -->
+<!-- [Gallery OpenSense - GA50 Skyer_Tai] Warning message for low internal memory scenario -->
+    <string name="internal_memory_low">Телефон жадындағы бос орын аз. Бұл қолданбаны қолданбас бұрын біраз орын босатыңыз.</string><!--Your phone is low on storage space. Please make some free space before using this application.-->
+    <string name="st_default">Әдепкі</string><!--Default-->
+<!-- [Add][Start] Add for ContentUri, called back from soundPicker(Mail/Calendar/Message) -->
+    <string name="st_silent">Дыбыссыз</string><!--Silent-->
+<!-- [Add][End] Add for ContentUri, called back from soundPicker(Mail/Calendar/Message) -->
+    <string name="st_more">Қосымша</string><!--More-->
+
+<!-- Labels for Set Alarm preference : OffAlarm -->
+    <string name="alarm_offalarm">Телефонды өшірген кездегі дыбыс</string><!--Sound when phone off-->
+
+<!-- Dialog title for describe that this app needs additional permission -->
+    
+<!-- Do not translate -->
+	<!--<string name="clock_permission_dialog_title">@string/htc_private_app_clock</string>-->
+    
+<!-- Dialog content for describe that this app needs additional permission -->
+    <string name="clock_permission_dialog_content">Дұрыс жұмыс істеуі үшін бұл қолданба жадыға кіруі тиіс. Сағат рұқсаттарын Параметрлер бөлімінде басқаруға болады.</string><!--To work properly, this app needs to access your storage. You can manage Clock\'s permissions in Settings.-->
+<!-- [Button] Dialog button to bring user to Settings page -->
+    <string name="clock_permission_dialog_btn_settings">Параметрлер</string><!--Settings-->
+<!-- [Button] Dialog button to close dialog -->
+    <string name="clock_permission_dialog_btn_close">Жабу</string><!--Close-->
+    
+<!-- location setting -->
+<!-- Dialog title to ask user to turn on network location provider -->
+    <string name="location_dialog_title">Орынды анықтау қызметтері өшірулі</string><!--Location services are off-->
+<!-- Dialog content to ask user to turn on network location provider -->
+    <string name="location_dialog_msg">Жергілікті ауа-райы ақпаратын алу үшін орынды анықтау параметрлерін батарея үнемдеу немесе жоғары дәлдік режиміне өзгертіңіз.</string><!--To get local weather, change your location settings to battery saving or high accuracy mode.-->
+</resources>
+
+
+

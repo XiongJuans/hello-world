@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+<!-- Title of DeskClock -->
+	<string name="desk_clock_caption">ساعت روميزي</string><!--Desk Clock-->
+
+<!-- Desk Clock -->
+    <string name="night_clock">@string/desk_clock_caption</string>
+
+<!-- Title of WorldClock -->
+	<string name="world_clock_caption">ساعت جهانی</string><!--World Clock-->
+    
+<!-- Sublevel title on WorldClock : Add City-->
+    <string name="add_city">افزودن شهر</string><!--Add city-->
+
+<!-- The hint for smart search and menu item -->
+    <string name="addcity_search">جستجوي شهرها</string><!--Search cities-->
+
+<!-- Error notification when there is no city found -->
+    <string name="city_not_found">شهر يافت نشد</string><!--CITY NOT FOUND-->
+    
+<!-- Title of Delete City -->
+	<string name="delete_city_caption">حذف شهرها</string><!--Delete cities-->
+    
+<!-- Title of Rearrange City -->
+	<string name="rearrange_city_caption">ویرایش فهرست</string><!--Edit list-->
+	
+<!-- Menu item on WorldClock : Home Settings -->
+	<string name="home_settings">تنظیم منطقه زمانی محل زندگی</string><!--Set home time zone-->
+	
+<!-- Menu item on WorldClock : Current Location Time Settings -->
+	<string name="current_settings">تعيين تاريخ و ساعت</string><!--Set date &amp; time-->
+	
+<!-- Title of Stopwatch -->
+	<string name="stopwatch_caption">کرنومتر</string><!--Stopwatch-->
+	
+<!-- Button : Start stopwatch -->
+	<string name="start">شروع</string><!--Start-->
+
+<!-- Button : Pause stopwatch -->
+    <string name="pause">مكث</string><!--Pause-->
+
+<!-- Button : Resume stopwatch -->
+    <string name="resume">ادامه</string><!--Resume-->
+    
+<!-- Button : Reset stopwatch -->
+    <string name="reset">تنظيم مجدد</string><!--Reset-->
+    
+<!-- Button : Stop stopwatch -->
+    <string name="stop">توقف</string><!--Stop-->   
+
+<!-- Button : Lap stopwatch -->
+    <string name="lap">دور</string><!--Lap-->
+
+<!-- Title of AlarmClock -->
+	<string name="alarm_caption">آلارم‌ها</string><!--Alarms-->
+	
+<!-- Title of AlarmClock Setting -->
+	<string name="set_alarm_caption">تنظيم زنگ‌هشدار</string><!--Set alarm-->
+	
+<!-- Title of Delete Alarm -->
+	<string name="delete_alarm_caption">حذف زنگ‌های هشدار</string><!--Delete alarms-->
+	
+<!-- Sublevel title on AlarmClock : Add alarm-->
+    <string name="add_alarm">افزودن زنگ‌هشدار</string><!--Add alarm-->
+    
+<!-- Alert message of adding too many alarms -->
+    <string name="add_alarm_error">به حداکثر تعداد هشدارها رسیده اید.</string><!--Maximum number of alarms reached.-->
+
+<!-- Labels for Set Alarm preference : Ringtone -->
+    <string name="alarm_ringtone">زنگ هشدار</string><!--Alarm sound-->
+    
+<!-- Labels for Set Alarm preference : Repeat -->
+    <string name="alarm_repeat">تكرار‌كردن</string><!--Repeat-->
+    
+<!-- Labels for Set Alarm preference : Vibrate -->
+    <string name="alarm_vibrate">لرزاننده</string><!--Vibrate-->
+
+<!-- Alarm Alert screen: this message is shown after an alarm rung unattended for a number of minutes.  It tells the user that the alarm has been silenced.-->
+    <string name="alarm_alert_alert_silenced">زنگ‌هشدار بعد از <xliff:g id="minutes">%d</xliff:g> دقيقه ساكت شود.</string><!--Alarm silenced after <xliff:g id="minutes">%d</xliff:g> minutes.-->
+	
+<!-- Notification when user sets snooze successfully -->
+    <string name="alarm_alert_snooze_set">به‌تاخيرانداختن به مدت <xliff:g id="minutes">%d</xliff:g> دقيقه.</string><!--Snoozing for <xliff:g id="minutes">%d</xliff:g> minutes.-->
+    
+<!-- Notification when user sets snooze unsuccessfully -->
+    <string name="alarm_alert_snooze_not_set">به‌تاخيرانداختن تعيين نشد. تعيين زنگ‌هشدار بعدي روي <xliff:g id="time">%s</xliff:g></string><!--Snooze not set. Next alarm set for <xliff:g id="time">%s</xliff:g>-->
+    
+<!-- Notification when alarm is dismissed -->
+    <string name="alarm_alert_dismissed">زنگ‌هشدار رد شد.</string><!--Alarm dismissed.-->
+
+<!-- Text for alarm confirmation toast -->
+    <string name="alarm_set">تعيين اين زنگ‌هشدار به مدت <xliff:g id="time_delta">%s</xliff:g> ازحالا.</string><!--This alarm is set for <xliff:g id="time_delta">%s</xliff:g> from now.-->
+
+<!-- Text for alarm confirmation toast : days -->
+    <string name="days">"<xliff:g id="days">%s</xliff:g> روز"</string><!--"<xliff:g id="days">%s</xliff:g> days"-->
+    
+<!-- Text for alarm confirmation toast : hours -->
+    <string name="hours"><xliff:g id="hours">%s</xliff:g> ساعت</string><!--<xliff:g id="hours">%s</xliff:g> hours-->
+    
+<!-- Text for alarm confirmation toast : and -->
+    <string name="and">" و "</string><!--" and "-->
+    
+<!-- Text for alarm confirmation toast : space-->
+    <string name="space">" "</string>
+    
+<!-- Text for alarm confirmation toast : less than 1 minute-->
+    <string name="subminute">"كمتر از يك‌دقيقه"</string><!--"less than 1 minute"-->
+
+<!-- Text for alarm confirmation toast : minutes-->
+    <string name="minutes">"<xliff:g id="minutes">%s</xliff:g> دقيقه"</string><!--"<xliff:g id="minutes">%s</xliff:g> minutes"-->
+
+<!-- Notification of next alarm time -->
+    <string name="nextAlarm">زنگ‌هشدار بعدي: <xliff:g id="next_alarm_time">%s</xliff:g></string><!--Next alarm: <xliff:g id="next_alarm_time">%s</xliff:g>-->
+
+<!-- Repeat frequency of alarms : every day -->
+    <string name="every_day">هر روز</string><!--Every day-->
+
+<!-- Day concat of alarm repeat frequency -->
+    <string name="day_concat">", "</string>
+
+<!-- Error Dialog when alarm is not set -->
+    <string name="error">امکان افزودن آلارم وجود ندارد</string><!--Unable to add alarm-->
+
+<!-- Error Dialog of database error -->
+    <string name="dberror">پوزش، عدم امكان تنظيم آلارم</string><!--Sorry, the alarm could not be set.-->
+	
+<!-- Days of week -->
+    <string-array name="days_of_week">
+        <item>دوشنبه</item><!--MONDAY-->
+        <item>سه شنبه</item><!--TUESDAY-->
+        <item>چهارشنبه</item><!--WEDNESDAY-->
+        <item>پنج شنبه</item><!--THURSDAY-->
+        <item>جمعه</item><!--FRIDAY-->
+        <item>شنبه</item><!--SATURDAY-->
+        <item>يكشنبه</item><!--SUNDAY-->
+    </string-array>
+    
+<!-- Month of year : short -->
+    <string-array name="month_of_year">
+    	<item>ژانويه</item><!--JAN-->
+    	<item>FEB</item><!--FEB-->
+    	<item>مارس</item><!--MAR-->
+    	<item>آوريل</item><!--APR-->
+    	<item>مه</item><!--MAY-->
+    	<item>ژوئن</item><!--JUN-->
+    	<item>ژوئیه</item><!--JUL-->
+    	<item>اوت</item><!--AUG-->
+    	<item>سپتامبر</item><!--SEP-->
+    	<item>اكتبر</item><!--OCT-->
+    	<item>نوامبر</item><!--NOV-->
+    	<item>دسامبر</item><!--DEC-->
+    </string-array>
+    
+<!-- Days of week for WorldClock -->
+    <string-array name="days_of_week_capital">
+        <item></item>
+        <item>يكشنبه</item><!--SUN-->
+        <item>دوشنبه</item><!--MON-->
+        <item>سه شنبه</item><!--TUE-->
+        <item>چهارشنبه</item><!--WED-->
+        <item>پنج شنبه</item><!--THU-->
+        <item>جمعه</item><!--FRI-->
+        <item>شنبه</item><!--SAT-->
+    </string-array> 
+<!-- Whole Days of week for WorldClock -->
+    <string-array name="days_of_week_whole_capital">
+        <item></item>
+        <item>يكشنبه</item><!--SUNDAY-->
+        <item>دوشنبه</item><!--MONDAY-->
+        <item>سه شنبه</item><!--TUESDAY-->
+        <item>چهارشنبه</item><!--WEDNESDAY-->
+        <item>پنج شنبه</item><!--THURSDAY-->
+        <item>جمعه</item><!--FRIDAY-->
+        <item>شنبه</item><!--SATURDAY-->
+    </string-array>
+    
+<!-- Repeat Options -->
+    <string-array name="repeat_option">
+        <item>دوشنبه-جمعه</item><!--Mon -/ Fri-->
+        <item>تکرار نشود</item><!--Do not repeat-->
+        <item>هر روز</item><!--Every day-->
+        <item>رد شدن از تعطیلات</item><!--Skip holidays-->
+        <item>سفارشی</item><!--Custom-->
+    </string-array>
+    
+<!-- Title of Timer -->
+    <string name="timer_caption">زمان‌سنج</string><!--Timer-->
+    
+<!-- Labels for Set Timer preference : Alert Sound -->
+    <string name="alert_sound">زنگ هشدار</string><!--Alarm sound-->
+    
+<!-- Title of alert dialog when timer expires -->
+    <string name="time_up">وقت تمام شد!</string><!--Time\'s up!-->
+    
+<!-- Application name -->
+	<string name="htc_private_app_clock">ساعت</string><!--Clock-->
+
+<!-- Message for user when loading cities -->
+	<string name="loading_city">درحال بارگذاري ليست شهر...</string><!--Loading city list...-->
+	
+<!-- Error title for full internal storage -->
+	<string name="error_title">خطاي بانك داده</string><!--Database error-->
+	
+<!-- Error message for failing querying db -->
+	<string name="query_fail">هنگام دستيابي به بانك داده خطاهايي اتفاق افتاد</string><!--Errors occurred while accessing the database-->
+	
+<!-- Title for selecting alarm ringtone -->
+    <string name="select_ringtone">انتخاب زنگ آلارم</string><!--Select alarm sound-->
+
+<!-- Title of ringtone picker -->
+    <string name="select_alert">انتخاب زنگ اخطار</string><!--Select alert sound-->
+    
+<!-- Days of week : abbreviate -->
+    <string-array name="days_of_week_abbr">
+        <item>د</item><!--M-->
+        <item>س</item><!--TU-->
+        <item>چ</item><!--W-->
+        <item>پ</item><!--TH-->
+        <item>ج</item><!--F-->
+        <item>ش</item><!--SA-->
+        <item>ی</item><!--SU-->
+    </string-array>
+    
+<!-- Title in Google Gadget -->
+    <string name="analog_gadget">ساعت عقربه‌اي</string><!--Analog Clock-->
+    
+<!-- Error Dialog when city is not added -->
+    <string name="add_city_error_title">امکان افزودن شهر وجود ندارد</string><!--Unable to add city-->
+    
+<!-- Error Dialog of adding too many cities -->
+    <string name="add_city_error_msg">شما می‌توانید حداکثر 15 شهر داشته باشید. برای افزودن یک شهر دیگر، لطفاً یکی از شهرهای موجود را حذف کنید.</string><!--You can have a maximum of 15 cities. To add a new one, please delete an existing city.-->
+    
+<!-- Alert message of adding duplicate city -->
+    <string name="city_duplicate">اين شهر از قبل در ليست مي‌باشد</string><!--This city is already in the list-->
+
+<!-- start: Merge alarm Clock Settings -->
+<!-- alarm_in_volume_increase_mode -->
+    <string name="alarm_in_volume_increase_mode_title">هشدار ملایم</string><!--Gentle alarm-->
+    
+<!-- Gradually increase alarm volume -->
+    <string name="alarm_in_volume_increase_mode_summary">صدای هشدار را به تدریج زیاد کنید</string><!--Gradually increase alarm volume-->
+    
+<!-- Alarm volume -->
+    <string name="alarm_volume_title">ميزان صداي زنگ‌هشدار</string><!--Alarm volume-->
+
+<!-- Set the volume of alarms -->
+    <string name="alarm_volume_summary">تعيين ميزان صداي زنگ‌هشدارها</string><!--Set the volume of alarms-->
+
+<!-- Snooze duration -->
+    <string name="snooze_duration_title">مدت‌زمان به‌تاخيرانداختن</string><!--Snooze duration-->
+
+<!-- Entries listed in the ListPreference when invoking the snooze duration preference. -->
+    <string-array name="snooze_duration_entries">
+      <item>5 دقيقه</item><!--5 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_10_minutes</item>
+      <item>15 دقيقه</item><!--15 minutes-->
+      <item>20 دقيقه</item><!--20 minutes-->
+      <item>25 دقيقه</item><!--25 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_30_minutes</item>
+    </string-array>
+    
+<!-- Side button behavior -->
+    <string name="volume_button_setting_title">گزينه های دکمه میزان صدا</string><!--Volume button options-->
+
+<!-- Entries listed in the setting for the side-button action. -->
+    <string-array name="volume_button_setting_entries">
+      <item>کاری صورت نگیرد</item><!--Do nothing-->
+
+      <item>به‌تاخيرانداختن</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+    </string-array>
+
+<!-- Entries listed in the setting for the side-button action. -->
+    <string-array name="sprint_volume_button_setting_entries">
+      <item>کاری صورت نگیرد</item><!--Do nothing-->
+
+      <item>به‌تاخيرانداختن</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+
+      <item>سکوت</item><!--Silence-->
+    </string-array>
+
+<!-- The summary of the side button setting. -->
+    <string name="volume_button_setting_summary">انتخاب کنید دکمه های تنظیم صدا هنگام فشرده شدن در حین پخش هشدار چه کاری انجام دهند</string><!--Choose what the volume buttons do when pressed during an alarm-->
+<!-- end: Merge alarm Clock Settings -->
+        
+<!-- The indicator for High temperature -->
+    <string name="weather_high_indicator">بالا:</string><!--H:-->
+    
+<!-- The indicator for Low temperature -->
+    <string name="weather_low_indicator">پايين:</string><!--L:-->   
+
+<!-- Text to display in the notification ticker and label -->
+    <string name="alarm_notify_snooze_label"><xliff:g id="label">%s</xliff:g> (به‌تاخير انداخته‌شد)</string><!--<xliff:g id="label">%s</xliff:g> (snoozed)-->
+
+<!-- Text to display in the notification when the alarm has been snoozed -->
+    <string name="alarm_notify_snooze_text">تعيين زنگ‌هشدار روي <xliff:g id="time">%s</xliff:g>. براي لغو ضربه بزنيد.</string><!--Alarm set for <xliff:g id="time">%s</xliff:g>. Tap to cancel.-->
+
+<!-- Alarm Off -->
+    <string name="alarm_off">رنگ‌هشدار خاموش</string><!--Alarm Off-->
+<!-- Alarm On -->
+    <string name="alarm_on">رنگ‌هشدار روشن</string><!--Alarm On-->
+    
+<!-- Select alarm sound from -->
+    <string name="sound_selection_title">انتخاب آوای زنگ‌هشدار از</string><!--Select alarm sound from-->
+<!-- Ringtones -->
+    <string name="ringtone_title">زنگ‌هاي تماس</string><!--Ringtones-->
+
+<!-- Entries listed in the setting for the clock sound selection. -->
+    <string-array name="sound_selection_setting_entries">
+<!-- Alarm sound -->
+      <item>زنگ هشدار</item><!--Alarm sound-->
+<!-- Do not translate. Ringtone -->
+      <item>@string/nn_ringtone</item>
+<!-- Do not translate. Music -->
+      <item>@string/nn_music</item>
+    </string-array>
+
+<!-- Labels for Stopwatch : Total-->
+    <string name="total_title">كل</string><!--Total-->
+    
+<!-- Labels for Stopwatch : Lap-->
+    <string name="lap_title">دور</string><!--Lap-->
+
+<!-- Labels for Stopwatch : Lap ID-->
+    <string name="lap_id">شماره دور</string><!--Lap #-->
+    
+<!-- Labels for Stopwatch : Running total-->
+    <string name="lap_total_time">كل</string><!--Total-->
+    
+<!-- Labels for Stopwatch : This lap-->
+    <string name="lap_time">اين دور</string><!--This lap-->
+    
+<!-- Error Dialog when lap is not set -->
+    <string name="lap_error">دور ذخیره نشد</string><!--Lap not saved-->
+    
+<!-- Alert message of adding too many laps -->
+    <string name="add_lap_error">کرنومتر می‌توانید حداکثر 300 دور را ذخیره کند. روی &quot;بازنشانی مجدد&quot; ضربه بزنید تا سابقه دور پاک شود.</string><!--Stopwatch can save a maximum of 300 laps. Tap Reset to clear lap history.-->
+    
+<!-- Tips for Weather Location : Location Enable -->
+    <string name="location_enable">براي مشاهده وضعيت آب‌وهواي محلي،\nاينجا ضربه بزنيد تا سرويس مكان روشن شود.</string><!--To see local weather,\ntap here to turn on Location Service.-->
+
+<!-- menu item for Full screen -->
+    <string name="full_screen_menu_item">تمام صفحه</string><!--Full screen-->
+<!-- menu item for Fit screen -->
+    <string name="fit_screen_menu_item">اندازه‌كردن در صفحه</string><!--Fit screen-->
+<!-- Storage low dialog -->
+    <string name="storage_full_description">فضای خالی باقی‌مانده در حافظه تلفن شما کافی نیست. لطفا بعضی از محتویات یا برنامه‌های‌کاربردی را حذف نمایید. برای مدیریت برنامه‌های‌کاربردی روی \"تنظیمات\" در زیر ضربه بزنید.</string><!--You don\'t have enough free space remaining in your phone\'s storage.Please delete some content or applications.Tap \"Settings\" below to manage your apps.-->
+    
+<!-- for timer -->
+    <string name="timer_reminder_tile_timer_up">زمان تمام شد</string><!--Time is up-->
+    <string name="timer_reminder_tile_setting">تنظیمات</string><!--Settings-->
+    
+<!-- below is removed by common string, move to local -->
+    <string-array name="days_of_week_short">
+        <item>@string/tm_mon</item>
+        <item>@string/tm_tue</item>
+        <item>@string/tm_wed</item>
+        <item>@string/tm_thu</item>
+        <item>@string/tm_fri</item>
+        <item>@string/tm_sat</item>
+        <item>@string/tm_sun</item>
+    </string-array>
+    
+    <string name="tm_mon">دوشنبه</string><!--Mon-->
+    <string name="tm_tue">سه شنبه</string><!--Tue-->
+    <string name="tm_wed">چهارشنبه</string><!--Wed-->
+    <string name="tm_thu">پنج شنبه</string><!--Thu-->
+    <string name="tm_fri">جمعه</string><!--Fri-->
+    <string name="tm_sat">شنبه</string><!--Sat-->
+    <string name="tm_sun">يكشنبه</string><!--Sun-->
+    <string name="tm_10_minutes">10 دقيقه</string><!--10 minutes-->
+    <string name="tm_30_minutes">30 دقيقه</string><!--30 minutes-->
+    <string name="va_dismiss">ردكردن</string><!--Dismiss-->
+    <string name="nn_ringtone">زنگ تماس</string><!--Ringtone-->
+    <string name="nn_music">موسيقي</string><!--Music-->
+<!-- AccountManager: In loginSettings activity: Label for "Done" button item -->
+    <string name="bt_done_str">انجام شد</string><!--Done-->
+    <string name="tm_am">صبح</string><!--AM-->
+    <string name="tm_pm">بعدازظهر</string><!--PM-->
+<!-- Lable for phone number type: Home number -->
+    <string name="phone_type_home">خانه</string><!--Home-->
+<!-- Dialog Yes button -->
+    <string name="dialog_button_ok">قبول</string><!--OK-->
+<!-- AccountManager: In loginSettings activity: Label for "Cancel" button item -->
+    <string name="bt_cancel_str">لغو</string><!--Cancel-->
+<!-- To snooze a notification -->
+    <string name="snooze">به تاخيرانداختن</string><!--Snooze-->
+<!-- The default hint on lockscreen to indicate what to do. Drag down the arc are to dismiss current reminder. -->
+    <string name="lockscreen_hint_dismiss">براي ردکردن به پايين بكشيد</string><!--Drag down to dismiss-->
+    <string name="nn_alarm">آلارم</string><!--Alarm-->
+    <string name="tm_today">امروز</string><!--Today-->
+    <string name="tm_yesterday">ديروز</string><!--Yesterday-->
+    <string name="tm_tomorrow">فردا</string><!--Tomorrow-->
+    <string name="tm_current">فعلي</string><!--Current-->
+    <string name="va_rearrange">مرتب سازي مجدد</string><!--Rearrange-->
+    <string name="va_edit">ويرايش</string><!--Edit-->
+    <string name="va_select_all">انتخاب همه</string><!--Select all-->
+    <string name="va_deselect_all">عدم انتخاب همه</string><!--Deselect all-->
+    <string name="nn_description">شرح</string><!--Description-->
+    <string name="tm_1_day">1 روز</string><!--1 day-->
+    <string name="tm_1_hour">1 ساعت</string><!--1 hour-->
+    <string name="tm_1_minute">1 دقيقه</string><!--1 minute-->
+    <string name="st_on">روشن</string><!--On-->
+    <string name="st_off">خاموش</string><!--Off-->
+    <string name="st_never">هرگز</string><!--Never-->
+    <string name="va_add">افزودن</string><!--Add-->
+    <string name="va_edit_tabs">ويرايش زبانه ها</string><!--Edit tabs-->
+    <string name="ls_no_weather_data_available">داده هاي هواشناسي وجود ندارد</string><!--No weather data available-->
+    <string name="st_storage_full">حافظه پر مي باشد</string><!--Storage full-->
+    <string name="nn_settings">تنظیمات</string><!--Settings-->
+<!-- [Add][Start] add "Tips & Help" by Yami Day's request -->
+    <string name="nn_tips_help">نکته ها و راهنما</string><!--Tips &amp; Help-->
+<!-- [Add][End] add "Tips & Help" by Yami Day's request -->
+<!-- [Gallery OpenSense - GA50 Skyer_Tai] Warning message for low internal memory scenario -->
+    <string name="internal_memory_low">فضاي حافظه تلفن شما كم است. لطفا قبل از استفاده از اين برنامه مقداری فضای خالی ایجاد كنيد.</string><!--Your phone is low on storage space. Please make some free space before using this application.-->
+    <string name="st_default">پيش فرض</string><!--Default-->
+<!-- [Add][Start] Add for ContentUri, called back from soundPicker(Mail/Calendar/Message) -->
+    <string name="st_silent">سكوت</string><!--Silent-->
+<!-- [Add][End] Add for ContentUri, called back from soundPicker(Mail/Calendar/Message) -->
+    <string name="st_more">بیشتر</string><!--More-->
+
+<!-- Labels for Set Alarm preference : OffAlarm -->
+    <string name="alarm_offalarm">پخش صدا هنگام خاموش شدن تلفن</string><!--Sound when phone off-->
+
+<!-- Dialog title for describe that this app needs additional permission -->
+    
+<!-- Do not translate -->
+	<!--<string name="clock_permission_dialog_title">@string/htc_private_app_clock</string>-->
+    
+<!-- Dialog content for describe that this app needs additional permission -->
+    <string name="clock_permission_dialog_content">برای اینکه این برنامه به درستی کار کند، لازم است به محل ذخیره سازی دسترسی داشته باشد. در قسمت تنظیمات می توانید مجوزهای ساعت را مدیریت کنید.</string><!--To work properly, this app needs to access your storage. You can manage Clock\'s permissions in Settings.-->
+<!-- [Button] Dialog button to bring user to Settings page -->
+    <string name="clock_permission_dialog_btn_settings">تنظیمات</string><!--Settings-->
+<!-- [Button] Dialog button to close dialog -->
+    <string name="clock_permission_dialog_btn_close">بستن</string><!--Close-->
+    
+<!-- location setting -->
+<!-- Dialog title to ask user to turn on network location provider -->
+    <string name="location_dialog_title">سرویس های موقعیت مکانی خاموش هستند</string><!--Location services are off-->
+<!-- Dialog content to ask user to turn on network location provider -->
+    <string name="location_dialog_msg">برای دریافت وضعیت آب و هوایی محلی، تنظیمات محل را روی صرفه جویی در مصرف باتری یا حالت دقت بالا تنظیم کنید.</string><!--To get local weather, change your location settings to battery saving or high accuracy mode.-->
+</resources>
+
+
+

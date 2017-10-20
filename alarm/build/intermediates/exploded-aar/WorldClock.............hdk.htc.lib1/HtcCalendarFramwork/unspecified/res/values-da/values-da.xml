@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-da/arrays.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>til hver første fredag</item><!--on every first Friday-->
+        <item>til hver anden fredag</item><!--on every second Friday-->
+        <item>til hver tredje fredag</item><!--on every third Friday-->
+        <item>til hver fjerde fredag</item><!--on every fourth Friday-->
+        <item>til hver sidste fredag</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>til hver første mandag</item><!--on every first Monday-->
+        <item>til hver anden mandag</item><!--on every second Monday-->
+        <item>til hver tredje mandag</item><!--on every third Monday-->
+        <item>til hver fjerde mandag</item><!--on every fourth Monday-->
+        <item>til hver sidste mandag</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>til hver første lørdag</item><!--on every first Saturday-->
+        <item>til hver anden lørdag</item><!--on every second Saturday-->
+        <item>til hver tredje lørdag</item><!--on every third Saturday-->
+        <item>til hver fjerde lørdag</item><!--on every fourth Saturday-->
+        <item>til hver sidste lørdag</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>til hver første søndag</item><!--on every first Sunday-->
+        <item>til hver anden søndag</item><!--on every second Sunday-->
+        <item>til hver tredje søndag</item><!--on every third Sunday-->
+        <item>til hver fjerde søndag</item><!--on every fourth Sunday-->
+        <item>til hver sidste søndag</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>til hver første torsdag</item><!--on every first Thursday-->
+        <item>til hver anden torsdag</item><!--on every second Thursday-->
+        <item>til hver tredje torsdag</item><!--on every third Thursday-->
+        <item>til hver fjerde torsdag</item><!--on every fourth Thursday-->
+        <item>til hver sidste torsdag</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>til hver første tirsdag</item><!--on every first Tuesday-->
+        <item>til hver anden tirsdag</item><!--on every second Tuesday-->
+        <item>til hver tredje tirsdag</item><!--on every third Tuesday-->
+        <item>til hver fjerde tirsdag</item><!--on every fourth Tuesday-->
+        <item>til hver sidste tirsdag</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>til hver første onsdag</item><!--on every first Wednesday-->
+        <item>til hver anden onsdag</item><!--on every second Wednesday-->
+        <item>til hver tredje onsdag</item><!--on every third Wednesday-->
+        <item>til hver fjerde onsdag</item><!--on every fourth Wednesday-->
+        <item>til hver sidste onsdag</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-da/strings.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">én gang</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> gange</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Hver <ns1:g id="count">%d</ns1:g> dag</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Hver <ns1:g id="count">%d</ns1:g> dage</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Hver <ns1:g id="count">%d</ns1:g> måned</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Hver <ns1:g id="count">%d</ns1:g> måneder</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Hver <ns1:g id="count">%d</ns1:g> uge</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Hver <ns1:g id="count">%d</ns1:g> uger</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Hvert <ns1:g id="count">%d</ns1:g> år</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Hvert <ns1:g id="count">%d</ns1:g> år</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">Ugentligt om <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other">Hver <ns1:g id="number">%1$d</ns1:g> uge om <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <string name="every_weekday">"Hver hverdag (man.-fre.)"</string>
+    <string name="monthly">"Månedligt"</string>
+    <string name="monthly_on_day_count">\"Månedligt (hver <ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g>)\"</string>
+    <string name="tm_daily">\"Dagligt\"</string>
+    <string name="yearly_plain">Årligt</string>
+</resources>

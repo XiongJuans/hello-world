@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <dimen name="fixed_world_clock_01">11px</dimen>
+    <dimen name="fixed_world_clock_02">15px</dimen>
+    <dimen name="fixed_world_clock_03">17px</dimen>
+    <dimen name="fixed_world_clock_04">30px</dimen>
+    <dimen name="fixed_world_clock_05">13px</dimen>
+    <dimen name="fixed_world_clock_06">9px</dimen>
+    <dimen name="fixed_world_clock_07">30px</dimen>
+    <dimen name="fixed_world_clock_08">13px</dimen>
+    <dimen name="fixed_world_clock_09">9px</dimen>
+    <dimen name="fixed_world_clock_10">11px</dimen>
+</resources>

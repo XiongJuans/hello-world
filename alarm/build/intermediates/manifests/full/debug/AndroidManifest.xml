@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+ * design by sky - 20081001
+ * AndroidManifest.xml of WorldClock app
+ */
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.htc.android.worldclock"
+    android:sharedUserId="android.uid.system"
+    android:versionName="1.00" >
+
+    <uses-sdk
+        android:minSdkVersion="23"
+        android:targetSdkVersion="26" />
+
+    <skip-erased />
+
+    <permission
+        android:name="com.htc.sense.permission.worldclock.alert"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS" />
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_SYNC_SETTINGS" />
+    <uses-permission android:name="android.permission.READ_PRIVILEGED_PHONE_STATE" />
+    <uses-permission android:name="com.android.alarm.permission.SET_ALARM" />
+    <uses-permission android:name="com.htc.adwagent.permission.RECEIVE_ADW_COMMAND" />
+    <uses-permission android:name="com.htc.adwagent.permission.ACCESS_ADW_PROVIDER" />
+    <uses-permission android:name="com.htc.permission.APP_DEFAULT" />
+    <!-- Add permission for get bluetooth broadcast -->
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <!-- Add permission for Frisbee backup agent -->
+    <uses-permission android:name="com.htc.dnatransfer.permission.ACCESS_PROVIDER" />
+    <!-- Add permission for HTC Sync Manager backup agent that backup data to PC site -->
+    <uses-permission android:name="com.nero.permission.ACCESS_CONTENT_PROVIDER" />
+    <!-- Add permission for DRM file to read external storage -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <!-- Use HSP permission -->
+    <uses-permission android:name="com.htc.sense.permission.APP_HSP" />
+    <!-- Use internal alert permission -->
+    <uses-permission android:name="com.htc.sense.permission.worldclock.alert" />
+    <!-- Add permission for MUM -->
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS" />
+    <uses-permission android:name="android.permission.MANAGE_USERS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- Add permission for jump voice control settings activity -->
+    <uses-permission android:name="com.htc.permission.APP_PLATFORM" />
+
+    <meta-data
+        android:name="HDK_Lib0_API19_1"
+        android:value="19.1.327616" />
+    <meta-data
+        android:name="HDK_Lib1_API19_Sense60_Stable"
+        android:value="19.Sense60.386569" />
+    <meta-data
+        android:name="HDK_Lib3_API19_2_Stable"
+        android:value="19.2.346098" />
+    <!-- Add permission for read and write CalendarContract -->
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+
+    <application
+        android:allowBackup="true"
+        android:backupAgent="com.htc.android.worldclock.utils.WorldClockBackupAgent"
+        android:icon="@drawable/icon_launcher_world_clock"
+        android:label="@string/htc_private_app_clock"
+        android:resizeableActivity="false"
+        android:restoreAnyVersion="true"
+        android:theme="@style/Common_Theme_With_Overlay" >
+        <provider
+            android:name="com.htc.android.worldclock.alarmclock.AlarmProvider"
+            android:authorities="com.htc.android.alarmclock"
+            android:exported="true"
+            android:readPermission="com.htc.sense.permission.APP_HSP" />
+        <provider
+            android:name="com.htc.android.worldclock.stopwatch.StopwatchProvider"
+            android:authorities="com.htc.android.worldclock.StopwatchProvider"
+            android:exported="false" />
+        <provider
+            android:name="com.htc.android.worldclock.timer.TimerProvider"
+            android:authorities="com.htc.android.worldclock.TimerProvider"
+            android:exported="false" />
+
+        <meta-data
+            android:name="android.app.default_searchable"
+            android:value="*" />
+        <meta-data
+            android:name="com.google.android.backup.api_key"
+            android:value="AEdPqrEAAAAIwBNx-YSm2YPN21dSPmg7CO-qRTLQcZNux3D1uw" />
+        <!-- China Sense for APU -->
+        <meta-data
+            android:name="China_Sense"
+            android:value="7.3.5" />
+        <meta-data
+            android:name="com.htc.themepicker.apply.supported.application.type"
+            android:value="worldclock" />
+
+        <!-- app support changing texture -->
+        <meta-data
+            android:name="com.htc.themepicker.apply.supported.feature.texture"
+            android:value="true" />
+
+        <!-- support changing style for masthead on ReminderView-alarm -->
+        <meta-data
+            android:name="com.htc.themepicker.apply.supported.feature.weatherclockasset"
+            android:value="true" />
+
+        <activity
+            android:name="com.htc.android.worldclock.WorldClockTabControl"
+            android:clearTaskOnLaunch="true"
+            android:configChanges="orientation|keyboardHidden|keyboard|screenSize"
+            android:icon="@drawable/icon_launcher_world_clock"
+            android:label="@string/htc_private_app_clock"
+            android:launchMode="singleTask"
+            android:screenOrientation="user"
+            android:theme="@style/Common_Theme_With_Overlay"
+            android:windowSoftInputMode="adjustPan" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.shortcuts"
+                android:resource="@xml/shortcuts" />
+        </activity>
+
+        <!-- WorldClock -->
+        <activity
+            android:name="com.htc.android.worldclock.TimeZonePicker"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/add_city"
+            android:permission="com.htc.sense.permission.APP_HSP"
+            android:screenOrientation="user"
+            android:theme="@style/Common_Theme_With_Overlay"
+            android:windowSoftInputMode="stateVisible|adjustResize" >
+            <intent-filter>
+                <action android:name="com.htc.android.worldclock.action.TIMEZONEPICKER" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.htc.android.worldclock.worldclock.RearrangeTimeZone"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/rearrange_city_caption"
+            android:screenOrientation="user"
+            android:theme="@style/Common_Theme_With_Overlay" />
+
+        <service
+            android:name="com.htc.android.worldclock.worldclock.WorldClockService"
+            android:exported="false" />
+        <service
+            android:name="com.htc.android.worldclock.worldclock.WorldClockJobIntentService"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+        <receiver
+            android:name="com.htc.android.worldclock.worldclock.WorldClockReceiver"
+            android:permission="com.htc.sense.permission.APP_HSP" >
+            <intent-filter>
+                <action android:name="android.intent.action.LOCALE_CHANGED" />
+                <action android:name="com.htc.htclocationservice.currentlocation.updated" />
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+                <action android:name="com.htc.provider.notify.city_restored" />
+                <action android:name="com.htc.Weather.intent.action.ADD_LOCATION" />
+                <action android:name="com.htc.Weather.rearrange_list_changed" />
+            </intent-filter>
+        </receiver>
+
+        <!-- AlarmClock -->
+        <activity
+            android:name="com.htc.android.worldclock.alarmclock.SetAlarm"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/set_alarm_caption"
+            android:screenOrientation="user"
+            android:theme="@style/Common_Theme_With_Overlay"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+            android:name="com.htc.android.worldclock.alarmclock.DeleteAlarm"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/delete_alarm_caption"
+            android:screenOrientation="user"
+            android:theme="@style/Common_Theme_With_Overlay" />
+        <activity
+            android:name="com.htc.android.worldclock.alarmclock.AlarmAlert"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:excludeFromRecents="true"
+            android:launchMode="singleTask"
+            android:screenOrientation="user"
+            android:taskAffinity=":AlarmAlert"
+            android:theme="@style/ThemeDialog" />
+        <activity
+            android:name="com.htc.android.worldclock.alarmclock.HandleApiCalls"
+            android:excludeFromRecents="true"
+            android:launchMode="singleInstance"
+            android:permission="com.android.alarm.permission.SET_ALARM"
+            android:theme="@style/Common_Theme_With_Overlay" >
+            <intent-filter>
+                <action android:name="android.intent.action.SET_ALARM" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.VOICE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.DISMISS_ALARM" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.VOICE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SNOOZE_ALARM" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.VOICE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SHOW_ALARMS" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.VOICE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SET_TIMER" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.VOICE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.htc.android.worldclock.DISALBE_ALARM" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.VOICE" />
+            </intent-filter>
+        </activity>
+
+        <!-- this activity will only used by worldClock itself -->
+        <activity
+            android:name="com.htc.android.worldclock.alarmclock.ShortcutActivity"
+            android:exported="false"
+            android:theme="@style/Common_Theme_With_Overlay" >
+            <intent-filter>
+                <action android:name="android.intent.action.SET_ALARM" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SET_TIMER" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.htc.action.SET_STOPWATCH" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.htc.android.worldclock.alarmclock.HandleSetAlarm"
+            android:excludeFromRecents="true"
+            android:theme="@style/Common_Theme_With_Overlay" >
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <receiver
+            android:name="com.htc.android.worldclock.alarmclock.AlarmReceiver"
+            android:directBootAware="true"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="android.intent.action.LOCKED_BOOT_COMPLETED" />
+                <action android:name="android.intent.action.TIME_SET" />
+                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
+                <action android:name="com.htc.worldclock.ALARM_ALERT" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.htc.android.worldclock.alarmclock.SkipHolidayReceiver"
+            android:exported="true"
+            android:permission="com.htc.permission.APP_DEFAULT" >
+            <intent-filter>
+                <action android:name="com.htc.intent.action.ACTION_HOLIDAY_CHANGED" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.htc.android.worldclock.alarmclock.AlarmReminderReceiver"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.htc.worldclock.ALARM_NOTICE" />
+                <action android:name="testAction" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.htc.android.worldclock.alarmclock.AlarmService"
+            android:directBootAware="true"
+            android:exported="false" >
+        </service>
+        <service
+            android:name="com.htc.android.worldclock.alarmclock.AlarmJobIntentService"
+            android:directBootAware="true"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE" >
+        </service>
+        <service
+            android:name="com.htc.android.worldclock.alarmclock.AlarmQueryMediaService"
+            android:exported="false" />
+        <!-- End of AlarmClock -->
+
+        <service
+            android:name="com.htc.android.worldclock.alarmclock.AlarmQueryMediaJobIntentService"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+        <service
+            android:name="com.htc.android.worldclock.worldclock.JobScheduleService"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+        <!-- Timer -->
+        <activity
+            android:name="com.htc.android.worldclock.timer.TimerAlert"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:excludeFromRecents="true"
+            android:label=""
+            android:launchMode="singleTask"
+            android:screenOrientation="user"
+            android:taskAffinity=":TimerAlert"
+            android:theme="@style/ThemeDialog" />
+
+        <receiver
+            android:name="com.htc.android.worldclock.timer.TimerReceiver"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="android.intent.action.TIME_SET" />
+                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+                <action android:name="com.htc.worldclock.TIMER_ALERT" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.htc.android.worldclock.timer.TimerService"
+            android:exported="false" />
+        <!-- End of Timer -->
+
+        <service
+            android:name="com.htc.android.worldclock.timer.TimerJobIntentService"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+        <activity
+            android:name="com.htc.android.worldclock.utils.SettingsActivity"
+            android:exported="false"
+            android:label="@string/settings"
+            android:screenOrientation="user"
+            android:theme="@style/Common_Theme_With_Overlay" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+
+        <receiver
+            android:name="com.htc.android.worldclock.utils.ADWAgentReceiver"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.htc.devicewipe.action.QUERY_DATA_CLOCK" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.htc.android.worldclock.alarmclock.AlarmAlertReminder"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:launchMode="singleInstance"
+            android:noHistory="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/Common_Theme_With_Overlay" >
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.htc.android.worldclock.timer.TimerAlertReminder"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:launchMode="singleInstance"
+            android:noHistory="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/Common_Theme_With_Overlay" >
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name="com.htc.android.worldclock.aiservice.AiClientService"
+            android:exported="true"
+            android:permission="com.htc.sense.permission.APP_HSP" >
+            <intent-filter>
+                <action android:name="com.intent.AI_SERVICE" />
+            </intent-filter>
+        </service>
+
+        <activity
+            android:name="com.htc.lib1.cc.app.HtcShareActivity"
+            android:theme="@style/ThemeHtcShareActivity" />
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.0.0" />
+        <meta-data
+            android:name="hdkapi_weather"
+            android:value="1.1.0" />
+        <meta-data
+            android:name="hdkapi_lockscreen"
+            android:value="1.1.1" />
+    </application>
+
+</manifest>

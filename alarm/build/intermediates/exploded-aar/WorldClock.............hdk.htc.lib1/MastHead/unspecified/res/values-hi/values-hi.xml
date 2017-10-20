@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values-hi/strings.xml -->
+    <eat-comment/>
+    <string name="location_unavailable">स्थान अनुपलब्ध</string>
+    <string name="masthead_st_am">AM</string>
+    <string name="masthead_st_auto_sync_off">स्वतः समन्वयन बंद है। मौसम देखने के लिए टैप करें।</string>
+    <string name="masthead_st_current_location">वर्तमान स्थान</string>
+    <string name="masthead_st_device_only_off">मौसम पाने के लिए स्थान सेवा मोड बदलें</string>
+    <string name="masthead_st_location_service_off">मौसम पाने के लिए स्थान सेवाएँ चालू करें</string>
+    <string name="masthead_st_pm">PM</string>
+    <string name="masthead_st_weather_unavailable">मौसम अनुपलब्ध</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="googleplay_title">HTC Klokke</string><!--HTC Clock-->
+    <string name="googleplay_whatsnew">- Alarmer blir gradvis avspilt høyere\n- Feilrettinger og ytelsesforbedringer</string><!---/ Alarms gradually get louder\n-/ Bug fixes and performance improvements-->
+	
+<!-- Description for Clock APP -->
+    <string name="googleplay_description_app">Enten du er i Taipei på Taiwan eller i Marrakech i Marokko kan du bruke HTC Klokke til å sjekke tiden på din gjeldende plassering, hjemme eller i byer rundt om i verden. Alarmen, stoppeklokken og tidtakeren i appen kan tilpasses og gjør at du har full kontroll over tidsplanlegging i din egen lomme. Sett så mange alarmer du vil, endre slumretidens varighet og velg lyden som skal spilles av når alarmer utløses. Du kan til og med la alarmer utløses når telefonen er i stille modus. HTC Klokkes stoppeklokke er glimrende for registrering av rundetider mens du trener, og tidtakeren er praktisk til matlaging eller for å få med deg når TV-programmer starter.</string><!--Whether you\'re in Taipei, Taiwan or Marrakech, Morocco, HTC Clock lets you check the time in your current location, at home and in cities around the world. Its customizable alarms, stopwatch and timer put the power of time management in your pocket, too. Set as many alarms as you like, change the snooze duration, choose the sound that plays when alarms go off and even make alarms sound when your phone is on silent. HTC Clock\'s stopwatch is great for recording laps while working out, and the timer is handy for cooking or monitoring time in front of the TV.-->
+<!-- Description for Clock SupportingScope -->
+	<string name="googleplay_description_supportingScope"></string>
+<!-- Description for Clock Legal -->
+    <string name="googleplay_description_legal">[googleplay_description_legal_common_1]</string>
+    <string name="googleplay_description_short">Hold styr på tid med HTCs fikse stoppeklokke, tidtaker, alarm og verdensklokke.</string><!--Keep track of time with HTC\'s sleek stopwatch, timer, alarm and world clock.-->
+</resources>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="googleplay_title">HTC Laikrodis</string><!--HTC Clock-->
+    <string name="googleplay_whatsnew">- Žadintuvai laipsniškai garsėja\n- Klaidų pataisos ir našumo patobulinimai</string><!---/ Alarms gradually get louder\n-/ Bug fixes and performance improvements-->
+	
+<!-- Description for Clock APP -->
+    <string name="googleplay_description_app">Nesvarbu, ar esate Taipėjuje (Taivanas), ar Marakeče (Marokas), nes HTC Laikrodis leis jums sužinoti laiką jūsų dabartinėje vietoje, namie ir įvairiuose miestuose visame pasaulyje. Naudodamiesi tinkinamais žadintuvais, sekundmačiu ir laikmačiu, galėsite patogiai tvarkyti savo reikalus. Nustatykite tiek žadintuvų, kiek pageidaujate, keiskite nusnūdimo trukmę, pasirinkite garsus, kurie gros skambant žadintuvams, ir netgi nurodykite, kad žadintuvai skambėtų ir tada, kai veikia jūsų telefono tylusis režimas. HTC Laikrodžio sekundmatis puikiai tinka ratų įveikimo trukmei registruoti sportuojant, o laikmatis pravers ruošiant maistą ar kontroliuojant televizoriaus žiūrėjimo trukmę.</string><!--Whether you\'re in Taipei, Taiwan or Marrakech, Morocco, HTC Clock lets you check the time in your current location, at home and in cities around the world. Its customizable alarms, stopwatch and timer put the power of time management in your pocket, too. Set as many alarms as you like, change the snooze duration, choose the sound that plays when alarms go off and even make alarms sound when your phone is on silent. HTC Clock\'s stopwatch is great for recording laps while working out, and the timer is handy for cooking or monitoring time in front of the TV.-->
+<!-- Description for Clock SupportingScope -->
+	<string name="googleplay_description_supportingScope"></string>
+<!-- Description for Clock Legal -->
+    <string name="googleplay_description_legal">[googleplay_description_legal_common_1]</string>
+    <string name="googleplay_description_short">Skaičiuokite laiką HTC chronometru, laikmačiu, žadintuvu ir pasaulio laikrodžiu.</string><!--Keep track of time with HTC\'s sleek stopwatch, timer, alarm and world clock.-->
+</resources>
+

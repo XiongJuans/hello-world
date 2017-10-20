@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <style name="fixed_world_clock_01">
+        <item name="android:textSize">@dimen/fixed_world_clock_01</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+    </style>
+    <style name="fixed_world_clock_02">
+        <item name="android:textSize">@dimen/fixed_world_clock_02</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+    </style>
+    <style name="fixed_world_clock_03">
+        <item name="android:textSize">@dimen/fixed_world_clock_03</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+    </style>
+    <style name="fixed_world_clock_04">
+        <item name="android:textSize">@dimen/time_display_size</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/light_primaryfont_color</item>
+    </style>
+    <style name="fixed_world_clock_05">
+        <item name="android:textSize">@dimen/am_pm_size</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/light_primaryfont_color</item>
+    </style>
+    <style name="fixed_world_clock_06">
+        <item name="android:textSize">@dimen/fixed_world_clock_06</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/light_primaryfont_color</item>
+    </style>
+    <style name="fixed_world_clock_07">
+        <item name="android:textSize">@dimen/fixed_world_clock_07</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+    </style>
+    <style name="fixed_world_clock_08">
+        <item name="android:textSize">@dimen/fixed_world_clock_08</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+    </style>
+    <style name="fixed_world_clock_09">
+        <item name="android:textSize">@dimen/fixed_world_clock_09</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_primaryfont_color</item>
+    </style>
+    <style name="fixed_world_clock_10">
+        <item name="android:textSize">@dimen/days_of_week_size</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/light_primaryfont_color</item>
+    </style>
+</resources>

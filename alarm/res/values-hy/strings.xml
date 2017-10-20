@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+<!-- Title of DeskClock -->
+	<string name="desk_clock_caption">Սեղանի ժամացույց</string><!--Desk Clock-->
+
+<!-- Desk Clock -->
+    <string name="night_clock">@string/desk_clock_caption</string>
+
+<!-- Title of WorldClock -->
+	<string name="world_clock_caption">Համաշխարհային ժամացույց</string><!--World Clock-->
+    
+<!-- Sublevel title on WorldClock : Add City-->
+    <string name="add_city">Հավելել քաղաք</string><!--Add city-->
+
+<!-- The hint for smart search and menu item -->
+    <string name="addcity_search">Որոնել քաղաքներ</string><!--Search cities-->
+
+<!-- Error notification when there is no city found -->
+    <string name="city_not_found">ՔԱՂԱՔԸ ՉԻ ԳՏՆՎԵԼ</string><!--CITY NOT FOUND-->
+    
+<!-- Title of Delete City -->
+	<string name="delete_city_caption">Ջնջել քաղաքներ</string><!--Delete cities-->
+    
+<!-- Title of Rearrange City -->
+	<string name="rearrange_city_caption">Խմբագրել ցուցակը</string><!--Edit list-->
+	
+<!-- Menu item on WorldClock : Home Settings -->
+	<string name="home_settings">Նախադրել տան ժամային գոտի</string><!--Set home time zone-->
+	
+<!-- Menu item on WorldClock : Current Location Time Settings -->
+	<string name="current_settings">Կայել ամսաթիվ և ժամանակ</string><!--Set date &amp; time-->
+	
+<!-- Title of Stopwatch -->
+	<string name="stopwatch_caption">Վայրկյանաչափ</string><!--Stopwatch-->
+	
+<!-- Button : Start stopwatch -->
+	<string name="start">Մեկնարկել</string><!--Start-->
+
+<!-- Button : Pause stopwatch -->
+    <string name="pause">Դադար</string><!--Pause-->
+
+<!-- Button : Resume stopwatch -->
+    <string name="resume">Վերսկսել</string><!--Resume-->
+    
+<!-- Button : Reset stopwatch -->
+    <string name="reset">Վերակայել</string><!--Reset-->
+    
+<!-- Button : Stop stopwatch -->
+    <string name="stop">Կանգ</string><!--Stop-->   
+
+<!-- Button : Lap stopwatch -->
+    <string name="lap">Շրջան</string><!--Lap-->
+
+<!-- Title of AlarmClock -->
+	<string name="alarm_caption">Զգուշացումներ</string><!--Alarms-->
+	
+<!-- Title of AlarmClock Setting -->
+	<string name="set_alarm_caption">Կայել զգուշացում</string><!--Set alarm-->
+	
+<!-- Title of Delete Alarm -->
+	<string name="delete_alarm_caption">Ջնջել զգուշացումները</string><!--Delete alarms-->
+	
+<!-- Sublevel title on AlarmClock : Add alarm-->
+    <string name="add_alarm">Հավելել զգուշացում</string><!--Add alarm-->
+    
+<!-- Alert message of adding too many alarms -->
+    <string name="add_alarm_error">Զարթուցիչների սահմանաչափը գերազանցված է:</string><!--Maximum number of alarms reached.-->
+
+<!-- Labels for Set Alarm preference : Ringtone -->
+    <string name="alarm_ringtone">Զգուշացման ձայն</string><!--Alarm sound-->
+    
+<!-- Labels for Set Alarm preference : Repeat -->
+    <string name="alarm_repeat">Կրկնել</string><!--Repeat-->
+    
+<!-- Labels for Set Alarm preference : Vibrate -->
+    <string name="alarm_vibrate">Թրթռալ</string><!--Vibrate-->
+
+<!-- Alarm Alert screen: this message is shown after an alarm rung unattended for a number of minutes.  It tells the user that the alarm has been silenced.-->
+    <string name="alarm_alert_alert_silenced">Զգուշացումը համրեցված է <xliff:g id="minutes">%d</xliff:g> րոպեից:</string><!--Alarm silenced after <xliff:g id="minutes">%d</xliff:g> minutes.-->
+	
+<!-- Notification when user sets snooze successfully -->
+    <string name="alarm_alert_snooze_set">Սառեցում <xliff:g id="minutes">%d</xliff:g> րոպեով:</string><!--Snoozing for <xliff:g id="minutes">%d</xliff:g> minutes.-->
+    
+<!-- Notification when user sets snooze unsuccessfully -->
+    <string name="alarm_alert_snooze_not_set">Սառեցումը կայված չէ: Հաջորդ զգուշացումը կայված է <xliff:g id="time">%s</xliff:g>-ի համար</string><!--Snooze not set. Next alarm set for <xliff:g id="time">%s</xliff:g>-->
+    
+<!-- Notification when alarm is dismissed -->
+    <string name="alarm_alert_dismissed">Զգուշացումը բաց է թողնված:</string><!--Alarm dismissed.-->
+
+<!-- Text for alarm confirmation toast -->
+    <string name="alarm_set">Այս զգուշացումն այս պահից կայված է <xliff:g id="time_delta">%s</xliff:g>-ի համար:</string><!--This alarm is set for <xliff:g id="time_delta">%s</xliff:g> from now.-->
+
+<!-- Text for alarm confirmation toast : days -->
+    <string name="days">&quot;<xliff:g id="days">%s</xliff:g> օր"</string><!--"<xliff:g id="days">%s</xliff:g> days"-->
+    
+<!-- Text for alarm confirmation toast : hours -->
+    <string name="hours"><xliff:g id="hours">%s</xliff:g> ժամ</string><!--<xliff:g id="hours">%s</xliff:g> hours-->
+    
+<!-- Text for alarm confirmation toast : and -->
+    <string name="and">&quot; և &quot;</string><!--" and "-->
+    
+<!-- Text for alarm confirmation toast : space-->
+    <string name="space">&quot; &quot;</string><!--" "-->
+    
+<!-- Text for alarm confirmation toast : less than 1 minute-->
+    <string name="subminute">&quot;1 րոպեից պակաս&quot;</string><!--"less than 1 minute"-->
+
+<!-- Text for alarm confirmation toast : minutes-->
+    <string name="minutes">&quot;<xliff:g id="minutes">%s</xliff:g> րոպե"</string><!--"<xliff:g id="minutes">%s</xliff:g> minutes"-->
+
+<!-- Notification of next alarm time -->
+    <string name="nextAlarm">Հաջորդ զգուշացումը. <xliff:g id="next_alarm_time">%s</xliff:g></string><!--Next alarm: <xliff:g id="next_alarm_time">%s</xliff:g>-->
+
+<!-- Repeat frequency of alarms : every day -->
+    <string name="every_day">Ամեն օր</string><!--Every day-->
+
+<!-- Day concat of alarm repeat frequency -->
+    <string name="day_concat">&quot;, &quot;</string><!--", "-->
+
+<!-- Error Dialog when alarm is not set -->
+    <string name="error">Անհնար է հավելել զգուշացում</string><!--Unable to add alarm-->
+
+<!-- Error Dialog of database error -->
+    <string name="dberror">Ցավոք, զգուշացումն անհնար է կայել:</string><!--Sorry, the alarm could not be set.-->
+	
+<!-- Days of week -->
+    <string-array name="days_of_week">
+        <item>ԵՐԿՈՒՇԱԲԹԻ</item><!--MONDAY-->
+        <item>ԵՐԵՔՇԱԲԹԻ</item><!--TUESDAY-->
+        <item>ՉՈՐԵՔՇԱԲԹԻ</item><!--WEDNESDAY-->
+        <item>ՀԻՆԳՇԱԲԹԻ</item><!--THURSDAY-->
+        <item>ՈՒՐԲԱԹ</item><!--FRIDAY-->
+        <item>ՇԱԲԱԹ</item><!--SATURDAY-->
+        <item>ԿԻՐԱԿԻ</item><!--SUNDAY-->
+    </string-array>
+    
+<!-- Month of year : short -->
+    <string-array name="month_of_year">
+    	<item>ՀՆՎ</item><!--JAN-->
+    	<item>ՓՏՐ</item><!--FEB-->
+    	<item>ՄՐՏ</item><!--MAR-->
+    	<item>ԱՊՐ</item><!--APR-->
+    	<item>ՄՅՍ</item><!--MAY-->
+    	<item>ՀՆՍ</item><!--JUN-->
+    	<item>ՀԼՍ</item><!--JUL-->
+    	<item>ՕԳՍ</item><!--AUG-->
+    	<item>ՍՊՏ</item><!--SEP-->
+    	<item>ՀԿՏ</item><!--OCT-->
+    	<item>ՆՅՄ</item><!--NOV-->
+    	<item>ԴԿՏ</item><!--DEC-->
+    </string-array>
+    
+<!-- Days of week for WorldClock -->
+    <string-array name="days_of_week_capital">
+        <item></item>
+        <item>ԿԻՐ</item><!--SUN-->
+        <item>ԵՐԿ</item><!--MON-->
+        <item>ԵՐՔ</item><!--TUE-->
+        <item>ՉՐՔ</item><!--WED-->
+        <item>ՀՆԳ</item><!--THU-->
+        <item>ՈՒՐԲ</item><!--FRI-->
+        <item>ՇԲԹ</item><!--SAT-->
+    </string-array> 
+<!-- Whole Days of week for WorldClock -->
+    <string-array name="days_of_week_whole_capital">
+        <item></item>
+        <item>ԿԻՐԱԿԻ</item><!--SUNDAY-->
+        <item>ԵՐԿՈՒՇԱԲԹԻ</item><!--MONDAY-->
+        <item>ԵՐԵՔՇԱԲԹԻ</item><!--TUESDAY-->
+        <item>ՉՈՐԵՔՇԱԲԹԻ</item><!--WEDNESDAY-->
+        <item>ՀԻՆԳՇԱԲԹԻ</item><!--THURSDAY-->
+        <item>ՈՒՐԲԱԹ</item><!--FRIDAY-->
+        <item>ՇԱԲԱԹ</item><!--SATURDAY-->
+    </string-array>
+    
+<!-- Repeat Options -->
+    <string-array name="repeat_option">
+        <item>Երկ-Ուրբ</item><!--Mon -/ Fri-->
+        <item>Չի կրկնվում</item><!--Do not repeat-->
+        <item>Ամեն օր</item><!--Every day-->
+        <item>Անտեսել հանգստյան օրերը</item><!--Skip holidays-->
+        <item>Հատուկ</item><!--Custom-->
+    </string-array>
+    
+<!-- Title of Timer -->
+    <string name="timer_caption">Ժամաչափ</string><!--Timer-->
+    
+<!-- Labels for Set Timer preference : Alert Sound -->
+    <string name="alert_sound">Զգուշացման ձայն</string><!--Alarm sound-->
+    
+<!-- Title of alert dialog when timer expires -->
+    <string name="time_up">Ժամանակն է:</string><!--Time\'s up!-->
+    
+<!-- Application name -->
+	<string name="htc_private_app_clock">Ժամացույց</string><!--Clock-->
+
+<!-- Message for user when loading cities -->
+	<string name="loading_city">Քաղաքների ցուցակի բեռնում...</string><!--Loading city list...-->
+	
+<!-- Error title for full internal storage -->
+	<string name="error_title">Տվյալների շտեմարանի սխալ</string><!--Database error-->
+	
+<!-- Error message for failing querying db -->
+	<string name="query_fail">Տվյալների շտեմարանը մատչելու ընթացքում տեղի ունեցավ սխալ</string><!--Errors occurred while accessing the database-->
+	
+<!-- Title for selecting alarm ringtone -->
+    <string name="select_ringtone">Ընտրեք զգուշացման ձայնը</string><!--Select alarm sound-->
+
+<!-- Title of ringtone picker -->
+    <string name="select_alert">Ընտրեք զգուշացման ձայնը</string><!--Select alert sound-->
+    
+<!-- Days of week : abbreviate -->
+    <string-array name="days_of_week_abbr">
+        <item>ԵՐԿ</item><!--M-->
+        <item>ԵՐՔ</item><!--TU-->
+        <item>ՉՐՔ</item><!--W-->
+        <item>ՀՆԳ</item><!--TH-->
+        <item>ՈՒՐԲ</item><!--F-->
+        <item>ՇԲԹ</item><!--SA-->
+        <item>ԿԻՐ</item><!--SU-->
+    </string-array>
+    
+<!-- Title in Google Gadget -->
+    <string name="analog_gadget">Նմանատիպ ժամացույց</string><!--Analog Clock-->
+    
+<!-- Error Dialog when city is not added -->
+    <string name="add_city_error_title">Անհնար է հավելել քաղաք</string><!--Unable to add city-->
+    
+<!-- Error Dialog of adding too many cities -->
+    <string name="add_city_error_msg">Կարող եք ունենալ մինչև 15 քաղաք: Նորը հավելելու համար ջնջեք առկա քաղաք:</string><!--You can have a maximum of 15 cities. To add a new one, please delete an existing city.-->
+    
+<!-- Alert message of adding duplicate city -->
+    <string name="city_duplicate">Այս քաղաքն արդեն ցուցակում է</string><!--This city is already in the list-->
+
+<!-- start: Merge alarm Clock Settings -->
+<!-- alarm_in_volume_increase_mode -->
+    <string name="alarm_in_volume_increase_mode_title">Մեղմ զարթուցիչ</string><!--Gentle alarm-->
+    
+<!-- Gradually increase alarm volume -->
+    <string name="alarm_in_volume_increase_mode_summary">Աստիճանաբար բարձրացնել զարթուցիչի ձայնը</string><!--Gradually increase alarm volume-->
+    
+<!-- Alarm volume -->
+    <string name="alarm_volume_title">Զգուշացման ձայնի ուժգնություն</string><!--Alarm volume-->
+
+<!-- Set the volume of alarms -->
+    <string name="alarm_volume_summary">Կայել զգուշացումների ձայնի ուժգնությունը</string><!--Set the volume of alarms-->
+
+<!-- Snooze duration -->
+    <string name="snooze_duration_title">Սառեցման տևողություն</string><!--Snooze duration-->
+
+<!-- Entries listed in the ListPreference when invoking the snooze duration preference. -->
+    <string-array name="snooze_duration_entries">
+      <item>5 րոպե</item><!--5 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_10_minutes</item>
+      <item>15 րոպե</item><!--15 minutes-->
+      <item>20 րոպե</item><!--20 minutes-->
+      <item>25 րոպե</item><!--25 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_30_minutes</item>
+    </string-array>
+    
+<!-- Side button behavior -->
+    <string name="volume_button_setting_title">Ձայնի ուժգնության կոճակի ընտրանքներ</string><!--Volume button options-->
+
+<!-- Entries listed in the setting for the side-button action. -->
+    <string-array name="volume_button_setting_entries">
+      <item>Ոչինչ չանել</item><!--Do nothing-->
+
+      <item>Նիրհել</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+    </string-array>
+
+<!-- Entries listed in the setting for the side-button action. -->
+    <string-array name="sprint_volume_button_setting_entries">
+      <item>Ոչինչ չանել</item><!--Do nothing-->
+
+      <item>Նիրհել</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+
+      <item>Համրեցում</item><!--Silence-->
+    </string-array>
+
+<!-- The summary of the side button setting. -->
+    <string name="volume_button_setting_summary">Նշեք զարթուցիչի ազդանշանի ժամանակ ձայնի կոճակների գործողությունները</string><!--Choose what the volume buttons do when pressed during an alarm-->
+<!-- end: Merge alarm Clock Settings -->
+        
+<!-- The indicator for High temperature -->
+    <string name="weather_high_indicator">Բ.</string><!--H:-->
+    
+<!-- The indicator for Low temperature -->
+    <string name="weather_low_indicator">Ց.</string><!--L:-->   
+
+<!-- Text to display in the notification ticker and label -->
+    <string name="alarm_notify_snooze_label"><xliff:g id="label">%s</xliff:g> (սառեցված)</string><!--<xliff:g id="label">%s</xliff:g> (snoozed)-->
+
+<!-- Text to display in the notification when the alarm has been snoozed -->
+    <string name="alarm_notify_snooze_text">Զարթուցիչը կայված է <xliff:g id="time">%s</xliff:g>-ի: Հպեք` չեղարկելու համար:</string><!--Alarm set for <xliff:g id="time">%s</xliff:g>. Tap to cancel.-->
+
+<!-- Alarm Off -->
+    <string name="alarm_off">Զգուշացումը` անջատ</string><!--Alarm Off-->
+<!-- Alarm On -->
+    <string name="alarm_on">Զգուշացումը` միաց</string><!--Alarm On-->
+    
+<!-- Select alarm sound from -->
+    <string name="sound_selection_title">Ընտրեք զգուշացման ձայնը հետևյալից</string><!--Select alarm sound from-->
+<!-- Ringtones -->
+    <string name="ringtone_title">Զանգերանգներ</string><!--Ringtones-->
+
+<!-- Entries listed in the setting for the clock sound selection. -->
+    <string-array name="sound_selection_setting_entries">
+<!-- Alarm sound -->
+      <item>Զգուշացման ձայն</item><!--Alarm sound-->
+<!-- Do not translate. Ringtone -->
+      <item>@string/nn_ringtone</item>
+<!-- Do not translate. Music -->
+      <item>@string/nn_music</item>
+    </string-array>
+
+<!-- Labels for Stopwatch : Total-->
+    <string name="total_title">Ընդամենը</string><!--Total-->
+    
+<!-- Labels for Stopwatch : Lap-->
+    <string name="lap_title">Շրջան</string><!--Lap-->
+
+<!-- Labels for Stopwatch : Lap ID-->
+    <string name="lap_id">Շրջան #</string><!--Lap #-->
+    
+<!-- Labels for Stopwatch : Running total-->
+    <string name="lap_total_time">Ընդամենը</string><!--Total-->
+    
+<!-- Labels for Stopwatch : This lap-->
+    <string name="lap_time">Այս շրջանը</string><!--This lap-->
+    
+<!-- Error Dialog when lap is not set -->
+    <string name="lap_error">Շրջանը կայված չէ</string><!--Lap not saved-->
+    
+<!-- Alert message of adding too many laps -->
+    <string name="add_lap_error">Վայրկայանչափը կարող է պահել մինչև 300 քաղաք: Հպեք Վերակայել` շրջանի պատմությունը մաքրելու համար:</string><!--Stopwatch can save a maximum of 300 laps. Tap Reset to clear lap history.-->
+    
+<!-- Tips for Weather Location : Location Enable -->
+    <string name="location_enable">Տեղական եղանակը դիտելու համար\nհպեք այստեղ` Տեղորոշման ծառայությունը միացնելու համար:</string><!--To see local weather,\ntap here to turn on Location Service.-->
+
+<!-- menu item for Full screen -->
+    <string name="full_screen_menu_item">Լիաէկրան</string><!--Full screen-->
+<!-- menu item for Fit screen -->
+    <string name="fit_screen_menu_item">Հարմարեցնել էկրանին</string><!--Fit screen-->
+<!-- Storage low dialog -->
+    <string name="storage_full_description">Ձեր հեռախոսի պահեստի մնացած տարածքն անբավարար է: Ջնջեք որոշ բովանդակություն կամ գործադիրներ: Ստորև հպեք \&quot;Կարգավորումներ\&quot;` Ձեր գործադիրները կառավարելու համար:</string><!--You don\'t have enough free space remaining in your phone\'s storage.Please delete some content or applications.Tap \"Settings\" below to manage your apps.-->
+    
+<!-- for timer -->
+    <string name="timer_reminder_tile_timer_up">Ժամանակն է</string><!--Time is up-->
+    <string name="timer_reminder_tile_setting">Կարգավորումներ</string><!--Settings-->
+    
+<!-- below is removed by common string, move to local -->
+    <string-array name="days_of_week_short">
+        <item>@string/tm_mon</item>
+        <item>@string/tm_tue</item>
+        <item>@string/tm_wed</item>
+        <item>@string/tm_thu</item>
+        <item>@string/tm_fri</item>
+        <item>@string/tm_sat</item>
+        <item>@string/tm_sun</item>
+    </string-array>
+    
+    <string name="tm_mon">Երկ</string><!--Mon-->
+    <string name="tm_tue">Երք</string><!--Tue-->
+    <string name="tm_wed">Չրք</string><!--Wed-->
+    <string name="tm_thu">Հնգ</string><!--Thu-->
+    <string name="tm_fri">Ուրբ</string><!--Fri-->
+    <string name="tm_sat">Շբթ</string><!--Sat-->
+    <string name="tm_sun">Կիր</string><!--Sun-->
+    <string name="tm_10_minutes">10 րոպե</string><!--10 minutes-->
+    <string name="tm_30_minutes">30 րոպե</string><!--30 minutes-->
+    <string name="va_dismiss">Անտեսել</string><!--Dismiss-->
+    <string name="nn_ringtone">Ձայներանգ</string><!--Ringtone-->
+    <string name="nn_music">Երաժշտություն</string><!--Music-->
+<!-- AccountManager: In loginSettings activity: Label for "Done" button item -->
+    <string name="bt_done_str">Արված է</string><!--Done-->
+    <string name="tm_am">AM</string><!--AM-->
+    <string name="tm_pm">PM</string><!--PM-->
+<!-- Lable for phone number type: Home number -->
+    <string name="phone_type_home">Տուն</string><!--Home-->
+<!-- Dialog Yes button -->
+    <string name="dialog_button_ok">Լավ</string><!--OK-->
+<!-- AccountManager: In loginSettings activity: Label for "Cancel" button item -->
+    <string name="bt_cancel_str">Չեղարկել</string><!--Cancel-->
+<!-- To snooze a notification -->
+    <string name="snooze">Նիրհել</string><!--Snooze-->
+<!-- The default hint on lockscreen to indicate what to do. Drag down the arc are to dismiss current reminder. -->
+    <string name="lockscreen_hint_dismiss">Քաշեք վար` անտեսելու համար</string><!--Drag down to dismiss-->
+    <string name="nn_alarm">Զարթեցուցիչ</string><!--Alarm-->
+    <string name="tm_today">Այսօր</string><!--Today-->
+    <string name="tm_yesterday">Երեկ</string><!--Yesterday-->
+    <string name="tm_tomorrow">Վաղը</string><!--Tomorrow-->
+    <string name="tm_current">Ընթացիկ</string><!--Current-->
+    <string name="va_rearrange">Վերաասավորել</string><!--Rearrange-->
+    <string name="va_edit">Խմբագրել</string><!--Edit-->
+    <string name="va_select_all">Ընտրել բոլորը</string><!--Select all-->
+    <string name="va_deselect_all">Ապընտրել բոլորը</string><!--Deselect all-->
+    <string name="nn_description">Նկարագրություն</string><!--Description-->
+    <string name="tm_1_day">1 օր</string><!--1 day-->
+    <string name="tm_1_hour">1 ժամ</string><!--1 hour-->
+    <string name="tm_1_minute">1 րոպե</string><!--1 minute-->
+    <string name="st_on">Միաց</string><!--On-->
+    <string name="st_off">Անջատ</string><!--Off-->
+    <string name="st_never">Երբեք</string><!--Never-->
+    <string name="va_add">Հավելել</string><!--Add-->
+    <string name="va_edit_tabs">Խմբագրել ներդիրներ</string><!--Edit tabs-->
+    <string name="ls_no_weather_data_available">Եղանակի տվյալներն անմատչելի են</string><!--No weather data available-->
+    <string name="st_storage_full">Պահեստը լցված է</string><!--Storage full-->
+    <string name="nn_settings">Կարգավորումներ</string><!--Settings-->
+<!-- [Add][Start] add "Tips & Help" by Yami Day's request -->
+    <string name="nn_tips_help">Հուշակներ և Օգնություն</string><!--Tips &amp; Help-->
+<!-- [Add][End] add "Tips & Help" by Yami Day's request -->
+<!-- [Gallery OpenSense - GA50 Skyer_Tai] Warning message for low internal memory scenario -->
+    <string name="internal_memory_low">Ձեր հեռախոսի պահեստի տարածքն անբավարար է: Ազատեք որոշ տարածք նախքան այս գործադիրն օգտագործելը:</string><!--Your phone is low on storage space. Please make some free space before using this application.-->
+    <string name="st_default">Սկզբնադիր</string><!--Default-->
+<!-- [Add][Start] Add for ContentUri, called back from soundPicker(Mail/Calendar/Message) -->
+    <string name="st_silent">Համրեցված</string><!--Silent-->
+<!-- [Add][End] Add for ContentUri, called back from soundPicker(Mail/Calendar/Message) -->
+    <string name="st_more">Ավելին</string><!--More-->
+
+<!-- Labels for Set Alarm preference : OffAlarm -->
+    <string name="alarm_offalarm">Ձայնը, երբ հեռախոսն անջատած է</string><!--Sound when phone off-->
+
+<!-- Dialog title for describe that this app needs additional permission -->
+    
+<!-- Do not translate -->
+	<!--<string name="clock_permission_dialog_title">@string/htc_private_app_clock</string>-->
+    
+<!-- Dialog content for describe that this app needs additional permission -->
+    <string name="clock_permission_dialog_content">Ճիշտ աշխատանքի համար այս ծառայությունը պետք է մատչի ձեր պահեստը: Կառավարեք Ժամացույցի թույլտվությունները Կարգավորումներում:</string><!--To work properly, this app needs to access your storage. You can manage Clock\'s permissions in Settings.-->
+<!-- [Button] Dialog button to bring user to Settings page -->
+    <string name="clock_permission_dialog_btn_settings">Կարգավորումներ</string><!--Settings-->
+<!-- [Button] Dialog button to close dialog -->
+    <string name="clock_permission_dialog_btn_close">Փակել</string><!--Close-->
+    
+<!-- location setting -->
+<!-- Dialog title to ask user to turn on network location provider -->
+    <string name="location_dialog_title">Տեղորոշման կարգավորումներն անջատված են</string><!--Location services are off-->
+<!-- Dialog content to ask user to turn on network location provider -->
+    <string name="location_dialog_msg">Տեղական եղանակի տեսության համար փոխեք ձեր տեղադրության կարգավորումները մարտկոցի խնայման կամ ճշգրիտ ռեժիմի:</string><!--To get local weather, change your location settings to battery saving or high accuracy mode.-->
+</resources>
+
+
+

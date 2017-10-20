@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="@dimen/libmasthead_masthead_widget_padding_top"
+    android:layout_marginBottom="@dimen/libmasthead_masthead_widget_padding_bottom"
+    android:visibility="gone">
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"  >
+        <RelativeLayout
+            android:id="@+id/widget_1"
+            android:layout_width="@dimen/dualclock_clocklayout_width"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/dualclock_clocklayout_margin_left1"
+            android:paddingLeft="@dimen/theme_italic_padding">
+            <include
+                android:id="@+id/digital_clock_left"
+                layout="@layout/specific_theme0_clock_dual_4x1_travel" />
+            <include 
+                layout="@layout/specific_theme0_clock_dual_4x1_info" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/widget_2"
+            android:layout_width="@dimen/dualclock_clocklayout_width"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/widget_1"
+            android:layout_marginLeft="@dimen/dualclock_clocklayout_margin_left2"
+            android:paddingLeft="@dimen/theme_italic_padding">
+            <include
+                android:id="@+id/digital_clock_right"
+                layout="@layout/specific_theme0_clock_dual_4x1_travel" />
+            <include 
+                layout="@layout/specific_theme0_clock_dual_4x1_info" />
+        </RelativeLayout>
+    </RelativeLayout>
+</RelativeLayout>
+<!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/layout/specific_theme0_clock_dual_4x1.xml -->

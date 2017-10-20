@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="googleplay_title">Ρολόι HTC</string><!--HTC Clock-->
+    <string name="googleplay_whatsnew">- Οι αφυπνίσεις ακούγονται σταδιακά πιο δυνατά\n- Διορθώσεις σφαλμάτων και βελτιώσεις απόδοσης</string><!---/ Alarms gradually get louder\n-/ Bug fixes and performance improvements-->
+	
+<!-- Description for Clock APP -->
+    <string name="googleplay_description_app">Είστε βρίσκεστε στην Ταϊπέι της Ταϊβάν είτε στο Μαρακές του Μαρόκο, το Ρολόι HTC σας επιτρέπει να βλέπετε την ώρα στην τοποθεσία που βρίσκεστε, στη χώρα σας και σε διάφορες πόλεις σε ολόκληρο τον κόσμο. Οι προσαρμοζόμενες αφυπνίσεις, το χρονόμετρο και ο χρονοδιακόπτης του σας επιτρέπουν επίσης να έχετε τη διαχείριση του χρόνου υπό τον απόλυτο έλεγχό σας. Ορίστε όσες αφυπνίσεις θέλετε, αλλάξτε τη διάρκεια της αναβολής, επιλέξτε τον ήχο που θα ακούγεται όταν ενεργοποιείται η αφύπνιση και κάντε τον ήχο αφύπνισης να ακούγεται ακόμα και όταν το τηλέφωνό σας βρίσκεται στην αθόρυβη λειτουργία. Το χρονόμετρο της εφαρμογής Ρολό HTC είναι εξαιρετικό στην καταγραφή χρόνων όταν γυμνάζεστε, και ο χρονοδιακόπτης του είναι πρακτικός στο μαγείρεμα ή στην παρακολούθηση του χρόνου μπροστά στην τηλεόραση.</string><!--Whether you\'re in Taipei, Taiwan or Marrakech, Morocco, HTC Clock lets you check the time in your current location, at home and in cities around the world. Its customizable alarms, stopwatch and timer put the power of time management in your pocket, too. Set as many alarms as you like, change the snooze duration, choose the sound that plays when alarms go off and even make alarms sound when your phone is on silent. HTC Clock\'s stopwatch is great for recording laps while working out, and the timer is handy for cooking or monitoring time in front of the TV.-->
+<!-- Description for Clock SupportingScope -->
+	<string name="googleplay_description_supportingScope"></string>
+<!-- Description for Clock Legal -->
+    <string name="googleplay_description_legal">[googleplay_description_legal_common_1]</string>
+    <string name="googleplay_description_short">Παρακολ. χρόνου με το κομψό χρονόμ. HTC, το χρον/πτη, το ξυπν. &amp; το παγκ. ρολόι.</string><!--Keep track of time with HTC\'s sleek stopwatch, timer, alarm and world clock.-->
+</resources>
+

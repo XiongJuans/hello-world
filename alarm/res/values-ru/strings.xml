@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+<!-- Title of DeskClock -->
+	<string name="desk_clock_caption">Настольные часы</string><!--Desk Clock-->
+
+<!-- Desk Clock -->
+    <string name="night_clock">@string/desk_clock_caption</string>
+
+<!-- Title of WorldClock -->
+	<string name="world_clock_caption">Мировое время</string><!--World Clock-->
+    
+<!-- Sublevel title on WorldClock : Add City-->
+    <string name="add_city">Добавить город</string><!--Add city-->
+
+<!-- The hint for smart search and menu item -->
+    <string name="addcity_search">Поиск информации о городах</string><!--Search cities-->
+
+<!-- Error notification when there is no city found -->
+    <string name="city_not_found">Город не найден</string><!--CITY NOT FOUND-->
+    
+<!-- Title of Delete City -->
+	<string name="delete_city_caption">Удалить города</string><!--Delete cities-->
+    
+<!-- Title of Rearrange City -->
+	<string name="rearrange_city_caption">Изменить список</string><!--Edit list-->
+	
+<!-- Menu item on WorldClock : Home Settings -->
+	<string name="home_settings">Задать домашний часовой пояс</string><!--Set home time zone-->
+	
+<!-- Menu item on WorldClock : Current Location Time Settings -->
+	<string name="current_settings">Установить дату и время</string><!--Set date &amp; time-->
+	
+<!-- Title of Stopwatch -->
+	<string name="stopwatch_caption">Секундомер</string><!--Stopwatch-->
+	
+<!-- Button : Start stopwatch -->
+	<string name="start">Пуск</string><!--Start-->
+
+<!-- Button : Pause stopwatch -->
+    <string name="pause">Приостановить</string><!--Pause-->
+
+<!-- Button : Resume stopwatch -->
+    <string name="resume">Возобновить</string><!--Resume-->
+    
+<!-- Button : Reset stopwatch -->
+    <string name="reset">Сброс</string><!--Reset-->
+    
+<!-- Button : Stop stopwatch -->
+    <string name="stop">Стоп</string><!--Stop-->   
+
+<!-- Button : Lap stopwatch -->
+    <string name="lap">Круг</string><!--Lap-->
+
+<!-- Title of AlarmClock -->
+	<string name="alarm_caption">Будильники</string><!--Alarms-->
+	
+<!-- Title of AlarmClock Setting -->
+	<string name="set_alarm_caption">Установка будильника</string><!--Set alarm-->
+	
+<!-- Title of Delete Alarm -->
+	<string name="delete_alarm_caption">Удаление будильника</string><!--Delete alarms-->
+	
+<!-- Sublevel title on AlarmClock : Add alarm-->
+    <string name="add_alarm">Добавить будильник</string><!--Add alarm-->
+    
+<!-- Alert message of adding too many alarms -->
+    <string name="add_alarm_error">Настроено максимальное число будильников.</string><!--Maximum number of alarms reached.-->
+
+<!-- Labels for Set Alarm preference : Ringtone -->
+    <string name="alarm_ringtone">Звук сигнала</string><!--Alarm sound-->
+    
+<!-- Labels for Set Alarm preference : Repeat -->
+    <string name="alarm_repeat">Повторить</string><!--Repeat-->
+    
+<!-- Labels for Set Alarm preference : Vibrate -->
+    <string name="alarm_vibrate">Вибрация</string><!--Vibrate-->
+
+<!-- Alarm Alert screen: this message is shown after an alarm rung unattended for a number of minutes.  It tells the user that the alarm has been silenced.-->
+    <string name="alarm_alert_alert_silenced">Отключить сигнал через <xliff:g id="minutes">%d</xliff:g> мин.</string><!--Alarm silenced after <xliff:g id="minutes">%d</xliff:g> minutes.-->
+	
+<!-- Notification when user sets snooze successfully -->
+    <string name="alarm_alert_snooze_set">Отложить на <xliff:g id="minutes">%d</xliff:g> мин.</string><!--Snoozing for <xliff:g id="minutes">%d</xliff:g> minutes.-->
+    
+<!-- Notification when user sets snooze unsuccessfully -->
+    <string name="alarm_alert_snooze_not_set">Не установлено время повтора сигнала. Следующий сигнал установлен на <xliff:g id="time">%s</xliff:g></string><!--Snooze not set. Next alarm set for <xliff:g id="time">%s</xliff:g>-->
+    
+<!-- Notification when alarm is dismissed -->
+    <string name="alarm_alert_dismissed">Сигнал отключен</string><!--Alarm dismissed.-->
+
+<!-- Text for alarm confirmation toast -->
+    <string name="alarm_set">Этот сигнал установлен на <xliff:g id="time_delta">%s</xliff:g> от текущего времени.</string><!--This alarm is set for <xliff:g id="time_delta">%s</xliff:g> from now.-->
+
+<!-- Text for alarm confirmation toast : days -->
+    <string name="days">&quot;<xliff:g id="days">%s</xliff:g> дн."</string><!--"<xliff:g id="days">%s</xliff:g> days"-->
+    
+<!-- Text for alarm confirmation toast : hours -->
+    <string name="hours"><xliff:g id="hours">%s</xliff:g> час.</string><!--<xliff:g id="hours">%s</xliff:g> hours-->
+    
+<!-- Text for alarm confirmation toast : and -->
+    <string name="and">&quot; и &quot;</string><!--" and "-->
+    
+<!-- Text for alarm confirmation toast : space-->
+    <string name="space">&quot; &quot;</string><!--" "-->
+    
+<!-- Text for alarm confirmation toast : less than 1 minute-->
+    <string name="subminute">&quot;меньше 1 минуты&quot;</string><!--"less than 1 minute"-->
+
+<!-- Text for alarm confirmation toast : minutes-->
+    <string name="minutes">&quot;<xliff:g id="minutes">%s</xliff:g> мин."</string><!--"<xliff:g id="minutes">%s</xliff:g> minutes"-->
+
+<!-- Notification of next alarm time -->
+    <string name="nextAlarm">Следующий сигнал: <xliff:g id="next_alarm_time">%s</xliff:g></string><!--Next alarm: <xliff:g id="next_alarm_time">%s</xliff:g>-->
+
+<!-- Repeat frequency of alarms : every day -->
+    <string name="every_day">Ежедневно</string><!--Every day-->
+
+<!-- Day concat of alarm repeat frequency -->
+    <string name="day_concat">&quot;, &quot;</string><!--", "-->
+
+<!-- Error Dialog when alarm is not set -->
+    <string name="error">Не удалось добавить сигнал</string><!--Unable to add alarm-->
+
+<!-- Error Dialog of database error -->
+    <string name="dberror">Не удалось установить сигнал.</string><!--Sorry, the alarm could not be set.-->
+	
+<!-- Days of week -->
+    <string-array name="days_of_week">
+        <item>Понедельник</item><!--MONDAY-->
+        <item>Вторник</item><!--TUESDAY-->
+        <item>Среда</item><!--WEDNESDAY-->
+        <item>Четверг</item><!--THURSDAY-->
+        <item>Пятница</item><!--FRIDAY-->
+        <item>Суббота</item><!--SATURDAY-->
+        <item>Воскресенье</item><!--SUNDAY-->
+    </string-array>
+    
+<!-- Month of year : short -->
+    <string-array name="month_of_year">
+    	<item>Янв</item><!--JAN-->
+    	<item>ФЕВ</item><!--FEB-->
+    	<item>Мар</item><!--MAR-->
+    	<item>Апр</item><!--APR-->
+    	<item>Май</item><!--MAY-->
+    	<item>Июн</item><!--JUN-->
+    	<item>Июл</item><!--JUL-->
+    	<item>Авг</item><!--AUG-->
+    	<item>Сен</item><!--SEP-->
+    	<item>Окт</item><!--OCT-->
+    	<item>Ноя</item><!--NOV-->
+    	<item>Дек</item><!--DEC-->
+    </string-array>
+    
+<!-- Days of week for WorldClock -->
+    <string-array name="days_of_week_capital">
+        <item></item><!---->
+        <item>Вс</item><!--SUN-->
+        <item>Пн</item><!--MON-->
+        <item>Вт</item><!--TUE-->
+        <item>Ср</item><!--WED-->
+        <item>Чт</item><!--THU-->
+        <item>Пт</item><!--FRI-->
+        <item>Сб</item><!--SAT-->
+    </string-array> 
+<!-- Whole Days of week for WorldClock -->
+    <string-array name="days_of_week_whole_capital">
+        <item></item>
+        <item>Воскресенье</item><!--SUNDAY-->
+        <item>Понедельник</item><!--MONDAY-->
+        <item>Вторник</item><!--TUESDAY-->
+        <item>Среда</item><!--WEDNESDAY-->
+        <item>Четверг</item><!--THURSDAY-->
+        <item>Пятница</item><!--FRIDAY-->
+        <item>Суббота</item><!--SATURDAY-->
+    </string-array>
+    
+<!-- Repeat Options -->
+    <string-array name="repeat_option">
+        <item>Пн-пт</item><!--Mon -/ Fri-->
+        <item>Не повторять</item><!--Do not repeat-->
+        <item>Ежедневно</item><!--Every day-->
+        <item>Пропускать выходные</item><!--Skip holidays-->
+        <item>Пользовательский</item><!--Custom-->
+    </string-array>
+    
+<!-- Title of Timer -->
+    <string name="timer_caption">Таймер</string><!--Timer-->
+    
+<!-- Labels for Set Timer preference : Alert Sound -->
+    <string name="alert_sound">Звук будильника</string><!--Alarm sound-->
+    
+<!-- Title of alert dialog when timer expires -->
+    <string name="time_up">Время истекло!</string><!--Time\'s up!-->
+    
+<!-- Application name -->
+	<string name="htc_private_app_clock">Часы</string><!--Clock-->
+
+<!-- Message for user when loading cities -->
+	<string name="loading_city">Загружается список городов...</string><!--Loading city list...-->
+	
+<!-- Error title for full internal storage -->
+	<string name="error_title">Ошибка базы данных</string><!--Database error-->
+	
+<!-- Error message for failing querying db -->
+	<string name="query_fail">Ошибки при доступе к базе данных</string><!--Errors occurred while accessing the database-->
+	
+<!-- Title for selecting alarm ringtone -->
+    <string name="select_ringtone">Выберите звук сигнала</string><!--Select alarm sound-->
+
+<!-- Title of ringtone picker -->
+    <string name="select_alert">Выберите звук оповещения</string><!--Select alert sound-->
+    
+<!-- Days of week : abbreviate -->
+    <string-array name="days_of_week_abbr">
+        <item>Пн</item><!--M-->
+        <item>Вт</item><!--TU-->
+        <item>Ср</item><!--W-->
+        <item>Чт</item><!--TH-->
+        <item>Пт</item><!--F-->
+        <item>С</item><!--SA-->
+        <item>В</item><!--SU-->
+    </string-array>
+    
+<!-- Title in Google Gadget -->
+    <string name="analog_gadget">Стрелочные часы</string><!--Analog Clock-->
+    
+<!-- Error Dialog when city is not added -->
+    <string name="add_city_error_title">Не удается добавить город.</string><!--Unable to add city-->
+    
+<!-- Error Dialog of adding too many cities -->
+    <string name="add_city_error_msg">Можно добавить не более 15 городов. Чтобы добавить новый, удалите один из уже заданных.</string><!--You can have a maximum of 15 cities. To add a new one, please delete an existing city.-->
+    
+<!-- Alert message of adding duplicate city -->
+    <string name="city_duplicate">Этот город уже есть в списке</string><!--This city is already in the list-->
+
+<!-- start: Merge alarm Clock Settings -->
+<!-- alarm_in_volume_increase_mode -->
+    <string name="alarm_in_volume_increase_mode_title">«Мягкий» сигнал</string><!--Gentle alarm-->
+    
+<!-- Gradually increase alarm volume -->
+    <string name="alarm_in_volume_increase_mode_summary">Постепенное повышение громкости будильника</string><!--Gradually increase alarm volume-->
+    
+<!-- Alarm volume -->
+    <string name="alarm_volume_title">Громкость будильника</string><!--Alarm volume-->
+
+<!-- Set the volume of alarms -->
+    <string name="alarm_volume_summary">Установить громкость сигналов</string><!--Set the volume of alarms-->
+
+<!-- Snooze duration -->
+    <string name="snooze_duration_title">Длительность повтора отложенного сигнала</string><!--Snooze duration-->
+
+<!-- Entries listed in the ListPreference when invoking the snooze duration preference. -->
+    <string-array name="snooze_duration_entries">
+      <item>5 минут</item><!--5 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_10_minutes</item>
+      <item>15 минут</item><!--15 minutes-->
+      <item>20 минут</item><!--20 minutes-->
+      <item>25 минут</item><!--25 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_30_minutes</item>
+    </string-array>
+    
+<!-- Side button behavior -->
+    <string name="volume_button_setting_title">Настройка клавиш громкости</string><!--Volume button options-->
+
+<!-- Entries listed in the setting for the side-button action. -->
+    <string-array name="volume_button_setting_entries">
+      <item>Ничего не делать</item><!--Do nothing-->
+
+      <item>Отложить</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+    </string-array>
+
+<!-- Entries listed in the setting for the side-button action. -->
+    <string-array name="sprint_volume_button_setting_entries">
+      <item>Ничего не делать</item><!--Do nothing-->
+
+      <item>Отложить</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+
+      <item>Заглушить</item><!--Silence-->
+    </string-array>
+
+<!-- The summary of the side button setting. -->
+    <string name="volume_button_setting_summary">Выберите действие для кнопок громкости  во время сигнала будильника</string><!--Choose what the volume buttons do when pressed during an alarm-->
+<!-- end: Merge alarm Clock Settings -->
+        
+<!-- The indicator for High temperature -->
+    <string name="weather_high_indicator">Выс.:</string><!--H:-->
+    
+<!-- The indicator for Low temperature -->
+    <string name="weather_low_indicator">Низ.:</string><!--L:-->   
+
+<!-- Text to display in the notification ticker and label -->
+    <string name="alarm_notify_snooze_label"><xliff:g id="label">%s</xliff:g> (отложено)</string><!--<xliff:g id="label">%s</xliff:g> (snoozed)-->
+
+<!-- Text to display in the notification when the alarm has been snoozed -->
+    <string name="alarm_notify_snooze_text">Будильник установлен на <xliff:g id="time">%s</xliff:g>. Нажмите для отмены.</string><!--Alarm set for <xliff:g id="time">%s</xliff:g>. Tap to cancel.-->
+
+<!-- Alarm Off -->
+    <string name="alarm_off">Выкл.</string><!--Alarm Off-->
+<!-- Alarm On -->
+    <string name="alarm_on">Вкл.сигн.</string><!--Alarm On-->
+    
+<!-- Select alarm sound from -->
+    <string name="sound_selection_title">Выберите звук будильника из</string><!--Select alarm sound from-->
+<!-- Ringtones -->
+    <string name="ringtone_title">Мелодии звонка</string><!--Ringtones-->
+
+<!-- Entries listed in the setting for the clock sound selection. -->
+    <string-array name="sound_selection_setting_entries">
+<!-- Alarm sound -->
+      <item>Звук будильника</item><!--Alarm sound-->
+<!-- Do not translate. Ringtone -->
+      <item>@string/nn_ringtone</item>
+<!-- Do not translate. Music -->
+      <item>@string/nn_music</item>
+    </string-array>
+
+<!-- Labels for Stopwatch : Total-->
+    <string name="total_title">Итого</string><!--Total-->
+    
+<!-- Labels for Stopwatch : Lap-->
+    <string name="lap_title">Круг</string><!--Lap-->
+
+<!-- Labels for Stopwatch : Lap ID-->
+    <string name="lap_id">Круг #</string><!--Lap #-->
+    
+<!-- Labels for Stopwatch : Running total-->
+    <string name="lap_total_time">Всего</string><!--Total-->
+    
+<!-- Labels for Stopwatch : This lap-->
+    <string name="lap_time">Рез.круга</string><!--This lap-->
+    
+<!-- Error Dialog when lap is not set -->
+    <string name="lap_error">Круг не сохранён</string><!--Lap not saved-->
+    
+<!-- Alert message of adding too many laps -->
+    <string name="add_lap_error">Секундомер может сохранить не более 300 кругов. Нажмите «Сброс» для очистки журнала.</string><!--Stopwatch can save a maximum of 300 laps. Tap Reset to clear lap history.-->
+    
+<!-- Tips for Weather Location : Location Enable -->
+    <string name="location_enable">Чтобы узнать прогноз погоды для текущего места,включите службу определения координат.</string><!--To see local weather,\ntap here to turn on Location Service.-->
+
+<!-- menu item for Full screen -->
+    <string name="full_screen_menu_item">Во весь экран</string><!--Full screen-->
+<!-- menu item for Fit screen -->
+    <string name="fit_screen_menu_item">По размеру экрана</string><!--Fit screen-->
+<!-- Storage low dialog -->
+    <string name="storage_full_description">В памяти телефона недостаточно свободного места. Удалите некоторые файлы или приложения. Для управления приложениями нажмите «Настройки» ниже.</string><!--You don\'t have enough free space remaining in your phone\'s storage.Please delete some content or applications.Tap \"Settings\" below to manage your apps.-->
+    
+<!-- for timer -->
+    <string name="timer_reminder_tile_timer_up">Время истекло</string><!--Time is up-->
+    <string name="timer_reminder_tile_setting">Настройки</string><!--Settings-->
+    
+<!-- below is removed by common string, move to local -->
+    <string-array name="days_of_week_short">
+        <item>@string/tm_mon</item>
+        <item>@string/tm_tue</item>
+        <item>@string/tm_wed</item>
+        <item>@string/tm_thu</item>
+        <item>@string/tm_fri</item>
+        <item>@string/tm_sat</item>
+        <item>@string/tm_sun</item>
+    </string-array>
+    
+    <string name="tm_mon">Пн</string><!--Mon-->
+    <string name="tm_tue">Вт</string><!--Tue-->
+    <string name="tm_wed">Ср</string><!--Wed-->
+    <string name="tm_thu">Чт</string><!--Thu-->
+    <string name="tm_fri">Пт</string><!--Fri-->
+    <string name="tm_sat">Сб</string><!--Sat-->
+    <string name="tm_sun">Вс</string><!--Sun-->
+    <string name="tm_10_minutes">10 минут</string><!--10 minutes-->
+    <string name="tm_30_minutes">30 минут</string><!--30 minutes-->
+    <string name="va_dismiss">Закрыть</string><!--Dismiss-->
+    <string name="nn_ringtone">Мелодия звонка</string><!--Ringtone-->
+    <string name="nn_music">Музыка</string><!--Music-->
+<!-- AccountManager: In loginSettings activity: Label for "Done" button item -->
+    <string name="bt_done_str">Готово</string><!--Done-->
+    <string name="tm_am">ДП</string><!--AM-->
+    <string name="tm_pm">ПП</string><!--PM-->
+<!-- Lable for phone number type: Home number -->
+    <string name="phone_type_home">Домашний</string><!--Home-->
+<!-- Dialog Yes button -->
+    <string name="dialog_button_ok">OK</string><!--OK-->
+<!-- AccountManager: In loginSettings activity: Label for "Cancel" button item -->
+    <string name="bt_cancel_str">Отмена</string><!--Cancel-->
+<!-- To snooze a notification -->
+    <string name="snooze">Отложить</string><!--Snooze-->
+<!-- The default hint on lockscreen to indicate what to do. Drag down the arc are to dismiss current reminder. -->
+    <string name="lockscreen_hint_dismiss">Ведите вниз для отключения </string><!--Drag down to dismiss-->
+    <string name="nn_alarm">Сигнал</string><!--Alarm-->
+    <string name="tm_today">Сегодня</string><!--Today-->
+    <string name="tm_yesterday">Вчера</string><!--Yesterday-->
+    <string name="tm_tomorrow">Завтра</string><!--Tomorrow-->
+    <string name="tm_current">Текущее</string><!--Current-->
+    <string name="va_rearrange">Переупорядочить</string><!--Rearrange-->
+    <string name="va_edit">Изменить</string><!--Edit-->
+    <string name="va_select_all">Выделить все</string><!--Select all-->
+    <string name="va_deselect_all">Снять всё выделение</string><!--Deselect all-->
+    <string name="nn_description">Описание</string><!--Description-->
+    <string name="tm_1_day">1 день</string><!--1 day-->
+    <string name="tm_1_hour">1 час</string><!--1 hour-->
+    <string name="tm_1_minute">за 1 минуту</string><!--1 minute-->
+    <string name="st_on">Вкл.</string><!--On-->
+    <string name="st_off">Выкл.</string><!--Off-->
+    <string name="st_never">Никогда</string><!--Never-->
+    <string name="va_add">Добавить</string><!--Add-->
+    <string name="va_edit_tabs">Изменить вкладки</string><!--Edit tabs-->
+    <string name="ls_no_weather_data_available">Прогноз погоды недоступен</string><!--No weather data available-->
+    <string name="st_storage_full">Память заполнена</string><!--Storage full-->
+    <string name="nn_settings">Настройки</string><!--Settings-->
+<!-- [Add][Start] add "Tips & Help" by Yami Day's request -->
+    <string name="nn_tips_help">Советы и справка</string><!--Tips &amp; Help-->
+<!-- [Add][End] add "Tips & Help" by Yami Day's request -->
+<!-- [Gallery OpenSense - GA50 Skyer_Tai] Warning message for low internal memory scenario -->
+    <string name="internal_memory_low">В телефоне недостаточно свободной памяти. Освободите память перед использованием этого приложения.</string><!--Your phone is low on storage space. Please make some free space before using this application.-->
+    <string name="st_default">По умолчанию</string><!--Default-->
+<!-- [Add][Start] Add for ContentUri, called back from soundPicker(Mail/Calendar/Message) -->
+    <string name="st_silent">Тишина</string><!--Silent-->
+<!-- [Add][End] Add for ContentUri, called back from soundPicker(Mail/Calendar/Message) -->
+    <string name="st_more">Больше</string><!--More-->
+
+<!-- Labels for Set Alarm preference : OffAlarm -->
+    <string name="alarm_offalarm">Звук при выключении телефона</string><!--Sound when phone off-->
+
+<!-- Dialog title for describe that this app needs additional permission -->
+    
+<!-- Do not translate -->
+	<!--<string name="clock_permission_dialog_title">@string/htc_private_app_clock</string>-->
+    
+<!-- Dialog content for describe that this app needs additional permission -->
+    <string name="clock_permission_dialog_content">Для правильной работы этому приложению требуется доступ к памяти вашего устройства. Настроить разрешения можно на странице «Настройки».</string><!--To work properly, this app needs to access your storage. You can manage Clock\'s permissions in Settings.-->
+<!-- [Button] Dialog button to bring user to Settings page -->
+    <string name="clock_permission_dialog_btn_settings">Настройки</string><!--Settings-->
+<!-- [Button] Dialog button to close dialog -->
+    <string name="clock_permission_dialog_btn_close">Закрыть</string><!--Close-->
+    
+<!-- location setting -->
+<!-- Dialog title to ask user to turn on network location provider -->
+    <string name="location_dialog_title">Службы определения координат отключены</string><!--Location services are off-->
+<!-- Dialog content to ask user to turn on network location provider -->
+    <string name="location_dialog_msg">Для получения местных метеоданных выберите в настройках местоположения режимы «Экономичный», либо «Повышенная точность».</string><!--To get local weather, change your location settings to battery saving or high accuracy mode.-->
+</resources>
+
+
+

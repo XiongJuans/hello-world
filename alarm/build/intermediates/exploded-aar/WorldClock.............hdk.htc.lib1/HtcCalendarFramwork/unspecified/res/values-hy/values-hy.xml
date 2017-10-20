@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-hy/arrays.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>ամեն ամսվա առաջին ուրբաթ</item><!--on every first Friday-->
+        <item>ամեն ամսվա երկրորդ ուրբաթ</item><!--on every second Friday-->
+        <item>ամեն ամսվա երրորդ ուրբաթ</item><!--on every third Friday-->
+        <item>ամեն ամսվա չորրորդ ուրբաթ</item><!--on every fourth Friday-->
+        <item>ամեն ամսվա վերջին ուրբաթ</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>ամեն ամսվա առաջին երկուշաբթի</item><!--on every first Monday-->
+        <item>ամեն ամսվա երկրորդ երկուշաբթի</item><!--on every second Monday-->
+        <item>ամեն ամսվա երրորդ երկուշաբթի</item><!--on every third Monday-->
+        <item>ամեն ամսվա չորրորդ երկուշաբթի</item><!--on every fourth Monday-->
+        <item>ամեն ամսվա վերջին երկուշաբթի</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>ամեն ամսվա առաջին շաբաթ</item><!--on every first Saturday-->
+        <item>ամեն ամսվա երկրորդ շաբաթ</item><!--on every second Saturday-->
+        <item>ամեն ամսվա երրորդ շաբաթ</item><!--on every third Saturday-->
+        <item>ամեն ամսվա չորրորդ շաբաթ</item><!--on every fourth Saturday-->
+        <item>ամեն ամսվա վերջին շաբաթ</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>ամեն ամսվա առաջին կիրակի</item><!--on every first Sunday-->
+        <item>ամեն ամսվա երկրորդ կիրակի</item><!--on every second Sunday-->
+        <item>ամեն ամսվա երրորդ կիրակի</item><!--on every third Sunday-->
+        <item>ամեն ամսվա չորրորդ կիրակի</item><!--on every fourth Sunday-->
+        <item>ամեն ամսվա վերջին կիրակի</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>ամեն ամսվա առաջին հինգշաբթի</item><!--on every first Thursday-->
+        <item>ամեն ամսվա երկրորդ հինգշաբթի</item><!--on every second Thursday-->
+        <item>ամեն ամսվա երրորդ հինգշաբթի</item><!--on every third Thursday-->
+        <item>ամեն ամսվա չորրորդ հինգշաբթի</item><!--on every fourth Thursday-->
+        <item>ամեն ամսվա վերջին հինգշաբթի</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>ամեն ամսվա առաջին երեքշաբթիի</item><!--on every first Tuesday-->
+        <item>ամեն ամսվա երկրորդ երեքշաբթիի</item><!--on every second Tuesday-->
+        <item>ամեն ամսվա երրորդ երեքշաբթիի</item><!--on every third Tuesday-->
+        <item>ամեն ամսվա չորրորդ երեքշաբթիի</item><!--on every fourth Tuesday-->
+        <item>ամեն ամսվա վերջին երեքշաբթիի</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>ամեն ամսվա առաջին չորեքշաբթի</item><!--on every first Wednesday-->
+        <item>ամեն ամսվա երկրորդ չորեքշաբթի</item><!--on every second Wednesday-->
+        <item>ամեն ամսվա երրորդ չորեքշաբթի</item><!--on every third Wednesday-->
+        <item>ամեն ամսվա չորրորդ չորեքշաբթի</item><!--on every fourth Wednesday-->
+        <item>ամեն ամսվա վերջին չորեքշաբթի</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-hy/strings.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">մեկ անգամ</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> անգամ</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Ամեն <ns1:g id="count">%d</ns1:g> օր</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Ամեն <ns1:g id="count">%d</ns1:g> օր</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Ամեն <ns1:g id="count">%d</ns1:g> ամիս</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Ամեն <ns1:g id="count">%d</ns1:g> ամիս</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Ամեն <ns1:g id="count">%d</ns1:g> շաբաթ</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Ամեն <ns1:g id="count">%d</ns1:g> շաբաթ</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Ամեն <ns1:g id="count">%d</ns1:g> տարի</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Ամեն <ns1:g id="count">%d</ns1:g> տարի</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">Ամեն շաբաթ <ns1:g id="days_of_week">%2$s</ns1:g>-ում</item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other">Ամեն <ns1:g id="number">%1$d</ns1:g> շաբաթ <ns1:g id="days_of_week">%2$s</ns1:g>-ում</item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <string name="every_weekday">"Ամեն աշխատանքային օր (Երկ\u2013Ուրբ)"</string>
+    <string name="monthly">Ամսական</string>
+    <string name="monthly_on_day_count">"Ամսական (Ամեն <ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g>)"</string>
+    <string name="tm_daily">"Օրական"</string>
+    <string name="yearly_plain">Տարեկան</string>
+</resources>

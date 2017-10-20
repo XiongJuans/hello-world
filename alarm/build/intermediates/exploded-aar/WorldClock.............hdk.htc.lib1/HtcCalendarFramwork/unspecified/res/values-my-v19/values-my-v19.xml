@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-my-v19/arrays.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>ပထမေသာၾကာေန႔တိုင္း</item><!--on every first Friday-->
+        <item>ဒုတိယေသာၾကာေန႔တိုင္း</item><!--on every second Friday-->
+        <item>တတိယေသာၾကာေန႔တိုင္း</item><!--on every third Friday-->
+        <item>စတုတၳေသာၾကာေန႔တိုင္း</item><!--on every fourth Friday-->
+        <item>ေနာက္ဆုံးေသာၾကာေန႔တိုင္း</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>ပထမတနလၤာေန႔တိုင္း</item><!--on every first Monday-->
+        <item>ဒုတိယတနလၤာေန႔တိုင္း</item><!--on every second Monday-->
+        <item>တတိယတနလၤာေန႔တိုင္း</item><!--on every third Monday-->
+        <item>စတုတၳတနလၤာေန႔တိုင္း</item><!--on every fourth Monday-->
+        <item>ေနာက္ဆုံးတနလၤာေန႔တိုင္း</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>ပထမစေနေန႔တိုင္း</item><!--on every first Saturday-->
+        <item>ဒုတိယစေနေန႔တိုင္း</item><!--on every second Saturday-->
+        <item>တတိယစေနေန႔တိုင္း</item><!--on every third Saturday-->
+        <item>စတုတၳစေနေန႔တိုင္း</item><!--on every fourth Saturday-->
+        <item>ေနာက္ဆုံးစေနေန႔တိုင္း</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>ပထမတနဂၤေႏြေန႔တိုင္း</item><!--on every first Sunday-->
+        <item>ဒုတိယတနဂၤေႏြေန႔တိုင္း</item><!--on every second Sunday-->
+        <item>တတိယတနဂၤေႏြေန႔တိုင္း</item><!--on every third Sunday-->
+        <item>စတုတၳတနဂၤေႏြေန႔တိုင္း</item><!--on every fourth Sunday-->
+        <item>ေနာက္ဆုံးတနဂၤေႏြေန႔တိုင္း</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>ပထမၾကာသပေတးေန႔တိုင္း</item><!--on every first Thursday-->
+        <item>ဒုတိယၾကာသပေတးေန႔တိုင္း</item><!--on every second Thursday-->
+        <item>တတိယၾကာသပေတးေန႔တိုင္း</item><!--on every third Thursday-->
+        <item>စတုတၳၾကာသပေတးေန႔တိုင္း</item><!--on every fourth Thursday-->
+        <item>ေနာက္ဆုံးၾကာသပေတးေန႔တိုင္း</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>ပထမအဂၤါေန႔တိုင္း</item><!--on every first Tuesday-->
+        <item>ဒုတိယအဂၤါေန႔တိုင္း</item><!--on every second Tuesday-->
+        <item>တတိယအဂၤါေန႔တိုင္း</item><!--on every third Tuesday-->
+        <item>စတုတၳအဂၤါေန႔တိုင္း</item><!--on every fourth Tuesday-->
+        <item>ေနာက္ဆုံးအဂၤါေန႔တိုင္း</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>ပထမဗုဒၶဟူးေန႔တိုင္း</item><!--on every first Wednesday-->
+        <item>ဒုတိယဗုဒၶဟူးေန႔တိုင္း</item><!--on every second Wednesday-->
+        <item>တတိယဗုဒၶဟူးေန႔တိုင္း</item><!--on every third Wednesday-->
+        <item>စတုတၳဗုဒၶဟူးေန႔တိုင္း</item><!--on every fourth Wednesday-->
+        <item>ေနာက္ဆုံးဗုဒၶဟူးေန႔တိုင္း</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-my-v19/strings.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">တစ္ႀကိမ္</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> ႀကိမ္</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one"><ns1:g id="count">%d</ns1:g> ေန႔တိုင္း</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other"><ns1:g id="count">%d</ns1:g> ေန႔တိုင္း</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one"><ns1:g id="count">%d</ns1:g> လတိုင္း</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other"><ns1:g id="count">%d</ns1:g> လတိုင္း</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one"><ns1:g id="count">%d</ns1:g> အပတ္တိုင္း</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other"><ns1:g id="count">%d</ns1:g> အပတ္တိုင္း</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one"><ns1:g id="count">%d</ns1:g> ႏွစ္တိုင္း</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other"><ns1:g id="count">%d</ns1:g> ႏွစ္တိုင္း</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">အပတ္စဥ္ <ns1:g id="days_of_week">%2$s</ns1:g> တြင္</item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other"><ns1:g id="number">%1$d</ns1:g> ပတ္ေျမာက္တုိင္း <ns1:g id="days_of_week">%2$s</ns1:g> တြင္</item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <string name="every_weekday">"ဖြင့္ရက္တိုင္း (တနလၤာ\u2013ေသာၾကာ)"</string>
+    <string name="monthly">လစဥ္</string>
+    <string name="monthly_on_day_count">"လစဥ္ (<ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g> တိုင္း)"</string>
+    <string name="tm_daily">"ေန႔စဥ္"</string>
+    <string name="yearly_plain">ႏွစ္စဥ္</string>
+</resources>

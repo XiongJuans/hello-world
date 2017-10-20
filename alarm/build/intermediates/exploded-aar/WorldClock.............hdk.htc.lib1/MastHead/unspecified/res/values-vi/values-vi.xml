@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values-vi/strings.xml -->
+    <eat-comment/>
+    <string name="location_unavailable">Vị trí không sẵn sàng</string>
+    <string name="masthead_st_am">SA</string>
+    <string name="masthead_st_auto_sync_off">Tự động đồng bộ đang tắt. Chạm để xem thời tiết.</string>
+    <string name="masthead_st_current_location">Vị trí hiện tại</string>
+    <string name="masthead_st_device_only_off">Thay đổi chế độ dịch vụ vị trí để lấy thời tiết</string>
+    <string name="masthead_st_location_service_off">Bật dịch vụ vị trí để có thông tin thời tiết</string>
+    <string name="masthead_st_pm">CH</string>
+    <string name="masthead_st_weather_unavailable">Thời tiết chưa sẵn sàng</string>
+</resources>

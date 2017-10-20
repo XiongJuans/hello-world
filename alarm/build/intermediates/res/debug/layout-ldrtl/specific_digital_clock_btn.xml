@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.htc.android.worldclock.utils.DigitalClock
+    xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/common_digital_clock_btn"
+        android:orientation="horizontal" 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:focusable="false">
+
+            <TextView android:id="@+id/am_pm" 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" 
+                android:gravity="left"
+                android:text="@string/am"
+                android:layout_marginTop="@dimen/common_dimen_m3" 
+                android:layout_marginLeft="@dimen/common_dimen_m4"
+                android:layout_marginRight="@dimen/common_dimen_m6"
+                style="@style/fixed_world_clock_05"/>
+            <TextView android:id="@+id/day" 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" 
+                android:gravity="left"
+                android:layout_marginTop="@dimen/digital_day_marginTop" 
+                android:layout_marginLeft="@dimen/common_dimen_m4"
+                android:layout_marginRight="@dimen/common_dimen_m6"
+                style="@style/fixed_world_clock_06"/>
+            
+            <TextView android:id="@+id/timeDisplay"
+	            android:layout_width="wrap_content" 
+	            android:layout_height="wrap_content"
+	            android:layout_centerVertical="true"
+	            android:gravity="left"
+	            android:padding="0px"
+	            android:includeFontPadding="false"
+	            android:layout_marginEnd="@dimen/common_dimen_m4"
+	            android:layout_toRightOf="@id/am_pm"
+	            style="@style/fixed_world_clock_04"/>
+</com.htc.android.worldclock.utils.DigitalClock>
+<!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/layout-ldrtl/specific_digital_clock_btn.xml -->

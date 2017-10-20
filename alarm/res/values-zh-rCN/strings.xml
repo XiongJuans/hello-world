@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+<!-- Title of DeskClock -->
+	<string name="desk_clock_caption">桌面时钟</string><!--Desk Clock-->
+
+<!-- Desk Clock -->
+    <string name="night_clock">@string/desk_clock_caption</string>
+
+<!-- Title of WorldClock -->
+	<string name="world_clock_caption">世界时钟</string><!--World Clock-->
+    
+<!-- Sublevel title on WorldClock : Add City-->
+    <string name="add_city">添加城市</string><!--Add city-->
+
+<!-- The hint for smart search and menu item -->
+    <string name="addcity_search">搜索城市</string><!--Search cities-->
+
+<!-- Error notification when there is no city found -->
+    <string name="city_not_found">未找到城市</string><!--CITY NOT FOUND-->
+    
+<!-- Title of Delete City -->
+	<string name="delete_city_caption">删除城市</string><!--Delete cities-->
+    
+<!-- Title of Rearrange City -->
+	<string name="rearrange_city_caption">编辑列表</string><!--Edit list-->
+	
+<!-- Menu item on WorldClock : Home Settings -->
+	<string name="home_settings">设置居住地时区</string><!--Set home time zone-->
+	
+<!-- Menu item on WorldClock : Current Location Time Settings -->
+	<string name="current_settings">设置日期和时间</string><!--Set date &amp; time-->
+	
+<!-- Title of Stopwatch -->
+	<string name="stopwatch_caption">秒表</string><!--Stopwatch-->
+	
+<!-- Button : Start stopwatch -->
+	<string name="start">开始</string><!--Start-->
+
+<!-- Button : Pause stopwatch -->
+    <string name="pause">暂停</string><!--Pause-->
+
+<!-- Button : Resume stopwatch -->
+    <string name="resume">继续</string><!--Resume-->
+    
+<!-- Button : Reset stopwatch -->
+    <string name="reset">重置</string><!--Reset-->
+    
+<!-- Button : Stop stopwatch -->
+    <string name="stop">停止</string><!--Stop-->   
+
+<!-- Button : Lap stopwatch -->
+    <string name="lap">圈</string><!--Lap-->
+
+<!-- Title of AlarmClock -->
+	<string name="alarm_caption">闹钟</string><!--Alarms-->
+	
+<!-- Title of AlarmClock Setting -->
+	<string name="set_alarm_caption">设置闹钟</string><!--Set alarm-->
+	
+<!-- Title of Delete Alarm -->
+	<string name="delete_alarm_caption">删除闹钟</string><!--Delete alarms-->
+	
+<!-- Sublevel title on AlarmClock : Add alarm-->
+    <string name="add_alarm">添加闹钟</string><!--Add alarm-->
+    
+<!-- Alert message of adding too many alarms -->
+    <string name="add_alarm_error">闹钟数量已达上限。</string><!--Maximum number of alarms reached.-->
+
+<!-- Labels for Set Alarm preference : Ringtone -->
+    <string name="alarm_ringtone">闹铃声音</string><!--Alarm sound-->
+    
+<!-- Labels for Set Alarm preference : Repeat -->
+    <string name="alarm_repeat">重复</string><!--Repeat-->
+    
+<!-- Labels for Set Alarm preference : Vibrate -->
+    <string name="alarm_vibrate">振动</string><!--Vibrate-->
+
+<!-- Alarm Alert screen: this message is shown after an alarm rung unattended for a number of minutes.  It tells the user that the alarm has been silenced.-->
+    <string name="alarm_alert_alert_silenced"><xliff:g id="minutes">%d</xliff:g> 分钟后闹钟停止。</string><!--Alarm silenced after <xliff:g id="minutes">%d</xliff:g> minutes.-->
+	
+<!-- Notification when user sets snooze successfully -->
+    <string name="alarm_alert_snooze_set">推迟 <xliff:g id="minutes">%d</xliff:g> 分钟。</string><!--Snoozing for <xliff:g id="minutes">%d</xliff:g> minutes.-->
+    
+<!-- Notification when user sets snooze unsuccessfully -->
+    <string name="alarm_alert_snooze_not_set">未设置延迟。下次闹钟设置为 <xliff:g id="time">%s</xliff:g></string><!--Snooze not set. Next alarm set for <xliff:g id="time">%s</xliff:g>-->
+    
+<!-- Notification when alarm is dismissed -->
+    <string name="alarm_alert_dismissed">闹钟已关闭。</string><!--Alarm dismissed.-->
+
+<!-- Text for alarm confirmation toast -->
+    <string name="alarm_set">此闹钟设置为自现在起的 <xliff:g id="time_delta">%s</xliff:g>后。</string><!--This alarm is set for <xliff:g id="time_delta">%s</xliff:g> from now.-->
+
+<!-- Text for alarm confirmation toast : days -->
+    <string name="days">&quot;<xliff:g id="days">%s</xliff:g> 天"</string><!--"<xliff:g id="days">%s</xliff:g> days"-->
+    
+<!-- Text for alarm confirmation toast : hours -->
+    <string name="hours"><xliff:g id="hours">%s</xliff:g> 小时</string><!--<xliff:g id="hours">%s</xliff:g> hours-->
+    
+<!-- Text for alarm confirmation toast : and -->
+    <string name="and">&quot; 又 &quot;</string><!--" and "-->
+    
+<!-- Text for alarm confirmation toast : space-->
+    <string name="space">&quot; &quot;</string><!--" "-->
+    
+<!-- Text for alarm confirmation toast : less than 1 minute-->
+    <string name="subminute">&quot;少于1分钟&quot;</string><!--"less than 1 minute"-->
+
+<!-- Text for alarm confirmation toast : minutes-->
+    <string name="minutes">&quot;<xliff:g id="minutes">%s</xliff:g> 分钟"</string><!--"<xliff:g id="minutes">%s</xliff:g> minutes"-->
+
+<!-- Notification of next alarm time -->
+    <string name="nextAlarm">下次闹钟：<xliff:g id="next_alarm_time">%s</xliff:g></string><!--Next alarm: <xliff:g id="next_alarm_time">%s</xliff:g>-->
+
+<!-- Repeat frequency of alarms : every day -->
+    <string name="every_day">每天</string><!--Every day-->
+
+<!-- Day concat of alarm repeat frequency -->
+    <string name="day_concat">&quot;, &quot;</string><!--", "-->
+
+<!-- Error Dialog when alarm is not set -->
+    <string name="error">无法添加闹钟</string><!--Unable to add alarm-->
+
+<!-- Error Dialog of database error -->
+    <string name="dberror">抱歉，无法设置闹钟。</string><!--Sorry, the alarm could not be set.-->
+	
+<!-- Days of week -->
+    <string-array name="days_of_week">
+        <item>周一</item><!--MONDAY-->
+        <item>周二</item><!--TUESDAY-->
+        <item>周三</item><!--WEDNESDAY-->
+        <item>周四</item><!--THURSDAY-->
+        <item>周五</item><!--FRIDAY-->
+        <item>周六</item><!--SATURDAY-->
+        <item>周日</item><!--SUNDAY-->
+    </string-array>
+    
+<!-- Month of year : short -->
+    <string-array name="month_of_year">
+    	<item>一月</item><!--JAN-->
+    	<item>二月</item><!--FEB-->
+    	<item>三月</item><!--MAR-->
+    	<item>四月</item><!--APR-->
+    	<item>五月</item><!--MAY-->
+    	<item>六月</item><!--JUN-->
+    	<item>七月</item><!--JUL-->
+    	<item>八月</item><!--AUG-->
+    	<item>九月</item><!--SEP-->
+    	<item>十月</item><!--OCT-->
+    	<item>十一月</item><!--NOV-->
+    	<item>十二月</item><!--DEC-->
+    </string-array>
+    
+<!-- Days of week for WorldClock -->
+    <string-array name="days_of_week_capital">
+        <item></item><!---->
+        <item>周日</item><!--SUN-->
+        <item>周一</item><!--MON-->
+        <item>周二</item><!--TUE-->
+        <item>周三</item><!--WED-->
+        <item>周四</item><!--THU-->
+        <item>周五</item><!--FRI-->
+        <item>周六</item><!--SAT-->
+    </string-array> 
+<!-- Whole Days of week for WorldClock -->
+    <string-array name="days_of_week_whole_capital">
+        <item></item>
+        <item>周日</item><!--SUNDAY-->
+        <item>周一</item><!--MONDAY-->
+        <item>周二</item><!--TUESDAY-->
+        <item>周三</item><!--WEDNESDAY-->
+        <item>周四</item><!--THURSDAY-->
+        <item>周五</item><!--FRIDAY-->
+        <item>周六</item><!--SATURDAY-->
+    </string-array>
+    
+<!-- Repeat Options -->
+    <string-array name="repeat_option">
+        <item>周一到周五</item><!--Mon -/ Fri-->
+        <item>不要重复</item><!--Do not repeat-->
+        <item>每天</item><!--Every day-->
+        <item>跳过假日</item><!--Skip holidays-->
+        <item>自定义</item><!--Custom-->
+    </string-array>
+    
+<!-- Title of Timer -->
+    <string name="timer_caption">定时器</string><!--Timer-->
+    
+<!-- Labels for Set Timer preference : Alert Sound -->
+    <string name="alert_sound">闹铃声音</string><!--Alarm sound-->
+    
+<!-- Title of alert dialog when timer expires -->
+    <string name="time_up">时间到！</string><!--Time\'s up!-->
+    
+<!-- Application name -->
+	<string name="htc_private_app_clock">时钟</string><!--Clock-->
+
+<!-- Message for user when loading cities -->
+	<string name="loading_city">正在加载城市列表...</string><!--Loading city list...-->
+	
+<!-- Error title for full internal storage -->
+	<string name="error_title">数据库错误</string><!--Database error-->
+	
+<!-- Error message for failing querying db -->
+	<string name="query_fail">访问数据库时出现错误</string><!--Errors occurred while accessing the database-->
+	
+<!-- Title for selecting alarm ringtone -->
+    <string name="select_ringtone">选择闹铃声音</string><!--Select alarm sound-->
+
+<!-- Title of ringtone picker -->
+    <string name="select_alert">选择提示音</string><!--Select alert sound-->
+    
+<!-- Days of week : abbreviate -->
+    <string-array name="days_of_week_abbr">
+        <item>一</item><!--M-->
+        <item>二</item><!--TU-->
+        <item>三</item><!--W-->
+        <item>四</item><!--TH-->
+        <item>五</item><!--F-->
+        <item>六</item><!--SA-->
+        <item>日</item><!--SU-->
+    </string-array>
+    
+<!-- Title in Google Gadget -->
+    <string name="analog_gadget">模拟时钟</string><!--Analog Clock-->
+    
+<!-- Error Dialog when city is not added -->
+    <string name="add_city_error_title">无法添加城市</string><!--Unable to add city-->
+    
+<!-- Error Dialog of adding too many cities -->
+    <string name="add_city_error_msg">您最多可选择 15 个城市。要增加新城市，请删除一个现有的。</string><!--You can have a maximum of 15 cities. To add a new one, please delete an existing city.-->
+    
+<!-- Alert message of adding duplicate city -->
+    <string name="city_duplicate">列表中已有此城市</string><!--This city is already in the list-->
+
+<!-- start: Merge alarm Clock Settings -->
+<!-- alarm_in_volume_increase_mode -->
+    <string name="alarm_in_volume_increase_mode_title">温柔闹钟</string><!--Gentle alarm-->
+    
+<!-- Gradually increase alarm volume -->
+    <string name="alarm_in_volume_increase_mode_summary">逐渐增加闹钟音量</string><!--Gradually increase alarm volume-->
+    
+<!-- Alarm volume -->
+    <string name="alarm_volume_title">闹钟音量</string><!--Alarm volume-->
+
+<!-- Set the volume of alarms -->
+    <string name="alarm_volume_summary">设置闹钟音量</string><!--Set the volume of alarms-->
+
+<!-- Snooze duration -->
+    <string name="snooze_duration_title">推迟时长</string><!--Snooze duration-->
+
+<!-- Entries listed in the ListPreference when invoking the snooze duration preference. -->
+    <string-array name="snooze_duration_entries">
+      <item>5 分钟</item><!--5 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_10_minutes</item>
+      <item>15 分钟</item><!--15 minutes-->
+      <item>20 分钟</item><!--20 minutes-->
+      <item>25 分钟</item><!--25 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_30_minutes</item>
+    </string-array>
+    
+<!-- Side button behavior -->
+    <string name="volume_button_setting_title">音量键功能</string><!--Volume button options-->
+
+<!-- Entries listed in the setting for the side-button action. -->
+    <string-array name="volume_button_setting_entries">
+      <item>不进行任何操作</item><!--Do nothing-->
+
+      <item>延迟</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+    </string-array>
+
+<!-- Entries listed in the setting for the side-button action. -->
+    <string-array name="sprint_volume_button_setting_entries">
+      <item>不进行任何操作</item><!--Do nothing-->
+
+      <item>延迟</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+
+      <item>静音</item><!--Silence-->
+    </string-array>
+
+<!-- The summary of the side button setting. -->
+    <string name="volume_button_setting_summary">选择闹钟响时按下音量键的对应功能</string><!--Choose what the volume buttons do when pressed during an alarm-->
+<!-- end: Merge alarm Clock Settings -->
+        
+<!-- The indicator for High temperature -->
+    <string name="weather_high_indicator">高:</string><!--H:-->
+    
+<!-- The indicator for Low temperature -->
+    <string name="weather_low_indicator">低:</string><!--L:-->   
+
+<!-- Text to display in the notification ticker and label -->
+    <string name="alarm_notify_snooze_label"><xliff:g id="label">%s</xliff:g>（延迟）</string><!--<xliff:g id="label">%s</xliff:g> (snoozed)-->
+
+<!-- Text to display in the notification when the alarm has been snoozed -->
+    <string name="alarm_notify_snooze_text">闹钟设置为 <xliff:g id="time">%s</xliff:g>。点击可取消。</string><!--Alarm set for <xliff:g id="time">%s</xliff:g>. Tap to cancel.-->
+
+<!-- Alarm Off -->
+    <string name="alarm_off">闹铃关闭</string><!--Alarm Off-->
+<!-- Alarm On -->
+    <string name="alarm_on">闹铃开启</string><!--Alarm On-->
+    
+<!-- Select alarm sound from -->
+    <string name="sound_selection_title">选择闹铃自</string><!--Select alarm sound from-->
+<!-- Ringtones -->
+    <string name="ringtone_title">铃声</string><!--Ringtones-->
+
+<!-- Entries listed in the setting for the clock sound selection. -->
+    <string-array name="sound_selection_setting_entries">
+<!-- Alarm sound -->
+      <item>闹铃声音</item><!--Alarm sound-->
+<!-- Do not translate. Ringtone -->
+      <item>@string/nn_ringtone</item>
+<!-- Do not translate. Music -->
+      <item>@string/nn_music</item>
+    </string-array>
+
+<!-- Labels for Stopwatch : Total-->
+    <string name="total_title">总计</string><!--Total-->
+    
+<!-- Labels for Stopwatch : Lap-->
+    <string name="lap_title">圈</string><!--Lap-->
+
+<!-- Labels for Stopwatch : Lap ID-->
+    <string name="lap_id">圈数</string><!--Lap #-->
+    
+<!-- Labels for Stopwatch : Running total-->
+    <string name="lap_total_time">总计</string><!--Total-->
+    
+<!-- Labels for Stopwatch : This lap-->
+    <string name="lap_time">此圈</string><!--This lap-->
+    
+<!-- Error Dialog when lap is not set -->
+    <string name="lap_error">未保存圈数</string><!--Lap not saved-->
+    
+<!-- Alert message of adding too many laps -->
+    <string name="add_lap_error">秒表可以最多保存 300 圈。点击重置，清除圈数历史。</string><!--Stopwatch can save a maximum of 300 laps. Tap Reset to clear lap history.-->
+    
+<!-- Tips for Weather Location : Location Enable -->
+    <string name="location_enable">要查看本地天气情况，点击此处可开启定位服务。</string><!--To see local weather,\ntap here to turn on Location Service.-->
+
+<!-- menu item for Full screen -->
+    <string name="full_screen_menu_item">全屏</string><!--Full screen-->
+<!-- menu item for Fit screen -->
+    <string name="fit_screen_menu_item">适合屏幕</string><!--Fit screen-->
+<!-- Storage low dialog -->
+    <string name="storage_full_description">您的手机存储中没有足够的可用空间。请删除部分内容或应用程序。点击下方的 \&quot;设置\&quot; 以管理应用程序。</string><!--You don\'t have enough free space remaining in your phone\'s storage.Please delete some content or applications.Tap \"Settings\" below to manage your apps.-->
+    
+<!-- for timer -->
+    <string name="timer_reminder_tile_timer_up">时间到</string><!--Time is up-->
+    <string name="timer_reminder_tile_setting">设置</string><!--Settings-->
+    
+<!-- below is removed by common string, move to local -->
+    <string-array name="days_of_week_short">
+        <item>@string/tm_mon</item>
+        <item>@string/tm_tue</item>
+        <item>@string/tm_wed</item>
+        <item>@string/tm_thu</item>
+        <item>@string/tm_fri</item>
+        <item>@string/tm_sat</item>
+        <item>@string/tm_sun</item>
+    </string-array>
+    
+    <string name="tm_mon">周一</string><!--Mon-->
+    <string name="tm_tue">周二</string><!--Tue-->
+    <string name="tm_wed">周三</string><!--Wed-->
+    <string name="tm_thu">周四</string><!--Thu-->
+    <string name="tm_fri">周五</string><!--Fri-->
+    <string name="tm_sat">周六</string><!--Sat-->
+    <string name="tm_sun">周日</string><!--Sun-->
+    <string name="tm_10_minutes">10 分钟</string><!--10 minutes-->
+    <string name="tm_30_minutes">30 分钟</string><!--30 minutes-->
+    <string name="va_dismiss">"关闭"</string><!--Dismiss-->
+    <string name="nn_ringtone">铃声</string><!--Ringtone-->
+    <string name="nn_music">音乐</string><!--Music-->
+<!-- AccountManager: In loginSettings activity: Label for "Done" button item -->
+    <string name="bt_done_str">完成</string><!--Done-->
+    <string name="tm_am">上午</string><!--AM-->
+    <string name="tm_pm">下午</string><!--PM-->
+<!-- Lable for phone number type: Home number -->
+    <string name="phone_type_home">住宅</string><!--Home-->
+<!-- Dialog Yes button -->
+    <string name="dialog_button_ok">确定</string><!--OK-->
+<!-- AccountManager: In loginSettings activity: Label for "Cancel" button item -->
+    <string name="bt_cancel_str">取消</string><!--Cancel-->
+<!-- To snooze a notification -->
+    <string name="snooze">延迟</string><!--Snooze-->
+<!-- The default hint on lockscreen to indicate what to do. Drag down the arc are to dismiss current reminder. -->
+    <string name="lockscreen_hint_dismiss">向下拖动可关闭</string><!--Drag down to dismiss-->
+    <string name="nn_alarm">闹钟</string><!--Alarm-->
+    <string name="tm_today">今天</string><!--Today-->
+    <string name="tm_yesterday">昨天</string><!--Yesterday-->
+    <string name="tm_tomorrow">明天</string><!--Tomorrow-->
+    <string name="tm_current">当前</string><!--Current-->
+    <string name="va_rearrange">重排</string><!--Rearrange-->
+    <string name="va_edit">编辑</string><!--Edit-->
+    <string name="va_select_all">全选</string><!--Select all-->
+    <string name="va_deselect_all">取消全选</string><!--Deselect all-->
+    <string name="nn_description">描述</string><!--Description-->
+    <string name="tm_1_day">1 天</string><!--1 day-->
+    <string name="tm_1_hour">1 小时</string><!--1 hour-->
+    <string name="tm_1_minute">1 分钟</string><!--1 minute-->
+    <string name="st_on">开启</string><!--On-->
+    <string name="st_off">关闭</string><!--Off-->
+    <string name="st_never">从不</string><!--Never-->
+    <string name="va_add">添加</string><!--Add-->
+    <string name="va_edit_tabs">编辑显示项</string><!--Edit tabs-->
+    <string name="ls_no_weather_data_available">无可用天气数据</string><!--No weather data available-->
+    <string name="st_storage_full">存储空间已满</string><!--Storage full-->
+    <string name="nn_settings">"设置"</string><!--Settings-->
+<!-- [Add][Start] add "Tips & Help" by Yami Day's request -->
+    <string name="nn_tips_help">使用攻略</string><!--Tips &amp; Help-->
+<!-- [Add][End] add "Tips & Help" by Yami Day's request -->
+<!-- [Gallery OpenSense - GA50 Skyer_Tai] Warning message for low internal memory scenario -->
+    <string name="internal_memory_low">手机存储空间不足。请释放部分空间，再使用此应用程序。</string><!--Your phone is low on storage space. Please make some free space before using this application.-->
+    <string name="st_default">默认</string><!--Default-->
+<!-- [Add][Start] Add for ContentUri, called back from soundPicker(Mail/Calendar/Message) -->
+    <string name="st_silent">静音</string><!--Silent-->
+<!-- [Add][End] Add for ContentUri, called back from soundPicker(Mail/Calendar/Message) -->
+    <string name="st_more">更多</string><!--More-->
+
+<!-- Labels for Set Alarm preference : OffAlarm -->
+    <string name="alarm_offalarm">手机关机时响铃</string><!--Sound when phone off-->
+
+<!-- Dialog title for describe that this app needs additional permission -->
+    
+<!-- Do not translate -->
+	<!--<string name="clock_permission_dialog_title">@string/htc_private_app_clock</string>-->
+    
+<!-- Dialog content for describe that this app needs additional permission -->
+    <string name="clock_permission_dialog_content">为了能正常工作，此应用程序需要访问您的存储。您可以在设置中管理时钟的权限。</string><!--To work properly, this app needs to access your storage. You can manage Clock\'s permissions in Settings.-->
+<!-- [Button] Dialog button to bring user to Settings page -->
+    <string name="clock_permission_dialog_btn_settings">设置</string><!--Settings-->
+<!-- [Button] Dialog button to close dialog -->
+    <string name="clock_permission_dialog_btn_close">关闭</string><!--Close-->
+    
+<!-- location setting -->
+<!-- Dialog title to ask user to turn on network location provider -->
+    <string name="location_dialog_title">位置服务已关闭</string><!--Location services are off-->
+<!-- Dialog content to ask user to turn on network location provider -->
+    <string name="location_dialog_msg">要获得本地天气，请更改您的位置设置至节省电池电量或高准确率模式。</string><!--To get local weather, change your location settings to battery saving or high accuracy mode.-->
+</resources>
+
+
+

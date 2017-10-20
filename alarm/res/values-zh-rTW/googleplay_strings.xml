@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="googleplay_title">HTC 時鐘</string><!--HTC Clock-->
+    <string name="googleplay_whatsnew">- 鬧鐘音量漸增\n- 錯誤修正及效能強化</string><!---/ Alarms gradually get louder\n-/ Bug fixes and performance improvements-->
+	
+<!-- Description for Clock APP -->
+    <string name="googleplay_description_app">無論您身在台灣台北或摩洛哥馬拉喀什，HTC 時鐘皆可讓您知曉當下位置、家中或世界任何城市的時間。個人化的鬧鐘、碼表和計時器，將時間管理的功能裝入您的口袋。隨您的喜好設定鬧鐘數量，變更貪睡時限，選擇鬧鐘音效，甚至設定手機為靜音時也會響起鬧鈴。HTC 時鐘的碼表非常適合在運動時計算圈數，而計時器可用於烹飪，或在看電視時監控時間。</string><!--Whether you\'re in Taipei, Taiwan or Marrakech, Morocco, HTC Clock lets you check the time in your current location, at home and in cities around the world. Its customizable alarms, stopwatch and timer put the power of time management in your pocket, too. Set as many alarms as you like, change the snooze duration, choose the sound that plays when alarms go off and even make alarms sound when your phone is on silent. HTC Clock\'s stopwatch is great for recording laps while working out, and the timer is handy for cooking or monitoring time in front of the TV.-->
+<!-- Description for Clock SupportingScope -->
+	<string name="googleplay_description_supportingScope"></string>
+<!-- Description for Clock Legal -->
+    <string name="googleplay_description_legal">[googleplay_description_legal_common_1]</string>
+    <string name="googleplay_description_short">用 HTC 時尚碼表、計時器、鬧鐘及世界時鐘隨時掌握時間。</string><!--Keep track of time with HTC\'s sleek stopwatch, timer, alarm and world clock.-->
+</resources>
+

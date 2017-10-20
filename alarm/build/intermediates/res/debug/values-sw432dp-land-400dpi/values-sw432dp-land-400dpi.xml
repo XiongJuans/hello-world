@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw432dp-land-400dpi/alarm_clock_dimens.xml -->
+    <eat-comment/>
+    <dimen name="alarm_divider_height">80px</dimen>
+    <dimen name="alarm_time_checkbox_margin">30px</dimen>
+    <dimen name="alarm_time_description_layout_marginLeft">316px</dimen>
+    <dimen name="alarm_time_description_layout_marginTop">0px</dimen>
+    <dimen name="alarm_time_layout_marginLeft">0px</dimen>
+    <dimen name="alarm_time_layout_marginTop">36px</dimen>
+    <dimen name="alarm_time_min_height">150px</dimen>
+    <dimen name="alarm_timerPickerTitle_text_width">286px</dimen>
+    <dimen name="alarm_timerPicker_layout_height">-2px</dimen>
+    <dimen name="alarm_timerPicker_no_nevigation_width">803px</dimen>
+    <dimen name="alarm_timerPicker_width">742px</dimen>
+    <dimen name="base_layout_marginTop">0px</dimen>
+    <dimen name="days_layout_marginTop">0px</dimen>
+    <dimen name="days_marginRight">38px</dimen>
+    <dimen name="delete_icon_marginLeft">0px</dimen>
+    <dimen name="delete_icon_marginRight">0px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw432dp-land-400dpi/stopwatch_dimens.xml -->
+    <eat-comment/>
+    <dimen name="lap_title_marginLeft">12px</dimen>
+    <dimen name="lap_title_marginRight">0px</dimen>
+    <dimen name="lap_title_marginTop">436px</dimen>
+    <dimen name="led_pannel2_marginLeft">75px</dimen>
+    <dimen name="led_pannel2_marginTop">495px</dimen>
+    <dimen name="led_pannel_height">132px</dimen>
+    <dimen name="led_pannel_marginLeft">75px</dimen>
+    <dimen name="led_pannel_marginTop">183px</dimen>
+    <dimen name="led_pannel_no_nevigation_height">128px</dimen>
+    <dimen name="led_pannel_no_nevigation_width">729px</dimen>
+    <dimen name="led_pannel_width">668px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw432dp-land-400dpi/alarm_clock_dimens.xml -->
+    <eat-comment/>
+    <dimen name="setAlarm_list_no_nevigation_width">879px</dimen>
+    <dimen name="setAlarm_list_width">818px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw432dp-land-400dpi/stopwatch_dimens.xml -->
+    <eat-comment/>
+    <dimen name="stopwatch_colon_no_nevigation_width">38px</dimen>
+    <dimen name="stopwatch_colon_width">34px</dimen>
+    <dimen name="stopwatch_digit_colon_marginLeft">33px</dimen>
+    <dimen name="stopwatch_digit_colon_marginRight">33px</dimen>
+    <dimen name="stopwatch_digit_colon_no_negivation_marginLeft">35px</dimen>
+    <dimen name="stopwatch_digit_no_nevigation_width">88px</dimen>
+    <dimen name="stopwatch_digit_width">80px</dimen>
+    <dimen name="stopwatch_divider_marginLeft">817px</dimen>
+    <dimen name="stopwatch_divider_no_nevigation_marginLeft">878px</dimen>
+    <dimen name="stopwatch_dot_no_nevigation_width">38px</dimen>
+    <dimen name="stopwatch_dot_width">34px</dimen>
+    <dimen name="stopwatch_lap_id_marginLeft">25px</dimen>
+    <dimen name="stopwatch_lap_time_marginRight">25px</dimen>
+    <dimen name="stopwatch_list_height">-1px</dimen>
+    <dimen name="stopwatch_list_marginLeft">818px</dimen>
+    <dimen name="stopwatch_list_marginTop">100px</dimen>
+    <dimen name="stopwatch_list_no_nevigation_marginLeft">879px</dimen>
+    <dimen name="stopwatch_list_width">818px</dimen>
+    <dimen name="stopwatch_listheader_height">76px</dimen>
+    <dimen name="stopwatch_listheader_marginLeft">818px</dimen>
+    <dimen name="stopwatch_listheader_marginTop">0px</dimen>
+    <dimen name="stopwatch_listheader_width">818px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw432dp-land-400dpi/alarm_clock_dimens.xml -->
+    <eat-comment/>
+    <dimen name="timePickerContainer_height">884px</dimen>
+    <dimen name="timePickerContainer_no_nevigation_width">879px</dimen>
+    <dimen name="timePickerContainer_width">818px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw432dp-land-400dpi/timer_dimens.xml -->
+    <eat-comment/>
+    <dimen name="timerPickerAll_marginTop">146px</dimen>
+    <dimen name="timerPicker_marginTop">0px</dimen>
+    <dimen name="timerPicker_width">928px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw432dp-land-400dpi/stopwatch_dimens.xml -->
+    <eat-comment/>
+    <dimen name="total_title_marginLeft">12px</dimen>
+    <dimen name="total_title_marginRight">0px</dimen>
+    <dimen name="total_title_marginTop">123px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw432dp-land-400dpi/world_clock_dimens.xml -->
+    <eat-comment/>
+    <dimen name="world_clock_item_description_marginTop">0px</dimen>
+    <dimen name="worldclock_digital_clock_marginLeft">25px</dimen>
+    <dimen name="worldclock_digital_clock_marginTop">79px</dimen>
+    <dimen name="worldclock_global_marginTop">0px</dimen>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw432dp-land-400dpi/alarm_clock_dimens.xml -->
+    <eat-comment/>
+    <string name="alarm_digital_clock_alignParentRight">false</string>
+    <string name="delete_icon_alignParentRight">true</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw432dp-land-400dpi/stopwatch_dimens.xml -->
+    <eat-comment/>
+    <string name="lap_title_alignParentRight">false</string>
+    <string name="navbar_button_bottomRoundCorners">true</string>
+    <string name="navbar_button_topRoundCorners">true</string>
+    <string name="stopwatch_digit_colon_alignParentRight">false</string>
+    <string name="total_title_alignParentRight">false</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-sw432dp-land-400dpi/world_clock_dimens.xml -->
+    <eat-comment/>
+    <string name="worldclock_digital_clock_alignParentRight">true</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values-es/strings.xml -->
+    <eat-comment/>
+    <string name="location_unavailable">Ubicación no disponible</string>
+    <string name="masthead_st_am">AM</string>
+    <string name="masthead_st_auto_sync_off">Sincronización automática desactivada.　Pulsa para ver el tiempo</string>
+    <string name="masthead_st_current_location">Ubicación actual</string>
+    <string name="masthead_st_device_only_off">Cambia el modo de servicio de localización para obtener el tiempo</string>
+    <string name="masthead_st_location_service_off">Activar los servicios de ubicación para obtener el tiempo</string>
+    <string name="masthead_st_pm">PM</string>
+    <string name="masthead_st_weather_unavailable">Tiempo no disponible</string>
+</resources>

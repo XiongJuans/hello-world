@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values-hy/config.xml -->
+    <eat-comment/>
+    <bool name="config_flip_animation">true</bool>
+    <bool name="config_full_name_month">false</bool>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/MastHead/res/values-hy/strings.xml -->
+    <eat-comment/>
+    <string name="location_unavailable">Տեղադրությունն անհասանելի է</string>
+    <string name="masthead_st_am">AM</string>
+    <string name="masthead_st_auto_sync_off">Ինքնահամաժամեցումն անջատած է: Հպեք` եղանակը դիտելու համար:</string>
+    <string name="masthead_st_current_location">Ընթացիկ տեղադրություն</string>
+    <string name="masthead_st_device_only_off">Եղանակի տեսության համար փոխեք տեղորոշման ծառայությունը</string>
+    <string name="masthead_st_location_service_off">Եղանակի համար միացրեք տեղորոշման ծառայությունները</string>
+    <string name="masthead_st_pm">PM</string>
+    <string name="masthead_st_weather_unavailable">Եղանակն անմատչելի է</string>
+</resources>

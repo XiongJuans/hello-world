@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sr/strings.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>Mala</item><!--Small-->
+        <item>Srednja</item><!--Medium-->
+        <item>Velika</item><!--Large-->
+        <item>Ekstra veliki</item><!--Extra large-->
+        <item>Ogromna</item><!--Huge-->
+    </string-array>
+    <string-array name="weeklayout_secondary_text">
+        <item>N</item><!--SU-->
+        <item>Po</item><!--M-->
+        <item>Ut</item><!--TU-->
+        <item>Sr</item><!--W-->
+        <item>Č</item><!--TH-->
+        <item>Pe</item><!--F-->
+        <item>Su</item><!--SA-->
+    </string-array>
+    <string name="accessibility_tap_action">Dvaput dodirnite za akciju</string>
+    <string name="add_comments">Dodaj komentar</string>
+    <string name="am">AM</string>
+    <string name="button_hide_caption">Sakrij naslov</string>
+    <string name="button_hide_description">Sakrij opis</string>
+    <string name="button_show_caption">Prikaži naslov</string>
+    <string name="button_show_description">Prikaži opis</string>
+    <string name="carousel_title">Uredi kartice</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sr/htc_strings.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">Pretraga Ljudi</string>
+    <string name="common_string_open_contact">Otvori kontakt</string>
+    <string name="common_string_save_to_existing_contact">Sačuvaj u postojeći kontakt</string>
+    <string name="common_string_save_to_people">Sačuvaj u imenik Ljudi</string>
+    <string name="common_string_share_title">Deljenje preko</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sr/strings.xml -->
+    <eat-comment/>
+    <string name="done">Završeno</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sr/htc_strings.xml -->
+    <eat-comment/>
+    <string name="label_day">Dan</string>
+    <string name="label_hour">Sat</string>
+    <string name="label_minute">Minut</string>
+    <string name="label_month">Mesec</string>
+    <string name="label_second">Sekunda</string>
+    <string name="label_year">Godina</string>
+    <string name="license_dialog_content">Neke ikone koje se koriste na ovom telefonu je prvobitno dizajnirao Google i izmenio HTC po <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Licenci Creative Commons BY4.0</a>.</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <string name="ls_doubletap_drag">dvaput dodirnite i prevucite radi podešavanja</string>
+    <string name="ls_edit_number_before_calling">Uredi broj pre pozivanja</string>
+    <string name="ls_open_in_map">Otvori u mapi</string>
+    <string name="ls_tablet_storage_error">Došlo je do greške u memoriji vašeg tablet uređaja. Ponovo pokrenite (reboot) uređaj ili formatirajte memoriju.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sr/strings.xml -->
+    <eat-comment/>
+    <string name="menu_crop">Rezanje</string>
+    <string name="menu_delete">Brisanje</string>
+    <string name="menu_properties">Detalji</string>
+    <string name="menu_protect_info">Informacije o zaštiti</string>
+    <string name="menu_save_to_my_favorite">Podesi za omiljeni</string>
+    <string name="menu_send_photo_link_by_email">Podeli link za fotografije</string>
+    <string name="menu_set_as">Podesi za</string>
+    <string name="menu_settings">Podešavanja</string>
+    <string name="menu_share">Podeli</string>
+    <string name="menu_show_on_map">Prikaži na mapi</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_view_full">Prikaži</string>
+    <string name="menu_view_video">Pusti</string>
+    <string name="meun_rotate">Rotacija</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sr/htc_strings.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">Nepoznata greška</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sr/strings.xml -->
+    <eat-comment/>
+    <string name="no">Ne</string>
+    <string name="pm">PM</string>
+    <string name="quickselection_share">Deljenje preko</string>
+    <string name="refresh">Osveži</string>
+    <string name="reminderview_common_unlock_hint_icon">Povucite ikonu nagore</string>
+    <string name="reminderview_common_unlock_hint_up">Prevucite gore radi otključavanja</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sr/htc_strings.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">Pustite za osvežavanje</string>
+    <string name="st_action_bar_updating">Ažuriranje...</string>
+    <string name="st_draggable_item">Stavka koja se može prevlačiti</string>
+    <string name="st_loading">Učitavanje...</string>
+    <string name="st_more">Još</string>
+    <string name="st_pull_down_refresh">Prevucite nadole radi osvežavanja</string>
+    <string name="tab_remove_dialog_message">Ostala vam je jedna kartica. Da biste dodali još kartica za ovu aplikaciju, sa menija izaberite opciju Uredi kartice/Filteri.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sr/strings.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">Nije moguće ukloniti ovaj tab</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sr/htc_strings.xml -->
+    <eat-comment/>
+    <string name="va_back">Nazad</string>
+    <string name="va_call">Poziv</string>
+    <string name="va_cancel">Otkaži</string>
+    <string name="va_clear">Obriši</string>
+    <string name="va_close">Zatvori</string>
+    <string name="va_copy">Kopiraj</string>
+    <string name="va_download">Preuzmi</string>
+    <string name="va_downloading">Preuzimanje</string>
+    <string name="va_finish">Završi</string>
+    <string name="va_hide">Sakrij</string>
+    <string name="va_move_above">Premesti iznad</string>
+    <string name="va_move_below">Premesti ispod</string>
+    <string name="va_next">Dalje</string>
+    <string name="va_ok">U redu</string>
+    <string name="va_open">Otvori</string>
+    <string name="va_reset">Resetuj</string>
+    <string name="va_send_mail">Pošalji poštu</string>
+    <string name="va_send_message">Pošalji poruku</string>
+    <string name="va_show_all">Prikaži sve</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-sr/strings.xml -->
+    <eat-comment/>
+    <string name="yes">Da</string>
+</resources>

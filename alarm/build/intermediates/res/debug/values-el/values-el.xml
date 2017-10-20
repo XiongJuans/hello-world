@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string-array name="days_of_week">
+        <item>Δευτέρα</item><!--MONDAY-->
+        <item>Τρίτη</item><!--TUESDAY-->
+        <item>Τετάρτη</item><!--WEDNESDAY-->
+        <item>Πέμπτη</item><!--THURSDAY-->
+        <item>Παρασκευή</item><!--FRIDAY-->
+        <item>Σάββατο</item><!--SATURDAY-->
+        <item>Κυριακή</item><!--SUNDAY-->
+    </string-array>
+    <string-array name="days_of_week_abbr">
+        <item>Δ</item><!--M-->
+        <item>Τρ</item><!--TU-->
+        <item>Τε</item><!--W-->
+        <item>Π</item><!--TH-->
+        <item>Π</item><!--F-->
+        <item>Σ</item><!--SA-->
+        <item>Κυ</item><!--SU-->
+    </string-array>
+    <string-array name="days_of_week_capital">
+        <item/><!---->
+        <item>Κυρ</item><!--SUN-->
+        <item>Δευ</item><!--MON-->
+        <item>Τρί</item><!--TUE-->
+        <item>Τετ</item><!--WED-->
+        <item>Πέμ</item><!--THU-->
+        <item>Παρ</item><!--FRI-->
+        <item>Σάβ</item><!--SAT-->
+    </string-array>
+    <string-array name="days_of_week_short">
+        <item>@string/tm_mon</item>
+        <item>@string/tm_tue</item>
+        <item>@string/tm_wed</item>
+        <item>@string/tm_thu</item>
+        <item>@string/tm_fri</item>
+        <item>@string/tm_sat</item>
+        <item>@string/tm_sun</item>
+    </string-array>
+    <string-array name="days_of_week_whole_capital">
+        <item/>
+        <item>Κυριακή</item><!--SUNDAY-->
+        <item>Δευτέρα</item><!--MONDAY-->
+        <item>Τρίτη</item><!--TUESDAY-->
+        <item>Τετάρτη</item><!--WEDNESDAY-->
+        <item>Πέμπτη</item><!--THURSDAY-->
+        <item>Παρασκευή</item><!--FRIDAY-->
+        <item>Σάββατο</item><!--SATURDAY-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/WeatherLib1/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string-array name="htc_weather_conditions">
+<!-- weather condition 1 : Sunny -->
+        <item>Ηλιόλουστος</item><!--Sunny-->
+<!-- weather condition 2 : Mostly Sunny -->
+        <item>Κυρίως ηλιόλουστος</item><!--Mostly Sunny-->
+<!-- weather condition 3 : Partly Sunny -->
+        <item>Μερικά ηλιόλουστος</item><!--Partly Sunny-->
+<!-- weather condition 4 : Intermittent Clouds -->
+        <item>Συννεφιά κατά τόπους</item><!--Intermittent Clouds--><!--Intermittent Clouds-->
+<!-- weather condition 5 : Hazy Sunshine -->
+        <item>Ηλιόλουστος με καταχνιά</item><!--Hazy Sunshine-->
+<!-- weather condition 6 : Mostly Cloudy -->
+        <item>Κυρίως συννεφιά</item><!--Mostly Cloudy--><!--Mostly Cloudy-->
+<!-- weather condition 7 : Cloudy -->
+        <item>Συννεφιά</item><!--Cloudy-->
+<!-- weather condition 8 : Dreary -->
+        <item>Καταθλιπτικός</item><!--Dreary-->
+<!-- weather condition 11 : Fog -->
+        <item>Ομίχλη</item><!--Fog-->
+<!-- weather condition 12 : Showers -->
+        <item>Νεροποντές</item><!--Showers-->
+<!-- weather condition 13 : Mostly Cloudy with Showers -->
+        <item>Κυρίως συννεφιά με νεροποντές</item><!--Mostly Cloudy with Showers--><!--Mostly Cloudy with Showers-->
+<!-- weather condition 14 : Partly Sunny with Showers -->
+        <item>Μερικά ηλιόλουστος με νεροποντές</item><!--Partly Sunny with Showers-->
+<!-- weather condition 15 : Thunderstorms -->
+        <item>Καταιγίδες</item><!--Thunderstorms-->
+<!-- weather condition 16 : Mostly Cloudy with Thunder Showers -->
+        <item>Κυρίως συννεφιά με νεροποντές και βροντές</item><!--Mostly Cloudy with Thunder Showers--><!--Mostly Cloudy with Thunder Showers-->
+<!-- weather condition 17 : Partly Sunny with Thunder Showers -->
+        <item>Μερικά ηλιόλουστος με νεροποντές και βροντές</item><!--Partly Sunny with Thunder Showers-->
+<!-- weather condition 18 : Rain -->
+        <item>Βροχή</item><!--Rain-->
+<!-- weather condition 19 : Flurries -->
+        <item>Ριπές ανέμου</item><!--Flurries-->
+<!-- weather condition 20 : Mostly Cloudy with Flurries -->
+        <item>Κυρίως συννεφιά με ριπές ανέμου</item><!--Mostly Cloudy with Flurries--><!--Mostly Cloudy with Flurries-->
+<!-- weather condition 21 : Partly Sunny with Flurries -->
+        <item>Μερικά ηλιόλουστος με ριπές ανέμου</item><!--Partly Sunny with Flurries-->
+<!-- weather condition 22 : Snow -->
+        <item>Χιόνι</item><!--Snow-->
+<!-- weather condition 23 : Mostly Cloudy with Snow -->
+        <item>Κυρίως συννεφιά με χιόνι</item><!--Mostly Cloudy with Snow-->
+<!-- weather condition 24 : Ice -->
+        <item>Πάγος</item><!--Ice-->
+<!-- weather condition 25 : Sleet -->
+        <item>Χιονόνερο</item><!--Sleet-->
+<!-- weather condition 26 : Freezing Rain -->
+        <item>Παγωμένη βροχή</item><!--Freezing Rain-->
+<!-- weather condition 29 : Rain and Snow Mixed -->
+        <item>Βροχή και χιόνι μαζί</item><!--Rain and Snow Mixed-->
+<!-- weather condition 30 : Hot -->
+        <item>Ζέστη</item><!--Hot-->
+<!-- weather condition 31 : Cold -->
+        <item>Ψύχος</item><!--Cold-->
+<!-- weather condition 32 : Windy -->
+        <item>Με ανέμους</item><!--Windy-->
+<!-- weather condition 33 : Clear -->
+        <item>Καθαρός</item><!--Clear-->
+<!-- weather condition 34 : Mostly Clear -->
+        <item>Κυρίως καθαρός</item><!--Mostly Clear-->
+<!-- weather condition 35 : Partly Cloudy -->
+        <item>Μερική συννεφιά</item><!--Partly Cloudy-->
+<!-- weather condition 36 : Intermittent Clouds -->
+        <item>Συννεφιά κατά τόπους</item><!--Intermittent Clouds--><!--Intermittent Clouds-->
+<!-- weather condition 37 : Hazy -->
+        <item>Καταχνιά</item><!--Hazy-->
+<!-- weather condition 38 : Mostly Cloudy -->
+        <item>Κυρίως συννεφιά</item><!--Mostly Cloudy--><!--Mostly Cloudy-->
+<!-- weather condition 39 : Partly Cloudy with Showers -->
+        <item>Μερική συννεφιά με νεροποντές</item><!--Partly Cloudy with Showers-->
+<!-- weather condition 40 : Mostly Cloudy with Showers -->
+        <item>Κυρίως συννεφιά με νεροποντές</item><!--Mostly Cloudy with Showers--><!--Mostly Cloudy with Showers-->
+<!-- weather condition 41 : Partly Cloudy with Thunder Showers -->
+        <item>Μερική συννεφιά με νεροποντές και βροντές</item><!--Partly Cloudy with Thunder Showers-->
+<!-- weather condition 42 : Mostly Cloudy with Thunder Showers -->
+        <item>Κυρίως συννεφιά με νεροποντές και βροντές</item><!--Mostly Cloudy with Thunder Showers--><!--Mostly Cloudy with Thunder Showers-->
+<!-- weather condition 43 : Partly Cloudy with Flurries -->
+        <item>Μερική συννεφιά με ριπές ανέμου</item><!--Partly Cloudy with Flurries-->
+<!-- weather condition 44 : Mostly Cloudy with Flurries -->
+        <item>Κυρίως συννεφιά με ριπές ανέμου</item><!--Mostly Cloudy with Flurries--><!--Mostly Cloudy with Flurries-->
+<!-- _For Huafeng -->
+<!-- weather condition 51 : -->
+        <item>Καταιγίδες με χαλάζι</item><!--Thunderstorms with sleet-->
+<!-- weather condition 52 : -->
+        <item>Άμμος</item><!--Sand-->
+<!-- weather condition 53 : -->
+        <item>Σκόνη</item><!--Dust-->
+<!-- weather condition 54 : -->
+        <item>Ανεμοστρόβιλος</item><!--Tornado-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string-array name="month_of_year">
+    	<item>Ιαν</item><!--JAN-->
+    	<item>ΦΕΒ</item><!--FEB-->
+    	<item>Μαρ</item><!--MAR-->
+    	<item>Απρ</item><!--APR-->
+    	<item>Μάι.</item><!--MAY-->
+    	<item>Ιουν</item><!--JUN-->
+    	<item>Ιουλ</item><!--JUL-->
+    	<item>Αυγ</item><!--AUG-->
+    	<item>Σεπ</item><!--SEP-->
+    	<item>Οκτ</item><!--OCT-->
+    	<item>Νοε</item><!--NOV-->
+    	<item>Δεκ</item><!--DEC-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>κάθε πρώτη Παρασκευή</item><!--on every first Friday-->
+        <item>κάθε δεύτερη Παρασκευή</item><!--on every second Friday-->
+        <item>κάθε τρίτη Παρασκευή</item><!--on every third Friday-->
+        <item>κάθε τέταρτη Παρασκευή</item><!--on every fourth Friday-->
+        <item>κάθε τελευταία Παρασκευή</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>κάθε πρώτη Δευτέρα</item><!--on every first Monday-->
+        <item>κάθε δεύτερη Δευτέρα</item><!--on every second Monday-->
+        <item>κάθε τρίτη Δευτέρα</item><!--on every third Monday-->
+        <item>κάθε τέταρτη Δευτέρα</item><!--on every fourth Monday-->
+        <item>κάθε τελευταία Δευτέρα</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>κάθε πρώτο Σάββατο</item><!--on every first Saturday-->
+        <item>κάθε δεύτερο Σάββατο</item><!--on every second Saturday-->
+        <item>κάθε τρίτο Σάββατο</item><!--on every third Saturday-->
+        <item>κάθε τέταρτο Σάββατο</item><!--on every fourth Saturday-->
+        <item>κάθε τελευταίο Σάββατο</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>κάθε πρώτη Κυριακή</item><!--on every first Sunday-->
+        <item>κάθε δεύτερη Κυριακή</item><!--on every second Sunday-->
+        <item>κάθε τρίτη Κυριακή</item><!--on every third Sunday-->
+        <item>κάθε τέταρτη Κυριακή</item><!--on every fourth Sunday-->
+        <item>κάθε τελευταία Κυριακή</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>κάθε πρώτη Πέμπτη</item><!--on every first Thursday-->
+        <item>κάθε δεύτερη Πέμπτη</item><!--on every second Thursday-->
+        <item>κάθε τρίτη Πέμπτη</item><!--on every third Thursday-->
+        <item>κάθε τέταρτη Πέμπτη</item><!--on every fourth Thursday-->
+        <item>κάθε τελευταία Πέμπτη</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>κάθε πρώτη Τρίτη</item><!--on every first Tuesday-->
+        <item>κάθε δεύτερη Τρίτη</item><!--on every second Tuesday-->
+        <item>κάθε τρίτη Τρίτη</item><!--on every third Tuesday-->
+        <item>κάθε τέταρτη Τρίτη</item><!--on every fourth Tuesday-->
+        <item>κάθε τελευταία Τρίτη</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>κάθε πρώτη Τετάρτη</item><!--on every first Wednesday-->
+        <item>κάθε δεύτερη Τετάρτη</item><!--on every second Wednesday-->
+        <item>κάθε τρίτη Τετάρτη</item><!--on every third Wednesday-->
+        <item>κάθε τέταρτη Τετάρτη</item><!--on every fourth Wednesday-->
+        <item>κάθε τελευταία Τετάρτη</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string-array name="repeat_option">
+        <item>Δευ-Παρ</item><!--Mon -/ Fri-->
+        <item>Να μην γίνεται επανάληψη</item><!--Do not repeat-->
+        <item>Καθημερινά</item><!--Every day-->
+        <item>Παράλειψη αργιών</item><!--Skip holidays-->
+        <item>Προσαρμοσμένη</item><!--Custom-->
+    </string-array>
+    <string-array name="snooze_duration_entries">
+      <item>5 λεπτά</item><!--5 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_10_minutes</item>
+      <item>15 λεπτά</item><!--15 minutes-->
+      <item>20 λεπτά</item><!--20 minutes-->
+      <item>25 λεπτά</item><!--25 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_30_minutes</item>
+    </string-array>
+    <string-array name="sound_selection_setting_entries">
+<!-- Alarm sound -->
+      <item>Ήχος αφύπνισης</item><!--Alarm sound-->
+<!-- Do not translate. Ringtone -->
+      <item>@string/nn_ringtone</item>
+<!-- Do not translate. Music -->
+      <item>@string/nn_music</item>
+    </string-array>
+    <string-array name="sprint_volume_button_setting_entries">
+      <item>Καμία ενέργεια</item><!--Do nothing-->
+
+      <item>Αναβολή</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+
+      <item>Σίγαση</item><!--Silence-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>Μικρό</item><!--Small-->
+        <item>Μεσαίο</item><!--Medium-->
+        <item>Μεγάλο</item><!--Large-->
+        <item>Πολύ μεγάλο μέγεθος</item><!--Extra large-->
+        <item>Τεράστιο</item><!--Huge-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string-array name="volume_button_setting_entries">
+      <item>Καμία ενέργεια</item><!--Do nothing-->
+
+      <item>Αναβολή</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string-array name="weeklayout_secondary_text">
+        <item>Κυ</item><!--SU-->
+        <item>Δ</item><!--M-->
+        <item>Τρ</item><!--TU-->
+        <item>Τε</item><!--W-->
+        <item>Π</item><!--TH-->
+        <item>Π</item><!--F-->
+        <item>Σ</item><!--SA-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <bool name="config_flip_animation">true</bool>
+    <bool name="config_full_name_month">false</bool>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">μία φορά</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> φορές</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Κάθε <ns1:g id="count">%d</ns1:g> μέρα</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Κάθε <ns1:g id="count">%d</ns1:g> μέρες</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Κάθε <ns1:g id="count">%d</ns1:g> μήνα</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Κάθε <ns1:g id="count">%d</ns1:g> μήνες</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Κάθε <ns1:g id="count">%d</ns1:g> εβδομάδα</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Κάθε <ns1:g id="count">%d</ns1:g> εβδομάδες</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Κάθε <ns1:g id="count">%d</ns1:g> χρόνο</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Κάθε <ns1:g id="count">%d</ns1:g> χρόνια</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">Κάθε εβδομάδα την <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other">Κάθε <ns1:g id="number">%1$d</ns1:g> εβδομάδες την <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Πλοήγηση στην αρχική σελίδα"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Πλοήγηση προς τα επάνω"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Περισσότερες επιλογές"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Τέλος"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Προβολή όλων"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Επιλέξτε κάποια εφαρμογή"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ΕΝΕΡΓΟΠΟΙΗΣΗ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Αναζήτηση…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Διαγραφή ερωτήματος"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Ερώτημα αναζήτησης"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Αναζήτηση"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Υποβολή ερωτήματος"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Φωνητική αναζήτηση"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Κοινή χρήση με"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Κοινή χρήση με %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Σύμπτυξη"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string name="accessibility_tap_action">Διπλό πάτημα για ενέργεια</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="add_alarm">Προσθήκη ξυπνητηριού</string>
+    <string name="add_alarm_error">Επιτεύχθηκε ο μέγιστος αριθμός αφυπνίσεων.</string>
+    <string name="add_city">Προσθήκη πόλης</string>
+    <string name="add_city_error_msg">Μπορείτε να έχετε μέχρι 15 πόλεις το ανώτατο. Για να προσθέσετε νέα πόλη, πρέπει να διαγράψετε μια πόλη που ήδη υπάρχει.</string>
+    <string name="add_city_error_title">Αδύνατη η προσθήκη πόλης</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string name="add_comments">Προσθήκη σχολίου</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="add_lap_error">Το χρονόμετρο μπορεί να αποθηκεύσει μέχρι 300 γύρους το ανώτατο. Πιέστε Επαναφορά για να σβήσετε το ιστορικό γύρων.</string>
+    <string name="addcity_search">Αναζήτηση πόλεων</string>
+    <string name="alarm_alert_alert_silenced">Σίγαση ξυπνητηριού μετά από <ns1:g id="minutes">%d</ns1:g> λεπτά</string>
+    <string name="alarm_alert_dismissed">Ματαίωση ξυπνητηριού.</string>
+    <string name="alarm_alert_snooze_not_set">Η αναβολή δεν ορίστηκε. Το επόμενο ξυπνητήρι ορίστηκε για <ns1:g id="time">%s</ns1:g></string>
+    <string name="alarm_alert_snooze_set">Αναβολή για <ns1:g id="minutes">%d</ns1:g> λεπτά.</string>
+    <string name="alarm_caption">Αφυπνίσεις</string>
+    <string name="alarm_in_volume_increase_mode_summary">Βαθμιαία αύξηση έντασης ήχου αφύπνισης</string>
+    <string name="alarm_in_volume_increase_mode_title">Διακριτική αφύπνιση</string>
+    <string name="alarm_notify_snooze_label"><ns1:g id="label">%s</ns1:g> (αναβλήθηκε)</string>
+    <string name="alarm_notify_snooze_text">Το ξυπνητήρι ρυθμίστηκε για <ns1:g id="time">%s</ns1:g>. Πιέστε για ακύρωση.</string>
+    <string name="alarm_off">Ειδ. ανεν</string>
+    <string name="alarm_offalarm">Ήχος με το τηλέφωνο σβηστό</string>
+    <string name="alarm_on">Ειδ. εν.</string>
+    <string name="alarm_repeat">Επανάληψη</string>
+    <string name="alarm_ringtone">Ήχος αφύπνισης</string>
+    <string name="alarm_set">Αυτή η αφύπνιση ρυθμίστηκε για <ns1:g id="time_delta">%s</ns1:g> από τώρα.</string>
+    <string name="alarm_vibrate">Δόνηση</string>
+    <string name="alarm_volume_summary">Ορισμός έντασης ειδοποιήσεων</string>
+    <string name="alarm_volume_title">Ένταση ήχου ειδοποίησης</string>
+    <string name="alert_sound">Ήχος αφύπνισης</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string name="am">ΠΜ</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="analog_gadget">Αναλογικό ρολόι</string>
+    <string name="and">" και "</string>
+    <string name="bt_cancel_str">Ακύρωση</string>
+    <string name="bt_done_str">Τέλος</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string name="button_hide_caption">Απόκρυψη λεζάντας</string>
+    <string name="button_hide_description">Απόκρυψη περιγραφής</string>
+    <string name="button_show_caption">Εμφάνιση λεζάντας</string>
+    <string name="button_show_description">Εμφάνιση περιγραφής</string>
+    <string name="carousel_title">Επεξεργασία καρτελών</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="city_duplicate">Αυτή η πόλη υπάρχει ήδη στη λίστα</string>
+    <string name="city_not_found">Η πόλη δεν εντοπίστηκε</string>
+    <string name="clock_permission_dialog_btn_close">Κλείσιμο</string>
+    <string name="clock_permission_dialog_btn_settings">Ρυθμίσεις</string>
+    <string name="clock_permission_dialog_content">Για να λειτουργεί σωστά, η εφαρμογή αυτή πρέπει να έχει πρόσβαση στον αποθηκευτικό χώρο σας. Μπορείτε να διαχειρίζεστε τα δικαιώματα του Ρολογιού από τις Ρυθμίσεις.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">Αναζήτηση επαφών</string>
+    <string name="common_string_open_contact">Άνοιγμα επαφής</string>
+    <string name="common_string_save_to_existing_contact">Αποθήκευση σε υπάρχουσα επαφή</string>
+    <string name="common_string_save_to_people">Αποθήκευση σε Επαφές</string>
+    <string name="common_string_share_title">Κοινή χρήση μέσω</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="current_settings">Ρύθμιση ημερομηνίας και ώρας</string>
+    <string name="day_concat">", "</string>
+    <string name="days">"<ns1:g id="days">%s</ns1:g> ημέρες"</string>
+    <string name="dberror">Συγγνώμη, το ξυπνητήρι δεν μπόρεσε να ρυθμιστεί.</string>
+    <string name="delete_alarm_caption">Διαγραφή αφυπνίσεων</string>
+    <string name="delete_city_caption">Διαγραφή πόλεων</string>
+    <string name="desk_clock_caption">Επιτραπέζιο ρολόι</string>
+    <string name="dialog_button_ok">ΟΚ</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string name="done">Τέλος</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="error">Αδύνατη η προσθήκη αφύπνισης</string>
+    <string name="error_title">Σφάλμα βάσης δεδομένων</string>
+    <string name="every_day">Καθημερινά</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string name="every_weekday">"Καθημερινά (Δευ-Παρ)"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="fit_screen_menu_item">Προσαρμογή οθόνης</string>
+    <string name="full_screen_menu_item">Πλήρης οθόνη</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/googleplay_strings.xml -->
+    <eat-comment/>
+    <string name="googleplay_description_app">Είστε βρίσκεστε στην Ταϊπέι της Ταϊβάν είτε στο Μαρακές του Μαρόκο, το Ρολόι HTC σας επιτρέπει να βλέπετε την ώρα στην τοποθεσία που βρίσκεστε, στη χώρα σας και σε διάφορες πόλεις σε ολόκληρο τον κόσμο. Οι προσαρμοζόμενες αφυπνίσεις, το χρονόμετρο και ο χρονοδιακόπτης του σας επιτρέπουν επίσης να έχετε τη διαχείριση του χρόνου υπό τον απόλυτο έλεγχό σας. Ορίστε όσες αφυπνίσεις θέλετε, αλλάξτε τη διάρκεια της αναβολής, επιλέξτε τον ήχο που θα ακούγεται όταν ενεργοποιείται η αφύπνιση και κάντε τον ήχο αφύπνισης να ακούγεται ακόμα και όταν το τηλέφωνό σας βρίσκεται στην αθόρυβη λειτουργία. Το χρονόμετρο της εφαρμογής Ρολό HTC είναι εξαιρετικό στην καταγραφή χρόνων όταν γυμνάζεστε, και ο χρονοδιακόπτης του είναι πρακτικός στο μαγείρεμα ή στην παρακολούθηση του χρόνου μπροστά στην τηλεόραση.</string>
+    <string name="googleplay_description_legal">[googleplay_description_legal_common_1]</string>
+    <string name="googleplay_description_short">Παρακολ. χρόνου με το κομψό χρονόμ. HTC, το χρον/πτη, το ξυπν. &amp; το παγκ. ρολόι.</string>
+    <string name="googleplay_description_supportingScope"/>
+    <string name="googleplay_title">Ρολόι HTC</string>
+    <string name="googleplay_whatsnew">- Οι αφυπνίσεις ακούγονται σταδιακά πιο δυνατά\n- Διορθώσεις σφαλμάτων και βελτιώσεις απόδοσης</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="home_settings">Ρύθμιση τοπικής ζώνης ώρας</string>
+    <string name="hours"><ns1:g id="hours">%s</ns1:g> ώρες</string>
+    <string name="htc_private_app_clock">Ρολόι</string>
+    <string name="internal_memory_low">Το τηλέφωνό σας έχει μειωμένο αποθηκευτικό χώρο. Δημιουργήστε λίγο ελεύθερο χώρο πριν από τη χρήση αυτής της εφαρμογής.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string name="label_day">Ημέρα</string>
+    <string name="label_hour">Ώρα</string>
+    <string name="label_minute">Λεπτό</string>
+    <string name="label_month">Αυτό το μήνα</string>
+    <string name="label_second">Δευτερ/πτο.</string>
+    <string name="label_year">Έτος</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="lap">Γύρος</string>
+    <string name="lap_error">Ο γύρος δεν αποθηκεύτηκε</string>
+    <string name="lap_id">Γύρος #</string>
+    <string name="lap_time">Ο γύρος</string>
+    <string name="lap_title">Γύρος</string>
+    <string name="lap_total_time">Σύνολο</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string name="license_dialog_content">Κάποια από τα εικονίδια που χρησιμοποιούνται σε αυτό το τηλέφωνο σχεδιάστηκαν αρχικά από την Google και τροποποιήθηκαν από την HTC στο πλαίσιο της <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Άδειας Creative Commons Αναφορά Δημιουργού 4.0</a>.</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="loading_city">Φόρτωση λίστας πόλεων...</string>
+    <string name="location_dialog_msg">Για λήψη του τοπικού καιρού, αλλάξτε τις ρυθμίσεις τοποθεσίας σας επιλέγοντας τη λειτουργία εξοικονόμησης ενέργειας μπαταρίας ή τη λειτουργία υψηλής ακρίβειας.</string>
+    <string name="location_dialog_title">Οι υπηρεσίες εντοπισμού είναι απενεργοποιημένες</string>
+    <string name="location_enable">Για να δείτε τον τοπικό καιρό, πιέστε εδώ για να ενεργοποιήσετε την Υπηρεσία εντοπισμού.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string name="location_unavailable">Τοποθεσία μη διαθέσιμη</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="lockscreen_hint_dismiss">Σύρτε προς τα κάτω για απόρριψη</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string name="ls_doubletap_drag">διπλό πάτημα και μεταφορά για ρύθμιση</string>
+    <string name="ls_edit_number_before_calling">Επεξεργασία αριθμού πριν την κλήση</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="ls_no_weather_data_available">Μη διαθέσιμα δεδομένα καιρού</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string name="ls_open_in_map">Άνοιγμα σε χάρτη</string>
+    <string name="ls_tablet_storage_error">Παρουσιάστηκε σφάλμα στον αποθηκευτικό χώρο της ταμπλέτας σας. Επανεκκινήστε τη συσκευή σας ή εκτελέστε διαμόρφωση του αποθηκευτικού χώρου.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string name="masthead_st_am">AM</string>
+    <string name="masthead_st_auto_sync_off">Ο αυτόματος συγχρονισμός είναι απενεργοποιημένος. Πιέστε για να δείτε τον καιρό.</string>
+    <string name="masthead_st_current_location">Τρέχουσα τοποθεσία</string>
+    <string name="masthead_st_device_only_off">Αλλαγή λειτουργίας υπηρεσίας εντοπισμού για τη λήψη καιρού</string>
+    <string name="masthead_st_location_service_off">Ενεργοποίηση υπηρεσιών εντοπισμού για τη λήψη καιρού</string>
+    <string name="masthead_st_pm">PM</string>
+    <string name="masthead_st_weather_unavailable">Ο Καιρός δεν είναι διαθέσιμος</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string name="menu_crop">Περικοπή</string>
+    <string name="menu_delete">Διαγραφή</string>
+    <string name="menu_properties">Λεπτομέρειες</string>
+    <string name="menu_protect_info">Πληροφορίες προστασίας</string>
+    <string name="menu_save_to_my_favorite">Ορισμός ως αγαπημένο</string>
+    <string name="menu_send_photo_link_by_email">Κοινή χρήση συνδέσμου φωτογραφιών</string>
+    <string name="menu_set_as">Ορισμός ως</string>
+    <string name="menu_settings">Ρυθμίσεις</string>
+    <string name="menu_share">Κοινόχρηστο</string>
+    <string name="menu_show_on_map">Εμφάνιση στο χάρτη</string>
+    <string name="menu_slideshow">Παρουσίαση</string>
+    <string name="menu_view_full">Προβολή</string>
+    <string name="menu_view_video">Αναπαραγωγή</string>
+    <string name="meun_rotate">Περιστροφή</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="minutes">"<ns1:g id="minutes">%s</ns1:g> λεπτά"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string name="monthly">"Μηνιαία"</string>
+    <string name="monthly_on_day_count">"Κάθε μήνα (Κάθε <ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g>)"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="nextAlarm">Επόμενο ξυπνητήρι: <ns1:g id="next_alarm_time">%s</ns1:g></string>
+    <string name="night_clock">@string/desk_clock_caption</string>
+    <string name="nn_alarm">Αφύπνιση</string>
+    <string name="nn_description">Περιγραφή</string>
+    <string name="nn_music">Μουσική</string>
+    <string name="nn_ringtone">Κουδούνισμα</string>
+    <string name="nn_settings">Ρυθμίσεις</string>
+    <string name="nn_tips_help">Συμβουλές &amp; Βοήθεια</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">Άγνωστο σφάλμα</string>
+    <string name="no">Όχι</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="pause">Παύση</string>
+    <string name="phone_type_home">Αρχική</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string name="pm">ΜΜ</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="query_fail">Παρουσιάστηκαν σφάλματα κατά την πρόσβαση στη βάση δεδομένων</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string name="quickselection_share">Κοινή χρήση μέσω</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="rearrange_city_caption">Επεξεργασία λίστας</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string name="refresh">Ανανέωση</string>
+    <string name="reminderview_common_unlock_hint_icon">Τραβήξτε το εικονίδιο προς τα πάνω</string>
+    <string name="reminderview_common_unlock_hint_up">Τραβήξτε προς τα πάνω για να ξεκλειδώσετε</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="reset">Επαναφ.</string>
+    <string name="resume">Συνέχιση</string>
+    <string name="ringtone_title">Ήχοι κλήσης</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string msgid="146198913615257606" name="search_menu_title">"Αναζήτηση"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="select_alert">Επιλογή ήχου ειδοποίησης</string>
+    <string name="select_ringtone">Επιλογή ήχου αφύπνισης</string>
+    <string name="set_alarm_caption">Ορισμός αφύπνισης</string>
+    <string name="snooze">Αναβολή</string>
+    <string name="snooze_duration_title">Διάρκεια αναβολής</string>
+    <string name="sound_selection_title">Επιλογή ήχου αφύπνισης από</string>
+    <string name="space">" "</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">Αφήστε για ανανέωση</string>
+    <string name="st_action_bar_updating">Ενημέρωση...</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="st_default">Προεπιλεγμένο</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string name="st_draggable_item">Στοιχείο με δυνατότητα μεταφοράς</string>
+    <string name="st_loading">Φόρτωση...</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="st_more">Περισσότερα</string>
+    <string name="st_never">Ποτέ</string>
+    <string name="st_off">Off</string>
+    <string name="st_on">ON</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string name="st_pull_down_refresh">Τραβήξτε προς τα κάτω για ανανέωση</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="st_silent">Αθόρυβο</string>
+    <string name="st_storage_full">Χώρος αποθήκευσης πλήρης</string>
+    <string name="start">Έναρξη</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="stop">Διακοπή</string>
+    <string name="stopwatch_caption">Χρονόμετρο</string>
+    <string name="storage_full_description">Δεν έχει απομείνει αρκετός ελεύθερος χώρος στο χώρο αποθήκευσης του τηλεφώνου σας. Διαγράψτε κάποιο περιεχόμενο ή κάποιες εφαρμογές. Πιέστε \"Ρυθμίσεις\" πιο κάτω για διαχείριση των εφαρμογών σας.</string>
+    <string name="subminute">"λιγότερο από 1 λεπτό"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string name="tab_remove_dialog_message">Σας έμεινε μία καρτέλα. Για να προσθέσετε περισσότερες καρτέλες για αυτήν την εφαρμογή, επιλέξτε Επεξεργασία καρτελών/Φίλτρα στο μενού.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="time_up">Ο χρόνος έληξε!</string>
+    <string name="timer_caption">Χρονοδιακόπτης</string>
+    <string name="timer_reminder_tile_setting">Ρυθμίσεις</string>
+    <string name="timer_reminder_tile_timer_up">Ο χρόνος έληξε</string>
+    <string name="tm_10_minutes">10 λεπτά</string>
+    <string name="tm_1_day">1 ημέρα</string>
+    <string name="tm_1_hour">1 ώρα</string>
+    <string name="tm_1_minute">1 λεπτό</string>
+    <string name="tm_30_minutes">30 λεπτά</string>
+    <string name="tm_am">ΠΜ</string>
+    <string name="tm_current">Τρέχουσα</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string name="tm_daily">"Κάθε μέρα"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="tm_fri">Παρ</string>
+    <string name="tm_mon">Δευ</string>
+    <string name="tm_pm">ΜΜ</string>
+    <string name="tm_sat">Σάβ</string>
+    <string name="tm_sun">Κυρ</string>
+    <string name="tm_thu">Πέμ</string>
+    <string name="tm_today">Σήμερα</string>
+    <string name="tm_tomorrow">Αύριο</string>
+    <string name="tm_tue">Τρί</string>
+    <string name="tm_wed">Τετ</string>
+    <string name="tm_yesterday">Χθες</string>
+    <string name="total_title">Σύνολο</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">Αδύνατη η κατάργηση αυτής της ετικέτας</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="va_add">Προσθήκη</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string name="va_back">Πίσω</string>
+    <string name="va_call">Κλήση</string>
+    <string name="va_cancel">Ακύρωση</string>
+    <string name="va_clear">Απαλοιφή</string>
+    <string name="va_close">Κλείσιμο</string>
+    <string name="va_copy">Αντιγραφή</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="va_deselect_all">Απόεπιλογή όλων</string>
+    <string name="va_dismiss">Απόρριψη</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string name="va_download">Λήψη</string>
+    <string name="va_downloading">Γίνεται λήψη</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="va_edit">Επεξεργασία</string>
+    <string name="va_edit_tabs">Επεξεργασία καρτελών</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string name="va_finish">Τέλος</string>
+    <string name="va_hide">Απόκρυψη</string>
+    <string name="va_move_above">Μετακίνηση προς τα επάνω</string>
+    <string name="va_move_below">Μετακίνηση προς τα κάτω</string>
+    <string name="va_next">Επόμενο</string>
+    <string name="va_ok">ΟΚ</string>
+    <string name="va_open">Άνοιγμα</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="va_rearrange">Ανακατάταξη</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string name="va_reset">Επαναφορά</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="va_select_all">Επιλογή όλων</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string name="va_send_mail">Αποστολή e-mail</string>
+    <string name="va_send_message">Αποστολή μηνύματος</string>
+    <string name="va_show_all">Εμφάνιση όλων</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-el/strings.xml -->
+    <eat-comment/>
+    <string name="volume_button_setting_summary">Επιλέξτε τι θα κάνουν τα κουμπιά ρύθμισης έντασης όταν πατηθούν κατά τη διάρκεια μιας αφύπνισης</string>
+    <string name="volume_button_setting_title">Επιλογές κουμπιών ρύθμισης έντασης</string>
+    <string name="weather_high_indicator">Υ:</string>
+    <string name="weather_low_indicator">Χ:</string>
+    <string name="world_clock_caption">Παγκόσμιο ρολόι</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string name="yearly_plain">Ετησ</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-el/values-el.xml -->
+    <eat-comment/>
+    <string name="yes">Ναι</string>
+</resources>

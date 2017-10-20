@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="googleplay_title">Jam HTC</string><!--HTC Clock-->
+    <string name="googleplay_whatsnew">- Penggera semakin kuat secara beransur-ansur\n- Pembetulan pepijat dan peningkatan prestasi</string><!---/ Alarms gradually get louder\n-/ Bug fixes and performance improvements-->
+	
+<!-- Description for Clock APP -->
+    <string name="googleplay_description_app">Sama ada anda berada di Taipei, Taiwan atau Marrakech, Maghribi, HTC Jam membolehkan anda menyemak masa di lokasi semasa anda, di rumah dan di bandar seluruh dunia. Ia penggera, jam randik dan pemasa yang boleh disuaikan meletakkan kuasa pengurusan masa dalam genggaman anda juga. Tetapkan sebanyak mungkin penggera yang anda suka, ubah tempoh tidur sekejap, pilih bunyi yang dimainkan apabila penggera mati dan juga menjadikan penggera berbunyi apabila telefon anda senyap. Jam randik HTC Jam hebat untuk merekodkan pusingan semasa bersenam dan pemasa yang berguna untuk memasak atau memantau masa di hadapan TV.</string><!--Whether you\'re in Taipei, Taiwan or Marrakech, Morocco, HTC Clock lets you check the time in your current location, at home and in cities around the world. Its customizable alarms, stopwatch and timer put the power of time management in your pocket, too. Set as many alarms as you like, change the snooze duration, choose the sound that plays when alarms go off and even make alarms sound when your phone is on silent. HTC Clock\'s stopwatch is great for recording laps while working out, and the timer is handy for cooking or monitoring time in front of the TV.-->
+<!-- Description for Clock SupportingScope -->
+	<string name="googleplay_description_supportingScope"></string>
+<!-- Description for Clock Legal -->
+    <string name="googleplay_description_legal">[googleplay_description_legal_common_1]</string>
+    <string name="googleplay_description_short">Awasi waktu dengan jam randik anggun, pemasa, penggera dan jam dunia HTC.</string><!--Keep track of time with HTC\'s sleek stopwatch, timer, alarm and world clock.-->
+</resources>
+

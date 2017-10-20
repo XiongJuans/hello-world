@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="googleplay_title">HTC घड़ी</string><!--HTC Clock-->
+    <string name="googleplay_whatsnew">- अलार्म धीरे-धीरे तेज होते हैं\n- बग मरम्मत और प्रदर्शन में सुधार</string><!---/ Alarms gradually get louder\n-/ Bug fixes and performance improvements-->
+	
+<!-- Description for Clock APP -->
+    <string name="googleplay_description_app">चाहे आप ताइपे, ताइवान या मार्राकेश, मोरक्को में हों, HTC घड़ी आपको अपने वर्तमान स्थान, गृह और पूरी दुनिया के देशों का समय जाँचने देती है। इसके कस्टमाइज़ करने योग्य अलार्म, स्टॉपवाच और टाइमर समय प्रबंधन की क्षमता भी आपके पॉकेट में डाल देते हैं। आप जितने भी अलार्म चाहें सेट करें, स्नूज़ अवधि बदलें, अलार्म बंद होने पर बजने वाली ध्वनि चुनें और आपके फ़ोन के मौन पर सेट होने भी पर अलार्म बजाने दें। HTC घड़ी का स्टॉपवाच व्यायाम करते समय चक्कर रिकॉर्ड करने के लिए शानदार है, और टाइमर कुकिंग के लिए या टीवी के सामने समय पर नजर रखने के लिए बहुत उपयोगी है।</string><!--Whether you\'re in Taipei, Taiwan or Marrakech, Morocco, HTC Clock lets you check the time in your current location, at home and in cities around the world. Its customizable alarms, stopwatch and timer put the power of time management in your pocket, too. Set as many alarms as you like, change the snooze duration, choose the sound that plays when alarms go off and even make alarms sound when your phone is on silent. HTC Clock\'s stopwatch is great for recording laps while working out, and the timer is handy for cooking or monitoring time in front of the TV.-->
+<!-- Description for Clock SupportingScope -->
+	<string name="googleplay_description_supportingScope"></string>
+<!-- Description for Clock Legal -->
+    <string name="googleplay_description_legal">[googleplay_description_legal_common_1]</string>
+    <string name="googleplay_description_short">HTC के आकर्षक स्टॉप वाच, टाइमर, अलार्म और विश्व घड़ी के साथ समय पर नजर रखें।</string><!--Keep track of time with HTC\'s sleek stopwatch, timer, alarm and world clock.-->
+</resources>
+

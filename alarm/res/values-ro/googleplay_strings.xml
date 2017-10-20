@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="googleplay_title">HTC Ceas</string><!--HTC Clock-->
+    <string name="googleplay_whatsnew">- Alarmele devin treptat mai puternice\n- Remedieri ale erorilor şi îmbunătăţiri ale performanţelor</string><!---/ Alarms gradually get louder\n-/ Bug fixes and performance improvements-->
+	
+<!-- Description for Clock APP -->
+    <string name="googleplay_description_app">Fie că vă aflaţi în Taipei, Taiwan sau Marrakech, Maroc, HTC Ceas vă permite să vedeţi ora în locaţia dvs. curentă, acasă şi în oraşe din jurul lumii. Alarmele sale personalizabile, cronometrul şi temporizatorul vă pun puterea de a gestiona timpul în buzunarul dvs. Setaţi oricâte alarme doriţi, schimbaţi durata amânării, alegeţi sunetul care se aude la declanşarea alarmei şi faceţi chiar să sune alarmele când telefonul dvs. este în modul silenţios. Cronometrul aplicaţiei HTC Ceas este excelent pentru înregistrarea turelor când faceţi sport, iar temporizarea este utilă pentru gătit sau pentru monitorizarea timpului petrecut în faţa televizorului.</string><!--Whether you\'re in Taipei, Taiwan or Marrakech, Morocco, HTC Clock lets you check the time in your current location, at home and in cities around the world. Its customizable alarms, stopwatch and timer put the power of time management in your pocket, too. Set as many alarms as you like, change the snooze duration, choose the sound that plays when alarms go off and even make alarms sound when your phone is on silent. HTC Clock\'s stopwatch is great for recording laps while working out, and the timer is handy for cooking or monitoring time in front of the TV.-->
+<!-- Description for Clock SupportingScope -->
+	<string name="googleplay_description_supportingScope"></string>
+<!-- Description for Clock Legal -->
+    <string name="googleplay_description_legal">[googleplay_description_legal_common_1]</string>
+    <string name="googleplay_description_short">Urmăriţi timpul cu aplicaţia HTC cronometru, temporizare, alarmă şi ora pe glob.</string><!--Keep track of time with HTC\'s sleek stopwatch, timer, alarm and world clock.-->
+</resources>
+

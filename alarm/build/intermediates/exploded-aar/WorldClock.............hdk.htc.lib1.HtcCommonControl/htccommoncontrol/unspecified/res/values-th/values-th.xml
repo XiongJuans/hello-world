@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>เล็ก</item><!--Small-->
+        <item>กลาง</item><!--Medium-->
+        <item>ใหญ่</item><!--Large-->
+        <item>ใหญ่พิเศษ</item><!--Extra large-->
+        <item>ขนาดใหญ่</item><!--Huge-->
+    </string-array>
+    <string-array name="weeklayout_secondary_text">
+        <item>อา.</item><!--SU-->
+        <item>จ.</item><!--M-->
+        <item>อ.</item><!--TU-->
+        <item>พ.</item><!--W-->
+        <item>พฤ.</item><!--TH-->
+        <item>ศ.</item><!--F-->
+        <item>ส.</item><!--SA-->
+    </string-array>
+    <string name="accessibility_tap_action">แตะสองครั้งเพื่อทำงาน</string>
+    <string name="add_comments">เพิ่มความเห็น</string>
+    <string name="am">AM</string>
+    <string name="button_hide_caption">ซ่อนคำบรรยายภาพ</string>
+    <string name="button_hide_description">ซ่อนคำอธิบาย</string>
+    <string name="button_show_caption">แสดงคำบรรยายภาพ</string>
+    <string name="button_show_description">แสดงคำอธิบาย</string>
+    <string name="carousel_title">แก้ไขแท็บ</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-th/htc_strings.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">ค้นหารายชื่อ</string>
+    <string name="common_string_open_contact">เปิดรายชื่อ</string>
+    <string name="common_string_save_to_existing_contact">บันทึกไปยังรายชื่อที่มีอยู่</string>
+    <string name="common_string_save_to_people">บันทึกไปยังรายชื่อ</string>
+    <string name="common_string_share_title">แบ่งปันผ่าน</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="done">เสร็จ</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-th/htc_strings.xml -->
+    <eat-comment/>
+    <string name="label_day">วัน</string>
+    <string name="label_hour">ชั่วโมง</string>
+    <string name="label_minute">นาที</string>
+    <string name="label_month">เดือน</string>
+    <string name="label_second">วินาที</string>
+    <string name="label_year">ปี</string>
+    <string name="license_dialog_content">บางไอคอนที่ใช้บนโทรศัพท์นี้ได้รับการออกแบบดั้งเดิมจาก Google และปรับเปลี่ยนโดย HTC ภายใต้ <a href="https://creativecommons.org/licenses/by/4.0/legalcode">สิทธิการใช้งานครีเอทีฟคอมมอนส์ อ้างอิงแหล่งที่มา 4.0</a></string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <string name="ls_doubletap_drag">แตะสองครั้งและลากเพื่อปรับค่า</string>
+    <string name="ls_edit_number_before_calling">แก้ไขหมายเลขก่อนโทร</string>
+    <string name="ls_open_in_map">เปิดในแผนที่</string>
+    <string name="ls_tablet_storage_error">เกิดข้อผิดพลาดขึ้นบนอุปกรณ์เก็บข้อมูลบนแท็บเล็ตของคุณ โปรดรีบูทอุปกรณ์ของคุณหรือฟอร์แมตพื้นที่เก็บข้อมูล</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="menu_crop">ตัดส่วนที่เลือก</string>
+    <string name="menu_delete">ลบ</string>
+    <string name="menu_properties">รายละเอียด</string>
+    <string name="menu_protect_info">การป้องกันข้อมูล</string>
+    <string name="menu_save_to_my_favorite">ตั้งเป็นรายการโปรด</string>
+    <string name="menu_send_photo_link_by_email">แบ่งปันลิงค์รูปภาพ</string>
+    <string name="menu_set_as">ตั้งเป็น</string>
+    <string name="menu_settings">ตั้งค่า</string>
+    <string name="menu_share">แชร์</string>
+    <string name="menu_show_on_map">แสดงบนแผนที่</string>
+    <string name="menu_slideshow">สไลด์โชว์</string>
+    <string name="menu_view_full">ดู</string>
+    <string name="menu_view_video">เล่น</string>
+    <string name="meun_rotate">หมุน</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-th/htc_strings.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">ความผิดพลาดที่ไม่ทราบสาเหตุ</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="no">ไม่</string>
+    <string name="pm">PM</string>
+    <string name="quickselection_share">แบ่งปันผ่าน</string>
+    <string name="refresh">รีเฟรช</string>
+    <string name="reminderview_common_unlock_hint_icon">ดึงไอคอนขึ้น</string>
+    <string name="reminderview_common_unlock_hint_up">ดึงขึ้นเพื่อปลดล็อก</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-th/htc_strings.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">ปล่อยเพื่อรีเฟรช</string>
+    <string name="st_action_bar_updating">กำลังอัพเดต...</string>
+    <string name="st_draggable_item">รายการที่ลากได้</string>
+    <string name="st_loading">กำลังโหลด...</string>
+    <string name="st_more">เพิ่มเติม</string>
+    <string name="st_pull_down_refresh">เลื่อนลงเพื่อรีเฟรช</string>
+    <string name="tab_remove_dialog_message">คุณมีแท็บเหลือหนึ่งแท็บ เพื่อเพิ่มแท็บให้แอพพลิเคชั่นนี้ โปรดเลือกแท็บแก้ไข/ตัวกรองบนเมนู</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">ไม่สามารถลบแท็บนี้</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-th/htc_strings.xml -->
+    <eat-comment/>
+    <string name="va_back">กลับ</string>
+    <string name="va_call">โทร</string>
+    <string name="va_cancel">ยกเลิก</string>
+    <string name="va_clear">ลบ</string>
+    <string name="va_close">ปิด</string>
+    <string name="va_copy">สำเนา</string>
+    <string name="va_download">ดาวน์โหลด</string>
+    <string name="va_downloading">กำลังดาวน์โหลด</string>
+    <string name="va_finish">เสร็จสิ้น</string>
+    <string name="va_hide">ซ่อน</string>
+    <string name="va_move_above">ย้ายด้านบน</string>
+    <string name="va_move_below">ย้ายด้านล่าง</string>
+    <string name="va_next">ถัดไป</string>
+    <string name="va_ok">ตกลง</string>
+    <string name="va_open">เปิด</string>
+    <string name="va_reset">รีเซ็ต</string>
+    <string name="va_send_mail">ส่งเมล</string>
+    <string name="va_send_message">ส่งข้อความ</string>
+    <string name="va_show_all">แสดงทั้งหมด</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCommonControl/htccommoncontrol/src/main/res/values-th/strings.xml -->
+    <eat-comment/>
+    <string name="yes">ใช่</string>
+</resources>

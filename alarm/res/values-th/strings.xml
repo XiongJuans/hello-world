@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+<!-- Title of DeskClock -->
+	<string name="desk_clock_caption">นาฬิกาตั้งโต๊ะ</string><!--Desk Clock-->
+
+<!-- Desk Clock -->
+    <string name="night_clock">@string/desk_clock_caption</string>
+
+<!-- Title of WorldClock -->
+	<string name="world_clock_caption">นาฬิกาโลก</string><!--World Clock-->
+    
+<!-- Sublevel title on WorldClock : Add City-->
+    <string name="add_city">เพิ่มเมือง</string><!--Add city-->
+
+<!-- The hint for smart search and menu item -->
+    <string name="addcity_search">ค้นหาเมือง</string><!--Search cities-->
+
+<!-- Error notification when there is no city found -->
+    <string name="city_not_found">ไม่พบชื่อเมือง</string><!--CITY NOT FOUND-->
+    
+<!-- Title of Delete City -->
+	<string name="delete_city_caption">ลบชื่อเมือง</string><!--Delete cities-->
+    
+<!-- Title of Rearrange City -->
+	<string name="rearrange_city_caption">แก้ไขรายการ</string><!--Edit list-->
+	
+<!-- Menu item on WorldClock : Home Settings -->
+	<string name="home_settings">ตั้งค่าเขตเวลาที่บ้าน</string><!--Set home time zone-->
+	
+<!-- Menu item on WorldClock : Current Location Time Settings -->
+	<string name="current_settings">ตั้งค่าวันที่และเวลา</string><!--Set date &amp; time-->
+	
+<!-- Title of Stopwatch -->
+	<string name="stopwatch_caption">นาฬิกาจับเวลา</string><!--Stopwatch-->
+	
+<!-- Button : Start stopwatch -->
+	<string name="start">เริ่ม</string><!--Start-->
+
+<!-- Button : Pause stopwatch -->
+    <string name="pause">หยุดพัก</string><!--Pause-->
+
+<!-- Button : Resume stopwatch -->
+    <string name="resume">ทำต่อ</string><!--Resume-->
+    
+<!-- Button : Reset stopwatch -->
+    <string name="reset">รีเซ็ต</string><!--Reset-->
+    
+<!-- Button : Stop stopwatch -->
+    <string name="stop">หยุด</string><!--Stop-->   
+
+<!-- Button : Lap stopwatch -->
+    <string name="lap">รอบ</string><!--Lap-->
+
+<!-- Title of AlarmClock -->
+	<string name="alarm_caption">ปลุก</string><!--Alarms-->
+	
+<!-- Title of AlarmClock Setting -->
+	<string name="set_alarm_caption">ตั้งปลุก</string><!--Set alarm-->
+	
+<!-- Title of Delete Alarm -->
+	<string name="delete_alarm_caption">ลบการปลุก</string><!--Delete alarms-->
+	
+<!-- Sublevel title on AlarmClock : Add alarm-->
+    <string name="add_alarm">เพิ่มการปลุก</string><!--Add alarm-->
+    
+<!-- Alert message of adding too many alarms -->
+    <string name="add_alarm_error">การเตือนถึงขีดจำกัดจำนวนสูงสุดแล้ว</string><!--Maximum number of alarms reached.-->
+
+<!-- Labels for Set Alarm preference : Ringtone -->
+    <string name="alarm_ringtone">เสียงปลุก</string><!--Alarm sound-->
+    
+<!-- Labels for Set Alarm preference : Repeat -->
+    <string name="alarm_repeat">ซ้ำ</string><!--Repeat-->
+    
+<!-- Labels for Set Alarm preference : Vibrate -->
+    <string name="alarm_vibrate">สั่น</string><!--Vibrate-->
+
+<!-- Alarm Alert screen: this message is shown after an alarm rung unattended for a number of minutes.  It tells the user that the alarm has been silenced.-->
+    <string name="alarm_alert_alert_silenced">เสียงปลุกจะเงียบหลังจาก<xliff:g id="minutes">%d</xliff:g> นาที</string><!--Alarm silenced after <xliff:g id="minutes">%d</xliff:g> minutes.-->
+	
+<!-- Notification when user sets snooze successfully -->
+    <string name="alarm_alert_snooze_set">กำลังเลื่อนการปลุกสำหรับ<xliff:g id="minutes">%d</xliff:g> นาที</string><!--Snoozing for <xliff:g id="minutes">%d</xliff:g> minutes.-->
+    
+<!-- Notification when user sets snooze unsuccessfully -->
+    <string name="alarm_alert_snooze_not_set">เลื่อนการปลุกไม่ได้ตั้ค่า ปลุกครั้งต่อไปตั้งค่าไว้ <xliff:g id="time">%s</xliff:g></string><!--Snooze not set. Next alarm set for <xliff:g id="time">%s</xliff:g>-->
+    
+<!-- Notification when alarm is dismissed -->
+    <string name="alarm_alert_dismissed">ยกเลิกการปลุก</string><!--Alarm dismissed.-->
+
+<!-- Text for alarm confirmation toast -->
+    <string name="alarm_set">การเตือนนี้ถูกตั้งค่าสำหรับ<xliff:g id="time_delta">%s</xliff:g>ต่อไปนี้</string><!--This alarm is set for <xliff:g id="time_delta">%s</xliff:g> from now.-->
+
+<!-- Text for alarm confirmation toast : days -->
+    <string name="days">"<xliff:g id="days">%s</xliff:g> วัน"</string><!--"<xliff:g id="days">%s</xliff:g> days"-->
+    
+<!-- Text for alarm confirmation toast : hours -->
+    <string name="hours"><xliff:g id="hours">%s</xliff:g> ชั่วโมง</string><!--<xliff:g id="hours">%s</xliff:g> hours-->
+    
+<!-- Text for alarm confirmation toast : and -->
+    <string name="and">"และ"</string><!--" and "-->
+    
+<!-- Text for alarm confirmation toast : space-->
+    <string name="space">" "</string><!--" "-->
+    
+<!-- Text for alarm confirmation toast : less than 1 minute-->
+    <string name="subminute">"น้อยกว่า 1 นาที"</string><!--"less than 1 minute"-->
+
+<!-- Text for alarm confirmation toast : minutes-->
+    <string name="minutes">"<xliff:g id="minutes">%s</xliff:g> นาที"</string><!--"<xliff:g id="minutes">%s</xliff:g> minutes"-->
+
+<!-- Notification of next alarm time -->
+    <string name="nextAlarm">การเตือนถัดไป: <xliff:g id="next_alarm_time">%s</xliff:g></string><!--Next alarm: <xliff:g id="next_alarm_time">%s</xliff:g>-->
+
+<!-- Repeat frequency of alarms : every day -->
+    <string name="every_day">ทุกวัน</string><!--Every day-->
+
+<!-- Day concat of alarm repeat frequency -->
+    <string name="day_concat">","</string><!--", "-->
+
+<!-- Error Dialog when alarm is not set -->
+    <string name="error">ไม่สามารถเพิ่มการเตือนได้</string><!--Unable to add alarm-->
+
+<!-- Error Dialog of database error -->
+    <string name="dberror">ขอภัย,ไม่สามารถตั้งค่าปลุกได้</string><!--Sorry, the alarm could not be set.-->
+	
+<!-- Days of week -->
+    <string-array name="days_of_week">
+        <item>วันจันทร์</item><!--MONDAY-->
+        <item>วันอังคาร</item><!--TUESDAY-->
+        <item>วันพุธ</item><!--WEDNESDAY-->
+        <item>วันพฤหัสบดี</item><!--THURSDAY-->
+        <item>วันศุกร์</item><!--FRIDAY-->
+        <item>วันเสาร์</item><!--SATURDAY-->
+        <item>วันอาทิตย์</item><!--SUNDAY-->
+    </string-array>
+    
+<!-- Month of year : short -->
+    <string-array name="month_of_year">
+    	<item>ม.ค.</item><!--JAN-->
+    	<item>ก.พ.</item><!--FEB-->
+    	<item>มี.ค.</item><!--MAR-->
+    	<item>เม.ย.</item><!--APR-->
+    	<item>พ.ค.</item><!--MAY-->
+    	<item>มิ.ย.</item><!--JUN-->
+    	<item>ก.ค.</item><!--JUL-->
+    	<item>ส.ค.</item><!--AUG-->
+    	<item>ก.ย.</item><!--SEP-->
+    	<item>ต.ค.</item><!--OCT-->
+    	<item>พ.ย.</item><!--NOV-->
+    	<item>ธ.ค.</item><!--DEC-->
+    </string-array>
+    
+<!-- Days of week for WorldClock -->
+    <string-array name="days_of_week_capital">
+        <item></item>
+        <item>อาทิตย์</item><!--SUN-->
+        <item>จันทร์</item><!--MON-->
+        <item>อังคาร</item><!--TUE-->
+        <item>พุธ</item><!--WED-->
+        <item>พฤหัส</item><!--THU-->
+        <item>ศุกร์</item><!--FRI-->
+        <item>เสาร์</item><!--SAT-->
+    </string-array> 
+<!-- Whole Days of week for WorldClock -->
+    <string-array name="days_of_week_whole_capital">
+        <item></item>
+        <item>วันอาทิตย์</item><!--SUNDAY-->
+        <item>วันจันทร์</item><!--MONDAY-->
+        <item>วันอังคาร</item><!--TUESDAY-->
+        <item>วันพุธ</item><!--WEDNESDAY-->
+        <item>วันพฤหัสบดี</item><!--THURSDAY-->
+        <item>วันศุกร์</item><!--FRIDAY-->
+        <item>วันเสาร์</item><!--SATURDAY-->
+    </string-array>
+    
+<!-- Repeat Options -->
+    <string-array name="repeat_option">
+        <item>จันทร์-ศุกร์</item><!--Mon -/ Fri-->
+        <item>ไม่ดำเนินการซ้ำ</item><!--Do not repeat-->
+        <item>ทุกวัน</item><!--Every day-->
+        <item>ข้ามวันหยุดพักผ่อน</item><!--Skip holidays-->
+        <item>ปรับแต่งเอง</item><!--Custom-->
+    </string-array>
+    
+<!-- Title of Timer -->
+    <string name="timer_caption">ตัวตั้งเวลา</string><!--Timer-->
+    
+<!-- Labels for Set Timer preference : Alert Sound -->
+    <string name="alert_sound">เสียงปลุก</string><!--Alarm sound-->
+    
+<!-- Title of alert dialog when timer expires -->
+    <string name="time_up">หมดเวลา</string><!--Time\'s up!-->
+    
+<!-- Application name -->
+	<string name="htc_private_app_clock">นาฬิกา</string><!--Clock-->
+
+<!-- Message for user when loading cities -->
+	<string name="loading_city">กำลังโหลดรายชื่อเมือง...</string><!--Loading city list...-->
+	
+<!-- Error title for full internal storage -->
+	<string name="error_title">ฐานข้อมูลผิดพลาด</string><!--Database error-->
+	
+<!-- Error message for failing querying db -->
+	<string name="query_fail">เกิดข้อผิดพลาดในขณะที่เข้าฐานข้อมูล</string><!--Errors occurred while accessing the database-->
+	
+<!-- Title for selecting alarm ringtone -->
+    <string name="select_ringtone">เลือกเสียงปลุก</string><!--Select alarm sound-->
+
+<!-- Title of ringtone picker -->
+    <string name="select_alert">เลือกเสียงเตือน</string><!--Select alert sound-->
+    
+<!-- Days of week : abbreviate -->
+    <string-array name="days_of_week_abbr">
+        <item>จ.</item><!--M-->
+        <item>อ.</item><!--TU-->
+        <item>พ.</item><!--W-->
+        <item>พฤ.</item><!--TH-->
+        <item>ศ.</item><!--F-->
+        <item>ส.</item><!--SA-->
+        <item>อา.</item><!--SU-->
+    </string-array>
+    
+<!-- Title in Google Gadget -->
+    <string name="analog_gadget">นาฬิกาอนาล็อก</string><!--Analog Clock-->
+    
+<!-- Error Dialog when city is not added -->
+    <string name="add_city_error_title">ไม่สามารถเพิ่มชื่อเมืองได้</string><!--Unable to add city-->
+    
+<!-- Error Dialog of adding too many cities -->
+    <string name="add_city_error_msg">คุณสามารถมีเมืองได้สูงสุด 15 รายการ หากต้องการเพิ่มเมืองใหม่ โปรดลบเมืองที่มีอยู่ก่อนแล้ว</string><!--You can have a maximum of 15 cities. To add a new one, please delete an existing city.-->
+    
+<!-- Alert message of adding duplicate city -->
+    <string name="city_duplicate">ชื่อเมืองนี้อยู่ในรายการแล้ว</string><!--This city is already in the list-->
+
+<!-- start: Merge alarm Clock Settings -->
+<!-- alarm_in_volume_increase_mode -->
+    <string name="alarm_in_volume_increase_mode_title">การปลุกแบบเบาๆ</string><!--Gentle alarm-->
+    
+<!-- Gradually increase alarm volume -->
+    <string name="alarm_in_volume_increase_mode_summary">ระดับเสียงปลุกค่อยๆ เพิ่มดังขึ้น</string><!--Gradually increase alarm volume-->
+    
+<!-- Alarm volume -->
+    <string name="alarm_volume_title">ความดังเสียงปลุก</string><!--Alarm volume-->
+
+<!-- Set the volume of alarms -->
+    <string name="alarm_volume_summary">ตั้งระดับเสียงของนาฬิกาปลุก</string><!--Set the volume of alarms-->
+
+<!-- Snooze duration -->
+    <string name="snooze_duration_title">ช่วงระยะเวลาในการปลุกซ้ำ</string><!--Snooze duration-->
+
+<!-- Entries listed in the ListPreference when invoking the snooze duration preference. -->
+    <string-array name="snooze_duration_entries">
+      <item>5 นาที</item><!--5 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_10_minutes</item>
+      <item>15 นาที</item><!--15 minutes-->
+      <item>20 นาที</item><!--20 minutes-->
+      <item>25 นาที</item><!--25 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_30_minutes</item>
+    </string-array>
+    
+<!-- Side button behavior -->
+    <string name="volume_button_setting_title">ตัวเลือกปุ่มปรับระดับเสียง</string><!--Volume button options-->
+
+<!-- Entries listed in the setting for the side-button action. -->
+    <string-array name="volume_button_setting_entries">
+      <item>ไม่ทำอะไร</item><!--Do nothing-->
+
+      <item>เลื่อน</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+    </string-array>
+
+<!-- Entries listed in the setting for the side-button action. -->
+    <string-array name="sprint_volume_button_setting_entries">
+      <item>ไม่ทำอะไร</item><!--Do nothing-->
+
+      <item>เลื่อน</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+
+      <item>เงียบ</item><!--Silence-->
+    </string-array>
+
+<!-- The summary of the side button setting. -->
+    <string name="volume_button_setting_summary">เลือกการทำงานของปุ่มปรับระดับเสียงเมื่อกดปุ่มในขณะส่งเสียงปลุก</string><!--Choose what the volume buttons do when pressed during an alarm-->
+<!-- end: Merge alarm Clock Settings -->
+        
+<!-- The indicator for High temperature -->
+    <string name="weather_high_indicator">สูง:</string><!--H:-->
+    
+<!-- The indicator for Low temperature -->
+    <string name="weather_low_indicator">ต่ำ:</string><!--L:-->   
+
+<!-- Text to display in the notification ticker and label -->
+    <string name="alarm_notify_snooze_label"><xliff:g id="label">%s</xliff:g> (เลื่อนการปลุกแล้ว)</string><!--<xliff:g id="label">%s</xliff:g> (snoozed)-->
+
+<!-- Text to display in the notification when the alarm has been snoozed -->
+    <string name="alarm_notify_snooze_text">ตั้งปลุกสำหรับ <xliff:g id="time">%s</xliff:g> แตะเพื่อยกเลิก</string><!--Alarm set for <xliff:g id="time">%s</xliff:g>. Tap to cancel.-->
+
+<!-- Alarm Off -->
+    <string name="alarm_off">ปิดการปลุก</string><!--Alarm Off-->
+<!-- Alarm On -->
+    <string name="alarm_on">เปิดการปลุก</string><!--Alarm On-->
+    
+<!-- Select alarm sound from -->
+    <string name="sound_selection_title">เลือกเสียงปลุกจาก</string><!--Select alarm sound from-->
+<!-- Ringtones -->
+    <string name="ringtone_title">เสียงเรียกเข้า</string><!--Ringtones-->
+
+<!-- Entries listed in the setting for the clock sound selection. -->
+    <string-array name="sound_selection_setting_entries">
+<!-- Alarm sound -->
+      <item>เสียงปลุก</item><!--Alarm sound-->
+<!-- Do not translate. Ringtone -->
+      <item>@string/nn_ringtone</item>
+<!-- Do not translate. Music -->
+      <item>@string/nn_music</item>
+    </string-array>
+
+<!-- Labels for Stopwatch : Total-->
+    <string name="total_title">ทั้งหมด</string><!--Total-->
+    
+<!-- Labels for Stopwatch : Lap-->
+    <string name="lap_title">รอบ</string><!--Lap-->
+
+<!-- Labels for Stopwatch : Lap ID-->
+    <string name="lap_id"># รอบ</string><!--Lap #-->
+    
+<!-- Labels for Stopwatch : Running total-->
+    <string name="lap_total_time">ทั้งหมด</string><!--Total-->
+    
+<!-- Labels for Stopwatch : This lap-->
+    <string name="lap_time">รอบนี้</string><!--This lap-->
+    
+<!-- Error Dialog when lap is not set -->
+    <string name="lap_error">ไม่มีการบันทึกรอบ</string><!--Lap not saved-->
+    
+<!-- Alert message of adding too many laps -->
+    <string name="add_lap_error">นาฬิกาจับเวลาสำหรับบันทึกรอบได้สูงสุด 300 รอบ แตะที่รีเซ็ตเพื่อลบประวัติรอบ</string><!--Stopwatch can save a maximum of 300 laps. Tap Reset to clear lap history.-->
+    
+<!-- Tips for Weather Location : Location Enable -->
+    <string name="location_enable">หากต้องการดูสภาพอากาศในท้องถิ่น\nแตะที่นี่เพื่อเปิดบริการสถานที่ตั้ง</string><!--To see local weather,\ntap here to turn on Location Service.-->
+
+<!-- menu item for Full screen -->
+    <string name="full_screen_menu_item">เต็มหน้าจอ</string><!--Full screen-->
+<!-- menu item for Fit screen -->
+    <string name="fit_screen_menu_item">พอดีหน้าจอ</string><!--Fit screen-->
+<!-- Storage low dialog -->
+    <string name="storage_full_description">คุณไม่ได้มีพื้นที่ว่างเหลือพอบนอุปกรณ์เก็บข้อมูลของโทรศัพท์ โปรดลบข้อมูลหรือโปรแกรมบางรายการออก แตะ \&quot;การตั้งค่า\&quot; ด้านล่างเพื่อบริหารจัดการแอพพลิเคชั่น</string><!--You don\'t have enough free space remaining in your phone\'s storage.Please delete some content or applications.Tap \"Settings\" below to manage your apps.-->
+    
+<!-- for timer -->
+    <string name="timer_reminder_tile_timer_up">หมดเวลา</string><!--Time is up-->
+    <string name="timer_reminder_tile_setting">การตั้งค่า</string><!--Settings-->
+    
+<!-- below is removed by common string, move to local -->
+    <string-array name="days_of_week_short">
+        <item>@string/tm_mon</item>
+        <item>@string/tm_tue</item>
+        <item>@string/tm_wed</item>
+        <item>@string/tm_thu</item>
+        <item>@string/tm_fri</item>
+        <item>@string/tm_sat</item>
+        <item>@string/tm_sun</item>
+    </string-array>
+    
+    <string name="tm_mon">จ.</string><!--Mon-->
+    <string name="tm_tue">อ.</string><!--Tue-->
+    <string name="tm_wed">พ.</string><!--Wed-->
+    <string name="tm_thu">พฤ.</string><!--Thu-->
+    <string name="tm_fri">ศ.</string><!--Fri-->
+    <string name="tm_sat">ส.</string><!--Sat-->
+    <string name="tm_sun">อา.</string><!--Sun-->
+    <string name="tm_10_minutes">10 นาที</string><!--10 minutes-->
+    <string name="tm_30_minutes">30 นาที</string><!--30 minutes-->
+    <string name="va_dismiss">ยกเลิก</string><!--Dismiss-->
+    <string name="nn_ringtone">เสียงเรียกเข้า</string><!--Ringtone-->
+    <string name="nn_music">เพลง</string><!--Music-->
+<!-- AccountManager: In loginSettings activity: Label for "Done" button item -->
+    <string name="bt_done_str">เสร็จ</string><!--Done-->
+    <string name="tm_am">AM</string><!--AM-->
+    <string name="tm_pm">PM</string><!--PM-->
+<!-- Lable for phone number type: Home number -->
+    <string name="phone_type_home">หน้าหลัก</string><!--Home-->
+<!-- Dialog Yes button -->
+    <string name="dialog_button_ok">ยืนยัน</string><!--OK-->
+<!-- AccountManager: In loginSettings activity: Label for "Cancel" button item -->
+    <string name="bt_cancel_str">ยกเลิก</string><!--Cancel-->
+<!-- To snooze a notification -->
+    <string name="snooze">เลื่อน</string><!--Snooze-->
+<!-- The default hint on lockscreen to indicate what to do. Drag down the arc are to dismiss current reminder. -->
+    <string name="lockscreen_hint_dismiss">ลากลงเพื่อยกเลิก</string><!--Drag down to dismiss-->
+    <string name="nn_alarm">นาฬิกาปลุก</string><!--Alarm-->
+    <string name="tm_today">วันนี้</string><!--Today-->
+    <string name="tm_yesterday">เมื่อวานนี้</string><!--Yesterday-->
+    <string name="tm_tomorrow">พรุ่งนี้</string><!--Tomorrow-->
+    <string name="tm_current">ปัจจุบัน</string><!--Current-->
+    <string name="va_rearrange">จัดใหม่</string><!--Rearrange-->
+    <string name="va_edit">แก้ไข</string><!--Edit-->
+    <string name="va_select_all">เลือกทั้งหมด</string><!--Select all-->
+    <string name="va_deselect_all">ยกเลิกการเลือกทั้งหมด</string><!--Deselect all-->
+    <string name="nn_description">รายละเอียด</string><!--Description-->
+    <string name="tm_1_day">1 วัน</string><!--1 day-->
+    <string name="tm_1_hour">1 ชั่วโมง</string><!--1 hour-->
+    <string name="tm_1_minute">1 นาที</string><!--1 minute-->
+    <string name="st_on">เปิด</string><!--On-->
+    <string name="st_off">ปิด</string><!--Off-->
+    <string name="st_never">ไม่เลย</string><!--Never-->
+    <string name="va_add">เพิ่ม</string><!--Add-->
+    <string name="va_edit_tabs">แก้ไขแท็บ</string><!--Edit tabs-->
+    <string name="ls_no_weather_data_available">ไม่มีข้อมูลสภาพอากาศ</string><!--No weather data available-->
+    <string name="st_storage_full">หน่วยความจำเต็ม</string><!--Storage full-->
+    <string name="nn_settings">ตั้งค่า</string><!--Settings-->
+<!-- [Add][Start] add "Tips & Help" by Yami Day's request -->
+    <string name="nn_tips_help">วิธีใช้และเคล็ดลับ</string><!--Tips &amp; Help-->
+<!-- [Add][End] add "Tips & Help" by Yami Day's request -->
+<!-- [Gallery OpenSense - GA50 Skyer_Tai] Warning message for low internal memory scenario -->
+    <string name="internal_memory_low">พื้นที่ว่างในหน่วยความจำโทรศัพท์ของคุณเหลือน้อยกรุณาจัดการข้อมูลเพื่อให้มีพื้นที่ว่างก่อนใช้แอพพลิเคชั่นนี้</string><!--Your phone is low on storage space. Please make some free space before using this application.-->
+    <string name="st_default">ค่าปกติ</string><!--Default-->
+<!-- [Add][Start] Add for ContentUri, called back from soundPicker(Mail/Calendar/Message) -->
+    <string name="st_silent">เงียบ</string><!--Silent-->
+<!-- [Add][End] Add for ContentUri, called back from soundPicker(Mail/Calendar/Message) -->
+    <string name="st_more">เพิ่มเติม</string><!--More-->
+
+<!-- Labels for Set Alarm preference : OffAlarm -->
+    <string name="alarm_offalarm">เสียงเมื่อปิดโทรศัพท์</string><!--Sound when phone off-->
+
+<!-- Dialog title for describe that this app needs additional permission -->
+    
+<!-- Do not translate -->
+	<!--<string name="clock_permission_dialog_title">@string/htc_private_app_clock</string>-->
+    
+<!-- Dialog content for describe that this app needs additional permission -->
+    <string name="clock_permission_dialog_content">เพื่อให้ทำงานได้อย่างถูกต้อง แอพพลิเคชันนี้ต้องการเข้าถึงที่จัดเก็บข้อมูลของคุณ คุณสามารถจัดการสิทธิอนุญาตสำหรับนาฬิกาได้ในการตั้งค่า</string><!--To work properly, this app needs to access your storage. You can manage Clock\'s permissions in Settings.-->
+<!-- [Button] Dialog button to bring user to Settings page -->
+    <string name="clock_permission_dialog_btn_settings">การตั้งค่า</string><!--Settings-->
+<!-- [Button] Dialog button to close dialog -->
+    <string name="clock_permission_dialog_btn_close">ปิด</string><!--Close-->
+    
+<!-- location setting -->
+<!-- Dialog title to ask user to turn on network location provider -->
+    <string name="location_dialog_title">มีการปิดระบบการบริการตรวจสอบตำแหน่ง</string><!--Location services are off-->
+<!-- Dialog content to ask user to turn on network location provider -->
+    <string name="location_dialog_msg">หากต้องการดูสภาพอากาศท้องถิ่น ให้เปลี่ยนการตั้งค่าตำแหน่งของคุณเป็นการประหยัดแบตเตอรี่ หรือโหมดความแม่นยำสูง</string><!--To get local weather, change your location settings to battery saving or high accuracy mode.-->
+</resources>
+
+
+

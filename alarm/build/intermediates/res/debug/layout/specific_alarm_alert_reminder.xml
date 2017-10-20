@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- [Note] Reminder View must is Full Screen. -->
+<com.htc.android.worldclock.alarmclock.AlarmAlertReminderView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/alert_reminder_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+</com.htc.android.worldclock.alarmclock.AlarmAlertReminderView><!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/layout/specific_alarm_alert_reminder.xml -->

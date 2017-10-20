@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+	<!-- Title of DeskClock -->
+	<string name="desk_clock_caption">Desk Clock</string>
+
+	<!-- Desk Clock -->   
+    <string name="night_clock">@string/desk_clock_caption</string>
+
+	<!-- Title of WorldClock -->
+	<string name="world_clock_caption">World Clock</string>
+    
+    <!-- Sublevel title on WorldClock : Add City-->
+    <string name="add_city">Add city</string>
+
+    <!-- The hint for smart search and menu item -->
+    <string name="addcity_search">Search cities</string>
+
+    <!-- Error notification when there is no city found -->    
+    <string name="city_not_found">CITY NOT FOUND</string>
+    
+    <!-- Title of Delete City -->
+	<string name="delete_city_caption">Delete cities</string>
+    
+    <!-- Title of Rearrange City -->
+	<string name="rearrange_city_caption">Edit list</string>
+	
+	<!-- Menu item on WorldClock : Home Settings -->
+	<string name="home_settings">Set home time zone</string>
+	
+	<!-- Menu item on WorldClock : Current Location Time Settings -->
+	<string name="current_settings">Set date &amp; time</string>
+	
+	<!-- Title of Stopwatch -->
+	<string name="stopwatch_caption">Stopwatch</string>
+	
+	<!-- Button : Start stopwatch -->
+	<string name="start">Start</string>
+
+    <!-- Button : Pause stopwatch -->
+    <string name="pause">Pause</string>
+
+    <!-- Button : Resume stopwatch -->
+    <string name="resume">Resume</string>
+    
+    <!-- Button : Reset stopwatch -->
+    <string name="reset">Reset</string>
+    
+    <!-- Button : Stop stopwatch -->
+    <string name="stop">Stop</string>   
+
+	<!-- Button : Lap stopwatch -->
+    <string name="lap">Lap</string>
+
+	<!-- Title of AlarmClock -->
+	<string name="alarm_caption">Alarms</string>
+	
+	<!-- Title of AlarmClock Setting -->
+	<string name="set_alarm_caption">Set alarm</string>
+	
+	<!-- Title of Delete Alarm -->
+	<string name="delete_alarm_caption">Delete alarms</string>
+	
+    <!-- Sublevel title on AlarmClock : Add alarm-->
+    <string name="add_alarm">Add alarm</string>
+    
+    <!-- Alert message of adding too many alarms -->
+    <string name="add_alarm_error">Maximum number of alarms reached.</string>
+
+    <!-- Labels for Set Alarm preference : Ringtone -->
+    <string name="alarm_ringtone">Alarm sound</string>
+    
+    <!-- Labels for Set Alarm preference : Repeat -->
+    <string name="alarm_repeat">Repeat</string>
+    
+    <!-- Labels for Set Alarm preference : Vibrate -->
+    <string name="alarm_vibrate">Vibrate</string>
+
+	<!-- Alarm Alert screen: this message is shown after an alarm rung unattended for a number of minutes.  It tells the user that the alarm has been silenced.-->
+    <string name="alarm_alert_alert_silenced">Alarm silenced after <xliff:g id="minutes">%d</xliff:g> minutes.</string>
+	
+	<!-- Notification when user sets snooze successfully -->
+    <string name="alarm_alert_snooze_set">Snoozing for <xliff:g id="minutes">%d</xliff:g> minutes.</string>
+    
+    <!-- Notification when user sets snooze unsuccessfully -->
+    <string name="alarm_alert_snooze_not_set">Snooze not set. Next alarm set for <xliff:g id="time">%s</xliff:g></string>
+    
+    <!-- Notification when alarm is dismissed -->
+    <string name="alarm_alert_dismissed">Alarm dismissed.</string>
+
+    <!-- Text for alarm confirmation toast -->
+    <string name="alarm_set">This alarm is set for <xliff:g id="time_delta">%s</xliff:g> from now.</string>
+
+    <!-- Text for alarm confirmation toast : days -->
+    <string name="days">"<xliff:g id="days">%s</xliff:g> days"</string>
+    
+    <!-- Text for alarm confirmation toast : hours -->
+    <string name="hours"><xliff:g id="hours">%s</xliff:g> hours</string>
+    
+    <!-- Text for alarm confirmation toast : and -->
+    <string name="and">" and "</string>
+    
+    <!-- Text for alarm confirmation toast : space-->
+    <string name="space">" "</string>
+    
+    <!-- Text for alarm confirmation toast : less than 1 minute-->
+    <string name="subminute">"less than 1 minute"</string>
+
+	<!-- Text for alarm confirmation toast : minutes-->
+    <string name="minutes">"<xliff:g id="minutes">%s</xliff:g> minutes"</string>
+
+    <!-- Notification of next alarm time -->
+    <string name="nextAlarm">Next alarm: <xliff:g id="next_alarm_time">%s</xliff:g></string>
+
+    <!-- Repeat frequency of alarms : every day -->
+    <string name="every_day">Every day</string>
+
+    <!-- Day concat of alarm repeat frequency -->
+    <string name="day_concat">", "</string>
+
+    <!-- Error Dialog when alarm is not set -->
+    <string name="error">Unable to add alarm</string>
+
+	<!-- Error Dialog of database error -->
+    <string name="dberror">Sorry, the alarm could not be set.</string>
+	
+    <!-- Days of week -->
+    <string-array name="days_of_week">
+        <item>MONDAY</item>
+        <item>TUESDAY</item>
+        <item>WEDNESDAY</item>
+        <item>THURSDAY</item>
+        <item>FRIDAY</item>
+        <item>SATURDAY</item>
+        <item>SUNDAY</item>
+    </string-array>
+    
+    <!-- Month of year : short -->
+    <string-array name="month_of_year">
+    	<item>JAN</item>
+    	<item>FEB</item>
+    	<item>MAR</item>
+    	<item>APR</item>
+    	<item>MAY</item>
+    	<item>JUN</item>
+    	<item>JUL</item>
+    	<item>AUG</item>
+    	<item>SEP</item>
+    	<item>OCT</item>
+    	<item>NOV</item>
+    	<item>DEC</item>
+    </string-array>
+    
+         <!-- Days of week for WorldClock -->
+    <string-array name="days_of_week_capital">
+        <item></item>
+        <item>SUN</item>
+        <item>MON</item>
+        <item>TUE</item>
+        <item>WED</item>
+        <item>THU</item>
+        <item>FRI</item>
+        <item>SAT</item>
+    </string-array> 
+    <!-- Whole Days of week for WorldClock -->
+    <string-array name="days_of_week_whole_capital">
+        <item></item>
+        <item>SUNDAY</item>
+        <item>MONDAY</item>
+        <item>TUESDAY</item>
+        <item>WEDNESDAY</item>
+        <item>THURSDAY</item>
+        <item>FRIDAY</item>
+        <item>SATURDAY</item>
+    </string-array>
+    
+    <!-- Repeat Options -->
+    <string-array name="repeat_option">
+        <item>Mon - Fri</item>
+        <item>Do not repeat</item>
+        <item>Every day</item>
+        <item>Skip holidays</item>
+        <item>Custom</item>
+    </string-array>
+    
+    <!-- Title of Timer -->
+    <string name="timer_caption">Timer</string>
+    
+    <!-- Labels for Set Timer preference : Alert Sound -->
+    <string name="alert_sound">Alarm sound</string>
+    
+    <!-- Title of alert dialog when timer expires -->
+    <string name="time_up">Time\'s up!</string>
+    
+	<!-- Application name -->
+	<string name="htc_private_app_clock">Clock</string>
+
+	<!-- Message for user when loading cities -->
+	<string name="loading_city">Loading city list...</string>
+	
+	<!-- Error title for full internal storage -->
+	<string name="error_title">Database error</string>
+	
+	<!-- Error message for failing querying db -->
+	<string name="query_fail">Errors occurred while accessing the database</string>
+	
+    <!-- Title for selecting alarm ringtone -->
+    <string name="select_ringtone">Select alarm sound</string>
+
+	<!-- Title of ringtone picker -->
+    <string name="select_alert">Select alert sound</string>
+    
+    <!-- Days of week : abbreviate -->
+    <string-array name="days_of_week_abbr">
+        <item>M</item>
+        <item>TU</item>
+        <item>W</item>
+        <item>TH</item>
+        <item>F</item>
+        <item>SA</item>
+        <item>SU</item>
+    </string-array>
+    
+	<!-- Title in Google Gadget -->
+    <string name="analog_gadget">Analog Clock</string>
+    
+    <!-- Error Dialog when city is not added -->
+    <string name="add_city_error_title">Unable to add city</string>
+    
+    <!-- Error Dialog of adding too many cities -->
+    <string name="add_city_error_msg">You can have a maximum of 15 cities. To add a new one, please delete an existing city.</string>
+    
+    <!-- Alert message of adding duplicate city -->
+    <string name="city_duplicate">This city is already in the list</string>
+
+    <!-- start: Merge alarm Clock Settings -->
+    <!-- alarm_in_volume_increase_mode -->
+    <string name="alarm_in_volume_increase_mode_title">Gentle alarm</string>
+    
+    <!-- Gradually increase alarm volume -->
+    <string name="alarm_in_volume_increase_mode_summary">Gradually increase alarm volume</string>
+
+    <!--Voice Control -->
+    <string name="alarm_in_voice_mode_title">Voice Control</string>
+
+    <!-- Gradually voice alarm mode summary-->
+    <string name="alarm_in_voice_mode_summary">Dismiss and snooze alarms</string>
+
+    <!-- Gradually voice alarm mode tips-->
+    <string name="alarm_in_voice_mode_tips">To use voice control, try saying: \n \"Dismiss\",\"Snooze\". See \'Voice Control \' setting for other voice commands</string>
+
+
+    <!-- Alarm volume -->
+    <string name="alarm_volume_title">Alarm volume</string>
+
+    <!-- Set the volume of alarms -->
+    <string name="alarm_volume_summary">Set the volume of alarms</string>
+
+    <!-- Snooze duration -->
+    <string name="snooze_duration_title">Snooze duration</string>
+
+	<!-- Entries listed in the ListPreference when invoking the snooze duration preference. -->
+    <string-array name="snooze_duration_entries">
+      <item>5 minutes</item>
+      <!-- Do not translate -->
+      <item>@string/tm_10_minutes</item>
+      <item>15 minutes</item>
+      <item>20 minutes</item>
+      <item>25 minutes</item>
+      <!-- Do not translate -->
+      <item>@string/tm_30_minutes</item>
+    </string-array>
+    
+    <!-- Side button behavior -->
+    <string name="volume_button_setting_title">Volume button options</string>
+
+    <!-- Entries listed in the setting for the side-button action. -->
+    <string-array name="flip_phone_setting_entries">
+        <item>Do nothing</item>
+        <item>Snooze</item>
+        <item>@string/va_dismiss</item>
+    </string-array>
+
+    <!-- Entries listed in the setting for the side-button action. -->
+    <string-array name="volume_button_setting_entries">
+      <item>Do nothing</item>
+
+      <item>Snooze</item>
+
+      <!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+    </string-array>
+
+    <!-- Entries listed in the setting for the side-button action. -->
+    <string-array name="sprint_volume_button_setting_entries">
+      <item>Do nothing</item>
+
+      <item>Snooze</item>
+
+      <!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+
+      <item>Silence</item>
+    </string-array>
+
+    <!-- The summary of the side button setting. -->
+    <string name="volume_button_setting_summary">Choose what the volume buttons do when pressed during an alarm</string>
+    <!-- end: Merge alarm Clock Settings -->   
+        
+    <!-- Flip Phone behavior -->
+    <string name="flip_setting_title">Flip options</string>
+    <!-- The summary of the flip Phone setting. -->
+    <string name="flip_phone_setting_summary">Choose what happens when you flip the phone face down during an alarm</string>
+    <!-- end: Merge alarm Clock Settings -->
+
+    <!-- The indicator for High temperature -->
+    <string name="weather_high_indicator">H:</string>
+    
+    <!-- The indicator for Low temperature -->
+    <string name="weather_low_indicator">L:</string>   
+
+	<!-- Text to display in the notification ticker and label -->
+    <string name="alarm_notify_snooze_label"><xliff:g id="label">%s</xliff:g> (snoozed)</string>
+
+	<!-- Text to display in the notification when the alarm has been snoozed -->
+    <string name="alarm_notify_snooze_text">Alarm set for <xliff:g id="time">%s</xliff:g>. Tap to cancel.</string>
+
+    <!-- Alarm Off -->
+    <string name="alarm_off">Alarm Off</string>
+    <!-- Alarm On -->
+    <string name="alarm_on">Alarm On</string>
+    
+    <!-- Select alarm sound from -->
+    <string name="sound_selection_title">Select alarm sound from</string>
+    <!-- Ringtones -->
+    <string name="ringtone_title">Ringtones</string>
+
+    <!-- Entries listed in the setting for the clock sound selection. -->
+    <string-array name="sound_selection_setting_entries">
+      <!-- Alarm sound -->
+      <item>Alarm sound</item>
+      <!-- Do not translate. Ringtone -->
+      <item>@string/nn_ringtone</item>
+      <!-- Do not translate. Music -->
+      <item>@string/nn_music</item>
+    </string-array>
+
+    <!-- Labels for Stopwatch : Total-->
+    <string name="total_title">Total</string>
+    
+    <!-- Labels for Stopwatch : Lap-->
+    <string name="lap_title">Lap</string>
+
+    <!-- Labels for Stopwatch : Lap ID-->
+    <string name="lap_id">Lap #</string>
+    
+    <!-- Labels for Stopwatch : Running total-->
+    <string name="lap_total_time">Total</string>
+    
+    <!-- Labels for Stopwatch : This lap-->
+    <string name="lap_time">This lap</string>
+    
+    <!-- Error Dialog when lap is not set -->
+    <string name="lap_error">Lap not saved</string>
+    
+    <!-- Alert message of adding too many laps -->
+    <string name="add_lap_error">Stopwatch can save a maximum of 300 laps. Tap Reset to clear lap history.</string>
+    
+    <!-- Tips for Weather Location : Location Enable -->
+    <string name="location_enable">To see local weather,\ntap here to turn on Location Service.</string>
+
+    <!-- menu item for Full screen -->
+    <string name="full_screen_menu_item">Full screen</string>
+    <!-- menu item for Fit screen -->
+    <string name="fit_screen_menu_item">Fit screen</string>
+    <!-- Storage low dialog -->
+    <string name="storage_full_description">You don\'t have enough free space remaining in your phone\'s storage.Please delete some content or applications.Tap \"Settings\" below to manage your apps.</string>
+    
+    <!-- for timer -->
+    <string name="timer_reminder_tile_timer_up">Time is up</string>
+    <string name="timer_reminder_tile_setting">Settings</string>
+    
+    <!-- below is removed by common string, move to local -->
+    <string-array name="days_of_week_short">
+        <item>@string/tm_mon</item>
+        <item>@string/tm_tue</item>
+        <item>@string/tm_wed</item>
+        <item>@string/tm_thu</item>
+        <item>@string/tm_fri</item>
+        <item>@string/tm_sat</item>
+        <item>@string/tm_sun</item>
+    </string-array>
+    
+    <string name="tm_mon">Mon</string>
+    <string name="tm_tue">Tue</string>
+    <string name="tm_wed">Wed</string>
+    <string name="tm_thu">Thu</string>
+    <string name="tm_fri">Fri</string>
+    <string name="tm_sat">Sat</string>
+    <string name="tm_sun">Sun</string>
+    <string name="tm_10_minutes">10 minutes</string>
+    <string name="tm_30_minutes">30 minutes</string>
+    <string name="va_dismiss">Dismiss</string>
+    <string name="nn_ringtone">Ringtone</string>
+    <string name="nn_music">Music</string>
+    <!-- AccountManager: In loginSettings activity: Label for "Done" button item -->
+    <string name="bt_done_str">Done</string>
+    <string name="tm_am">AM</string>
+    <string name="tm_pm">PM</string>
+    <!-- Lable for phone number type: Home number -->
+    <string name="phone_type_home">Home</string>
+    <!-- Dialog Yes button -->
+    <string name="dialog_button_ok">OK</string>
+    <!-- AccountManager: In loginSettings activity: Label for "Cancel" button item -->
+    <string name="bt_cancel_str">Cancel</string>
+    <!-- To snooze a notification -->
+    <string name="snooze">Snooze</string>
+    <!-- The default hint on lockscreen to indicate what to do. Drag down the arc are to dismiss current reminder. -->
+    <string name="lockscreen_hint_dismiss">Drag down to dismiss</string>
+    <string name="nn_alarm">Alarm</string>
+    <string name="tm_today">Today</string>
+    <string name="tm_yesterday">Yesterday</string>
+    <string name="tm_tomorrow">Tomorrow</string>
+    <string name="tm_current">Current</string>
+    <string name="va_rearrange">Rearrange</string>
+    <string name="va_edit">Edit</string>
+    <string name="va_select_all">Select all</string>
+    <string name="va_deselect_all">Deselect all</string>
+    <string name="nn_description">Description</string>
+    <string name="tm_1_day">1 day</string>
+    <string name="tm_1_hour">1 hour</string>
+    <string name="tm_1_minute">1 minute</string>
+    <string name="st_on">On</string>
+    <string name="st_off">Off</string>
+    <string name="st_never">Never</string>
+    <string name="va_add">Add</string>
+    <string name="va_edit_tabs">Edit tabs</string>
+    <string name="sort_by">Sort options</string>
+    <string name="sort_type_time">Time</string>
+    <string name="sort_type_time_created">Time created</string>
+    <string-array name="sort_types">
+        <item>@string/sort_type_time</item>
+        <item>@string/sort_type_time_created</item>
+    </string-array>
+    <string name="ls_no_weather_data_available">No weather data available</string>
+    <string name="st_storage_full">Storage full</string>
+    <string name="nn_settings">Settings</string>
+    <!-- [Add][Start] add "Tips & Help" by Yami Day's request -->
+    <string name="nn_tips_help">Tips &amp; Help</string>
+    <!-- [Add][End] add "Tips & Help" by Yami Day's request -->
+    <!-- [Gallery OpenSense - GA50 Skyer_Tai] Warning message for low internal memory scenario -->
+    <string name="internal_memory_low">Your phone is low on storage space. Please make some free space before using this application.</string>
+    <string name="st_default">Default</string>
+    <!-- [Add][Start] Add for ContentUri, called back from soundPicker(Mail/Calendar/Message) -->
+    <string name="st_silent">Silent</string>
+    <!-- [Add][End] Add for ContentUri, called back from soundPicker(Mail/Calendar/Message) -->
+    <string name="st_more">More</string>
+
+    <!-- Labels for Set Alarm preference : OffAlarm -->
+    <string name="alarm_offalarm">Sound when phone off</string>
+
+    <!-- Dialog title for describe that this app needs additional permission -->
+    
+    <!-- Do not translate -->
+    <string name="clock_permission_dialog_title">@string/htc_private_app_clock</string>
+    
+    <!-- Dialog content for describe that this app needs additional permission -->
+    <string name="clock_permission_dialog_content">To work properly, this app needs to access your storage. You can manage Clock\'s permissions in Settings.</string>
+    <!-- [Button] Dialog button to bring user to Settings page -->
+    <string name="clock_permission_dialog_btn_settings">Settings</string>
+    <!-- [Button] Dialog button to close dialog -->
+    <string name="clock_permission_dialog_btn_close">Close</string>
+    
+    <!-- location setting -->
+    <!-- Dialog title to ask user to turn on network location provider -->
+    <string name="location_dialog_title">Location services are off</string>
+    <!-- Dialog content to ask user to turn on network location provider -->
+    <string name="location_dialog_msg">To get local weather, change your location settings to battery saving or high accuracy mode.</string>
+
+    <!-- show dialog for ai function -->
+    <string name="ai_dialog_title">Edit this alarm?</string>
+    <string name="ai_dialog_message">This alarm has been modified by HTC Sense Companion. If you make any changes, HTC Sense Companion will no longer control this alarm.</string>
+    <string name="ai_dialog_not_ask">Don\'t ask me again</string>
+    <string name="ai_dialog_no">NO</string>
+    <string name="ai_dialog_yes">YES</string>
+
+    <!-- show tips for ai function -->
+    <string name="ai_tips_add">Alarms marked in blue were added by HTC Sense Companion</string>
+    <string name="ai_tips_modify">Alarms marked in blue were modified by HTC Sense Companion</string>
+
+    <!-- show description for ai function -->
+    <string name="ai_skip_alarm_resume">Will resume in <xliff:g id="resume_month">%d</xliff:g>/<xliff:g id="resume_day">%d</xliff:g></string>
+    <string name="ai_early_event_description">Added by HTC Sense Companion</string>
+
+</resources>
+
+
+

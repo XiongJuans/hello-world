@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string-array name="days_of_week">
+        <item>Pirmdiena</item><!--MONDAY-->
+        <item>Otrdiena</item><!--TUESDAY-->
+        <item>Trešdiena</item><!--WEDNESDAY-->
+        <item>Ceturtdiena</item><!--THURSDAY-->
+        <item>Piektdiena</item><!--FRIDAY-->
+        <item>Sestdiena</item><!--SATURDAY-->
+        <item>Svētdiena</item><!--SUNDAY-->
+    </string-array>
+    <string-array name="days_of_week_abbr">
+        <item>Pi</item><!--M-->
+        <item>Ot</item><!--TU-->
+        <item>Tr</item><!--W-->
+        <item>Ce</item><!--TH-->
+        <item>Pk</item><!--F-->
+        <item>Se</item><!--SA-->
+        <item>Sv</item><!--SU-->
+    </string-array>
+    <string-array name="days_of_week_capital">
+        <item/>
+        <item>Svē</item><!--SUN-->
+        <item>Pirm</item><!--MON-->
+        <item>Otr</item><!--TUE-->
+        <item>Tre</item><!--WED-->
+        <item>Cet</item><!--THU-->
+        <item>Pie</item><!--FRI-->
+        <item>Sest</item><!--SAT-->
+    </string-array>
+    <string-array name="days_of_week_short">
+        <item>@string/tm_mon</item>
+        <item>@string/tm_tue</item>
+        <item>@string/tm_wed</item>
+        <item>@string/tm_thu</item>
+        <item>@string/tm_fri</item>
+        <item>@string/tm_sat</item>
+        <item>@string/tm_sun</item>
+    </string-array>
+    <string-array name="days_of_week_whole_capital">
+        <item/>
+        <item>Svētdiena</item><!--SUNDAY-->
+        <item>Pirmdiena</item><!--MONDAY-->
+        <item>Otrdiena</item><!--TUESDAY-->
+        <item>Trešdiena</item><!--WEDNESDAY-->
+        <item>Ceturtdiena</item><!--THURSDAY-->
+        <item>Piektdiena</item><!--FRIDAY-->
+        <item>Sestdiena</item><!--SATURDAY-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/WeatherLib1/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string-array name="htc_weather_conditions">
+<!-- weather condition 1 : Sunny -->
+        <item>Saulains</item><!--Sunny-->
+<!-- weather condition 2 : Mostly Sunny -->
+        <item>Galvenokārt saulains</item><!--Mostly Sunny-->
+<!-- weather condition 3 : Partly Sunny -->
+        <item>Daļēji saulains</item><!--Partly Sunny-->
+<!-- weather condition 4 : Intermittent Clouds -->
+        <item>Brīžiem mākoņains</item><!--Intermittent Clouds--><!--Intermittent Clouds-->
+<!-- weather condition 5 : Hazy Sunshine -->
+        <item>Miglaina saule</item><!--Hazy Sunshine-->
+<!-- weather condition 6 : Mostly Cloudy -->
+        <item>Galvenokārt mākoņains</item><!--Mostly Cloudy--><!--Mostly Cloudy-->
+<!-- weather condition 7 : Cloudy -->
+        <item>Mākoņains</item><!--Cloudy-->
+<!-- weather condition 8 : Dreary -->
+        <item>Apmācies</item><!--Dreary-->
+<!-- weather condition 11 : Fog -->
+        <item>Migla</item><!--Fog-->
+<!-- weather condition 12 : Showers -->
+        <item>Lietusgāzes</item><!--Showers-->
+<!-- weather condition 13 : Mostly Cloudy with Showers -->
+        <item>Galvenokārt mākoņains ar lietusgāzēm</item><!--Mostly Cloudy with Showers--><!--Mostly Cloudy with Showers-->
+<!-- weather condition 14 : Partly Sunny with Showers -->
+        <item>Daļēji saulains ar lietusgāzēm</item><!--Partly Sunny with Showers-->
+<!-- weather condition 15 : Thunderstorms -->
+        <item>Pērkona negaisi</item><!--Thunderstorms-->
+<!-- weather condition 16 : Mostly Cloudy with Thunder Showers -->
+        <item>Galvenokārt mākoņains ar lietusgāzēm</item><!--Mostly Cloudy with Thunder Showers--><!--Mostly Cloudy with Thunder Showers-->
+<!-- weather condition 17 : Partly Sunny with Thunder Showers -->
+        <item>Daļēji saulains ar lietusgāzēm</item><!--Partly Sunny with Thunder Showers-->
+<!-- weather condition 18 : Rain -->
+        <item>Lietus</item><!--Rain-->
+<!-- weather condition 19 : Flurries -->
+        <item>Vēja brāzmas</item><!--Flurries-->
+<!-- weather condition 20 : Mostly Cloudy with Flurries -->
+        <item>Galvenokārt mākoņains ar vēja brāzmām</item><!--Mostly Cloudy with Flurries--><!--Mostly Cloudy with Flurries-->
+<!-- weather condition 21 : Partly Sunny with Flurries -->
+        <item>Daļēji saulains ar vēja brāzmām</item><!--Partly Sunny with Flurries-->
+<!-- weather condition 22 : Snow -->
+        <item>Sniegs</item><!--Snow-->
+<!-- weather condition 23 : Mostly Cloudy with Snow -->
+        <item>Galvenokārt mākoņains ar sniegu</item><!--Mostly Cloudy with Snow-->
+<!-- weather condition 24 : Ice -->
+        <item>Ledus</item><!--Ice-->
+<!-- weather condition 25 : Sleet -->
+        <item>Slapjdraņķis</item><!--Sleet-->
+<!-- weather condition 26 : Freezing Rain -->
+        <item>Stindzinošs lietus</item><!--Freezing Rain-->
+<!-- weather condition 29 : Rain and Snow Mixed -->
+        <item>Lietus ar sniegu</item><!--Rain and Snow Mixed-->
+<!-- weather condition 30 : Hot -->
+        <item>Karsts</item><!--Hot-->
+<!-- weather condition 31 : Cold -->
+        <item>Auksts</item><!--Cold-->
+<!-- weather condition 32 : Windy -->
+        <item>Vējains</item><!--Windy-->
+<!-- weather condition 33 : Clear -->
+        <item>Skaidrs</item><!--Clear-->
+<!-- weather condition 34 : Mostly Clear -->
+        <item>Galvenokārt skaidrs</item><!--Mostly Clear-->
+<!-- weather condition 35 : Partly Cloudy -->
+        <item>Daļēji mākoņains</item><!--Partly Cloudy-->
+<!-- weather condition 36 : Intermittent Clouds -->
+        <item>Brīžiem mākoņains</item><!--Intermittent Clouds--><!--Intermittent Clouds-->
+<!-- weather condition 37 : Hazy -->
+        <item>Miglains</item><!--Hazy-->
+<!-- weather condition 38 : Mostly Cloudy -->
+        <item>Galvenokārt mākoņains</item><!--Mostly Cloudy--><!--Mostly Cloudy-->
+<!-- weather condition 39 : Partly Cloudy with Showers -->
+        <item>Daļēji mākoņains ar lietusgāzēm</item><!--Partly Cloudy with Showers-->
+<!-- weather condition 40 : Mostly Cloudy with Showers -->
+        <item>Galvenokārt mākoņains ar lietusgāzēm</item><!--Mostly Cloudy with Showers--><!--Mostly Cloudy with Showers-->
+<!-- weather condition 41 : Partly Cloudy with Thunder Showers -->
+        <item>Daļēji mākoņains ar pērkona negaisa lietusgāzēm</item><!--Partly Cloudy with Thunder Showers-->
+<!-- weather condition 42 : Mostly Cloudy with Thunder Showers -->
+        <item>Galvenokārt mākoņains ar lietusgāzēm</item><!--Mostly Cloudy with Thunder Showers--><!--Mostly Cloudy with Thunder Showers-->
+<!-- weather condition 43 : Partly Cloudy with Flurries -->
+        <item>Daļēji mākoņains ar vēja brāzmām</item><!--Partly Cloudy with Flurries-->
+<!-- weather condition 44 : Mostly Cloudy with Flurries -->
+        <item>Galvenokārt mākoņains ar vēja brāzmām</item><!--Mostly Cloudy with Flurries--><!--Mostly Cloudy with Flurries-->
+<!-- _For Huafeng -->
+<!-- weather condition 51 : -->
+        <item>Pērkona negaisi ar slapjdraņķi</item><!--Thunderstorms with sleet-->
+<!-- weather condition 52 : -->
+        <item>Smiltis</item><!--Sand-->
+<!-- weather condition 53 : -->
+        <item>Putekļi</item><!--Dust-->
+<!-- weather condition 54 : -->
+        <item>Tornado</item><!--Tornado-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string-array name="month_of_year">
+    	<item>Jan</item><!--JAN-->
+    	<item>FEBR.</item><!--FEB-->
+    	<item>Mar</item><!--MAR-->
+    	<item>Apr</item><!--APR-->
+    	<item>Maijs</item><!--MAY-->
+    	<item>Jūn</item><!--JUN-->
+    	<item>Jūl</item><!--JUL-->
+    	<item>Aug</item><!--AUG-->
+    	<item>Sep</item><!--SEP-->
+    	<item>Okt</item><!--OCT-->
+    	<item>Nov</item><!--NOV-->
+    	<item>Dec</item><!--DEC-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>katrā pirmajā piektdienā</item><!--on every first Friday-->
+        <item>katrā otrajā piektdienā</item><!--on every second Friday-->
+        <item>katrā trešajā piektdienā</item><!--on every third Friday-->
+        <item>katrā ceturtajā piektdienā</item><!--on every fourth Friday-->
+        <item>katrā pēdējā piektdienā</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>katrā pirmajā pirmdienā</item><!--on every first Monday-->
+        <item>katrā otrajā pirmdienā</item><!--on every second Monday-->
+        <item>katrā trešajā pirmdienā</item><!--on every third Monday-->
+        <item>katrā ceturtajā pirmdienā</item><!--on every fourth Monday-->
+        <item>katrā pēdējā pirmdienā</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>katrā pirmajā sestdienā</item><!--on every first Saturday-->
+        <item>katrā otrajā sestdienā</item><!--on every second Saturday-->
+        <item>katrā trešajā sestdienā</item><!--on every third Saturday-->
+        <item>katrā ceturtajā sestdienā</item><!--on every fourth Saturday-->
+        <item>katrā pēdējā sestdienā</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>katrā pirmajā svētdienā</item><!--on every first Sunday-->
+        <item>katrā otrajā svētdienā</item><!--on every second Sunday-->
+        <item>katrā trešajā svētdienā</item><!--on every third Sunday-->
+        <item>katrā ceturtajā svētdienā</item><!--on every fourth Sunday-->
+        <item>katrā pēdējā svētdienā</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>katrā pirmajā ceturtdienā</item><!--on every first Thursday-->
+        <item>katrā otrajā ceturtdienā</item><!--on every second Thursday-->
+        <item>katrā trešajā ceturtdienā</item><!--on every third Thursday-->
+        <item>katrā ceturtajā ceturtdienā</item><!--on every fourth Thursday-->
+        <item>katrā pēdējā ceturtdienā</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>katrā pirmajā otrdienā</item><!--on every first Tuesday-->
+        <item>katrā otrajā otrdienā</item><!--on every second Tuesday-->
+        <item>katrā trešajā otrdienā</item><!--on every third Tuesday-->
+        <item>katrā ceturtajā otrdienā</item><!--on every fourth Tuesday-->
+        <item>katrā pēdējā otrdienā</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>katrā pirmajā trešdienā</item><!--on every first Wednesday-->
+        <item>katrā otrajā trešdienā</item><!--on every second Wednesday-->
+        <item>katrā trešajā trešdienā</item><!--on every third Wednesday-->
+        <item>katrā ceturtajā trešdienā</item><!--on every fourth Wednesday-->
+        <item>katrā pēdējā trešdienā</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string-array name="repeat_option">
+        <item>Pi - Pk</item><!--Mon -/ Fri-->
+        <item>Neatkārtot</item><!--Do not repeat-->
+        <item>Katru dienu</item><!--Every day-->
+        <item>Izlaist brīvdienas</item><!--Skip holidays-->
+        <item>Pielāgot</item><!--Custom-->
+    </string-array>
+    <string-array name="snooze_duration_entries">
+      <item>5 minūtes</item><!--5 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_10_minutes</item>
+      <item>15 minūtes</item><!--15 minutes-->
+      <item>20 minūtes</item><!--20 minutes-->
+      <item>25 minūtes</item><!--25 minutes-->
+<!-- Do not translate -->
+      <item>@string/tm_30_minutes</item>
+    </string-array>
+    <string-array name="sound_selection_setting_entries">
+<!-- Alarm sound -->
+      <item>Modinātāja skaņas signāls</item><!--Alarm sound-->
+<!-- Do not translate. Ringtone -->
+      <item>@string/nn_ringtone</item>
+<!-- Do not translate. Music -->
+      <item>@string/nn_music</item>
+    </string-array>
+    <string-array name="sprint_volume_button_setting_entries">
+      <item>Nedarīt neko</item><!--Do nothing-->
+
+      <item>Snaust</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+
+      <item>Klusums</item><!--Silence-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string-array name="st_font_size_levels">
+        <item>Mazs</item><!--Small-->
+        <item>Vidēji</item><!--Medium-->
+        <item>Liels</item><!--Large-->
+        <item>Īpaši liels</item><!--Extra large-->
+        <item>Milzīgs</item><!--Huge-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string-array name="volume_button_setting_entries">
+      <item>Nedarīt neko</item><!--Do nothing-->
+
+      <item>Atlikt</item><!--Snooze-->
+
+<!-- Do not translate-->
+      <item>@string/va_dismiss</item>
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string-array name="weeklayout_secondary_text">
+        <item>Sv</item><!--SU-->
+        <item>Pi</item><!--M-->
+        <item>Ot</item><!--TU-->
+        <item>Tr</item><!--W-->
+        <item>Ce</item><!--TH-->
+        <item>Pk</item><!--F-->
+        <item>Se</item><!--SA-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">vienu reizi</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> reizes</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Katru <ns1:g id="count">%d</ns1:g> dienu</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Katru <ns1:g id="count">%d</ns1:g> dienu</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Katru <ns1:g id="count">%d</ns1:g> mēnesi</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Katru <ns1:g id="count">%d</ns1:g> mēnesi</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Ik pēc <ns1:g id="count">%d</ns1:g> nedēļas</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Ik pēc <ns1:g id="count">%d</ns1:g> nedēļām</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Katru <ns1:g id="count">%d</ns1:g> gadu</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Katru <ns1:g id="count">%d</ns1:g> gadu</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">Katru nedēļu <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other">Katru <ns1:g id="number">%1$d</ns1:g> nedēļu <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Pārvietoties uz sākuma ekrānu"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s: %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s: %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Pārvietoties augšup"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Vairāk opciju"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Gatavs"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Skatīt visu"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Izvēlieties lietotni"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"IZSLĒGTS"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"IESLĒGTS"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Meklējiet…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Notīrīt vaicājumu"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Meklēšanas vaicājums"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Meklēt"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Iesniegt vaicājumu"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Meklēšana ar balsi"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Kopīgot ar:"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Kopīgot ar %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Sakļaut"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string name="accessibility_tap_action">Dubults piesitiens, lai darbotos</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string name="add_alarm">Pievienot modinātāju</string>
+    <string name="add_alarm_error">Sasniegts maksimālais trauksmes signālu skaits.</string>
+    <string name="add_city">Pievienot pilsētu</string>
+    <string name="add_city_error_msg">Jums var būt ne vairāk par 15 pilsētām. Lai pievienotu jaunu, lūdzu, izdzēsiet esošu pilsētu.</string>
+    <string name="add_city_error_title">Nevar pievienot pilsētu</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string name="add_comments">Pievienot komentāru</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string name="add_lap_error">Hronometrs var saglabāt ne vairāk kā 300 attālumus. Pieskarieties Atiestatīt, lai notīrītu attālumu vēsturi.</string>
+    <string name="addcity_search">Meklēt pilsētas</string>
+    <string name="alarm_alert_alert_silenced">Modinātājs apklusināts pēc <ns1:g id="minutes">%d</ns1:g> minūtēm.</string>
+    <string name="alarm_alert_dismissed">Modinātājs atcelts.</string>
+    <string name="alarm_alert_snooze_not_set">Snauda nav iestatīta. Nākamais modinātājs iestatīts uz <ns1:g id="time">%s</ns1:g></string>
+    <string name="alarm_alert_snooze_set">Snauda uz <ns1:g id="minutes">%d</ns1:g> minūtēm.</string>
+    <string name="alarm_caption">Modinātāji</string>
+    <string name="alarm_in_volume_increase_mode_summary">Pakāpeniski palielina trauksmes signāla skaļumu</string>
+    <string name="alarm_in_volume_increase_mode_title">Liegs trauksmes signāls</string>
+    <string name="alarm_notify_snooze_label"><ns1:g id="label">%s</ns1:g> (atlikts)</string>
+    <string name="alarm_notify_snooze_text">Modinātājs iestatīts <ns1:g id="time">%s</ns1:g>. Piesitiet, lai atceltu.</string>
+    <string name="alarm_off">Modinātājs izslēgts</string>
+    <string name="alarm_offalarm">Skanēt, kad tālrunis izslēgts</string>
+    <string name="alarm_on">Modinātājs ieslēgts</string>
+    <string name="alarm_repeat">Atkārtot</string>
+    <string name="alarm_ringtone">Modinātāja skaņas signāls</string>
+    <string name="alarm_set">Šis modinātājs ir iestatīts uz <ns1:g id="time_delta">%s</ns1:g> kopš šī brīža.</string>
+    <string name="alarm_vibrate">Vibrācija</string>
+    <string name="alarm_volume_summary">Iestatīt modinātāja skaļumu</string>
+    <string name="alarm_volume_title">Modinātāja skaļums</string>
+    <string name="alert_sound">Modinātāja skaņas signāls</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string name="am">AM</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string name="analog_gadget">Analogais pulkstenis</string>
+    <string name="and">" un "</string>
+    <string name="bt_cancel_str">Atcelt</string>
+    <string name="bt_done_str">Gatavs</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string name="button_hide_caption">Slēpt uzrakstu</string>
+    <string name="button_hide_description">Slēpt aprakstu</string>
+    <string name="button_show_caption">Rādīt uzrakstu</string>
+    <string name="button_show_description">Rādīt aprakstu</string>
+    <string name="carousel_title">Rediģēt cilnes</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string name="city_duplicate">Šī pilsēta jau ir sarakstā</string>
+    <string name="city_not_found">Pilsēta nav atrasta</string>
+    <string name="clock_permission_dialog_btn_close">Aizvērt</string>
+    <string name="clock_permission_dialog_btn_settings">Iestatījumi</string>
+    <string name="clock_permission_dialog_content">Lai pareizi darbotos, šai lietojumprogrammai nepieciešams piekļūt jūsu glabātuvei. Jūs varat pārvaldīt Pulksteņa atļaujas Iestatījumos.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string name="common_string_hint_search_people">Personu meklēšana</string>
+    <string name="common_string_open_contact">Atvērt kontaktu</string>
+    <string name="common_string_save_to_existing_contact">Saglabāt pie esošā kontakta</string>
+    <string name="common_string_save_to_people">Saglabāt mapē Personas</string>
+    <string name="common_string_share_title">Koplietot caur</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string name="current_settings">Iestatīt datumu un laiku</string>
+    <string name="day_concat">", "</string>
+    <string name="days">"<ns1:g id="days">%s</ns1:g> dienas"</string>
+    <string name="dberror">Diemžēl modinātāju nevarēja iestatīt.</string>
+    <string name="delete_alarm_caption">Dzēst modinātājus</string>
+    <string name="delete_city_caption">Dzēst pilsētas</string>
+    <string name="desk_clock_caption">Galda pulkstenis</string>
+    <string name="dialog_button_ok">Labi</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string name="done">Gatavs</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string name="error">Nevar pievienot modinātāju</string>
+    <string name="error_title">Datu bāzes kļūda</string>
+    <string name="every_day">Katru dienu</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string name="every_weekday">"Katru darbdienu (Pirmd.\u2013piektd.)"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string name="fit_screen_menu_item">Pielāgot ekrānu</string>
+    <string name="full_screen_menu_item">Pilnekrāns</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/googleplay_strings.xml -->
+    <eat-comment/>
+    <string name="googleplay_description_app">Ja esat Taibei, Taivānā vai Marakešā, Marokā, HTC Pulkstenis ļauj jums pārbaudīt laiku pašreizējā atrašanaš vietā, mājās un pilsētās visā pasaulē. Tā pielāgotie trauksmes signāli, hronometrs un taimeris ļauj jums pārvaldīt arī laiku. Iestatiet tik daudz trauksmes signālus, cik vēlaties, mainiet snaudas režīma garumu, izvēlieties trauksmes signālu skaņas un radiet trauksmes skaņas arī tālrunim atrodoties klusuma režīmā. HTC Pulksteņa hronometrs ir lieliski piemērots apļu reģistrēšanai treniņa laikā un taimeris ir ērts gatavošanai vai laika uzraudzībai pie TV.</string>
+    <string name="googleplay_description_legal">[googleplay_description_legal_common_1]</string>
+    <string name="googleplay_description_short">Sekojiet līdzi laikam ar HTC eleganto hron., taim., trauksm. sign., pas. pulkst.</string>
+    <string name="googleplay_description_supportingScope"/>
+    <string name="googleplay_title">HTC Pulkstenis</string>
+    <string name="googleplay_whatsnew">- Trauksmes signāli pakāpeniski kļūst skaļāki\n- Kļūdu labojumu un snieguma uzlabojumi</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string name="home_settings">Iestatīt māju laika zonu</string>
+    <string name="hours"><ns1:g id="hours">%s</ns1:g> stundas</string>
+    <string name="htc_private_app_clock">Pulkstenis</string>
+    <string name="internal_memory_low">Jūsu tālruņa atmiņa ir gandrīz pilna. Pirms izmantot šo lietojumprogrammu, lūdzu, atbrīvojiet vietu.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string name="label_day">Diena</string>
+    <string name="label_hour">Stunda</string>
+    <string name="label_minute">Minūte</string>
+    <string name="label_month">Mēnesis</string>
+    <string name="label_second">Sekunde</string>
+    <string name="label_year">Gads</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string name="lap">Attālums</string>
+    <string name="lap_error">Attālums nav saglabāts</string>
+    <string name="lap_id">Attālums Nr.</string>
+    <string name="lap_time">Šis attālums</string>
+    <string name="lap_title">Attālums</string>
+    <string name="lap_total_time">Kopā</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string name="license_dialog_content">Dažas šajā tālrunī izmantotās ikonas oriģināli veidoja Google un pielāgoja HTC, saskaņā ar <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Radošās kopienas licenci atsaucei 4.0</a>.</string>
+    <string name="license_dialog_title">Google Material Icons</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string name="loading_city">Ielādē pilsētu sarakstu...</string>
+    <string name="location_dialog_msg">Lai saņemtu vietējos laikapstākļus, nomainiet savas atrašanās vietas iestatījumus uz akumulatora ietaupījumu vai augstas precizitātes režīmu.</string>
+    <string name="location_dialog_title">Atrašanās vietas pakalpojumi ir izslēgti</string>
+    <string name="location_enable">Lai redzētu vietējos laikapstākļus, piesitiet šeit, lai ieslēgtu Atrašanās vietu pakalpojumu.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string name="location_unavailable">Atrašanās vieta nav pieejama</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string name="lockscreen_hint_dismiss">Velciet uz leju, lai noraidītu</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string name="ls_doubletap_drag">piesitiet divreiz un velciet, lai noregulētu</string>
+    <string name="ls_edit_number_before_calling">Pirms zvana rediģēt numuru</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string name="ls_no_weather_data_available">Laikapstākļu dati nav pieejami</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string name="ls_open_in_map">Atvērt kartē</string>
+    <string name="ls_tablet_storage_error">Jūsu planšetdatora atmiņā radās kļūda. Lūdzu, atsāknējiet ierīci vai formatējiet atmiņu.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/MastHead/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string name="masthead_st_am">AM</string>
+    <string name="masthead_st_auto_sync_off">Automātiskā sinhronizācija ir izslēgta. Piesitiet, lai redzētu laikapstākļus.</string>
+    <string name="masthead_st_current_location">Pašreizējā atrašanās vieta</string>
+    <string name="masthead_st_device_only_off">Nomainiet atrašanās vietas pakalpojuma režīmu, lai redzētu laikapstākļus</string>
+    <string name="masthead_st_location_service_off">Ieslēgt atrašanās vietas pakalpojumus, lai saņemtu laikapstākļus</string>
+    <string name="masthead_st_pm">PM</string>
+    <string name="masthead_st_weather_unavailable">Laikapstākļi nav pieejami</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string name="menu_crop">Apgriezt</string>
+    <string name="menu_delete">Dzēst</string>
+    <string name="menu_properties">Informācija</string>
+    <string name="menu_protect_info">Aizsardzības informācija</string>
+    <string name="menu_save_to_my_favorite">Iestatīt kā izlasi</string>
+    <string name="menu_send_photo_link_by_email">Koplietot fotoattēla saiti</string>
+    <string name="menu_set_as">Iestatīt kā</string>
+    <string name="menu_settings">Iestatījumi</string>
+    <string name="menu_share">Koplietot</string>
+    <string name="menu_show_on_map">Rādīt kartē</string>
+    <string name="menu_slideshow">Slīdrāde</string>
+    <string name="menu_view_full">Skatīt</string>
+    <string name="menu_view_video">Atskaņot</string>
+    <string name="meun_rotate">Pagriezt</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string name="minutes">"<ns1:g id="minutes">%s</ns1:g> minūtes"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string name="monthly">Reizi mēnesī</string>
+    <string name="monthly_on_day_count">"Katru mēnesi (katru <ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g>)"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string name="nextAlarm">Nākamais modinātājs: <ns1:g id="next_alarm_time">%s</ns1:g></string>
+    <string name="night_clock">@string/desk_clock_caption</string>
+    <string name="nn_alarm">Modinātājs</string>
+    <string name="nn_description">Apraksts</string>
+    <string name="nn_music">Mūzika</string>
+    <string name="nn_ringtone">Zvana signāls</string>
+    <string name="nn_settings">Iestatījumi</string>
+    <string name="nn_tips_help">Padomi un palīdzība</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string name="nn_unknown_error">Nezināma kļūda</string>
+    <string name="no">Nē</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string name="pause">Pauze</string>
+    <string name="phone_type_home">Mājas</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string name="pm">PM</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string name="query_fail">Piekļūstot datu bāzei, radās kļūdas</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string name="quickselection_share">Koplietot caur</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string name="rearrange_city_caption">Rediģēt sarakstu</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string name="refresh">Atsvaidzināt</string>
+    <string name="reminderview_common_unlock_hint_icon">Pavilkt ikonu augšup</string>
+    <string name="reminderview_common_unlock_hint_up">Pavelciet augšup, lai atbloķētu</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string name="reset">Atiestatīt</string>
+    <string name="resume">Atsākt</string>
+    <string name="ringtone_title">Zvanu signāli</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string msgid="146198913615257606" name="search_menu_title">"Meklēt"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string name="select_alert">Atlasīt brīdinājuma signālu</string>
+    <string name="select_ringtone">Atlasīt modinātāja signālu</string>
+    <string name="set_alarm_caption">Iestatīt modinātāju</string>
+    <string name="snooze">Atlikt</string>
+    <string name="snooze_duration_title">Snaudas ilgums</string>
+    <string name="sound_selection_title">Atlasiet modinātāja skaņu no</string>
+    <string name="space">" "</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string name="st_action_bar_pull_down">Atlaidiet, lai atsvaidzinātu</string>
+    <string name="st_action_bar_updating">Atjaunina...</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string name="st_default">Noklusējums</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string name="st_draggable_item">Velkams vienums</string>
+    <string name="st_loading">Notiek ielāde...</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string name="st_more">Vairāk</string>
+    <string name="st_never">Nekad</string>
+    <string name="st_off">Izslēgts</string>
+    <string name="st_on">Ieslēgts</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string name="st_pull_down_refresh">Pavelciet uz leju, lai atsvaidzinātu</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string name="st_silent">Klusums</string>
+    <string name="st_storage_full">Atmiņa ir pilna</string>
+    <string name="start">Sākums</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string name="stop">Apturēt</string>
+    <string name="stopwatch_caption">Hronometrs</string>
+    <string name="storage_full_description">Tālruņa atmiņā nepietiek brīvas vietas. Lūdzu, izdzēsiet daļu satura vai dažas lietojumprogrammas. Lai pārvaldītu savas lietojumprogrammas, tālāk piesitiet \"Iestatījumi\".</string>
+    <string name="subminute">"mazāk nekā 1 minūte"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string name="tab_remove_dialog_message">Jums ir palikusi viena cilne. Lai šai lietojumprogrammai pievienotu papildu cilnes, izvēlnē izvēlieties Rediģēt cilnes/Filtri.</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string name="time_up">Laiks celties!</string>
+    <string name="timer_caption">Taimeris</string>
+    <string name="timer_reminder_tile_setting">Iestatījumi</string>
+    <string name="timer_reminder_tile_timer_up">Laiks celties</string>
+    <string name="tm_10_minutes">10 minūtes</string>
+    <string name="tm_1_day">1 diena</string>
+    <string name="tm_1_hour">1 stunda</string>
+    <string name="tm_1_minute">1 minūte</string>
+    <string name="tm_30_minutes">30 minūtes</string>
+    <string name="tm_am">AM</string>
+    <string name="tm_current">Pašreizējais</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string name="tm_daily">"Katru dienu"</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string name="tm_fri">Pie</string>
+    <string name="tm_mon">Pirm</string>
+    <string name="tm_pm">PM</string>
+    <string name="tm_sat">Sest</string>
+    <string name="tm_sun">Svē</string>
+    <string name="tm_thu">Cet</string>
+    <string name="tm_today">Šodiena</string>
+    <string name="tm_tomorrow">Rītdiena</string>
+    <string name="tm_tue">Otr</string>
+    <string name="tm_wed">Tre</string>
+    <string name="tm_yesterday">Vakardiena</string>
+    <string name="total_title">Kopā</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string name="unremovable_warning_text">Nevar noņemt šo cilni</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string name="va_add">Pievienot</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string name="va_back">Atpakaļ</string>
+    <string name="va_call">Zvans</string>
+    <string name="va_cancel">Atcelt</string>
+    <string name="va_clear">Notīrīt</string>
+    <string name="va_close">Aizvērt</string>
+    <string name="va_copy">Kopēt</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string name="va_deselect_all">Noņemt atlasi visiem</string>
+    <string name="va_dismiss">Izbeigt</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string name="va_download">Lejupielādēt</string>
+    <string name="va_downloading">Lejupielādē</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string name="va_edit">Rediģēt</string>
+    <string name="va_edit_tabs">Rediģēt cilnes</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string name="va_finish">Beigt</string>
+    <string name="va_hide">Paslēpt</string>
+    <string name="va_move_above">Pārvietot uz augšu</string>
+    <string name="va_move_below">Pārvietot uz leju</string>
+    <string name="va_next">Tālāk</string>
+    <string name="va_ok">Labi</string>
+    <string name="va_open">Atvērt</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string name="va_rearrange">Pārkārtot</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string name="va_reset">Atiestatīt</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string name="va_select_all">Atlasīt visu</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string name="va_send_mail">Sūtīt pastu</string>
+    <string name="va_send_message">Sūtīt ziņu</string>
+    <string name="va_show_all">Rādīt visu</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/res/values-lv/strings.xml -->
+    <eat-comment/>
+    <string name="volume_button_setting_summary">Izvēlieties, ko darīs skaļuma pogas, kad tās nospiestas trauksmes laikā</string>
+    <string name="volume_button_setting_title">Skaļuma pogu opcijas</string>
+    <string name="weather_high_indicator">A:</string>
+    <string name="weather_low_indicator">Z:</string>
+    <string name="world_clock_caption">Pasaules pulkstenis</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1/HtcCalendarFramwork/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string name="yearly_plain">Katru gadu</string>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/app/packages/apps/WorldClock/build/intermediates/exploded-aar/WorldClock.............hdk.htc.lib1.HtcCommonControl/htccommoncontrol/unspecified/res/values-lv/values-lv.xml -->
+    <eat-comment/>
+    <string name="yes">Jā</string>
+</resources>

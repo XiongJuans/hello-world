@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="googleplay_title">HTC sat</string><!--HTC Clock-->
+    <string name="googleplay_whatsnew">- Alarmi se postepeno pojačavaju\n- Ispravke grešaka i poboljšanja performansi</string><!---/ Alarms gradually get louder\n-/ Bug fixes and performance improvements-->
+	
+<!-- Description for Clock APP -->
+    <string name="googleplay_description_app">Bilo da se nalazite u Tajpeju u Tajvanu ili Marakešu u Maroku, HTC sat vam omogućava da proverite tačno vreme na trenutnoj lokaciji, kod kuće i u gradovima širom sveta. Neka vam moć upravljanja vremenom bude na dohvat ruke uz prilagodljive alarme, štopericu i tajmer. Podesite broj alarma po želji, promenite vreme odlaganja buđenja, izaberite zvuk koji se reprodukuje kada se alarm isključi i omogućite zvuk alarma čak i kad je vaš telefon u tihom režimu rada. Štoperica HTC sata je odlična za snimanje krugova tokom vežbanja, a tajmer je praktičan za kuvanje ili praćenje vremena koje se provede ispred televizora.</string><!--Whether you\'re in Taipei, Taiwan or Marrakech, Morocco, HTC Clock lets you check the time in your current location, at home and in cities around the world. Its customizable alarms, stopwatch and timer put the power of time management in your pocket, too. Set as many alarms as you like, change the snooze duration, choose the sound that plays when alarms go off and even make alarms sound when your phone is on silent. HTC Clock\'s stopwatch is great for recording laps while working out, and the timer is handy for cooking or monitoring time in front of the TV.-->
+<!-- Description for Clock SupportingScope -->
+	<string name="googleplay_description_supportingScope"></string>
+<!-- Description for Clock Legal -->
+    <string name="googleplay_description_legal">[googleplay_description_legal_common_1]</string>
+    <string name="googleplay_description_short">Pratite vreme pomoću HTC elegantne štoperice, tajmera, alarma i svetskog sata.</string><!--Keep track of time with HTC\'s sleek stopwatch, timer, alarm and world clock.-->
+</resources>
+

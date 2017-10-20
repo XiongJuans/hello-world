@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-et/arrays.xml -->
+    <eat-comment/>
+    <string-array name="repeat_by_nth_fri">
+        <item>igal esimesel reedel</item><!--on every first Friday-->
+        <item>igal teisel reedel</item><!--on every second Friday-->
+        <item>igal kolmandal reedel</item><!--on every third Friday-->
+        <item>igal neljandal reedel</item><!--on every fourth Friday-->
+        <item>igal viimasel reedel</item><!--on every last Friday-->
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>igal esimesel esmaspäeval</item><!--on every first Monday-->
+        <item>igal teisel esmaspäeval</item><!--on every second Monday-->
+        <item>igal kolmandal esmaspäeval</item><!--on every third Monday-->
+        <item>igal neljandal esmaspäeval</item><!--on every fourth Monday-->
+        <item>igal viimasel esmaspäeval</item><!--on every last Monday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>igal esimesel laupäeval</item><!--on every first Saturday-->
+        <item>igal teisel laupäeval</item><!--on every second Saturday-->
+        <item>igal kolmandal laupäeval</item><!--on every third Saturday-->
+        <item>igal neljandal laupäeval</item><!--on every fourth Saturday-->
+        <item>igal viimasel laupäeval</item><!--on every last Saturday-->
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>igal esimesel pühapäeval</item><!--on every first Sunday-->
+        <item>igal teisel pühapäeval</item><!--on every second Sunday-->
+        <item>igal kolmandal pühapäeval</item><!--on every third Sunday-->
+        <item>igal neljandal pühapäeval</item><!--on every fourth Sunday-->
+        <item>igal viimasel pühapäeval</item><!--on every last Sunday-->
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>igal esimesel neljapäeval</item><!--on every first Thursday-->
+        <item>igal teisel neljapäeval</item><!--on every second Thursday-->
+        <item>igal kolmandal neljapäeval</item><!--on every third Thursday-->
+        <item>igal neljandal neljapäeval</item><!--on every fourth Thursday-->
+        <item>igal viimasel neljapäeval</item><!--on every last Thursday-->
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>igal esimesel teisipäeval</item><!--on every first Tuesday-->
+        <item>igal teisel teisipäeval</item><!--on every second Tuesday-->
+        <item>igal kolmandal teisipäeval</item><!--on every third Tuesday-->
+        <item>igal neljandal teisipäeval</item><!--on every fourth Tuesday-->
+        <item>igal viimasel teisipäeval</item><!--on every last Tuesday-->
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>igal esimesel kolmapäeval</item><!--on every first Wednesday-->
+        <item>igal teisel kolmapäeval</item><!--on every second Wednesday-->
+        <item>igal kolmandal kolmapäeval</item><!--on every third Wednesday-->
+        <item>igal neljandal kolmapäeval</item><!--on every fourth Wednesday-->
+        <item>igal viimasel kolmapäeval</item><!--on every last Wednesday-->
+    </string-array>
+    <!-- From: file:/home/xiongjuan/code/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/WorldClock_app_apps_WorldClock_9.50_api23_ForO80/hdk/htc/lib1/HtcCalendarFramwork/res/values-et/strings.xml -->
+    <eat-comment/>
+    <plurals name="endByCount">
+        <item quantity="one">üks kord</item><!--one time-->
+        <item quantity="other"><ns1:g id="number">%d</ns1:g> korda</item><!--<xliff:g id="number">%d</xliff:g> times-->
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one"><ns1:g id="count">%d</ns1:g> päeva tagant</item><!--Every <xliff:g id="count">%d</xliff:g> day-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other"><ns1:g id="count">%d</ns1:g> päeva tagant</item><!--Every <xliff:g id="count">%d</xliff:g> days-->
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one"><ns1:g id="count">%d</ns1:g> kuu tagant</item><!--Every <xliff:g id="count">%d</xliff:g> month-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other"><ns1:g id="count">%d</ns1:g> kuu tagant</item><!--Every <xliff:g id="count">%d</xliff:g> months-->
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one"><ns1:g id="count">%d</ns1:g> nädala tagant</item><!--Every <xliff:g id="count">%d</xliff:g> week-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other"><ns1:g id="count">%d</ns1:g> nädala tagant</item><!--Every <xliff:g id="count">%d</xliff:g> weeks-->
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+<!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one"><ns1:g id="count">%d</ns1:g> aasta tagant</item><!--Every <xliff:g id="count">%d</xliff:g> year-->
+<!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other"><ns1:g id="count">%d</ns1:g> aasta tagant</item><!--Every <xliff:g id="count">%d</xliff:g> years-->
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">Iga nädal: <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Weekly on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+        <item quantity="other">Iga <ns1:g id="number">%1$d</ns1:g> nädala järel: <ns1:g id="days_of_week">%2$s</ns1:g></item><!--Every <xliff:g id="number">%1$d</xliff:g> weeks on <xliff:g id="days_of_week">%2$s</xliff:g>-->
+    </plurals>
+    <string name="every_weekday">"Igal argipäeval (E\u2013R)"</string>
+    <string name="monthly">Iga kuu</string>
+    <string name="monthly_on_day_count">"Iga kuu (iga <ns1:g id="ordinal_number">%1$s</ns1:g> <ns1:g id="day_of_week">%2$s</ns1:g>)"</string>
+    <string name="tm_daily">"Iga päev"</string>
+    <string name="yearly_plain">Iga aasta</string>
+</resources>

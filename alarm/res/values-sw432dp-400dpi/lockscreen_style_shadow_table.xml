@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <item name="lockscreen_01_shadowSize" type="dimen">3.3</item>
+    <item name="lockscreen_01_shadowDy" type="dimen">2.5</item>
+    <item name="lockscreen_02_shadowSize" type="dimen">3.3</item>
+    <item name="lockscreen_02_shadowDy" type="dimen">2.5</item>
+    <item name="lockscreen_03_shadowSize" type="dimen">3.3</item>
+    <item name="lockscreen_03_shadowDy" type="dimen">2.5</item>
+    <item name="lockscreen_04_shadowSize" type="dimen">3.3</item>
+    <item name="lockscreen_04_shadowDy" type="dimen">2.5</item>
+    <item name="lockscreen_15_shadowSize" type="dimen">3.3</item>
+    <item name="lockscreen_15_shadowDy" type="dimen">2.5</item>
+    <item name="lockscreen_16_shadowSize" type="dimen">3.3</item>
+    <item name="lockscreen_16_shadowDy" type="dimen">2.5</item>
+    <item name="lockscreen_17_shadowSize" type="dimen">3.3</item>
+    <item name="lockscreen_17_shadowDy" type="dimen">2.5</item>
+    <item name="lockscreen_18_shadowSize" type="dimen">3.3</item>
+    <item name="lockscreen_18_shadowDy" type="dimen">2.5</item>
+    <item name="lockscreen_19_shadowSize" type="dimen">3.3</item>
+    <item name="lockscreen_19_shadowDy" type="dimen">2.5</item>
+    <item name="lockscreen_20_shadowSize" type="dimen">3.3</item>
+    <item name="lockscreen_20_shadowDy" type="dimen">2.5</item>
+</resources>

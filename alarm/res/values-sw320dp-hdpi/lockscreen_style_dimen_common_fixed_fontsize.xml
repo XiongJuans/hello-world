@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <dimen name="fixed_lockscreen_01">21px</dimen>
+    <dimen name="fixed_lockscreen_03">22px</dimen>
+    <dimen name="fixed_lockscreen_04">30px</dimen>
+    <dimen name="fixed_lockscreen_05">18px</dimen>
+    <dimen name="fixed_lockscreen_06">20px</dimen>
+    <dimen name="fixed_lockscreen_07">18px</dimen>
+    <dimen name="fixed_lockscreen_08">45px</dimen>
+    <dimen name="fixed_lockscreen_09">12dp</dimen><!--18px-->
+    <dimen name="fixed_lockscreen_10">27.3dp</dimen><!--41px-->
+    <dimen name="fixed_lockscreen_11">15.3dp</dimen><!--23px-->
+    <dimen name="fixed_lockscreen_12">16dp</dimen><!--24px-->
+    <dimen name="fixed_lockscreen_13">21px</dimen>
+    <dimen name="fixed_lockscreen_14">36px</dimen>
+    <dimen name="fixed_lockscreen_15">22px</dimen>
+    <dimen name="fixed_lockscreen_16">20px</dimen>
+    <dimen name="fixed_lockscreen_17">20px</dimen>
+    <dimen name="fixed_lockscreen_18">12px</dimen>
+    <dimen name="fixed_lockscreen_19">17px</dimen>
+    <dimen name="fixed_lockscreen_20">23px</dimen>
+    <dimen name="fixed_lockscreen_21">18px</dimen>
+</resources>
